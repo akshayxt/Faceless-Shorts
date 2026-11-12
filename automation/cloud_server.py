@@ -27,6 +27,13 @@ from cloud_autopilot import _queue_counts, run_autopilot
 from github_sync import pull_state_files, push_changed_files
 from refresh_dashboard import main as refresh_dashboards
 from repo_paths import AUTO_DIR
+from telegram_bot import (
+    _dispatch_message,
+    build_dashboard_view,
+    handle_webhook_update,
+    register_telegram_bot,
+    verify_webhook_header,
+)
 
 IST = timezone(timedelta(hours=5, minutes=30))
 DASHBOARD_HTML = AUTO_DIR / "dashboard.html"
@@ -48,7 +55,18 @@ def _now_ist() -> str:
     return datetime.now(IST).strftime("%Y-%m-%d %H:%M:%S IST")
 
 
-def _execute_cycle(max_uploads: int = 10, dry_run: bool = False, sync_only: bool = False) -> dict:
+def _get_state_snapshot() -> dict:
+    with _STATE_LOCK:
+        return dict(_STATE)
+
+
+def _execute_cycle(
+    max_uploads: int = 10,
+    dry_run: bool = False,
+    sync_only: bool = False,
+    skip_seo: bool = False,
+    reply_chat_id: int | str | None = None,
+) -> dict:
     """Pull state from GitHub, run cloud autopilot, and push changed files back atomically."""
     if not _RUN_LOCK.acquire(blocking=False):
         return {"started": False, "reason": "already_running"}
@@ -70,6 +88,7 @@ def _execute_cycle(max_uploads: int = 10, dry_run: bool = False, sync_only: bool
             max_uploads=max_uploads,
             dry_run=dry_run,
             sync_only=sync_only,
+            skip_seo=skip_seo,
             notify=not dry_run,
         )
         if not dry_run:
@@ -88,7 +107,38 @@ def _execute_cycle(max_uploads: int = 10, dry_run: bool = False, sync_only: bool
             _STATE["runs_completed"] += 1
         _RUN_LOCK.release()
 
+    if reply_chat_id and not dry_run:
+        try:
+            text, kb = build_dashboard_view(_get_state_snapshot())
+            _dispatch_message(reply_chat_id, f"✅ <b>Cloud job finished</b> (exit={rc})\n\n{text}", kb)
+        except Exception as exc:
+            print(f"TELEGRAM_COMPLETION_WARN: {exc}", flush=True)
+
     return {"started": True, "exit_code": rc, "pull": pull_res, "push": push_res, "error": err_msg}
+
+
+def _trigger_async_cycle(
+    max_uploads: int = 10,
+    dry_run: bool = False,
+    sync_only: bool = False,
+    skip_seo: bool = False,
+    reply_chat_id: int | str | None = None,
+) -> dict:
+    with _STATE_LOCK:
+        if _STATE["running"]:
+            return {"started": False, "reason": "already_running"}
+    threading.Thread(
+        target=_execute_cycle,
+        kwargs={
+            "max_uploads": max_uploads,
+            "dry_run": dry_run,
+            "sync_only": sync_only,
+            "skip_seo": skip_seo,
+            "reply_chat_id": reply_chat_id,
+        },
+        daemon=True,
+    ).start()
+    return {"started": True}
 
 
 def _is_authorized(handler: http.server.BaseHTTPRequestHandler, query: dict[str, list[str]]) -> tuple[bool, int, str]:
@@ -131,15 +181,42 @@ class CloudAutopilotHandler(http.server.BaseHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(raw)
 
-    def _handle_request(self) -> None:
+    def _handle_request(self, body_bytes: bytes = b"") -> None:
         parsed = urllib.parse.urlparse(self.path)
         route = parsed.path.rstrip("/") or "/"
         query = urllib.parse.parse_qs(parsed.query)
 
+        if route == "/telegram/webhook":
+            if self.command != "POST":
+                self._send_json(405, {"error": "Method not allowed"})
+                return
+            if not verify_webhook_header(self.headers):
+                self._send_json(401, {"error": "Invalid webhook secret"})
+                return
+            try:
+                update = json.loads(body_bytes.decode("utf-8", errors="replace") or "{}")
+            except Exception:
+                self._send_json(400, {"error": "Invalid JSON"})
+                return
+            threading.Thread(
+                target=handle_webhook_update,
+                args=(update, _get_state_snapshot, _trigger_async_cycle, push_changed_files),
+                daemon=True,
+            ).start()
+            self._send_json(200, {"ok": True})
+            return
+
+        if route == "/setup-bot":
+            ok, code, msg = _is_authorized(self, query)
+            if not ok:
+                self._send_json(code, {"error": msg})
+                return
+            self._send_json(200, register_telegram_bot())
+            return
+
         if route in ("/", "/health", "/status"):
             done, ready, total, nxt = _queue_counts()
-            with _STATE_LOCK:
-                snap = dict(_STATE)
+            snap = _get_state_snapshot()
             self._send_json(
                 200,
                 {
@@ -175,9 +252,7 @@ class CloudAutopilotHandler(http.server.BaseHTTPRequestHandler):
             sync_only = (query.get("sync_only") or ["0"])[0].lower() in ("1", "true", "yes")
             blocking = (query.get("blocking") or ["0"])[0].lower() in ("1", "true", "yes")
 
-            with _STATE_LOCK:
-                already = bool(_STATE["running"])
-            if already:
+            if _get_state_snapshot().get("running"):
                 self._send_json(200, {"status": "already_running", "started": False})
                 return
 
@@ -186,11 +261,10 @@ class CloudAutopilotHandler(http.server.BaseHTTPRequestHandler):
                 self._send_json(200, {"status": "completed", **res})
                 return
 
-            threading.Thread(
-                target=_execute_cycle,
-                kwargs={"max_uploads": max_uploads, "dry_run": dry_run, "sync_only": sync_only},
-                daemon=True,
-            ).start()
+            trig = _trigger_async_cycle(max_uploads=max_uploads, dry_run=dry_run, sync_only=sync_only)
+            if not trig.get("started"):
+                self._send_json(200, {"status": "already_running", "started": False})
+                return
             self._send_json(202, {"status": "accepted", "started": True, "max_uploads": max_uploads, "sync_only": sync_only, "dry_run": dry_run})
             return
 
@@ -201,9 +275,8 @@ class CloudAutopilotHandler(http.server.BaseHTTPRequestHandler):
 
     def do_POST(self):
         length = int(self.headers.get("Content-Length") or "0")
-        if length > 0:
-            _ = self.rfile.read(min(length, 65536))
-        self._handle_request()
+        body = self.rfile.read(min(max(length, 0), 524288)) if length > 0 else b""
+        self._handle_request(body_bytes=body)
 
 
 def _internal_scheduler(interval_hours: float) -> None:
@@ -222,6 +295,11 @@ def _startup_sync() -> None:
         if res.get("pulled"):
             print(f"STARTUP_GITHUB_PULL: {res['pulled']}", flush=True)
         refresh_dashboards()
+        bot_res = register_telegram_bot()
+        print(
+            f"TELEGRAM_BOT_REGISTERED ok={bot_res.get('ok')} username=@{bot_res.get('bot_username')}",
+            flush=True,
+        )
     except Exception as exc:
         print(f"STARTUP_SYNC_WARN: {exc}", flush=True)
 

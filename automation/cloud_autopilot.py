@@ -29,6 +29,7 @@ from zapier_asset_server import mark_uploaded
 UPLOAD_Q = AUTO_DIR / "data" / "upload_queue.json"
 TOPIC_Q = AUTO_DIR / "data" / "30day_topic_queue.json"
 CHANNEL_CFG = AUTO_DIR / "data" / "channel_config.json"
+BOT_SETTINGS = AUTO_DIR / "data" / "bot_settings.json"
 PAUSE_SENTINEL = AUTO_DIR / "logs" / "PAUSE_UPLOADS"
 IST = timezone(timedelta(hours=5, minutes=30))
 
@@ -496,6 +497,17 @@ def _queue_counts() -> tuple[int, int, int, str]:
     return done, ready, total, nxt
 
 
+def _is_uploads_paused() -> bool:
+    if PAUSE_SENTINEL.exists():
+        return True
+    if BOT_SETTINGS.exists():
+        try:
+            return bool(json.loads(BOT_SETTINGS.read_text(encoding="utf-8")).get("paused", False))
+        except Exception:
+            return False
+    return False
+
+
 def run_autopilot(
     max_uploads: int = 10,
     dry_run: bool = False,
@@ -505,13 +517,10 @@ def run_autopilot(
     repo: str | None = None,
     branch: str | None = None,
 ) -> int:
-    if PAUSE_SENTINEL.exists() and not dry_run:
-        print("CLOUD_AUTOPILOT_PAUSED: PAUSE_UPLOADS sentinel exists.", flush=True)
-        return 0
-
+    paused = _is_uploads_paused() and not dry_run
     now_ist = datetime.now(IST).strftime("%Y-%m-%d %H:%M:%S IST")
     seo_refreshed = 0
-    if not skip_seo and not sync_only:
+    if not skip_seo:
         res_list = refresh_queue(target_id=None, force=False)
         seo_refreshed = len(res_list)
 
@@ -524,7 +533,7 @@ def run_autopilot(
     reconciled: list[str] = []
     throttled = False
     uploaded: list[str] = []
-    note = ""
+    note = "Auto-uploads paused via /pause (use /resume to re-enable)" if paused else ""
 
     if zapier_token:
         client = ZapierMcpClient(zapier_token, mcp_url=mcp_url)
@@ -546,7 +555,7 @@ def run_autopilot(
     ]
 
     exit_code = 0
-    if not sync_only and pending:
+    if not sync_only and not paused and pending:
         if has_direct_oauth and not dry_run:
             print(f"UPLOAD_ENGINE=youtube_direct_api pending={len(pending)}", flush=True)
             uploaded, direct_note = _upload_via_direct_api(pending, max_uploads=max_uploads, dry_run=dry_run)

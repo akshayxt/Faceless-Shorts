@@ -20,6 +20,7 @@ PULL_PATHS = (
     "automation/data/upload_queue.json",
     "automation/data/30day_topic_queue.json",
     "automation/data/growth_tracker.json",
+    "automation/data/bot_settings.json",
 )
 
 
@@ -82,6 +83,7 @@ def _candidate_sync_paths() -> list[Path]:
         AUTO_DIR / "data" / "upload_queue.json",
         AUTO_DIR / "data" / "30day_topic_queue.json",
         AUTO_DIR / "data" / "growth_tracker.json",
+        AUTO_DIR / "data" / "bot_settings.json",
         AUTO_DIR / "dashboard.html",
         AUTO_DIR / "growth_dashboard.md",
     ]
