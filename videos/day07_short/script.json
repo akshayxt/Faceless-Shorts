@@ -1,0 +1,52 @@
+{
+  "title": "Small vs Tall Fall: Why Cats ALWAYS Land on Their Feet!",
+  "thumb_text": "CAT FLIP SECRET!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://www.britannica.com/story/how-do-cats-always-land-on-their-feet",
+    "https://kids.nationalgeographic.com/animals/mammals/facts/domestic-cat"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Small vs Tall Fall: Why Cats ALWAYS Land on Their Feet!",
+      "caps": "Wait! *SMALL vs | *TALL Fall: Why | Cats *ALWAYS Land | on *THEIR Feet!"
+    },
+    {
+      "text": "Most kids guess totally wrong about how cats always land on their feet!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | how cats *ALWAYS | land on *THEIR | *FEET!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Cats use a flexible spine, missing rigid collarbones, and inner-ear balance.",
+      "caps": "*CATS use a | *FLEXIBLE spine, missing | rigid *COLLARBONES, and | *INNER-EAR balance."
+    },
+    {
+      "text": "to twist their front paws first and back paws second mid-air.",
+      "caps": "to *TWIST their | *FRONT paws first | and *BACK paws | *SECOND mid-air."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Cat Flip Secret!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Cat Flip | *SECRET!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

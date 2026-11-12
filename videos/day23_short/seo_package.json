@@ -1,0 +1,121 @@
+{
+  "topic_id": "day23",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "How 1 Fluffy Cloud Weighs as Much as 100 Elephants!",
+      "chars": 51,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"How 1 Fluffy Cloud Weighs as Much as...\" - check the subject survives"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on 100, cloud - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "How 1 Fluffy Cloud Weighs as Much as 100 Elephants!",
+  "selected_title_lint": {
+    "title": "How 1 Fluffy Cloud Weighs as Much as 100 Elephants!",
+    "chars": 51,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"How 1 Fluffy Cloud Weighs as Much as...\" - check the subject survives"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on 100, cloud - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "51 characters, inside the 60-character desktop cut",
+      "carries a concrete figure (1, 100)"
+    ]
+  },
+  "thumb_text": "100 ELEPHANT CLOUD!",
+  "hook_lint": {
+    "hook": "One fluffy white cloud weighs as much as 100 elephants—why doesn't it splat on us?",
+    "properties": {
+      "SPECIFICITY": 56,
+      "ADDRESS": 26,
+      "STAKES": 36,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 44,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "why do clouds float for kids",
+  "supporting_keywords": [
+    "how much does a cloud weigh kids",
+    "weather science cartoon"
+  ],
+  "target_search_queries": [
+    "why do clouds float for kids",
+    "why do clouds float",
+    "why do clouds float in the sky",
+    "why do clouds move"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-12T09:55:40.659361+05:30",
+    "live_yt_suggest_queries": [
+      "why do clouds float",
+      "why do clouds float in the sky",
+      "why do clouds move",
+      "why does clouds move"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "How 1 Fluffy Cloud Weighs as Much as 100 Elephants! — One fluffy white cloud weighs as much as 100 elephants—why doesn't it splat on us?\nKids science answer for \"why do clouds float for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nA fluffy cumulus cloud holds huge water weight spread over trillions of microscopic droplets that rise easily on warm air currents.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- why do clouds float\n- why do clouds float in the sky\n- why do clouds move\n- why does clouds move\n\nSources & Fact Check:\n- https://www.usgs.gov/special-topics/water-science-school/science/how-much-does-a-cloud-weigh\n- https://climatekids.nasa.gov/cloud-formation/\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "why do clouds float",
+    "why do clouds float in the sky",
+    "why do clouds move",
+    "why does clouds move",
+    "why do clouds float for kids",
+    "how much does a cloud weigh kids",
+    "weather science cartoon",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

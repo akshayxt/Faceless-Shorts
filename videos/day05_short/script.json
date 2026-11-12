@@ -1,0 +1,52 @@
+{
+  "title": "Why the Daytime Sky Turns Blue (Not Purple)! | Space Kids",
+  "thumb_text": "WHY BLUE SKY?",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://spaceplace.nasa.gov/blue-sky/en/",
+    "https://www.britannica.com/science/Rayleigh-scattering"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Why the Daytime Sky Turns Blue (Not Purple)!",
+      "caps": "*WAIT! Why the | *DAYTIME Sky Turns | Blue (Not *PURPLE)!"
+    },
+    {
+      "text": "Most kids guess totally wrong about why is the sky blue!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | *WHY is the | sky *BLUE!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Sunlight carries every rainbow color.",
+      "caps": "*SUNLIGHT carries every | *RAINBOW color."
+    },
+    {
+      "text": "shorter blue light waves bounce off tiny air.",
+      "caps": "*SHORTER blue light | waves *BOUNCE off | *TINY air."
+    },
+    {
+      "text": "molecules across the sky far more than red waves.",
+      "caps": "*MOLECULES across the | sky far *MORE | than red *WAVES."
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Why Blue Sky!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Why Blue | *SKY!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

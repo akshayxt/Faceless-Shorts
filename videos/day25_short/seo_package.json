@@ -1,0 +1,132 @@
+{
+  "topic_id": "day25",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "How Sharing 1 Candy Turned Into 4 Treats!",
+      "chars": 41,
+      "score": 98,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"How Sharing 1 Candy Turned Into 4...\" - check the subject survives"
+        ]
+      ]
+    },
+    {
+      "title": "How Sharing 1 Candy Turned Into 4 Treats! | Story",
+      "chars": 49,
+      "score": 98,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"How Sharing 1 Candy Turned Into 4...\" - check the subject survives"
+        ]
+      ]
+    },
+    {
+      "title": "How Sharing 1 Candy Turned Into 4 Treats! #Shorts",
+      "chars": 49,
+      "score": 98,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"How Sharing 1 Candy Turned Into 4...\" - check the subject survives"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "How Sharing 1 Candy Turned Into 4 Treats!",
+  "selected_title_lint": {
+    "title": "How Sharing 1 Candy Turned Into 4 Treats!",
+    "chars": 41,
+    "score": 98,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"How Sharing 1 Candy Turned Into 4...\" - check the subject survives"
+      ]
+    ],
+    "good": [
+      "41 characters, inside the 60-character desktop cut",
+      "carries a concrete figure (1, 4)",
+      "thumbnail and title carry different words"
+    ]
+  },
+  "thumb_text": "KINDNESS MATH!",
+  "hook_lint": {
+    "hook": "Leo started with 2 lonely candies—so how did his basket end up with 4 treats?",
+    "properties": {
+      "SPECIFICITY": 73,
+      "ADDRESS": 26,
+      "STAKES": 36,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 46,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "sharing kindness story cartoon for kids",
+  "supporting_keywords": [
+    "animated moral story kids",
+    "leo and rhymo kindness"
+  ],
+  "target_search_queries": [
+    "sharing kindness story cartoon for kids",
+    "sharing and kindness story",
+    "animated moral stories for kids+free download",
+    "animated moral story kids"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-12T09:55:40.659361+05:30",
+    "live_yt_suggest_queries": [
+      "sharing and kindness story",
+      "animated moral stories for kids+free download"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "How Sharing 1 Candy Turned Into 4 Treats! — Leo started with 2 lonely candies—so how did his basket end up with 4 treats?\nKids science answer for \"sharing kindness story cartoon for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nFunny animated fable showing how sharing small kindness multiplies friendships and surprises everyone with teamwork.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- sharing and kindness story\n- animated moral stories for kids+free download\n\nSources & Fact Check:\n- https://www.unicef.org/parenting/child-development/teaching-kids-kindness\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "sharing and kindness story",
+    "animated moral stories for kids+free download",
+    "sharing kindness story cartoon for kids",
+    "animated moral story kids",
+    "leo and rhymo kindness",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

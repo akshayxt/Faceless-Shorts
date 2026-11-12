@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "bot_token": "6575470408:AAEto64k2ckIpBM3rHJySaYR9Do4JEw-Yvs",
+  "chat_id": "-1001997761568",
+  "max_chars_per_message": 3500,
+  "flush_interval_sec": 4.0,
+  "timezone": "IST"
+}

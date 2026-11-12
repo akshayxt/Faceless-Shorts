@@ -1,0 +1,52 @@
+{
+  "title": "Why Goosebumps Pop Up During Awesome Music!",
+  "thumb_text": "TINY HAIR MUSCLES!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org/en/kids/goosebumps.html",
+    "https://www.britannica.com/science/goose-bumps"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Why Goosebumps Pop Up During Awesome Music!",
+      "caps": "Wait! Why *GOOSEBUMPS | Pop Up *DURING | *AWESOME Music!"
+    },
+    {
+      "text": "Most kids guess totally wrong about what causes goosebumps!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | what causes *GOOSEBUMPS!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Tiny muscles under each hair tighten from cold air or big.",
+      "caps": "Tiny *MUSCLES under | each hair *TIGHTEN | *FROM cold air | or *BIG."
+    },
+    {
+      "text": "excitement, a leftover reflex from fluffy mammals puffing up fur for warmth.",
+      "caps": "*EXCITEMENT, a leftover | *REFLEX from fluffy | *MAMMALS puffing up | fur for *WARMTH."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Tiny Hair Muscles!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Tiny Hair | *MUSCLES!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

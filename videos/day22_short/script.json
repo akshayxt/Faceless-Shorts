@@ -1,0 +1,52 @@
+{
+  "title": "Are Bats Actually Blind Like Movies Claim? | Truth",
+  "thumb_text": "BAT SOUND RADAR!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://www.usgs.gov/faqs/are-bats-blind",
+    "https://kids.nationalgeographic.com/animals/mammals/facts/vampire-bat"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Are Bats Actually Blind Like Movies Claim!",
+      "caps": "*WAIT! Are Bats | *ACTUALLY Blind Like | *MOVIES Claim!"
+    },
+    {
+      "text": "Most kids guess totally wrong about are bats blind!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | are bats *BLIND!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Bats are not blind—many see very well—and bats also.",
+      "caps": "*BATS are not | *BLIND—MANY see very | *WELL—AND bats also."
+    },
+    {
+      "text": "bounce high-pitched sound echoes off insects in pitch-dark skies.",
+      "caps": "bounce *HIGH-PITCHED sound | echoes off *INSECTS | in *PITCH-DARK skies."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Bat Sound Radar!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Bat Sound | *RADAR!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "title": "What Causes Sudden Hiccups Inside Your Belly! | Body Lab",
+  "thumb_text": "HICCUP TRICK!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org/en/kids/hiccup.html",
+    "https://my.clevelandclinic.org/health/diseases/17672-hiccups"
+  ],
+  "lines": [
+    {
+      "text": "Wait! What Causes Sudden Hiccups Inside Your Belly!",
+      "caps": "Wait! What *CAUSES | Sudden *HICCUPS Inside | Your *BELLY!"
+    },
+    {
+      "text": "Most kids guess totally wrong about what causes hiccups!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | what causes *HICCUPS!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "A hiccup is a sudden spasm of the diaphragm muscle under your.",
+      "caps": "A *HICCUP is | a *SUDDEN spasm | of the *DIAPHRAGM | *MUSCLE under your."
+    },
+    {
+      "text": "lungs that pulls air in fast and snaps your vocal cords shut.",
+      "caps": "*LUNGS that pulls | air in *FAST | and *SNAPS your | *VOCAL cords shut."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Hiccup Trick!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Hiccup Trick!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

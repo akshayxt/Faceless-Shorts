@@ -1,0 +1,184 @@
+{
+  "topic_id": "day10",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Why Brush Teeth at Night?",
+      "chars": 25,
+      "score": 98,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Why Brush Teeth at Night? #Shorts",
+      "chars": 33,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Why It's Important to Brush Your Teeth at Night?",
+      "chars": 48,
+      "score": 84,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why It's Important to Brush Your Teeth...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "The Night Leo Skipped Brushing His Teeth (Cartoon!)",
+      "chars": 51,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"The Night Leo Skipped Brushing His...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Why It's Important to Brush Your Teeth at Night? #Shorts",
+      "chars": 56,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why It's Important to Brush Your Teeth...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "The Night Leo Skipped Brushing His Teeth (Cartoon!) #Shorts",
+      "chars": 59,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"The Night Leo Skipped Brushing His...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Why Brush Teeth at Night?",
+  "selected_title_lint": {
+    "title": "Why Brush Teeth at Night?",
+    "chars": 25,
+    "score": 98,
+    "issues": [
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ]
+    ]
+  },
+  "thumb_text": "SUGAR BUG PARTY!",
+  "hook_lint": {
+    "hook": "You ate 3 gummies before bed and skipped brushing—look who wakes up at 2 AM!",
+    "properties": {
+      "SPECIFICITY": 84,
+      "ADDRESS": 76,
+      "STAKES": 62,
+      "CURIOSITY": 41,
+      "BREVITY": 100
+    },
+    "verdict": 60,
+    "band": "WORKABLE",
+    "formula": "Unclassified",
+    "matched": 0
+  },
+  "primary_keyword": "why brush teeth at night for kids",
+  "supporting_keywords": [
+    "sugar bugs teeth cartoon",
+    "dental habits kids animation",
+    "healthy habits story"
+  ],
+  "target_search_queries": [
+    "why brush teeth at night for kids",
+    "why brush teeth at night",
+    "why it's important to brush your teeth at night",
+    "science facts for kids"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-12T09:55:40.659361+05:30",
+    "live_yt_suggest_queries": [
+      "why brush teeth at night",
+      "why it's important to brush your teeth at night",
+      "science facts for kids",
+      "interesting science facts for kids",
+      "science facts for toddlers",
+      "titanic facts for kids-science facts"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "Why Brush Teeth at Night? — You ate 3 gummies before bed and skipped brushing—look who wakes up at 2 AM!\nKids science answer for \"why brush teeth at night for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nSaliva slows down at bedtime while mouth bacteria eat leftover sugar and release acid that slowly wears away strong tooth enamel.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- why brush teeth at night\n- why it's important to brush your teeth at night\n- science facts for kids\n- interesting science facts for kids\n- science facts for toddlers\n\nSources & Fact Check:\n- https://kidshealth.org/en/kids/teeth-care.html\n- https://www.nidcr.nih.gov/health-info/tooth-decay\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "why brush teeth at night",
+    "science facts for kids",
+    "interesting science facts for kids",
+    "science facts for toddlers",
+    "titanic facts for kids-science facts",
+    "why brush teeth at night for kids",
+    "sugar bugs teeth cartoon",
+    "dental habits kids animation",
+    "healthy habits story",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

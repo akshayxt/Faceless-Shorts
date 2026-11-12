@@ -1,0 +1,52 @@
+{
+  "title": "Why Strong Stomach Acid Doesn't Melt Your Own Tummy!",
+  "thumb_text": "MUCUS SUPER SHIELD!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org/en/kids/digestive-system.html",
+    "https://www.britannica.com/science/stomach"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Why Strong Stomach Acid Doesn't Melt Your Own Tummy!",
+      "caps": "Wait! Why *STRONG | *STOMACH Acid Doesn't | *MELT Your Own | *TUMMY!"
+    },
+    {
+      "text": "Most kids guess totally wrong about why stomach acid doesnt digest stomach!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | why *STOMACH acid | doesnt digest *STOMACH!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Your tummy makes strong acid to break down pizza, while special lining.",
+      "caps": "Your *TUMMY makes | *STRONG acid to | *BREAK down pizza, | while *SPECIAL lining."
+    },
+    {
+      "text": "cells paint a slippery mucus shield and rebuild fast every few days.",
+      "caps": "*CELLS paint a | *SLIPPERY mucus shield | and *REBUILD fast | *EVERY few days."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Mucus Super Shield!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Mucus Super | *SHIELD!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

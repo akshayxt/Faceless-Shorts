@@ -1,0 +1,154 @@
+{
+  "topic_id": "day22",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Are Bats Actually Blind Like Movies Claim?",
+      "chars": 42,
+      "score": 84,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Are Bats Actually Blind Like Movies...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Are Bats Actually Blind Like Movies Claim? | Truth",
+      "chars": 50,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Are Bats Actually Blind Like Movies...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Are Bats Actually Blind Like Movies Claim? #Shorts",
+      "chars": 50,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Are Bats Actually Blind Like Movies...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Are Bats Actually Blind Like Movies Claim?",
+  "selected_title_lint": {
+    "title": "Are Bats Actually Blind Like Movies Claim?",
+    "chars": 42,
+    "score": 84,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Are Bats Actually Blind Like Movies...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ]
+    ],
+    "good": [
+      "42 characters, inside the 60-character desktop cut",
+      "open question in the title",
+      "thumbnail and title carry different words"
+    ]
+  },
+  "thumb_text": "BAT SOUND RADAR!",
+  "hook_lint": {
+    "hook": "Blind as a bat? Wrong! Bats see fine AND paint pictures in the dark using sound!",
+    "properties": {
+      "SPECIFICITY": 52,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 24,
+      "BREVITY": 100
+    },
+    "verdict": 36,
+    "band": "WEAK",
+    "formula": "Unclassified",
+    "matched": 0
+  },
+  "primary_keyword": "are bats blind myth for kids",
+  "supporting_keywords": [
+    "bat echolocation cartoon kids",
+    "night animal facts"
+  ],
+  "target_search_queries": [
+    "are bats blind myth for kids",
+    "nocturnal animal facts",
+    "science facts for kids",
+    "interesting science facts for kids"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-12T09:55:40.659361+05:30",
+    "live_yt_suggest_queries": [
+      "nocturnal animal facts",
+      "science facts for kids",
+      "interesting science facts for kids",
+      "science facts for toddlers",
+      "titanic facts for kids-science facts"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "Are Bats Actually Blind Like Movies Claim? — Blind as a bat? Wrong! Bats see fine AND paint pictures in the dark using sound!\nKids science answer for \"are bats blind myth for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nBats are not blind—many see very well—and bats also bounce high-pitched sound echoes off insects in pitch-dark skies.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- nocturnal animal facts\n- science facts for kids\n- interesting science facts for kids\n- science facts for toddlers\n- titanic facts for kids-science facts\n\nSources & Fact Check:\n- https://www.usgs.gov/faqs/are-bats-blind\n- https://kids.nationalgeographic.com/animals/mammals/facts/vampire-bat\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "nocturnal animal facts",
+    "science facts for kids",
+    "interesting science facts for kids",
+    "science facts for toddlers",
+    "titanic facts for kids-science facts",
+    "are bats blind myth for kids",
+    "bat echolocation cartoon kids",
+    "night animal facts",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "60,000 Miles of Blood Pipes Hidden Inside 1 Kid!",
+  "thumb_text": "60,000 MILES INSIDE!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://www.fi.edu/en/heart/blood-vessels",
+    "https://kidshealth.org/en/kids/heart.html"
+  ],
+  "lines": [
+    {
+      "text": "Wait! 60,000 Miles of Blood Pipes Hidden Inside 1 Kid!",
+      "caps": "Wait! *60,000 Miles | of *BLOOD Pipes | *HIDDEN Inside 1 | *KID!"
+    },
+    {
+      "text": "Most kids guess totally wrong about blood vessels length inside human body!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | blood *VESSELS length | *INSIDE human body!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "A child has roughly 60,000 miles of arteries, veins, and.",
+      "caps": "A *CHILD has | *ROUGHLY 60,000 miles | of *ARTERIES, veins, | *AND."
+    },
+    {
+      "text": "tiny capillaries carrying oxygen nonstop—long enough to wrap around Earth twice!.",
+      "caps": "tiny *CAPILLARIES carrying | oxygen *NONSTOP—LONG enough | to wrap *AROUND | *EARTH twice!."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind 60,000 Miles Inside!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND 60,000 Miles | *INSIDE!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

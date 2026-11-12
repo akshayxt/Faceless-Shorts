@@ -1,0 +1,61 @@
+{
+ "duration": 32.376,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Wait! Swallowed Watermelon Seeds? The 5-Second Belly Truth!",
+   "start": 0.35,
+   "end": 4.368
+  },
+  {
+   "i": 1,
+   "text": "Most kids guess totally wrong about swallowing watermelon seeds!",
+   "start": 4.618,
+   "end": 8.311
+  },
+  {
+   "i": 2,
+   "text": "Stop and picture what actually happens inside.",
+   "start": 8.561,
+   "end": 11.367
+  },
+  {
+   "i": 3,
+   "text": "Stomach gastric acid breaks down food.",
+   "start": 11.617,
+   "end": 14.111
+  },
+  {
+   "i": 4,
+   "text": "while seed shells pass safely through digestion.",
+   "start": 14.361,
+   "end": 17.099
+  },
+  {
+   "i": 5,
+   "text": "seeds need soil, water, and sunlight.",
+   "start": 17.349,
+   "end": 19.695
+  },
+  {
+   "i": 6,
+   "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+   "start": 19.945,
+   "end": 24.071
+  },
+  {
+   "i": 7,
+   "text": "Now you know the real truth behind Belly Tree Myth!",
+   "start": 24.321,
+   "end": 27.1
+  },
+  {
+   "i": 8,
+   "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+   "start": 27.35,
+   "end": 31.276
+  }
+ ]
+}

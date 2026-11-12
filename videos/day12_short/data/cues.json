@@ -1,0 +1,85 @@
+{
+ "duration": 32.018,
+ "cues": [
+  {
+   "t": 0,
+   "type": "whoosh"
+  },
+  {
+   "t": 0.5,
+   "type": "sparkle",
+   "dur": 1.1
+  },
+  {
+   "t": 3.743,
+   "type": "whoosh"
+  },
+  {
+   "t": 4.093,
+   "type": "pop",
+   "gain": 0.7
+  },
+  {
+   "t": 7.213,
+   "type": "whoosh"
+  },
+  {
+   "t": 7.713,
+   "type": "sparkle",
+   "dur": 1.1
+  },
+  {
+   "t": 10.268,
+   "type": "whoosh"
+  },
+  {
+   "t": 10.668,
+   "type": "heartbeat"
+  },
+  {
+   "t": 13.385,
+   "type": "whoosh"
+  },
+  {
+   "t": 13.735,
+   "type": "pop",
+   "gain": 0.7
+  },
+  {
+   "t": 16.275,
+   "type": "whoosh"
+  },
+  {
+   "t": 16.775,
+   "type": "sparkle",
+   "dur": 1.1
+  },
+  {
+   "t": 19.241,
+   "type": "whoosh"
+  },
+  {
+   "t": 19.641,
+   "type": "sparkle",
+   "dur": 1.2
+  },
+  {
+   "t": 23.617,
+   "type": "whoosh"
+  },
+  {
+   "t": 24.117,
+   "type": "sparkle",
+   "dur": 1.1
+  },
+  {
+   "t": 26.911,
+   "type": "whoosh"
+  },
+  {
+   "t": 27.311,
+   "type": "sparkle",
+   "dur": 1.2
+  }
+ ]
+}

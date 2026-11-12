@@ -1,0 +1,52 @@
+{
+  "title": "Does Sitting Close to the TV Permanently Hurt Eyes?",
+  "thumb_text": "TV EYE MYTH!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://www.aao.org/eye-health/tips-prevention/are-computer-glasses-worth-it",
+    "https://kidshealth.org/en/kids/eyes.html"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Does Sitting Close to the TV Permanently Hurt Eyes!",
+      "caps": "Wait! Does *SITTING | *CLOSE to the | TV *PERMANENTLY Hurt | *EYES!"
+    },
+    {
+      "text": "Most kids guess totally wrong about does sitting close to tv hurt eyes!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | does *SITTING close | to tv *HURT | *EYES!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Modern screens do not permanently break eyes, though close staring without.",
+      "caps": "Modern *SCREENS do | not *PERMANENTLY break | eyes, *THOUGH close | *STARING without."
+    },
+    {
+      "text": "blinking causes tired dry eye muscles until you take a blink break.",
+      "caps": "*BLINKING causes tired | dry eye *MUSCLES | *UNTIL you take | a *BLINK break."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Tv Eye Myth!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Tv Eye | *MYTH!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

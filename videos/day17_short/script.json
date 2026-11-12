@@ -1,0 +1,52 @@
+{
+  "title": "Tablet 100% Charged vs Leo's Brain Battery at 5%!",
+  "thumb_text": "BRAIN BATTERY 5%!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://www.cdc.gov/sleep/about/index.html",
+    "https://kidshealth.org/en/kids/not-tired.html"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Tablet 100% Charged vs Leo's Brain Battery at 5%!",
+      "caps": "Wait! *TABLET 100% | *CHARGED vs Leo's | Brain *BATTERY at | *5%!"
+    },
+    {
+      "text": "Most kids guess totally wrong about screen time before bed brain!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | *SCREEN time before | bed *BRAIN!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Bright screens near bedtime trick your brain into thinking it.",
+      "caps": "Bright *SCREENS near | *BEDTIME trick your | brain into *THINKING | *IT."
+    },
+    {
+      "text": "is daytime, delaying sleep hormones that recharge energy and memory.",
+      "caps": "is daytime, *DELAYING | sleep *HORMONES that | *RECHARGE energy and | *MEMORY."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Brain Battery 5%!",
+      "caps": "Now you *KNOW | the real *TRUTH | behind Brain *BATTERY | *5%!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "fetched_at_ist": "2026-11-11T12:44:30.647085+05:30",
+  "source": "Zapier YouTube Find Video (region_code=US, relevance_language=en, safe_search=strict)",
+  "us_english_benchmarks": [
+    {
+      "video_id": "SqvtLWz9eDg",
+      "query": "kids science facts shorts",
+      "title": "Animal Fact Time! 🦑 #learn #animals #kids #shorts",
+      "channel_title": "DarDar - SuperHero",
+      "published_at": "2026-09-03T07:00:07Z",
+      "duration": "PT36S",
+      "play_url": "https://www.youtube.com/watch?v=SqvtLWz9eDg",
+      "hashtags": [
+        "#learn",
+        "#animals",
+        "#kids",
+        "#shorts"
+      ]
+    },
+    {
+      "video_id": "2c-c9GA_LzY",
+      "query": "kids science facts shorts",
+      "title": "What If Your Brain Shrinks? | Brain Science For Kids | Brain Facts | Dr. Binocs Show",
+      "channel_title": "Peekaboo Kidz",
+      "published_at": "2026-10-20T12:30:32Z",
+      "duration": "PT6M5S",
+      "play_url": "https://www.youtube.com/watch?v=2c-c9GA_LzY",
+      "hashtags": []
+    },
+    {
+      "video_id": "XFcqbwibkAw",
+      "query": "kids science facts shorts",
+      "title": "Parents happiness for children #jee #jeebatch #iitjee #jeeproblems #sciencefacts #shorts",
+      "channel_title": "jee_titan",
+      "published_at": "2026-11-08T18:08:34Z",
+      "duration": "PT40S",
+      "play_url": "https://www.youtube.com/watch?v=XFcqbwibkAw",
+      "hashtags": [
+        "#jee",
+        "#jeebatch",
+        "#iitjee",
+        "#jeeproblems",
+        "#sciencefacts",
+        "#shorts"
+      ]
+    },
+    {
+      "video_id": "2ByQEm-IrnY",
+      "query": "kids science facts shorts",
+      "title": "PBS KIDS Fun Facts: Leaf Science 🍂🍁 #Shorts",
+      "channel_title": "PBS KIDS",
+      "published_at": "2026-11-05T20:00:03Z",
+      "duration": "PT42S",
+      "play_url": "https://www.youtube.com/watch?v=2ByQEm-IrnY",
+      "hashtags": [
+        "#Shorts"
+      ]
+    },
+    {
+      "video_id": "_I3L1tYM280",
+      "query": "human body facts for kids animation",
+      "title": "Healthy vs Unhealthy Foods; Foods That Support Healthy Knees &amp; Bones 🦴#shorts #kneepain #bones",
+      "channel_title": "NutriOrgans",
+      "published_at": "2026-09-25T21:30:34Z",
+      "duration": "PT26S",
+      "play_url": "https://www.youtube.com/watch?v=_I3L1tYM280",
+      "hashtags": [
+        "#shorts",
+        "#kneepain",
+        "#bones"
+      ]
+    },
+    {
+      "video_id": "FJPVpLTByEw",
+      "query": "human body facts for kids animation",
+      "title": "🍳 What Happens When You Eat Eggs Daily? 😱",
+      "channel_title": "Facto Nerd",
+      "published_at": "2026-10-26T12:28:47Z",
+      "duration": "PT1M12S",
+      "play_url": "https://www.youtube.com/watch?v=FJPVpLTByEw",
+      "hashtags": []
+    },
+    {
+      "video_id": "nrJ2I5A6MS4",
+      "query": "human body facts for kids animation",
+      "title": "Birthday party me itna khana?😱l Stomach ka kya hoga?#shorts#viral",
+      "channel_title": "AI Science Hub",
+      "published_at": "2026-09-03T15:45:06Z",
+      "duration": "PT43S",
+      "play_url": "https://www.youtube.com/watch?v=nrJ2I5A6MS4",
+      "hashtags": [
+        "#shorts",
+        "#viral"
+      ]
+    },
+    {
+      "video_id": "ZvlmSxOi3YU",
+      "query": "human body facts for kids animation",
+      "title": "What Really Happens Inside Your Body When You Eat Too Much Salt? 🧂😱",
+      "channel_title": "Facto Nerd",
+      "published_at": "2026-09-08T02:19:41Z",
+      "duration": "PT1M6S",
+      "play_url": "https://www.youtube.com/watch?v=ZvlmSxOi3YU",
+      "hashtags": []
+    },
+    {
+      "video_id": "uWzoE1Rngh4",
+      "query": "human body facts for kids animation",
+      "title": "What REALLY Happens If You Swallow Gum? 😱🫧 #Shorts",
+      "channel_title": "BODY IN 30",
+      "published_at": "2026-10-16T11:56:53Z",
+      "duration": "PT30S",
+      "play_url": "https://www.youtube.com/watch?v=uWzoE1Rngh4",
+      "hashtags": [
+        "#Shorts"
+      ]
+    },
+    {
+      "video_id": "P8thmVsSPCs",
+      "query": "human body facts for kids animation",
+      "title": "Why Are Babies Born With a Soft Spot on Their Heads",
+      "channel_title": "World Facty",
+      "published_at": "2026-10-26T08:18:03Z",
+      "duration": "PT1M39S",
+      "play_url": "https://www.youtube.com/watch?v=P8thmVsSPCs",
+      "hashtags": []
+    },
+    {
+      "video_id": "hMF2995h0ac",
+      "query": "animal space facts for kids shorts",
+      "title": "Mochi, Did You Know? 🐱 Fun Animal &amp; Space Facts Song for Kids |모찌, 알고 있었니? 🐱 어린이를 위한 재미있는 상식 노래",
+      "channel_title": "PlushieTown – Nursery Rhymes & Kids Songs",
+      "published_at": "2026-10-24T13:04:06Z",
+      "duration": "PT2M17S",
+      "play_url": "https://www.youtube.com/watch?v=hMF2995h0ac",
+      "hashtags": []
+    },
+    {
+      "video_id": "cAM_ZT-NI-E",
+      "query": "animal space facts for kids shorts",
+      "title": "3 Amazing Facts About Human Body! 🧠 #Shorts #facts #humanbodyfacts",
+      "channel_title": "Facts ben",
+      "published_at": "2026-09-28T04:47:34Z",
+      "duration": "PT31S",
+      "play_url": "https://www.youtube.com/watch?v=cAM_ZT-NI-E",
+      "hashtags": [
+        "#Shorts",
+        "#facts",
+        "#humanbodyfacts"
+      ]
+    },
+    {
+      "video_id": "ywrMqs60UbY",
+      "query": "animal space facts for kids shorts",
+      "title": "You First time see this Animal |#facts#factshortsinhindi#animalshorts#viralfacts#exploreshorts#fact",
+      "channel_title": "SCARYFACT24",
+      "published_at": "2026-10-19T14:40:39Z",
+      "duration": "PT25S",
+      "play_url": "https://www.youtube.com/watch?v=ywrMqs60UbY",
+      "hashtags": [
+        "#facts",
+        "#factshortsinhindi",
+        "#animalshorts",
+        "#viralfacts",
+        "#exploreshorts",
+        "#fact"
+      ]
+    },
+    {
+      "video_id": "XFqUqu5aNrk",
+      "query": "animal space facts for kids shorts",
+      "title": "🐡 Why Do Pufferfish Puff Up? 🌊 | Amazing Ocean Facts for Kids | Kidz WonderVerse #kids",
+      "channel_title": "Kidz WonderVerse",
+      "published_at": "2026-09-29T13:32:38Z",
+      "duration": "PT34S",
+      "play_url": "https://www.youtube.com/watch?v=XFqUqu5aNrk",
+      "hashtags": [
+        "#kids"
+      ]
+    },
+    {
+      "video_id": "GWuxHqATKyg",
+      "query": "animal space facts for kids shorts",
+      "title": "The GIANT That Lives in the Ocean! 🐋🌊 | Blue Whale Facts for Kids #Shorts",
+      "channel_title": "World Explorers ",
+      "published_at": "2026-10-20T18:45:55Z",
+      "duration": "PT56S",
+      "play_url": "https://www.youtube.com/watch?v=GWuxHqATKyg",
+      "hashtags": [
+        "#Shorts"
+      ]
+    },
+    {
+      "video_id": "-h_TzAO3w6Q",
+      "query": "animal space facts for kids shorts",
+      "title": "Why Do Octopuses Have BLUE Blood?! 🐙💙 | Amazing Ocean Facts for Kids! #Octopus #shorts",
+      "channel_title": "NoodleNova",
+      "published_at": "2026-10-02T11:21:12Z",
+      "duration": "PT51S",
+      "play_url": "https://www.youtube.com/watch?v=-h_TzAO3w6Q",
+      "hashtags": [
+        "#Octopus",
+        "#shorts"
+      ]
+    },
+    {
+      "video_id": "vq6RjLb3fHo",
+      "query": "animal space facts for kids shorts",
+      "title": "The First Animals in Space Were Fruit Flies?! 🪰 Fun Space Facts for Kids",
+      "channel_title": "Space Sprouts",
+      "published_at": "2026-10-11T10:00:06Z",
+      "duration": "PT43S",
+      "play_url": "https://www.youtube.com/watch?v=vq6RjLb3fHo",
+      "hashtags": []
+    },
+    {
+      "video_id": "j0v-OENbL30",
+      "query": "animal space facts for kids shorts",
+      "title": "#animals #amazingfacts #interestingclips #roast #facts #interestingfacts #factsinhindi #shorts",
+      "channel_title": "GreenScreenHub",
+      "published_at": "2026-10-21T09:02:49Z",
+      "duration": "PT56S",
+      "play_url": "https://www.youtube.com/watch?v=j0v-OENbL30",
+      "hashtags": [
+        "#animals",
+        "#amazingfacts",
+        "#interestingclips",
+        "#roast",
+        "#facts",
+        "#interestingfacts",
+        "#factsinhindi",
+        "#shorts"
+      ]
+    },
+    {
+      "video_id": "GVmhB-a9eJo",
+      "query": "animal space facts for kids shorts",
+      "title": "Is Lightning Hotter Than the Sun?⚡☀️ | Science Facts for Kids #Shorts#LightningFacts #ScienceForKids",
+      "channel_title": "Joy Rocket Kids",
+      "published_at": "2026-10-18T05:12:11Z",
+      "duration": "PT35S",
+      "play_url": "https://www.youtube.com/watch?v=GVmhB-a9eJo",
+      "hashtags": [
+        "#Shorts",
+        "#LightningFacts",
+        "#ScienceForKids"
+      ]
+    },
+    {
+      "video_id": "exocYNqFvAs",
+      "query": "animal space facts for kids shorts",
+      "title": "Why Does an Octopus Change Colour? 🐙🎨 | Amazing Animal Facts for Kids #Shorts",
+      "channel_title": "Little Why World",
+      "published_at": "2026-09-06T11:06:12Z",
+      "duration": "PT11S",
+      "play_url": "https://www.youtube.com/watch?v=exocYNqFvAs",
+      "hashtags": [
+        "#Shorts"
+      ]
+    }
+  ],
+  "top_observed_hashtags": [
+    "#shorts",
+    "#facts",
+    "#animals",
+    "#kids",
+    "#humanbodyfacts",
+    "#factshortsinhindi",
+    "#animalshorts",
+    "#viralfacts",
+    "#exploreshorts",
+    "#fact",
+    "#learn",
+    "#jee",
+    "#jeebatch",
+    "#iitjee",
+    "#jeeproblems",
+    "#sciencefacts",
+    "#kneepain",
+    "#bones",
+    "#viral",
+    "#octopus"
+  ]
+}

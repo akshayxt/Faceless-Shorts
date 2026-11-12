@@ -1,0 +1,52 @@
+{
+  "title": "Why Every Rainbow Is Really a Full 360° Circle!",
+  "thumb_text": "SECRET CIRCLE!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://scijinks.gov/rainbow/",
+    "https://www.britannica.com/science/rainbow-meteorology"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Why Every Rainbow Is Really a Full 360° Circle!",
+      "caps": "Wait! Why *EVERY | *RAINBOW Is Really | a *FULL 360° | *CIRCLE!"
+    },
+    {
+      "text": "Most kids guess totally wrong about are rainbows full circles!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | are *RAINBOWS full | *CIRCLES!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Every rainbow is actually a full.",
+      "caps": "Every *RAINBOW is | *ACTUALLY a full."
+    },
+    {
+      "text": "360-degree ring of sunlight bending through raindrops.",
+      "caps": "*360-DEGREE ring of | *SUNLIGHT bending through | *RAINDROPS."
+    },
+    {
+      "text": "from the ground, the Earth horizon blocks the bottom half.",
+      "caps": "from the *GROUND, | the Earth *HORIZON | *BLOCKS the bottom | *HALF."
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Secret Circle!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Secret Circle!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

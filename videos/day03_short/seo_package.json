@@ -1,0 +1,275 @@
+{
+  "topic_id": "day03",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Why Octopuses Have 3 Hearts?",
+      "chars": 28,
+      "score": 98,
+      "issues": [
+        [
+          "duplicate",
+          "thumbnail repeats the title on 3, hearts - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Why Do Octopuses Have 3 Hearts?",
+      "chars": 31,
+      "score": 98,
+      "issues": [
+        [
+          "duplicate",
+          "thumbnail repeats the title on 3, hearts - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Octopus Have 3 Hearts and 9 Brains!",
+      "chars": 35,
+      "score": 94,
+      "issues": [
+        [
+          "duplicate",
+          "thumbnail repeats the title on 3, hearts - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Why Octopuses Have 3 Hearts? #Shorts",
+      "chars": 36,
+      "score": 94,
+      "issues": [
+        [
+          "duplicate",
+          "thumbnail repeats the title on 3, hearts - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Why Do Octopuses Have 3 Hearts? #Shorts",
+      "chars": 39,
+      "score": 94,
+      "issues": [
+        [
+          "duplicate",
+          "thumbnail repeats the title on 3, hearts - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Octopuses Have 3 Hearts and Blue Blood!",
+      "chars": 39,
+      "score": 94,
+      "issues": [
+        [
+          "duplicate",
+          "thumbnail repeats the title on 3, hearts - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Why Octopuses Have Three Hearts?",
+      "chars": 32,
+      "score": 80,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on hearts - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Why Octopuses Have 3 Hearts and Blue Blood!",
+      "chars": 43,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why Octopuses Have 3 Hearts and Blue...\" - check the subject survives"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on 3, hearts - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Octopus Have 3 Hearts and 9 Brains! #Shorts",
+      "chars": 43,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Octopus Have 3 Hearts and 9 Brains!...\" - check the subject survives"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on 3, hearts - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Octopuses Have 3 Hearts and Blue Blood! #Shorts",
+      "chars": 47,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Octopuses Have 3 Hearts and Blue Blood!...\" - check the subject survives"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on 3, hearts - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Why Octopuses Have 3 Hearts and Blue Blood! #Shorts",
+      "chars": 51,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why Octopuses Have 3 Hearts and Blue...\" - check the subject survives"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on 3, hearts - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Why Octopuses Have 3 Hearts and Blue Blood! | Ocean Facts",
+      "chars": 57,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why Octopuses Have 3 Hearts and Blue...\" - check the subject survives"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on 3, hearts - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Why Octopuses Have Three Hearts? #Shorts",
+      "chars": 40,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on hearts - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Why Octopuses Have 3 Hearts?",
+  "selected_title_lint": {
+    "title": "Why Octopuses Have 3 Hearts?",
+    "chars": 28,
+    "score": 98,
+    "issues": [
+      [
+        "duplicate",
+        "thumbnail repeats the title on 3, hearts - the thumbnail should say what the title does not"
+      ]
+    ]
+  },
+  "thumb_text": "3 HEARTS?!",
+  "hook_lint": {
+    "hook": "Forget 1 red heart—this ocean genius hides 3 beating hearts and bright blue blood!",
+    "properties": {
+      "SPECIFICITY": 78,
+      "ADDRESS": 26,
+      "STAKES": 36,
+      "CURIOSITY": 24,
+      "BREVITY": 100
+    },
+    "verdict": 41,
+    "band": "WEAK",
+    "formula": "Unclassified",
+    "matched": 0
+  },
+  "primary_keyword": "why octopuses have 3 hearts for kids",
+  "supporting_keywords": [
+    "octopus blue blood facts",
+    "sea animals cartoon for kids",
+    "ocean science facts"
+  ],
+  "target_search_queries": [
+    "why octopuses have 3 hearts for kids",
+    "why octopuses have 3 hearts",
+    "why octopuses have three hearts",
+    "why do octopuses have 3 hearts"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-11T13:14:58.387856+05:30",
+    "live_yt_suggest_queries": [
+      "why octopuses have 3 hearts",
+      "why octopuses have three hearts",
+      "why do octopuses have 3 hearts",
+      "octopuses have 3 hearts and blue blood",
+      "octopus have 3 hearts and 9 brains",
+      "science facts for kids",
+      "interesting science facts for kids",
+      "science facts for toddlers"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "Why Octopuses Have 3 Hearts? — Forget 1 red heart—this ocean genius hides 3 beating hearts and bright blue blood!\nKids science answer for \"why octopuses have 3 hearts for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nTwo branchial hearts pump blood across the gills and one systemic heart pumps to the body using copper-rich blue blood suited for freezing deep oceans.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- why octopuses have 3 hearts\n- why octopuses have three hearts\n- why do octopuses have 3 hearts\n- octopuses have 3 hearts and blue blood\n- octopus have 3 hearts and 9 brains\n\nSources & Fact Check:\n- https://kids.nationalgeographic.com/animals/invertebrates/facts/octopus\n- https://www.nhm.ac.uk/discover/octopuses-keep-surprising-us.html\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "why octopuses have 3 hearts",
+    "why octopuses have three hearts",
+    "why do octopuses have 3 hearts",
+    "octopuses have 3 hearts and blue blood",
+    "octopus have 3 hearts and 9 brains",
+    "science facts for kids",
+    "why octopuses have 3 hearts for kids",
+    "octopus blue blood facts",
+    "sea animals cartoon for kids",
+    "ocean science facts",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

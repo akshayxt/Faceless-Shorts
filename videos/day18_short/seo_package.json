@@ -1,0 +1,116 @@
+{
+  "topic_id": "day18",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "60,000 Miles of Blood Pipes Hidden Inside 1 Kid!",
+      "chars": 48,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"60,000 Miles of Blood Pipes Hidden...\" - check the subject survives"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on 000, 60, inside, miles - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "60,000 Miles of Blood Pipes Hidden Inside 1 Kid!",
+  "selected_title_lint": {
+    "title": "60,000 Miles of Blood Pipes Hidden Inside 1 Kid!",
+    "chars": 48,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"60,000 Miles of Blood Pipes Hidden...\" - check the subject survives"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on 000, 60, inside, miles - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "48 characters, inside the 60-character desktop cut",
+      "carries a concrete figure (60,000, 1)"
+    ]
+  },
+  "thumb_text": "60,000 MILES INSIDE!",
+  "hook_lint": {
+    "hook": "Inside your small body hide enough blood highways to circle Planet Earth twice!",
+    "properties": {
+      "SPECIFICITY": 46,
+      "ADDRESS": 76,
+      "STAKES": 22,
+      "CURIOSITY": 24,
+      "BREVITY": 100
+    },
+    "verdict": 41,
+    "band": "WEAK",
+    "formula": "Unclassified",
+    "matched": 0
+  },
+  "primary_keyword": "blood vessels length inside human body for kids",
+  "supporting_keywords": [
+    "heart circulatory system kids",
+    "human body miles facts"
+  ],
+  "target_search_queries": [
+    "blood vessels length inside human body for kids",
+    "length of blood vessels in human body",
+    "human body facts for kids",
+    "heart circulatory system kids"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-12T09:55:40.659361+05:30",
+    "live_yt_suggest_queries": [
+      "length of blood vessels in human body",
+      "human body facts for kids"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "60,000 Miles of Blood Pipes Hidden Inside 1 Kid! — Inside your small body hide enough blood highways to circle Planet Earth twice!\nKids science answer for \"blood vessels length inside human body for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nA child has roughly 60,000 miles of arteries, veins, and tiny capillaries carrying oxygen nonstop—long enough to wrap around Earth twice!\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- length of blood vessels in human body\n- human body facts for kids\n\nSources & Fact Check:\n- https://www.fi.edu/en/heart/blood-vessels\n- https://kidshealth.org/en/kids/heart.html\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "length of blood vessels in human body",
+    "human body facts for kids",
+    "heart circulatory system kids",
+    "human body miles facts",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

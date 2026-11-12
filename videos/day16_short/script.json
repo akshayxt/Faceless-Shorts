@@ -1,0 +1,52 @@
+{
+  "title": "Why You Hear ZERO Sound Inside Outer Space!",
+  "thumb_text": "SILENT SPACE!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://spaceplace.nasa.gov/sound-in-space/en/",
+    "https://kids.britannica.com/kids/article/sound/353792"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Why You Hear ZERO Sound Inside Outer Space!",
+      "caps": "*WAIT! Why You | Hear ZERO *SOUND | *INSIDE Outer Space!"
+    },
+    {
+      "text": "Most kids guess totally wrong about why is space silent!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | why is *SPACE | *SILENT!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Sound travels as vibrations bumping through air molecules.",
+      "caps": "Sound *TRAVELS as | *VIBRATIONS bumping through | air *MOLECULES."
+    },
+    {
+      "text": "because outer space is mostly an.",
+      "caps": "*BECAUSE outer space | is *MOSTLY an."
+    },
+    {
+      "text": "empty vacuum, sound waves cannot travel there.",
+      "caps": "empty *VACUUM, sound | waves *CANNOT travel | *THERE."
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Silent Space!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Silent Space!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

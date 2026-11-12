@@ -1,0 +1,52 @@
+{
+  "title": "The Night Leo Skipped Brushing His Teeth (Cartoon!)",
+  "thumb_text": "SUGAR BUG PARTY!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org/en/kids/teeth-care.html",
+    "https://www.nidcr.nih.gov/health-info/tooth-decay"
+  ],
+  "lines": [
+    {
+      "text": "Wait! The Night Leo Skipped Brushing His Teeth (Cartoon!)!",
+      "caps": "Wait! The *NIGHT | Leo Skipped *BRUSHING | His Teeth *(CARTOON!)!"
+    },
+    {
+      "text": "Most kids guess totally wrong about why brush teeth at night!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | why *BRUSH teeth | at *NIGHT!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Saliva slows down at bedtime while mouth bacteria eat leftover.",
+      "caps": "*SALIVA slows down | at *BEDTIME while | mouth *BACTERIA eat | *LEFTOVER."
+    },
+    {
+      "text": "sugar and release acid that slowly wears away strong tooth enamel.",
+      "caps": "sugar and *RELEASE | acid that *SLOWLY | wears away *STRONG | tooth *ENAMEL."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Sugar Bug Party!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Sugar Bug | *PARTY!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

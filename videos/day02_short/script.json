@@ -1,0 +1,52 @@
+{
+  "title": "Swallowed Watermelon Seeds? The 5-Second Belly Truth!",
+  "thumb_text": "BELLY TREE MYTH",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://www.britannica.com/science/human-digestive-system",
+    "https://kidshealth.org/en/kids/digestive-system.html"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Swallowed Watermelon Seeds? The 5-Second Belly Truth!",
+      "caps": "Wait! Swallowed *WATERMELON | Seeds? The *5-SECOND | *BELLY Truth!"
+    },
+    {
+      "text": "Most kids guess totally wrong about swallowing watermelon seeds!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | *SWALLOWING watermelon seeds!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Stomach gastric acid breaks down food.",
+      "caps": "*STOMACH gastric acid | *BREAKS down food."
+    },
+    {
+      "text": "while seed shells pass safely through digestion.",
+      "caps": "while seed *SHELLS | pass safely *THROUGH | *DIGESTION."
+    },
+    {
+      "text": "seeds need soil, water, and sunlight.",
+      "caps": "*SEEDS need soil, | water, and *SUNLIGHT."
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Belly Tree Myth!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Belly Tree | *MYTH!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

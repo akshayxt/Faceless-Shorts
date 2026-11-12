@@ -1,0 +1,52 @@
+{
+  "title": "How Dogs Can Literally Smell Time Passing! | Puppy Facts",
+  "thumb_text": "DOGS SMELL TIME!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://www.pbs.org/wgbh/nova/article/dogs-sense-of-smell/",
+    "https://kids.nationalgeographic.com/animals/mammals/facts/dog"
+  ],
+  "lines": [
+    {
+      "text": "Wait! How Dogs Can Literally Smell Time Passing!",
+      "caps": "*WAIT! How Dogs | Can *LITERALLY Smell | Time *PASSING!"
+    },
+    {
+      "text": "Most kids guess totally wrong about dogs smell time!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | dogs *SMELL time!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Dogs have up to 300 million scent receptors and notice fading.",
+      "caps": "*DOGS have up | to 300 *MILLION | scent *RECEPTORS and | *NOTICE fading."
+    },
+    {
+      "text": "household smells across hours to predict when their family comes home.",
+      "caps": "*HOUSEHOLD smells across | hours to *PREDICT | when their *FAMILY | *COMES home."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Dogs Smell Time!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Dogs Smell | *TIME!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

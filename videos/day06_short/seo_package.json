@@ -1,0 +1,293 @@
+{
+  "topic_id": "day06",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "What Causes Hiccups?",
+      "chars": 20,
+      "score": 98,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "What Causes Hiccups in Adults?",
+      "chars": 30,
+      "score": 98,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "What Causes Hiccups in Babies?",
+      "chars": 30,
+      "score": 98,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "What Causes Hiccups Animation?",
+      "chars": 30,
+      "score": 98,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "What Causes Hiccups During Pregnancy?",
+      "chars": 37,
+      "score": 98,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "What Causes Hiccups? #Shorts",
+      "chars": 28,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "What Causes Hiccups in Adults? #Shorts",
+      "chars": 38,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "What Causes Hiccups in Babies? #Shorts",
+      "chars": 38,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "What Causes Hiccups Animation? #Shorts",
+      "chars": 38,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "What Causes Hiccups and How to Get Rid of Them?",
+      "chars": 47,
+      "score": 84,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"What Causes Hiccups and How to Get Rid...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "What Causes Sudden Hiccups Inside Your Belly!",
+      "chars": 45,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"What Causes Sudden Hiccups Inside Your...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "What Causes Hiccups During Pregnancy? #Shorts",
+      "chars": 45,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"What Causes Hiccups During Pregnancy?...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "What Causes Sudden Hiccups Inside Your Belly! #Shorts",
+      "chars": 53,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"What Causes Sudden Hiccups Inside Your...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "What Causes Hiccups and How to Get Rid of Them? #Shorts",
+      "chars": 55,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"What Causes Hiccups and How to Get Rid...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "What Causes Sudden Hiccups Inside Your Belly! | Body Lab",
+      "chars": 56,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"What Causes Sudden Hiccups Inside Your...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "What Causes Hiccups?",
+  "selected_title_lint": {
+    "title": "What Causes Hiccups?",
+    "chars": 20,
+    "score": 98,
+    "issues": [
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ]
+    ]
+  },
+  "thumb_text": "HICCUP TRICK!",
+  "hook_lint": {
+    "hook": "HIC! What muscle beneath your lungs just bounced without asking your permission?",
+    "properties": {
+      "SPECIFICITY": 35,
+      "ADDRESS": 96,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 46,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "what causes hiccups for kids",
+  "supporting_keywords": [
+    "diaphragm muscle for kids",
+    "how hiccups work cartoon",
+    "stop hiccups science"
+  ],
+  "target_search_queries": [
+    "what causes hiccups for kids",
+    "what causes hiccups",
+    "what causes hiccups in adults",
+    "what causes hiccups in babies"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-12T09:55:40.659361+05:30",
+    "live_yt_suggest_queries": [
+      "what causes hiccups",
+      "what causes hiccups in adults",
+      "what causes hiccups in babies",
+      "what causes hiccups animation",
+      "what causes hiccups and how to get rid of them",
+      "what causes hiccups during pregnancy",
+      "how hiccup work animation",
+      "human body facts for kids"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "What Causes Hiccups? — HIC! What muscle beneath your lungs just bounced without asking your permission?\nKids science answer for \"what causes hiccups for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nA hiccup is a sudden spasm of the diaphragm muscle under your lungs that pulls air in fast and snaps your vocal cords shut.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- what causes hiccups\n- what causes hiccups in adults\n- what causes hiccups in babies\n- what causes hiccups animation\n- what causes hiccups and how to get rid of them\n\nSources & Fact Check:\n- https://kidshealth.org/en/kids/hiccup.html\n- https://my.clevelandclinic.org/health/diseases/17672-hiccups\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "what causes hiccups",
+    "what causes hiccups in adults",
+    "what causes hiccups in babies",
+    "what causes hiccups animation",
+    "what causes hiccups during pregnancy",
+    "what causes hiccups for kids",
+    "diaphragm muscle for kids",
+    "how hiccups work cartoon",
+    "stop hiccups science",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Why Cold Ice Cream Gives You Instant Brain Freeze!",
+  "thumb_text": "BRAIN FREEZE!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org/en/kids/brain-freeze.html",
+    "https://www.hopkinsmedicine.org/health/conditions-and-diseases/ice-cream-headaches"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Why Cold Ice Cream Gives You Instant Brain Freeze!",
+      "caps": "*WAIT! Why Cold | Ice *CREAM Gives | You *INSTANT Brain | *FREEZE!"
+    },
+    {
+      "text": "Most kids guess totally wrong about what causes brain freeze!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | what *CAUSES brain | *FREEZE!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Freezing the roof of your mouth makes blood vessels shrink and.",
+      "caps": "*FREEZING the roof | of your *MOUTH | makes blood *VESSELS | *SHRINK and."
+    },
+    {
+      "text": "quickly open wide again, sending an alarm signal up your facial nerve.",
+      "caps": "*QUICKLY open wide | again, *SENDING an | alarm *SIGNAL up | your *FACIAL nerve."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Brain Freeze!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Brain Freeze!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

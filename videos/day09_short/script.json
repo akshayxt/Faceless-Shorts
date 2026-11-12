@@ -1,0 +1,52 @@
+{
+  "title": "Can Holding 1 Sneeze Really Pop Your Eyes Out?! | Myth",
+  "thumb_text": "DON'T HOLD IT!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://www.livescience.com/45491-can-sneezing-pop-your-eyeballs-out.html",
+    "https://kidshealth.org/en/kids/sneeze.html"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Can Holding 1 Sneeze Really Pop Your Eyes Out!",
+      "caps": "Wait! Can *HOLDING | 1 *SNEEZE Really | Pop *YOUR Eyes | *OUT!"
+    },
+    {
+      "text": "Most kids guess totally wrong about holding in a sneeze!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | *HOLDING in a | *SNEEZE!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Strong eye muscles keep eyes safely locked in place, but.",
+      "caps": "Strong eye *MUSCLES | keep eyes *SAFELY | *LOCKED in place, | *BUT."
+    },
+    {
+      "text": "blocking a powerful sneeze forces air pressure toward delicate eardrum tubes.",
+      "caps": "*BLOCKING a powerful | *SNEEZE forces air | *PRESSURE toward delicate | *EARDRUM tubes."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Don'T Hold It!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Don'T Hold | *IT!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

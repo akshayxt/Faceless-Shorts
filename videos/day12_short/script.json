@@ -1,0 +1,52 @@
+{
+  "title": "What Happens If You Step on Jupiter? (No Floor!)",
+  "thumb_text": "NO FLOOR ON JUPITER!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://spaceplace.nasa.gov/all-about-jupiter/en/",
+    "https://science.nasa.gov/jupiter/facts/"
+  ],
+  "lines": [
+    {
+      "text": "Wait! What Happens If You Step on Jupiter? (No Floor!)!",
+      "caps": "Wait! What *HAPPENS | If You *STEP | on *JUPITER? (No | *FLOOR!)!"
+    },
+    {
+      "text": "Most kids guess totally wrong about can you stand on jupiter!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | can you *STAND | on *JUPITER!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Jupiter is a giant gas planet of hydrogen.",
+      "caps": "*JUPITER is a | giant gas *PLANET | of *HYDROGEN."
+    },
+    {
+      "text": "and helium with no rocky ground to stand on.",
+      "caps": "and *HELIUM with | no rocky *GROUND | to *STAND on."
+    },
+    {
+      "text": "gravity and pressure crush deeper layers inward.",
+      "caps": "gravity and *PRESSURE | crush *DEEPER layers | *INWARD."
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind No Floor On Jupiter!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND No Floor | On *JUPITER!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

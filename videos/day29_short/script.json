@@ -1,0 +1,52 @@
+{
+  "title": "Does Cracking Knuckles Really Hurt Your Bones?!",
+  "thumb_text": "GAS BUBBLE POP!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://www.health.harvard.edu/pain/does-knuckle-cracking-cause-arthritis",
+    "https://www.livescience.com/50516-knuckle-cracking-mri-video.html"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Does Cracking Knuckles Really Hurt Your Bones!",
+      "caps": "Wait! Does *CRACKING | *KNUCKLES Really Hurt | Your *BONES!"
+    },
+    {
+      "text": "Most kids guess totally wrong about what happens when you crack knuckles!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | what *HAPPENS when | you crack *KNUCKLES!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "The loud pop comes from tiny harmless gas bubbles snapping inside.",
+      "caps": "The *LOUD pop | *COMES from tiny | *HARMLESS gas bubbles | *SNAPPING inside."
+    },
+    {
+      "text": "joint fluid—not bones grinding—and research shows it does not cause arthritis.",
+      "caps": "joint *FLUID—NOT bones | *GRINDING—AND research shows | it *DOES not | cause *ARTHRITIS."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Gas Bubble Pop!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Gas Bubble | *POP!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

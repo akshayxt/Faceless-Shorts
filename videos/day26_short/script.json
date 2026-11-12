@@ -1,0 +1,52 @@
+{
+  "title": "Cheetah vs Falcon: Who Hits 240 MPH in a Race?!",
+  "thumb_text": "240 MPH WINNER!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kids.nationalgeographic.com/animals/birds/facts/peregrine-falcon",
+    "https://www.britannica.com/list/the-fastest-animals-in-the-world"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Cheetah vs Falcon: Who Hits 240 MPH in a Race!",
+      "caps": "Wait! *CHEETAH vs | *FALCON: Who Hits | *240 MPH in | a *RACE!"
+    },
+    {
+      "text": "Most kids guess totally wrong about fastest animal in the world!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | *FASTEST animal in | the *WORLD!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Cheetahs sprint fastest on land around 60-70 mph, while a diving.",
+      "caps": "*CHEETAHS sprint fastest | on land *AROUND | 60-70 mph, *WHILE | a *DIVING."
+    },
+    {
+      "text": "peregrine falcon plunges faster than 200 mph (over 240 mph recorded).",
+      "caps": "*PEREGRINE falcon plunges | *FASTER than 200 | mph *(OVER 240 | mph *RECORDED)."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind 240 Mph Winner!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND 240 Mph | *WINNER!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

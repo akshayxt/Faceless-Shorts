@@ -1,0 +1,51 @@
+{
+  "title": "How Sharing 1 Candy Turned Into 4 Treats! | Story",
+  "thumb_text": "KINDNESS MATH!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://www.unicef.org/parenting/child-development/teaching-kids-kindness"
+  ],
+  "lines": [
+    {
+      "text": "Wait! How Sharing 1 Candy Turned Into 4 Treats!",
+      "caps": "Wait! How *SHARING | 1 Candy *TURNED | Into 4 *TREATS!"
+    },
+    {
+      "text": "Most kids guess totally wrong about sharing kindness story!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | sharing *KINDNESS story!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Funny animated fable showing how sharing small.",
+      "caps": "Funny *ANIMATED fable | *SHOWING how sharing | *SMALL."
+    },
+    {
+      "text": "kindness multiplies friendships and surprises everyone with teamwork.",
+      "caps": "kindness multiplies *FRIENDSHIPS | and *SURPRISES everyone | with *TEAMWORK."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Kindness Math!",
+      "caps": "Now you *KNOW | the real *TRUTH | behind *KINDNESS Math!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

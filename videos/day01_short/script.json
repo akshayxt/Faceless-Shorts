@@ -1,0 +1,56 @@
+{
+  "title": "Why 1 Mosquito Bite Itches in 3 Seconds! | Kids Science",
+  "thumb_text": "TINY STRAW!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://www.cdc.gov/mosquitoes/about/what-is-a-mosquito.html",
+    "https://kidshealth.org/en/kids/bug-bites.html"
+  ],
+  "lines": [
+    {
+      "text": "Wait! A mosquito doesn't actually bite you!",
+      "caps": "*WAIT! | NO *TEETH — | TINY *STRAW?!"
+    },
+    {
+      "text": "Inside that tiny bug's mouth hide 6 ultra-thin needles!",
+      "caps": "INSIDE THAT *MOUTH | HIDE *6 *NEEDLES!"
+    },
+    {
+      "text": "When she lands quietly on your arm...",
+      "caps": "WHEN SHE *LANDS | QUIETLY ON *SKIN..."
+    },
+    {
+      "text": "she spits invisible saliva right inside your skin first!",
+      "caps": "SHE SPITS *SALIVA | *INSIDE YOUR SKIN!"
+    },
+    {
+      "text": "Why? To stop your blood from clotting like jelly!",
+      "caps": "*WHY? TO STOP | *BLOOD FROM *CLOTTING!"
+    },
+    {
+      "text": "Your body defense team spots the trick right away!",
+      "caps": "YOUR *DEFENSE TEAM | SPOTS THE *TRICK!"
+    },
+    {
+      "text": "Guard cells blast out an emergency histamine alarm!",
+      "caps": "GUARDS BLAST OUT | *HISTAMINE *ALARM!"
+    },
+    {
+      "text": "That alarm makes the puffy red bump and crazy itch!",
+      "caps": "THAT MAKES THE | *PUFFY BUMP + *ITCH!"
+    },
+    {
+      "text": "Fun fact: only female mosquitoes drink blood for eggs!",
+      "caps": "FUN *FACT: ONLY | *FEMALE BUGS *DRINK!"
+    },
+    {
+      "text": "Hold ice on bites instead of scratching—subscribe BabyBeats Rhymo!",
+      "caps": "HOLD *ICE ON BITES! | SUBSCRIBE *RHYMO!"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "title": "The 5-Second Rule on a Dropped Cookie: True or False?",
+  "thumb_text": "5-SECOND RULE TEST!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://www.rutgers.edu/news/rutgers-researchers-debunk-five-second-rule-eating-food-floor",
+    "https://kidshealth.org/en/kids/germs.html"
+  ],
+  "lines": [
+    {
+      "text": "Wait! The 5-Second Rule on a Dropped Cookie: True or False!",
+      "caps": "Wait! The *5-SECOND | *RULE on a | *DROPPED Cookie: True | or *FALSE!"
+    },
+    {
+      "text": "Most kids guess totally wrong about is the 5 second rule true!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | is *THE 5 | *SECOND rule true!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Moisture and floor cleanliness matter far more than 5 seconds—bacteria can hop.",
+      "caps": "*MOISTURE and floor | *CLEANLINESS matter far | *MORE than 5 | *SECONDS—BACTERIA can hop."
+    },
+    {
+      "text": "onto wet or sticky food almost the instant it hits the floor.",
+      "caps": "*ONTO wet or | *STICKY food almost | the *INSTANT it | hits the *FLOOR."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind 5-Second Rule Test!",
+      "caps": "Now you *KNOW | the real *TRUTH | behind *5-SECOND Rule | *TEST!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

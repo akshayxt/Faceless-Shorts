@@ -1,0 +1,137 @@
+{
+  "topic_id": "day21",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "How Honeybees Dance to Share Secret GPS Maps!",
+      "chars": 45,
+      "score": 52,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"How Honeybees Dance to Share Secret GPS...\" - check the subject survives"
+        ],
+        [
+          "vague",
+          "secret - swap for a number, a name or a date"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on dance, gps - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "How Honeybees Dance to Share Secret GPS Maps!",
+  "selected_title_lint": {
+    "title": "How Honeybees Dance to Share Secret GPS Maps!",
+    "chars": 45,
+    "score": 52,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"How Honeybees Dance to Share Secret GPS...\" - check the subject survives"
+      ],
+      [
+        "vague",
+        "secret - swap for a number, a name or a date"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on dance, gps - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "45 characters, inside the 60-character desktop cut",
+      "1 all-caps word for emphasis"
+    ]
+  },
+  "thumb_text": "BEE DANCE GPS!",
+  "hook_lint": {
+    "hook": "Honeybees cannot text directions—so they shake a figure-8 dance GPS inside the hive!",
+    "properties": {
+      "SPECIFICITY": 57,
+      "ADDRESS": 26,
+      "STAKES": 36,
+      "CURIOSITY": 24,
+      "BREVITY": 100
+    },
+    "verdict": 39,
+    "band": "WEAK",
+    "formula": "Unclassified",
+    "matched": 0
+  },
+  "primary_keyword": "why bees do waggle dance for kids",
+  "supporting_keywords": [
+    "honeybee facts cartoon",
+    "insect communication kids"
+  ],
+  "target_search_queries": [
+    "why bees do waggle dance for kids",
+    "science facts for kids",
+    "interesting science facts for kids",
+    "science facts for toddlers"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-12T09:55:40.659361+05:30",
+    "live_yt_suggest_queries": [
+      "science facts for kids",
+      "interesting science facts for kids",
+      "science facts for toddlers",
+      "titanic facts for kids-science facts"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "How Honeybees Dance to Share Secret GPS Maps! — Honeybees cannot text directions—so they shake a figure-8 dance GPS inside the hive!\nKids science answer for \"why bees do waggle dance for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nWorker honeybees perform a figure-eight waggle dance whose angle to the sun and wiggle duration give hive mates exact flower directions.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- science facts for kids\n- interesting science facts for kids\n- science facts for toddlers\n- titanic facts for kids-science facts\n\nSources & Fact Check:\n- https://kids.nationalgeographic.com/animals/invertebrates/facts/honeybee\n- https://www.britannica.com/science/bee-dance\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "science facts for kids",
+    "interesting science facts for kids",
+    "science facts for toddlers",
+    "titanic facts for kids-science facts",
+    "why bees do waggle dance for kids",
+    "honeybee facts cartoon",
+    "insect communication kids",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

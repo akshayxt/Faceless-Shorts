@@ -1,0 +1,52 @@
+{
+  "title": "Why Fingers Turn Pruney in Water (Brain Grip Trick!)",
+  "thumb_text": "WATER GRIP SKIN!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://www.britannica.com/story/why-do-our-fingers-and-toes-wrinkle-in-water",
+    "https://www.nature.com/articles/nature.2013.12175"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Why Fingers Turn Pruney in Water (Brain Grip Trick!)!",
+      "caps": "Wait! Why *FINGERS | Turn *PRUNEY in | *WATER (Brain Grip | *TRICK!)!"
+    },
+    {
+      "text": "Most kids guess totally wrong about why fingers wrinkle in water!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | why *FINGERS wrinkle | in *WATER!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Your nervous system narrows tiny blood vessels under wet skin to.",
+      "caps": "Your *NERVOUS system | *NARROWS tiny blood | *VESSELS under wet | *SKIN to."
+    },
+    {
+      "text": "build rain-tire wrinkles that help your fingers grip slippery toys underwater.",
+      "caps": "build *RAIN-TIRE wrinkles | *THAT help your | fingers grip *SLIPPERY | toys *UNDERWATER."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Water Grip Skin!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Water Grip | *SKIN!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

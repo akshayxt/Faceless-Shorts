@@ -1,0 +1,52 @@
+{
+  "title": "Why Seeing Someone Yawn Makes YOU Yawn Too!",
+  "thumb_text": "YAWN CHAIN!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org/en/kids/yawn.html",
+    "https://www.nih.gov/news-events/nih-research-matters/why-yawning-contagious"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Why Seeing Someone Yawn Makes YOU Yawn Too!",
+      "caps": "Wait! Why *SEEING | *SOMEONE Yawn Makes | YOU *YAWN Too!"
+    },
+    {
+      "text": "Most kids guess totally wrong about why is yawning contagious!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | why is *YAWNING | *CONTAGIOUS!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Yawning boosts alertness and helps regulate brain temperature,.",
+      "caps": "Yawning boosts *ALERTNESS | and helps *REGULATE | brain *TEMPERATURE,."
+    },
+    {
+      "text": "while social mirror neurons trigger contagious yawns across groups.",
+      "caps": "while *SOCIAL mirror | neurons trigger *CONTAGIOUS | yawns *ACROSS groups."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Yawn Chain!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Yawn Chain!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "topic_id": "day14",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Does Sitting Close to the Tv Ruin Eyesight?",
+      "chars": 43,
+      "score": 66,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Does Sitting Close to the Tv Ruin...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on tv - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Does Sitting Close to the TV Permanently Hurt Eyes?",
+      "chars": 51,
+      "score": 66,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Does Sitting Close to the TV...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on tv - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Does Sitting Close to the Tv Ruin Eyesight? #Shorts",
+      "chars": 51,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Does Sitting Close to the Tv Ruin...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on tv - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Does Sitting Close to the TV Permanently Hurt Eyes? #Shorts",
+      "chars": 59,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Does Sitting Close to the TV...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on tv - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Does Sitting Close to the TV Permanently Hurt Eyes?",
+  "selected_title_lint": {
+    "title": "Does Sitting Close to the TV Permanently Hurt Eyes?",
+    "chars": 51,
+    "score": 66,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Does Sitting Close to the TV...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on tv - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "51 characters, inside the 60-character desktop cut",
+      "open question in the title"
+    ]
+  },
+  "thumb_text": "TV EYE MYTH!",
+  "hook_lint": {
+    "hook": "Every parent warns you to scoot back from the TV—does it really break your eyes?",
+    "properties": {
+      "SPECIFICITY": 35,
+      "ADDRESS": 96,
+      "STAKES": 22,
+      "CURIOSITY": 42,
+      "BREVITY": 100
+    },
+    "verdict": 44,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "does sitting close to tv hurt eyes for kids",
+  "supporting_keywords": [
+    "screen eye strain kids",
+    "healthy eye habits cartoon"
+  ],
+  "target_search_queries": [
+    "does sitting close to tv hurt eyes for kids",
+    "does sitting close to the tv ruin eyesight",
+    "science facts for kids",
+    "interesting science facts for kids"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-12T09:55:40.659361+05:30",
+    "live_yt_suggest_queries": [
+      "does sitting close to the tv ruin eyesight",
+      "science facts for kids",
+      "interesting science facts for kids",
+      "science facts for toddlers",
+      "titanic facts for kids-science facts"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "Does Sitting Close to the TV Permanently Hurt Eyes? — Every parent warns you to scoot back from the TV—does it really break your eyes?\nKids science answer for \"does sitting close to tv hurt eyes for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nModern screens do not permanently break eyes, though close staring without blinking causes tired dry eye muscles until you take a blink break.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- does sitting close to the tv ruin eyesight\n- science facts for kids\n- interesting science facts for kids\n- science facts for toddlers\n- titanic facts for kids-science facts\n\nSources & Fact Check:\n- https://www.aao.org/eye-health/tips-prevention/are-computer-glasses-worth-it\n- https://kidshealth.org/en/kids/eyes.html\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "does sitting close to the tv ruin eyesight",
+    "science facts for kids",
+    "interesting science facts for kids",
+    "science facts for toddlers",
+    "titanic facts for kids-science facts",
+    "does sitting close to tv hurt eyes for kids",
+    "screen eye strain kids",
+    "healthy eye habits cartoon",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

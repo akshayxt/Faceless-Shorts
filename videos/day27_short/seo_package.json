@@ -1,0 +1,166 @@
+{
+  "topic_id": "day27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Why Every Rainbow Is Really a Full 360° Circle!",
+      "chars": 47,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why Every Rainbow Is Really a Full 360°...\" - check the subject survives"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on circle - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Why Every Rainbow Is Really a Full 360° Circle! #Shorts",
+      "chars": 55,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why Every Rainbow Is Really a Full 360°...\" - check the subject survives"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on circle - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Full Circle Rainbow From Airplane!",
+      "chars": 34,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on circle - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Full Circle Rainbow From Airplane! #Shorts",
+      "chars": 42,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Full Circle Rainbow From Airplane!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on circle - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Why Every Rainbow Is Really a Full 360° Circle!",
+  "selected_title_lint": {
+    "title": "Why Every Rainbow Is Really a Full 360° Circle!",
+    "chars": 47,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Why Every Rainbow Is Really a Full 360°...\" - check the subject survives"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on circle - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "47 characters, inside the 60-character desktop cut",
+      "carries a concrete figure (360)"
+    ]
+  },
+  "thumb_text": "SECRET CIRCLE!",
+  "hook_lint": {
+    "hook": "We only draw half-arch rainbows—so where is the hidden bottom half hiding?",
+    "properties": {
+      "SPECIFICITY": 29,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 42,
+      "BREVITY": 100
+    },
+    "verdict": 35,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "are rainbows full circles for kids",
+  "supporting_keywords": [
+    "rainbow science cartoon kids",
+    "full circle rainbow airplane"
+  ],
+  "target_search_queries": [
+    "are rainbows full circles for kids",
+    "are rainbows full circles",
+    "full circle rainbow from airplane",
+    "rainbow science cartoon kids"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-12T09:55:40.659361+05:30",
+    "live_yt_suggest_queries": [
+      "are rainbows full circles",
+      "full circle rainbow from airplane"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "Why Every Rainbow Is Really a Full 360° Circle! — We only draw half-arch rainbows—so where is the hidden bottom half hiding?\nKids science answer for \"are rainbows full circles for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nEvery rainbow is actually a full 360-degree ring of sunlight bending through raindrops; from the ground, the Earth horizon blocks the bottom half.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- are rainbows full circles\n- full circle rainbow from airplane\n\nSources & Fact Check:\n- https://scijinks.gov/rainbow/\n- https://www.britannica.com/science/rainbow-meteorology\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "are rainbows full circles",
+    "full circle rainbow from airplane",
+    "are rainbows full circles for kids",
+    "rainbow science cartoon kids",
+    "full circle rainbow airplane",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

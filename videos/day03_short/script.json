@@ -1,0 +1,52 @@
+{
+  "title": "Why Octopuses Have 3 Hearts and Blue Blood! | Ocean Facts",
+  "thumb_text": "3 HEARTS?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kids.nationalgeographic.com/animals/invertebrates/facts/octopus",
+    "https://www.nhm.ac.uk/discover/octopuses-keep-surprising-us.html"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Why Octopuses Have 3 Hearts and Blue Blood!",
+      "caps": "Wait! Why *OCTOPUSES | Have 3 *HEARTS | and Blue *BLOOD!"
+    },
+    {
+      "text": "Most kids guess totally wrong about why octopuses have 3 hearts!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | why *OCTOPUSES have | 3 *HEARTS!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Two branchial hearts pump blood across the gills and one systemic heart.",
+      "caps": "Two *BRANCHIAL hearts | pump blood *ACROSS | the *GILLS and | one *SYSTEMIC heart."
+    },
+    {
+      "text": "pumps to the body using copper-rich blue blood suited for freezing deep oceans.",
+      "caps": "*PUMPS to the | body using *COPPER-RICH | blue blood *SUITED | for *FREEZING deep | *OCEANS."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind 3 Hearts!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND 3 Hearts!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "topic_id": "day26",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Cheetah vs Falcon: Who Hits 240 MPH in a Race?!",
+      "chars": 47,
+      "score": 84,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Cheetah vs Falcon: Who Hits 240 MPH in...\" - check the subject survives"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on 240, mph - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Cheetah vs Falcon: Who Hits 240 MPH in a Race?!",
+  "selected_title_lint": {
+    "title": "Cheetah vs Falcon: Who Hits 240 MPH in a Race?!",
+    "chars": 47,
+    "score": 84,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Cheetah vs Falcon: Who Hits 240 MPH in...\" - check the subject survives"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on 240, mph - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "47 characters, inside the 60-character desktop cut",
+      "1 all-caps word for emphasis",
+      "carries a concrete figure (240)"
+    ]
+  },
+  "thumb_text": "240 MPH WINNER!",
+  "hook_lint": {
+    "hook": "Wait—don't bet on the cheetah! Something diving from the clouds hits 240 mph!",
+    "properties": {
+      "SPECIFICITY": 62,
+      "ADDRESS": 26,
+      "STAKES": 36,
+      "CURIOSITY": 24,
+      "BREVITY": 100
+    },
+    "verdict": 39,
+    "band": "WEAK",
+    "formula": "Unclassified",
+    "matched": 0
+  },
+  "primary_keyword": "fastest animal in the world for kids",
+  "supporting_keywords": [
+    "peregrine falcon speed kids",
+    "cheetah vs falcon race cartoon"
+  ],
+  "target_search_queries": [
+    "fastest animal in the world for kids",
+    "fastest animal in the world",
+    "fastest animal in the world edit",
+    "fastest animal in the world bird"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-12T09:55:40.659361+05:30",
+    "live_yt_suggest_queries": [
+      "fastest animal in the world",
+      "fastest animal in the world edit",
+      "fastest animal in the world bird",
+      "fastest animal in the world comparison",
+      "fastest animal in the world falcon",
+      "fastest animal in the world top 10",
+      "fastest animal in the world funk",
+      "fastest animal in the world on land"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "Cheetah vs Falcon: Who Hits 240 MPH in a Race?! — Wait—don't bet on the cheetah! Something diving from the clouds hits 240 mph!\nKids science answer for \"fastest animal in the world for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nCheetahs sprint fastest on land around 60-70 mph, while a diving peregrine falcon plunges faster than 200 mph (over 240 mph recorded).\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- fastest animal in the world\n- fastest animal in the world edit\n- fastest animal in the world bird\n- fastest animal in the world comparison\n- fastest animal in the world falcon\n\nSources & Fact Check:\n- https://kids.nationalgeographic.com/animals/birds/facts/peregrine-falcon\n- https://www.britannica.com/list/the-fastest-animals-in-the-world\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "fastest animal in the world",
+    "fastest animal in the world edit",
+    "fastest animal in the world bird",
+    "fastest animal in the world comparison",
+    "fastest animal in the world falcon",
+    "fastest animal in the world top 10",
+    "fastest animal in the world for kids",
+    "peregrine falcon speed kids",
+    "cheetah vs falcon race cartoon",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

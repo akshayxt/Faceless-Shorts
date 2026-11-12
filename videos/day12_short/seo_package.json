@@ -1,0 +1,128 @@
+{
+  "topic_id": "day12",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "What Happens If You Step on Jupiter? (No Floor!)",
+      "chars": 48,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"What Happens If You Step on Jupiter?...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on floor, jupiter, no - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "What Happens If You Step on Jupiter? (No Floor!)",
+  "selected_title_lint": {
+    "title": "What Happens If You Step on Jupiter? (No Floor!)",
+    "chars": 48,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"What Happens If You Step on Jupiter?...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on floor, jupiter, no - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "48 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "NO FLOOR ON JUPITER!",
+  "hook_lint": {
+    "hook": "You step out of your spaceship onto Jupiter—wait, where did the ground go?!",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 96,
+      "STAKES": 22,
+      "CURIOSITY": 24,
+      "BREVITY": 100
+    },
+    "verdict": 43,
+    "band": "WEAK",
+    "formula": "Unclassified",
+    "matched": 0
+  },
+  "primary_keyword": "can you stand on jupiter for kids",
+  "supporting_keywords": [
+    "jupiter gas giant kids",
+    "space cartoon facts"
+  ],
+  "target_search_queries": [
+    "can you stand on jupiter for kids",
+    "can you stand on jupiter",
+    "can you walk on jupiter",
+    "space facts cartoon"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-12T09:55:40.659361+05:30",
+    "live_yt_suggest_queries": [
+      "can you stand on jupiter",
+      "can you walk on jupiter",
+      "space facts cartoon",
+      "space facts animation"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "What Happens If You Step on Jupiter? (No Floor!) — You step out of your spaceship onto Jupiter—wait, where did the ground go?!\nKids science answer for \"can you stand on jupiter for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nJupiter is a giant gas planet of hydrogen and helium with no rocky ground to stand on; gravity and pressure crush deeper layers inward.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- can you stand on jupiter\n- can you walk on jupiter\n- space facts cartoon\n- space facts animation\n\nSources & Fact Check:\n- https://spaceplace.nasa.gov/all-about-jupiter/en/\n- https://science.nasa.gov/jupiter/facts/\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "can you stand on jupiter",
+    "can you walk on jupiter",
+    "space facts cartoon",
+    "space facts animation",
+    "can you stand on jupiter for kids",
+    "jupiter gas giant kids",
+    "space cartoon facts",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

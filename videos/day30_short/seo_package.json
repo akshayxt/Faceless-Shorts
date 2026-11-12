@@ -1,0 +1,160 @@
+{
+  "topic_id": "day30",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Is the 5 Second Rule True?",
+      "chars": 26,
+      "score": 98,
+      "issues": [
+        [
+          "duplicate",
+          "thumbnail repeats the title on 5, rule, second - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Is the 5 Second Rule Real?",
+      "chars": 26,
+      "score": 98,
+      "issues": [
+        [
+          "duplicate",
+          "thumbnail repeats the title on 5, rule, second - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Is the 5 Second Rule True? #Shorts",
+      "chars": 34,
+      "score": 94,
+      "issues": [
+        [
+          "duplicate",
+          "thumbnail repeats the title on 5, rule, second - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Is the 5 Second Rule Real? #Shorts",
+      "chars": 34,
+      "score": 94,
+      "issues": [
+        [
+          "duplicate",
+          "thumbnail repeats the title on 5, rule, second - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "The 5-Second Rule on a Dropped Cookie: True or False?",
+      "chars": 53,
+      "score": 84,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"The 5-Second Rule on a Dropped Cookie:...\" - check the subject survives"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on 5, rule, second - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Is the 5 Second Rule True?",
+  "selected_title_lint": {
+    "title": "Is the 5 Second Rule True?",
+    "chars": 26,
+    "score": 98,
+    "issues": [
+      [
+        "duplicate",
+        "thumbnail repeats the title on 5, rule, second - the thumbnail should say what the title does not"
+      ]
+    ]
+  },
+  "thumb_text": "5-SECOND RULE TEST!",
+  "hook_lint": {
+    "hook": "You drop a cookie and yell FIVE-SECOND RULE! Wait—can germs really count to 5?",
+    "properties": {
+      "SPECIFICITY": 69,
+      "ADDRESS": 76,
+      "STAKES": 36,
+      "CURIOSITY": 42,
+      "BREVITY": 100
+    },
+    "verdict": 53,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "is the 5 second rule true for kids",
+  "supporting_keywords": [
+    "dropped food bacteria kids",
+    "5 second rule science cartoon"
+  ],
+  "target_search_queries": [
+    "is the 5 second rule true for kids",
+    "is the 5 second rule true",
+    "is the 5 second rule real",
+    "science facts for kids"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-12T09:55:40.659361+05:30",
+    "live_yt_suggest_queries": [
+      "is the 5 second rule true",
+      "is the 5 second rule real",
+      "science facts for kids",
+      "interesting science facts for kids",
+      "science facts for toddlers",
+      "titanic facts for kids-science facts"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "Is the 5 Second Rule True? — You drop a cookie and yell FIVE-SECOND RULE! Wait—can germs really count to 5?\nKids science answer for \"is the 5 second rule true for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nMoisture and floor cleanliness matter far more than 5 seconds—bacteria can hop onto wet or sticky food almost the instant it hits the floor.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- is the 5 second rule true\n- is the 5 second rule real\n- science facts for kids\n- interesting science facts for kids\n- science facts for toddlers\n\nSources & Fact Check:\n- https://www.rutgers.edu/news/rutgers-researchers-debunk-five-second-rule-eating-food-floor\n- https://kidshealth.org/en/kids/germs.html\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "is the 5 second rule true",
+    "is the 5 second rule real",
+    "science facts for kids",
+    "interesting science facts for kids",
+    "science facts for toddlers",
+    "titanic facts for kids-science facts",
+    "is the 5 second rule true for kids",
+    "dropped food bacteria kids",
+    "5 second rule science cartoon",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

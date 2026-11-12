@@ -1,0 +1,121 @@
+{
+  "topic_id": "day17",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Tablet 100% Charged vs Leo's Brain Battery at 5%!",
+      "chars": 49,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Tablet 100% Charged vs Leo's Brain...\" - check the subject survives"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on 5, battery, brain - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Tablet 100% Charged vs Leo's Brain Battery at 5%!",
+  "selected_title_lint": {
+    "title": "Tablet 100% Charged vs Leo's Brain Battery at 5%!",
+    "chars": 49,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Tablet 100% Charged vs Leo's Brain...\" - check the subject survives"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on 5, battery, brain - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "49 characters, inside the 60-character desktop cut",
+      "carries a concrete figure (100%, 5%)"
+    ]
+  },
+  "thumb_text": "BRAIN BATTERY 5%!",
+  "hook_lint": {
+    "hook": "Your tablet hit 100% charge overnight—so why is your brain waking up stuck at 10%?",
+    "properties": {
+      "SPECIFICITY": 73,
+      "ADDRESS": 96,
+      "STAKES": 36,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 58,
+    "band": "WORKABLE",
+    "formula": "The Statistic",
+    "matched": 1
+  },
+  "primary_keyword": "screen time before bed brain for kids",
+  "supporting_keywords": [
+    "sleep hygiene cartoon kids",
+    "bedtime battery story"
+  ],
+  "target_search_queries": [
+    "screen time before bed brain for kids",
+    "science facts for kids",
+    "interesting science facts for kids",
+    "science facts for toddlers"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-12T09:55:40.659361+05:30",
+    "live_yt_suggest_queries": [
+      "science facts for kids",
+      "interesting science facts for kids",
+      "science facts for toddlers",
+      "titanic facts for kids-science facts"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "Tablet 100% Charged vs Leo's Brain Battery at 5%! — Your tablet hit 100% charge overnight—so why is your brain waking up stuck at 10%?\nKids science answer for \"screen time before bed brain for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nBright screens near bedtime trick your brain into thinking it is daytime, delaying sleep hormones that recharge energy and memory.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- science facts for kids\n- interesting science facts for kids\n- science facts for toddlers\n- titanic facts for kids-science facts\n\nSources & Fact Check:\n- https://www.cdc.gov/sleep/about/index.html\n- https://kidshealth.org/en/kids/not-tired.html\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "science facts for kids",
+    "interesting science facts for kids",
+    "science facts for toddlers",
+    "titanic facts for kids-science facts",
+    "screen time before bed brain for kids",
+    "sleep hygiene cartoon kids",
+    "bedtime battery story",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

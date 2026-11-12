@@ -1,0 +1,44 @@
+{
+  "channel_id": "UCR-Di4-tEAdUM7oPzlGn-vg",
+  "channel_name": "BabyBeats Rhymo",
+  "campaign_start_date": "2026-11-09",
+  "campaign_end_date": "2026-12-09",
+  "target_net_subscribers": 5000,
+  "starting_subscribers": 0,
+  "current_subscribers": 0,
+  "net_subscribers_gained": 0,
+  "total_target_progress_pct": 0.0,
+  "remaining_subscribers": 5000,
+  "last_verified_utc": "2026-11-11T05:48:14Z",
+  "verification_note": "Verified live via Zapier MCP YouTubeV4CLIAPI channels.list & videos.list (2026-11-11 11:18 IST): 0 subscribers, 2 channel views, 1 public video (icO_GKpGBrk).",
+  "daily_log": [
+    {
+      "day": 1,
+      "date": "2026-11-11",
+      "starting_subscribers": 0,
+      "current_subscribers": 0,
+      "net_gained_today": 0,
+      "remaining_subscribers": 5000,
+      "remaining_days": 28,
+      "required_subs_per_day": 178.6,
+      "shorts_rendered": 8,
+      "longform_rendered": 1,
+      "shorts_published": 0,
+      "longform_published": 0,
+      "notes": "Pivoted cleanly to 100% US English (am_puck, en-US); live YouTube channel telemetry verified via Zapier MCP (0 subs, 2 views, 1 existing video icO_GKpGBrk); 9 US English deliverables queued READY_FOR_UPLOAD."
+    }
+  ],
+  "video_analytics": [
+    {
+      "video_id": "icO_GKpGBrk",
+      "title": "What If You Swallow Gum? 🤢 #shorts #kids #education",
+      "published_at": "2026-11-09T06:12:27Z",
+      "views": 2,
+      "likes": 1,
+      "comments": 0,
+      "privacy": "public",
+      "made_for_kids": true,
+      "checked_at_ist": "2026-11-11T11:18:19+05:30"
+    }
+  ]
+}

@@ -1,0 +1,1151 @@
+{
+  "generated_at": "2026-11-11T10:30:00+05:30",
+  "channel": "BabyBeats Rhymo (UCR-Di4-tEAdUM7oPzlGn-vg)",
+  "target_market": "United States (en-US ONLY)",
+  "rubric": {
+    "audience_demand": 20,
+    "recent_growth": 20,
+    "competition_opportunity": 15,
+    "audience_curiosity": 15,
+    "click_potential": 10,
+    "retention_potential": 10,
+    "production_feasibility": 5,
+    "niche_relevance": 5
+  },
+  "competitor_benchmarks_tracked": [
+    {
+      "name": "Peekaboo Kidz / Dr. Binocs Show",
+      "pattern": "Curious 'Why does...' body & nature questions with friendly mascot host",
+      "gap": "Slower 4-6 min format; fast 40-sec high-energy US Shorts earn higher replay"
+    },
+    {
+      "name": "SciShow Kids",
+      "pattern": "Dinner-table questions US elementary kids ask parents",
+      "gap": "Live-action host focus; colorful flat-vector animation performs stronger on Shorts shelf"
+    },
+    {
+      "name": "AumSum (It's AumSum Time)",
+      "pattern": "'What if...' exaggerated cartoon science comedy",
+      "gap": "Clean opportunity for tight 35-45s punchy vertical facts + chaptered 6-min deep dives"
+    },
+    {
+      "name": "Kurzgesagt (Kids-safe science style)",
+      "pattern": "Bold flat-vector diagrams turning microscopic biology into visual stories",
+      "gap": "Complex vocabulary; simplifying to ages 4-12 captures younger US families"
+    },
+    {
+      "name": "National Geographic Kids",
+      "pattern": "Surprising wildlife superpowers and bizarre adaptations",
+      "gap": "Photo slideshows; expressive 2D cartoon characters boost child retention"
+    },
+    {
+      "name": "NASA Space Place",
+      "pattern": "Authoritative cosmic mysteries explained visually",
+      "gap": "Needs fast hook-first YouTube packaging (numbers + contrast thumbnails)"
+    },
+    {
+      "name": "Bright Side Kids / Riddles",
+      "pattern": "Wait-for-the-twist comparison quizzes & animal showdowns",
+      "gap": "Often stretched intro; immediate 1.5s visual payoff wins Shorts feed"
+    },
+    {
+      "name": "Mystery Science",
+      "pattern": "Grade-school STEM questions sparked by everyday kids experiences",
+      "gap": "Classroom-locked; home/YouTube family entertainment packaging works better"
+    },
+    {
+      "name": "Cool School",
+      "pattern": "Character-driven funny moral stories",
+      "gap": "Pairing funny story fables with real science facts drives parent shares"
+    },
+    {
+      "name": "TED-Ed Animation",
+      "pattern": "Question-led curiosity narratives",
+      "gap": "Built for teens/adults; 4-12 US kids need brighter colors & punchier beats"
+    }
+  ],
+  "topics": [
+    {
+      "id": "day01",
+      "day": 1,
+      "category": "body-science",
+      "title": "Why 1 Mosquito Bite Itches in 3 Seconds! | Kids Science",
+      "longform_title": "Inside Your Brain at 2 AM: Why We Dream | Cartoon Science",
+      "longform_thumb_text": "NIGHT MOVIE?",
+      "longform_primary_keyword": "why do we dream for kids",
+      "longform_supporting_keywords": [
+        "sleep science for kids",
+        "rem sleep cartoon explained",
+        "brain facts at night for kids"
+      ],
+      "longform_fact_summary": "During REM sleep, your brainstem pauses body muscles while visual and emotion centers replay memories like a creative night movie, and fluid washes away daytime brain clutter.",
+      "longform_hook": "At 2 AM while your eyes stay shut, why does a movie theater switch ON inside your brain?",
+      "longform_sources": [
+        "https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep",
+        "https://kidshealth.org/en/kids/not-tired.html",
+        "https://www.sleepfoundation.org/dreams"
+      ],
+      "thumb_text": "TINY STRAW!",
+      "primary_keyword": "why mosquito bites itch for kids",
+      "supporting_keywords": [
+        "mosquito bite science for kids",
+        "human body facts cartoon",
+        "why do mosquito bites itch"
+      ],
+      "score_breakdown": {
+        "audience_demand": 19,
+        "recent_growth": 17,
+        "competition_opportunity": 14,
+        "audience_curiosity": 15,
+        "click_potential": 9,
+        "retention_potential": 9,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 93,
+      "fact_summary": "Only female mosquitoes bite for egg protein. Their saliva keeps blood flowing without clotting; your immune system releases histamine, causing the red itchy bump.",
+      "sources": [
+        "https://www.cdc.gov/mosquitoes/about/what-is-a-mosquito.html",
+        "https://kidshealth.org/en/kids/bug-bites.html"
+      ],
+      "hook": "You lose 3 seconds before 1 tiny mosquito spits saliva inside your skin!",
+      "visual_focus": "mosquito cartoon zoom, skin x-ray histamine alarm, itching kid cartoon",
+      "status": "scheduled",
+      "rendered_at_ist": "2026-11-11T10:36:30+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day01_short\\renders\\day01_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day01_short\\renders\\day01_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day01_short\\seo_package.json",
+      "youtube_video_id": "5Iw0ZOny3Ag",
+      "youtube_url": "https://www.youtube.com/watch?v=5Iw0ZOny3Ag"
+    },
+    {
+      "id": "day02",
+      "day": 2,
+      "category": "myth-bust",
+      "title": "Swallowed Watermelon Seeds? The 5-Second Belly Truth!",
+      "thumb_text": "BELLY TREE MYTH",
+      "primary_keyword": "swallowing watermelon seeds myth for kids",
+      "supporting_keywords": [
+        "stomach acid facts for kids",
+        "digestive system cartoon",
+        "childhood myths busted"
+      ],
+      "score_breakdown": {
+        "audience_demand": 18,
+        "recent_growth": 17,
+        "competition_opportunity": 14,
+        "audience_curiosity": 15,
+        "click_potential": 9,
+        "retention_potential": 9,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 92,
+      "fact_summary": "Stomach gastric acid breaks down food while seed shells pass safely through digestion; seeds need soil, water, and sunlight — not tummy acid — to sprout.",
+      "sources": [
+        "https://www.britannica.com/science/human-digestive-system",
+        "https://kidshealth.org/en/kids/digestive-system.html"
+      ],
+      "hook": "You ate 1 watermelon seed by accident—could a vine sprout inside your belly?",
+      "visual_focus": "worried kid, inside stomach acid splash, tiny seed sliding out safely",
+      "status": "scheduled",
+      "rendered_at_ist": "2026-11-11T10:50:03.269736+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day02_short\\renders\\day02_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day02_short\\renders\\day02_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day02_short\\seo_package.json",
+      "youtube_video_id": "BRZ63CxsWvo",
+      "youtube_url": "https://www.youtube.com/watch?v=BRZ63CxsWvo"
+    },
+    {
+      "id": "day03",
+      "day": 3,
+      "category": "animal-vs",
+      "title": "Why Octopuses Have 3 Hearts and Blue Blood! | Ocean Facts",
+      "thumb_text": "3 HEARTS?!",
+      "primary_keyword": "why octopuses have 3 hearts for kids",
+      "supporting_keywords": [
+        "octopus blue blood facts",
+        "sea animals cartoon for kids",
+        "ocean science facts"
+      ],
+      "score_breakdown": {
+        "audience_demand": 18,
+        "recent_growth": 16,
+        "competition_opportunity": 13,
+        "audience_curiosity": 15,
+        "click_potential": 9,
+        "retention_potential": 9,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 90,
+      "fact_summary": "Two branchial hearts pump blood across the gills and one systemic heart pumps to the body using copper-rich blue blood suited for freezing deep oceans.",
+      "sources": [
+        "https://kids.nationalgeographic.com/animals/invertebrates/facts/octopus",
+        "https://www.nhm.ac.uk/discover/octopuses-keep-surprising-us.html"
+      ],
+      "hook": "Forget 1 red heart—this ocean genius hides 3 beating hearts and bright blue blood!",
+      "visual_focus": "cartoon octopus x-ray showing 3 pumping hearts and cyan veins",
+      "status": "scheduled",
+      "rendered_at_ist": "2026-11-11T10:52:43.936703+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day03_short\\renders\\day03_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day03_short\\renders\\day03_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day03_short\\seo_package.json",
+      "youtube_video_id": "quFJ9lUrE3U",
+      "youtube_url": "https://www.youtube.com/watch?v=quFJ9lUrE3U"
+    },
+    {
+      "id": "day04",
+      "day": 4,
+      "category": "body-science",
+      "title": "Why Cutting 1 Onion Makes Your Eyes Cry in 10 Seconds!",
+      "thumb_text": "ONION TEARS!",
+      "primary_keyword": "why onions make you cry for kids",
+      "supporting_keywords": [
+        "kitchen science for kids",
+        "onion gas tears explanation",
+        "funny eye science cartoon"
+      ],
+      "score_breakdown": {
+        "audience_demand": 18,
+        "recent_growth": 16,
+        "competition_opportunity": 13,
+        "audience_curiosity": 14,
+        "click_potential": 9,
+        "retention_potential": 9,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 89,
+      "fact_summary": "Slicing onion cells mixes enzymes and sulfur compounds into an invisible gas that floats to your eyes and triggers tears to wash the eyes clean.",
+      "sources": [
+        "https://www.loc.gov/everyday-mysteries/food-and-nutrition/item/why-do-onions-make-you-cry/",
+        "https://www.britannica.com/story/why-do-onions-make-you-cry"
+      ],
+      "hook": "You are not sad at all—yet 1 tiny onion makes you cry in 10 seconds!",
+      "visual_focus": "grumpy cartoon onion shield puffing gas molecules up to watering eyes",
+      "status": "scheduled",
+      "rendered_at_ist": "2026-11-11T10:55:30.599982+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day04_short\\renders\\day04_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day04_short\\renders\\day04_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day04_short\\seo_package.json",
+      "youtube_video_id": "AUlnCIcT9Wk",
+      "youtube_url": "https://www.youtube.com/watch?v=AUlnCIcT9Wk"
+    },
+    {
+      "id": "day05",
+      "day": 5,
+      "category": "space-nature",
+      "title": "Why the Daytime Sky Turns Blue (Not Purple)! | Space Kids",
+      "thumb_text": "WHY BLUE SKY?",
+      "primary_keyword": "why is the sky blue for kids",
+      "supporting_keywords": [
+        "rayleigh scattering kids cartoon",
+        "sunlight colors science",
+        "nasa sky facts for kids"
+      ],
+      "score_breakdown": {
+        "audience_demand": 19,
+        "recent_growth": 16,
+        "competition_opportunity": 12,
+        "audience_curiosity": 14,
+        "click_potential": 8,
+        "retention_potential": 9,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 88,
+      "fact_summary": "Sunlight carries every rainbow color; shorter blue light waves bounce off tiny air molecules across the sky far more than red waves.",
+      "sources": [
+        "https://spaceplace.nasa.gov/blue-sky/en/",
+        "https://www.britannica.com/science/Rayleigh-scattering"
+      ],
+      "hook": "Sunlight looks white—so why does the sky paint itself giant blue every morning?",
+      "visual_focus": "sun prism beam hitting air molecules bouncing blue waves across sky",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T10:58:06.034579+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day05_short\\renders\\day05_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day05_short\\renders\\day05_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day05_short\\seo_package.json"
+    },
+    {
+      "id": "day06",
+      "day": 6,
+      "category": "body-science",
+      "title": "What Causes Sudden Hiccups Inside Your Belly! | Body Lab",
+      "thumb_text": "HICCUP TRICK!",
+      "primary_keyword": "what causes hiccups for kids",
+      "supporting_keywords": [
+        "diaphragm muscle for kids",
+        "how hiccups work cartoon",
+        "stop hiccups science"
+      ],
+      "score_breakdown": {
+        "audience_demand": 17,
+        "recent_growth": 16,
+        "competition_opportunity": 13,
+        "audience_curiosity": 14,
+        "click_potential": 8,
+        "retention_potential": 9,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 87,
+      "fact_summary": "A hiccup is a sudden spasm of the diaphragm muscle under your lungs that pulls air in fast and snaps your vocal cords shut.",
+      "sources": [
+        "https://kidshealth.org/en/kids/hiccup.html",
+        "https://my.clevelandclinic.org/health/diseases/17672-hiccups"
+      ],
+      "hook": "HIC! What muscle beneath your lungs just bounced without asking your permission?",
+      "visual_focus": "x-ray lungs bouncing over startled diaphragm trampoline",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:00:46.434762+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day06_short\\renders\\day06_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day06_short\\renders\\day06_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day06_short\\seo_package.json"
+    },
+    {
+      "id": "day07",
+      "day": 7,
+      "category": "animal-vs",
+      "title": "Small vs Tall Fall: Why Cats ALWAYS Land on Their Feet!",
+      "thumb_text": "CAT FLIP SECRET!",
+      "primary_keyword": "how cats always land on their feet for kids",
+      "supporting_keywords": [
+        "cat righting reflex kids",
+        "animal physics cartoon",
+        "fun cat facts for kids"
+      ],
+      "score_breakdown": {
+        "audience_demand": 17,
+        "recent_growth": 16,
+        "competition_opportunity": 13,
+        "audience_curiosity": 14,
+        "click_potential": 9,
+        "retention_potential": 8,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 87,
+      "fact_summary": "Cats use a flexible spine, missing rigid collarbones, and inner-ear balance to twist their front paws first and back paws second mid-air.",
+      "sources": [
+        "https://www.britannica.com/story/how-do-cats-always-land-on-their-feet",
+        "https://kids.nationalgeographic.com/animals/mammals/facts/domestic-cat"
+      ],
+      "hook": "Drop 1 pillow—it flops. Yet how does a cat pull off a ninja flip mid-air?",
+      "visual_focus": "cartoon cat mid-air twist steps with inner-ear gyro compass",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:05:09.484668+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day07_short\\renders\\day07_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day07_short\\renders\\day07_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day07_short\\seo_package.json"
+    },
+    {
+      "id": "day08",
+      "day": 8,
+      "category": "body-science",
+      "title": "Why Cold Ice Cream Gives You Instant Brain Freeze!",
+      "thumb_text": "BRAIN FREEZE!",
+      "primary_keyword": "what causes brain freeze for kids",
+      "supporting_keywords": [
+        "ice cream headache science kids",
+        "mouth roof nerve cartoon",
+        "funny cold facts"
+      ],
+      "score_breakdown": {
+        "audience_demand": 17,
+        "recent_growth": 15,
+        "competition_opportunity": 13,
+        "audience_curiosity": 14,
+        "click_potential": 9,
+        "retention_potential": 9,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 87,
+      "fact_summary": "Freezing the roof of your mouth makes blood vessels shrink and quickly open wide again, sending an alarm signal up your facial nerve.",
+      "sources": [
+        "https://kidshealth.org/en/kids/brain-freeze.html",
+        "https://www.hopkinsmedicine.org/health/conditions-and-diseases/ice-cream-headaches"
+      ],
+      "hook": "One giant scoop of ice cream and boom—did your brain actually freeze inside?",
+      "visual_focus": "ice cream cone cold wave hitting mouth roof nerve alarm to brain",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:08:55.852246+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day08_short\\renders\\day08_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day08_short\\renders\\day08_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day08_short\\seo_package.json"
+    },
+    {
+      "id": "day09",
+      "day": 9,
+      "category": "myth-bust",
+      "title": "Can Holding 1 Sneeze Really Pop Your Eyes Out?! | Myth",
+      "thumb_text": "DON'T HOLD IT!",
+      "primary_keyword": "holding in a sneeze myth for kids",
+      "supporting_keywords": [
+        "sneeze speed science kids",
+        "ear pressure sneeze cartoon",
+        "myth busting kids"
+      ],
+      "score_breakdown": {
+        "audience_demand": 17,
+        "recent_growth": 16,
+        "competition_opportunity": 12,
+        "audience_curiosity": 14,
+        "click_potential": 9,
+        "retention_potential": 8,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 86,
+      "fact_summary": "Strong eye muscles keep eyes safely locked in place, but blocking a powerful sneeze forces air pressure toward delicate eardrum tubes.",
+      "sources": [
+        "https://www.livescience.com/45491-can-sneezing-pop-your-eyeballs-out.html",
+        "https://kidshealth.org/en/kids/sneeze.html"
+      ],
+      "hook": "AACHOO! If you pinch your nose during 1 big sneeze, where does that wind blast go?",
+      "visual_focus": "cartoon air pressure bouncing safely into a tissue vs pinched nose",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:12:44.957992+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day09_short\\renders\\day09_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day09_short\\renders\\day09_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day09_short\\seo_package.json"
+    },
+    {
+      "id": "day10",
+      "day": 10,
+      "category": "moral-story",
+      "title": "The Night Leo Skipped Brushing His Teeth (Cartoon!)",
+      "thumb_text": "SUGAR BUG PARTY!",
+      "primary_keyword": "why brush teeth at night for kids",
+      "supporting_keywords": [
+        "sugar bugs teeth cartoon",
+        "dental habits kids animation",
+        "healthy habits story"
+      ],
+      "score_breakdown": {
+        "audience_demand": 18,
+        "recent_growth": 15,
+        "competition_opportunity": 12,
+        "audience_curiosity": 13,
+        "click_potential": 9,
+        "retention_potential": 9,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 86,
+      "fact_summary": "Saliva slows down at bedtime while mouth bacteria eat leftover sugar and release acid that slowly wears away strong tooth enamel.",
+      "sources": [
+        "https://kidshealth.org/en/kids/teeth-care.html",
+        "https://www.nidcr.nih.gov/health-info/tooth-decay"
+      ],
+      "hook": "You ate 3 gummies before bed and skipped brushing—look who wakes up at 2 AM!",
+      "visual_focus": "tiny cartoon enamel shields vs funny acid bugs and toothbrush hero",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:16:35.953942+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day10_short\\renders\\day10_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day10_short\\renders\\day10_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day10_short\\seo_package.json"
+    },
+    {
+      "id": "day11",
+      "day": 11,
+      "category": "animal-vs",
+      "title": "How Dogs Can Literally Smell Time Passing! | Puppy Facts",
+      "thumb_text": "DOGS SMELL TIME!",
+      "primary_keyword": "dogs smell time facts for kids",
+      "supporting_keywords": [
+        "dog nose superpower kids",
+        "amazing dog facts cartoon"
+      ],
+      "score_breakdown": {
+        "audience_demand": 17,
+        "recent_growth": 15,
+        "competition_opportunity": 13,
+        "audience_curiosity": 14,
+        "click_potential": 8,
+        "retention_potential": 8,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 85,
+      "fact_summary": "Dogs have up to 300 million scent receptors and notice fading household smells across hours to predict when their family comes home.",
+      "sources": [
+        "https://www.pbs.org/wgbh/nova/article/dogs-sense-of-smell/",
+        "https://kids.nationalgeographic.com/animals/mammals/facts/dog"
+      ],
+      "hook": "No wristwatch at all—yet how does your dog wait at the door at 5 PM sharp?",
+      "visual_focus": "scent clouds fading over clock dial to waiting cartoon puppy",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:26:15.924643+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day11_short\\renders\\day11_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day11_short\\renders\\day11_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day11_short\\seo_package.json"
+    },
+    {
+      "id": "day12",
+      "day": 12,
+      "category": "space-nature",
+      "title": "What Happens If You Step on Jupiter? (No Floor!)",
+      "thumb_text": "NO FLOOR ON JUPITER!",
+      "primary_keyword": "can you stand on jupiter for kids",
+      "supporting_keywords": [
+        "jupiter gas giant kids",
+        "space cartoon facts"
+      ],
+      "score_breakdown": {
+        "audience_demand": 17,
+        "recent_growth": 16,
+        "competition_opportunity": 12,
+        "audience_curiosity": 14,
+        "click_potential": 8,
+        "retention_potential": 8,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 85,
+      "fact_summary": "Jupiter is a giant gas planet of hydrogen and helium with no rocky ground to stand on; gravity and pressure crush deeper layers inward.",
+      "sources": [
+        "https://spaceplace.nasa.gov/all-about-jupiter/en/",
+        "https://science.nasa.gov/jupiter/facts/"
+      ],
+      "hook": "You step out of your spaceship onto Jupiter—wait, where did the ground go?!",
+      "visual_focus": "cartoon astronaut floating into swirling gas cloud bands of Jupiter",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:28:24.610359+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day12_short\\renders\\day12_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day12_short\\renders\\day12_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day12_short\\seo_package.json"
+    },
+    {
+      "id": "day13",
+      "day": 13,
+      "category": "body-science",
+      "title": "Why Fingers Turn Pruney in Water (Brain Grip Trick!)",
+      "thumb_text": "WATER GRIP SKIN!",
+      "primary_keyword": "why fingers wrinkle in water for kids",
+      "supporting_keywords": [
+        "rain tire fingers science kids",
+        "nervous system facts"
+      ],
+      "score_breakdown": {
+        "audience_demand": 16,
+        "recent_growth": 15,
+        "competition_opportunity": 13,
+        "audience_curiosity": 14,
+        "click_potential": 8,
+        "retention_potential": 8,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 84,
+      "fact_summary": "Your nervous system narrows tiny blood vessels under wet skin to build rain-tire wrinkles that help your fingers grip slippery toys underwater.",
+      "sources": [
+        "https://www.britannica.com/story/why-do-our-fingers-and-toes-wrinkle-in-water",
+        "https://www.nature.com/articles/nature.2013.12175"
+      ],
+      "hook": "Pruney bath fingers are NOT soggy skin—your brain turns them into rain tires!",
+      "visual_focus": "cartoon hand transforming into tire treads gripping wet toy",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:30:41.638081+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day13_short\\renders\\day13_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day13_short\\renders\\day13_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day13_short\\seo_package.json"
+    },
+    {
+      "id": "day14",
+      "day": 14,
+      "category": "myth-bust",
+      "title": "Does Sitting Close to the TV Permanently Hurt Eyes?",
+      "thumb_text": "TV EYE MYTH!",
+      "primary_keyword": "does sitting close to tv hurt eyes for kids",
+      "supporting_keywords": [
+        "screen eye strain kids",
+        "healthy eye habits cartoon"
+      ],
+      "score_breakdown": {
+        "audience_demand": 17,
+        "recent_growth": 15,
+        "competition_opportunity": 12,
+        "audience_curiosity": 13,
+        "click_potential": 8,
+        "retention_potential": 9,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 84,
+      "fact_summary": "Modern screens do not permanently break eyes, though close staring without blinking causes tired dry eye muscles until you take a blink break.",
+      "sources": [
+        "https://www.aao.org/eye-health/tips-prevention/are-computer-glasses-worth-it",
+        "https://kidshealth.org/en/kids/eyes.html"
+      ],
+      "hook": "Every parent warns you to scoot back from the TV—does it really break your eyes?",
+      "visual_focus": "tired squinting cartoon eyes getting blink break and outdoor green view",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:32:54.582433+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day14_short\\renders\\day14_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day14_short\\renders\\day14_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day14_short\\seo_package.json"
+    },
+    {
+      "id": "day15",
+      "day": 15,
+      "category": "animal-vs",
+      "title": "Chameleons Don't Change Color Just to Hide?!",
+      "thumb_text": "MOOD COLORS!",
+      "primary_keyword": "why chameleons change color for kids",
+      "supporting_keywords": [
+        "chameleon mood colors kids",
+        "reptile facts cartoon"
+      ],
+      "score_breakdown": {
+        "audience_demand": 16,
+        "recent_growth": 15,
+        "competition_opportunity": 13,
+        "audience_curiosity": 14,
+        "click_potential": 8,
+        "retention_potential": 8,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 84,
+      "fact_summary": "Chameleons mostly shift skin nanocrystals to control body temperature and signal moods like excitement, anger, or sunshine warmth.",
+      "sources": [
+        "https://kids.nationalgeographic.com/animals/reptiles/facts/chameleon",
+        "https://www.nature.com/articles/ncomms7368"
+      ],
+      "hook": "Everyone thinks chameleons only match leaves to hide—turns out they flash mood lights!",
+      "visual_focus": "cartoon chameleon flashing bright yellow, angry red, and cool blue",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:35:08.107731+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day15_short\\renders\\day15_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day15_short\\renders\\day15_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day15_short\\seo_package.json"
+    },
+    {
+      "id": "day16",
+      "day": 16,
+      "category": "space-nature",
+      "title": "Why You Hear ZERO Sound Inside Outer Space!",
+      "thumb_text": "SILENT SPACE!",
+      "primary_keyword": "why is space silent for kids",
+      "supporting_keywords": [
+        "sound waves vacuum kids",
+        "astronaut space science cartoon"
+      ],
+      "score_breakdown": {
+        "audience_demand": 16,
+        "recent_growth": 15,
+        "competition_opportunity": 13,
+        "audience_curiosity": 13,
+        "click_potential": 8,
+        "retention_potential": 8,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 83,
+      "fact_summary": "Sound travels as vibrations bumping through air molecules; because outer space is mostly an empty vacuum, sound waves cannot travel there.",
+      "sources": [
+        "https://spaceplace.nasa.gov/sound-in-space/en/",
+        "https://kids.britannica.com/kids/article/sound/353792"
+      ],
+      "hook": "Blast a giant horn in outer space—why would nobody beside you hear 1 single beep?",
+      "visual_focus": "air dominoes vibrating on Earth vs silent void between astronauts",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:37:12.261396+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day16_short\\renders\\day16_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day16_short\\renders\\day16_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day16_short\\seo_package.json"
+    },
+    {
+      "id": "day17",
+      "day": 17,
+      "category": "moral-story",
+      "title": "Tablet 100% Charged vs Leo's Brain Battery at 5%!",
+      "thumb_text": "BRAIN BATTERY 5%!",
+      "primary_keyword": "screen time before bed brain for kids",
+      "supporting_keywords": [
+        "sleep hygiene cartoon kids",
+        "bedtime battery story"
+      ],
+      "score_breakdown": {
+        "audience_demand": 17,
+        "recent_growth": 15,
+        "competition_opportunity": 12,
+        "audience_curiosity": 12,
+        "click_potential": 8,
+        "retention_potential": 9,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 83,
+      "fact_summary": "Bright screens near bedtime trick your brain into thinking it is daytime, delaying sleep hormones that recharge energy and memory.",
+      "sources": [
+        "https://www.cdc.gov/sleep/about/index.html",
+        "https://kidshealth.org/en/kids/not-tired.html"
+      ],
+      "hook": "Your tablet hit 100% charge overnight—so why is your brain waking up stuck at 10%?",
+      "visual_focus": "tablet green battery vs sleepy kid battery recharging to 100%",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:39:35.983922+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day17_short\\renders\\day17_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day17_short\\renders\\day17_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day17_short\\seo_package.json"
+    },
+    {
+      "id": "day18",
+      "day": 18,
+      "category": "body-science",
+      "title": "60,000 Miles of Blood Pipes Hidden Inside 1 Kid!",
+      "thumb_text": "60,000 MILES INSIDE!",
+      "primary_keyword": "blood vessels length inside human body for kids",
+      "supporting_keywords": [
+        "heart circulatory system kids",
+        "human body miles facts"
+      ],
+      "score_breakdown": {
+        "audience_demand": 16,
+        "recent_growth": 15,
+        "competition_opportunity": 13,
+        "audience_curiosity": 13,
+        "click_potential": 8,
+        "retention_potential": 8,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 83,
+      "fact_summary": "A child has roughly 60,000 miles of arteries, veins, and tiny capillaries carrying oxygen nonstop—long enough to wrap around Earth twice!",
+      "sources": [
+        "https://www.fi.edu/en/heart/blood-vessels",
+        "https://kidshealth.org/en/kids/heart.html"
+      ],
+      "hook": "Inside your small body hide enough blood highways to circle Planet Earth twice!",
+      "visual_focus": "kid x-ray wrapping glowing ribbon twice around spinning Earth",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:42:10.463858+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day18_short\\renders\\day18_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day18_short\\renders\\day18_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day18_short\\seo_package.json"
+    },
+    {
+      "id": "day19",
+      "day": 19,
+      "category": "animal-vs",
+      "title": "Why Penguin Feet Never Freeze on -40° Ice!",
+      "thumb_text": "ICE-PROOF FEET!",
+      "primary_keyword": "why penguins feet dont freeze for kids",
+      "supporting_keywords": [
+        "penguin antarctica facts cartoon",
+        "animal winter adaptation kids"
+      ],
+      "score_breakdown": {
+        "audience_demand": 16,
+        "recent_growth": 14,
+        "competition_opportunity": 13,
+        "audience_curiosity": 13,
+        "click_potential": 8,
+        "retention_potential": 8,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 82,
+      "fact_summary": "Penguins use clever warm-to-cold heat-swap blood vessels in their legs so feet stay just above freezing while keeping core bodies toasty.",
+      "sources": [
+        "https://www.whoi.edu/know-your-ocean/did-you-know/how-do-penguins-keep-their-feet-warm/",
+        "https://kids.nationalgeographic.com/animals/birds/facts/emperor-penguin"
+      ],
+      "hook": "Barefoot on freezing Antarctic ice all winter—why don't penguins turn into popsicles?",
+      "visual_focus": "cartoon penguin waddling happy with heat-swap arrows in legs",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:44:19.262079+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day19_short\\renders\\day19_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day19_short\\renders\\day19_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day19_short\\seo_package.json"
+    },
+    {
+      "id": "day20",
+      "day": 20,
+      "category": "body-science",
+      "title": "Why Strong Stomach Acid Doesn't Melt Your Own Tummy!",
+      "thumb_text": "MUCUS SUPER SHIELD!",
+      "primary_keyword": "why stomach acid doesnt digest stomach for kids",
+      "supporting_keywords": [
+        "stomach mucus shield kids",
+        "digestion facts cartoon"
+      ],
+      "score_breakdown": {
+        "audience_demand": 16,
+        "recent_growth": 15,
+        "competition_opportunity": 12,
+        "audience_curiosity": 13,
+        "click_potential": 8,
+        "retention_potential": 8,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 82,
+      "fact_summary": "Your tummy makes strong acid to break down pizza, while special lining cells paint a slippery mucus shield and rebuild fast every few days.",
+      "sources": [
+        "https://kidshealth.org/en/kids/digestive-system.html",
+        "https://www.britannica.com/science/stomach"
+      ],
+      "hook": "Stomach acid melts burgers and apples into soup—so why doesn't it melt your stomach?",
+      "visual_focus": "x-ray stomach acid splash bouncing off cyan mucus forcefield",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:46:32.210785+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day20_short\\renders\\day20_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day20_short\\renders\\day20_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day20_short\\seo_package.json"
+    },
+    {
+      "id": "day21",
+      "day": 21,
+      "category": "animal-vs",
+      "title": "How Honeybees Dance to Share Secret GPS Maps!",
+      "thumb_text": "BEE DANCE GPS!",
+      "primary_keyword": "why bees do waggle dance for kids",
+      "supporting_keywords": [
+        "honeybee facts cartoon",
+        "insect communication kids"
+      ],
+      "score_breakdown": {
+        "audience_demand": 15,
+        "recent_growth": 14,
+        "competition_opportunity": 13,
+        "audience_curiosity": 13,
+        "click_potential": 8,
+        "retention_potential": 8,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 81,
+      "fact_summary": "Worker honeybees perform a figure-eight waggle dance whose angle to the sun and wiggle duration give hive mates exact flower directions.",
+      "sources": [
+        "https://kids.nationalgeographic.com/animals/invertebrates/facts/honeybee",
+        "https://www.britannica.com/science/bee-dance"
+      ],
+      "hook": "Honeybees cannot text directions—so they shake a figure-8 dance GPS inside the hive!",
+      "visual_focus": "tiny cartoon bee waggling figure-8 map pointing toward sunny flowers",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:48:40.487566+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day21_short\\renders\\day21_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day21_short\\renders\\day21_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day21_short\\seo_package.json"
+    },
+    {
+      "id": "day22",
+      "day": 22,
+      "category": "myth-bust",
+      "title": "Are Bats Actually Blind Like Movies Claim? | Truth",
+      "thumb_text": "BAT SOUND RADAR!",
+      "primary_keyword": "are bats blind myth for kids",
+      "supporting_keywords": [
+        "bat echolocation cartoon kids",
+        "night animal facts"
+      ],
+      "score_breakdown": {
+        "audience_demand": 15,
+        "recent_growth": 14,
+        "competition_opportunity": 13,
+        "audience_curiosity": 13,
+        "click_potential": 8,
+        "retention_potential": 8,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 81,
+      "fact_summary": "Bats are not blind—many see very well—and bats also bounce high-pitched sound echoes off insects in pitch-dark skies.",
+      "sources": [
+        "https://www.usgs.gov/faqs/are-bats-blind",
+        "https://kids.nationalgeographic.com/animals/mammals/facts/vampire-bat"
+      ],
+      "hook": "Blind as a bat? Wrong! Bats see fine AND paint pictures in the dark using sound!",
+      "visual_focus": "cute cartoon bat sending cyan sonar rings bouncing off moth",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:50:45.116149+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day22_short\\renders\\day22_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day22_short\\renders\\day22_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day22_short\\seo_package.json"
+    },
+    {
+      "id": "day23",
+      "day": 23,
+      "category": "space-nature",
+      "title": "How 1 Fluffy Cloud Weighs as Much as 100 Elephants!",
+      "thumb_text": "100 ELEPHANT CLOUD!",
+      "primary_keyword": "why do clouds float for kids",
+      "supporting_keywords": [
+        "how much does a cloud weigh kids",
+        "weather science cartoon"
+      ],
+      "score_breakdown": {
+        "audience_demand": 16,
+        "recent_growth": 14,
+        "competition_opportunity": 12,
+        "audience_curiosity": 13,
+        "click_potential": 8,
+        "retention_potential": 8,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 81,
+      "fact_summary": "A fluffy cumulus cloud holds huge water weight spread over trillions of microscopic droplets that rise easily on warm air currents.",
+      "sources": [
+        "https://www.usgs.gov/special-topics/water-science-school/science/how-much-does-a-cloud-weigh",
+        "https://climatekids.nasa.gov/cloud-formation/"
+      ],
+      "hook": "One fluffy white cloud weighs as much as 100 elephants—why doesn't it splat on us?",
+      "visual_focus": "cartoon scale comparing fluffy cloud vs elephants + rising warm air arrows",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:52:56.310788+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day23_short\\renders\\day23_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day23_short\\renders\\day23_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day23_short\\seo_package.json"
+    },
+    {
+      "id": "day24",
+      "day": 24,
+      "category": "body-science",
+      "title": "Why Seeing Someone Yawn Makes YOU Yawn Too!",
+      "thumb_text": "YAWN CHAIN!",
+      "primary_keyword": "why is yawning contagious for kids",
+      "supporting_keywords": [
+        "brain cooling yawn kids",
+        "human body reflex cartoon"
+      ],
+      "score_breakdown": {
+        "audience_demand": 16,
+        "recent_growth": 14,
+        "competition_opportunity": 12,
+        "audience_curiosity": 13,
+        "click_potential": 8,
+        "retention_potential": 7,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 80,
+      "fact_summary": "Yawning boosts alertness and helps regulate brain temperature, while social mirror neurons trigger contagious yawns across groups.",
+      "sources": [
+        "https://kidshealth.org/en/kids/yawn.html",
+        "https://www.nih.gov/news-events/nih-research-matters/why-yawning-contagious"
+      ],
+      "hook": "Try not to yawn while watching this—why does 1 yawn spread across an entire room?",
+      "visual_focus": "chain reaction of sleepy cartoon kids yawning with brain cooling fan",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:55:04.173318+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day24_short\\renders\\day24_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day24_short\\renders\\day24_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day24_short\\seo_package.json"
+    },
+    {
+      "id": "day25",
+      "day": 25,
+      "category": "moral-story",
+      "title": "How Sharing 1 Candy Turned Into 4 Treats! | Story",
+      "thumb_text": "KINDNESS MATH!",
+      "primary_keyword": "sharing kindness story cartoon for kids",
+      "supporting_keywords": [
+        "animated moral story kids",
+        "leo and rhymo kindness"
+      ],
+      "score_breakdown": {
+        "audience_demand": 15,
+        "recent_growth": 14,
+        "competition_opportunity": 12,
+        "audience_curiosity": 12,
+        "click_potential": 8,
+        "retention_potential": 9,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 80,
+      "fact_summary": "Funny animated fable showing how sharing small kindness multiplies friendships and surprises everyone with teamwork.",
+      "sources": [
+        "https://www.unicef.org/parenting/child-development/teaching-kids-kindness"
+      ],
+      "hook": "Leo started with 2 lonely candies—so how did his basket end up with 4 treats?",
+      "visual_focus": "cartoon kid splitting candy, friends returning with ball and apples",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:57:08.315231+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day25_short\\renders\\day25_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day25_short\\renders\\day25_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day25_short\\seo_package.json"
+    },
+    {
+      "id": "day26",
+      "day": 26,
+      "category": "animal-vs",
+      "title": "Cheetah vs Falcon: Who Hits 240 MPH in a Race?!",
+      "thumb_text": "240 MPH WINNER!",
+      "primary_keyword": "fastest animal in the world for kids",
+      "supporting_keywords": [
+        "peregrine falcon speed kids",
+        "cheetah vs falcon race cartoon"
+      ],
+      "score_breakdown": {
+        "audience_demand": 16,
+        "recent_growth": 14,
+        "competition_opportunity": 11,
+        "audience_curiosity": 13,
+        "click_potential": 8,
+        "retention_potential": 8,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 80,
+      "fact_summary": "Cheetahs sprint fastest on land around 60-70 mph, while a diving peregrine falcon plunges faster than 200 mph (over 240 mph recorded).",
+      "sources": [
+        "https://kids.nationalgeographic.com/animals/birds/facts/peregrine-falcon",
+        "https://www.britannica.com/list/the-fastest-animals-in-the-world"
+      ],
+      "hook": "Wait—don't bet on the cheetah! Something diving from the clouds hits 240 mph!",
+      "visual_focus": "animated speedometer race line comparing cheetah and sky-diving falcon",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T11:59:35.141130+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day26_short\\renders\\day26_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day26_short\\renders\\day26_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day26_short\\seo_package.json"
+    },
+    {
+      "id": "day27",
+      "day": 27,
+      "category": "space-nature",
+      "title": "Why Every Rainbow Is Really a Full 360° Circle!",
+      "thumb_text": "SECRET CIRCLE!",
+      "primary_keyword": "are rainbows full circles for kids",
+      "supporting_keywords": [
+        "rainbow science cartoon kids",
+        "full circle rainbow airplane"
+      ],
+      "score_breakdown": {
+        "audience_demand": 15,
+        "recent_growth": 14,
+        "competition_opportunity": 12,
+        "audience_curiosity": 13,
+        "click_potential": 8,
+        "retention_potential": 8,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 80,
+      "fact_summary": "Every rainbow is actually a full 360-degree ring of sunlight bending through raindrops; from the ground, the Earth horizon blocks the bottom half.",
+      "sources": [
+        "https://scijinks.gov/rainbow/",
+        "https://www.britannica.com/science/rainbow-meteorology"
+      ],
+      "hook": "We only draw half-arch rainbows—so where is the hidden bottom half hiding?",
+      "visual_focus": "horizon lifting away as cartoon plane climbs to show full glowing circle",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T12:02:34.056342+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day27_short\\renders\\day27_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day27_short\\renders\\day27_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day27_short\\seo_package.json"
+    },
+    {
+      "id": "day28",
+      "day": 28,
+      "category": "body-science",
+      "title": "Why Goosebumps Pop Up During Awesome Music!",
+      "thumb_text": "TINY HAIR MUSCLES!",
+      "primary_keyword": "what causes goosebumps for kids",
+      "supporting_keywords": [
+        "arrector pili muscle kids",
+        "human body chill bumps cartoon"
+      ],
+      "score_breakdown": {
+        "audience_demand": 15,
+        "recent_growth": 14,
+        "competition_opportunity": 12,
+        "audience_curiosity": 13,
+        "click_potential": 8,
+        "retention_potential": 7,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 79,
+      "fact_summary": "Tiny muscles under each hair tighten from cold air or big excitement, a leftover reflex from fluffy mammals puffing up fur for warmth.",
+      "sources": [
+        "https://kidshealth.org/en/kids/goosebumps.html",
+        "https://www.britannica.com/science/goose-bumps"
+      ],
+      "hook": "Even inside a warm room, why do tiny chicken-skin bumps pop up during epic songs?",
+      "visual_focus": "zoom into skin hair follicle tiny muscle pulling hair upright",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T12:05:32.309537+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day28_short\\renders\\day28_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day28_short\\renders\\day28_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day28_short\\seo_package.json"
+    },
+    {
+      "id": "day29",
+      "day": 29,
+      "category": "myth-bust",
+      "title": "Does Cracking Knuckles Really Hurt Your Bones?!",
+      "thumb_text": "GAS BUBBLE POP!",
+      "primary_keyword": "what happens when you crack knuckles for kids",
+      "supporting_keywords": [
+        "knuckle cracking bubbles science",
+        "bone joint myth kids"
+      ],
+      "score_breakdown": {
+        "audience_demand": 15,
+        "recent_growth": 14,
+        "competition_opportunity": 12,
+        "audience_curiosity": 13,
+        "click_potential": 8,
+        "retention_potential": 7,
+        "production_feasibility": 5,
+        "niche_relevance": 5
+      },
+      "total_score": 79,
+      "fact_summary": "The loud pop comes from tiny harmless gas bubbles snapping inside joint fluid—not bones grinding—and research shows it does not cause arthritis.",
+      "sources": [
+        "https://www.health.harvard.edu/pain/does-knuckle-cracking-cause-arthritis",
+        "https://www.livescience.com/50516-knuckle-cracking-mri-video.html"
+      ],
+      "hook": "POP! Every time you crack your knuckles, are your finger bones actually snapping?!",
+      "visual_focus": "x-ray finger joint showing harmless tiny bubble pop in fluid cushion",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T12:08:33.875413+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day29_short\\renders\\day29_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day29_short\\renders\\day29_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day29_short\\seo_package.json"
+    },
+    {
+      "id": "day30",
+      "day": 30,
+      "category": "moral-story",
+      "title": "The 5-Second Rule on a Dropped Cookie: True or False?",
+      "thumb_text": "5-SECOND RULE TEST!",
+      "primary_keyword": "is the 5 second rule true for kids",
+      "supporting_keywords": [
+        "dropped food bacteria kids",
+        "5 second rule science cartoon"
+      ],
+      "score_breakdown": {
+        "audience_demand": 16,
+        "recent_growth": 14,
+        "competition_opportunity": 11,
+        "audience_curiosity": 13,
+        "click_potential": 8,
+        "retention_potential": 8,
+        "production_feasibility": 4,
+        "niche_relevance": 5
+      },
+      "total_score": 79,
+      "fact_summary": "Moisture and floor cleanliness matter far more than 5 seconds—bacteria can hop onto wet or sticky food almost the instant it hits the floor.",
+      "sources": [
+        "https://www.rutgers.edu/news/rutgers-researchers-debunk-five-second-rule-eating-food-floor",
+        "https://kidshealth.org/en/kids/germs.html"
+      ],
+      "hook": "You drop a cookie and yell FIVE-SECOND RULE! Wait—can germs really count to 5?",
+      "visual_focus": "stopwatch racing funny cartoon germs jumping instantly onto sticky slice",
+      "status": "ready_for_upload",
+      "rendered_at_ist": "2026-11-11T12:10:43.292790+05:30",
+      "video_path": "G:\\Faceless-Shorts\\videos\\day30_short\\renders\\day30_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\day30_short\\renders\\day30_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day30_short\\seo_package.json"
+    }
+  ]
+}

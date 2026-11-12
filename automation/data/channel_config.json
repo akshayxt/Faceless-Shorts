@@ -1,0 +1,51 @@
+{
+  "channel_name": "BabyBeats Rhymo",
+  "channel_id": "UCR-Di4-tEAdUM7oPzlGn-vg",
+  "handle": "BabyBeats Rhymo",
+  "zapier_youtube_connection_id": "0223131b-a753-821b-a6ed-3cf66ef41b3e",
+  "existing_video_ids": ["icO_GKpGBrk"],
+  "primary_niche": "Kids Cartoons, Science Education & Funny Stories",
+  "sub_niches": [
+    "Kids Science & Human Body Curiosities",
+    "Funny Animal Superpowers & Wildlife Facts",
+    "Kid-Safe Everyday Myth-Busting & Space Cartoons"
+  ],
+  "target_audience": "Kids aged 4-12 in the United States and English-speaking households (plus co-viewing US families)",
+  "target_country": "US",
+  "language_mode": "US English ONLY",
+  "made_for_kids": true,
+  "youtube_category_id": "27",
+  "default_audio_language": "en-US",
+  "tts_voice": "am_puck",
+  "schedule_target": {
+    "target_timezone": "America/New_York",
+    "short_time_est": "15:30",
+    "long_time_est": "18:00",
+    "local_windows_ist": {
+      "short_time_ist": "02:00",
+      "long_time_ist": "04:30"
+    },
+    "note": "Adjusted to US Eastern after-school (3:30 PM EST) and family evening (6:00 PM EST) peaks"
+  },
+  "goal": {
+    "target_net_new_subscribers": 5000,
+    "duration_days": 30,
+    "start_date": "2026-11-09",
+    "end_date": "2026-12-09"
+  },
+  "ai_disclosure": {
+    "contains_synthetic_media": false,
+    "note": "Original 2D cartoon vector animation + synthesized Kokoro narration (non-photorealistic educational animation)"
+  },
+  "brand_identity": {
+    "characters": ["Leo (curious cartoon kid)", "Rhymo (tiny science mascot)"],
+    "palette": {
+      "bg": "#F4F1EA",
+      "primary_accent": "#FFD43B",
+      "danger_alert": "#D62839",
+      "info_cyan": "#4FD1E8",
+      "leaf_green": "#2A9D8F",
+      "ink": "#18181B"
+    }
+  }
+}

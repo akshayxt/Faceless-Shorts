@@ -1,0 +1,52 @@
+{
+  "title": "How 1 Fluffy Cloud Weighs as Much as 100 Elephants!",
+  "thumb_text": "100 ELEPHANT CLOUD!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://www.usgs.gov/special-topics/water-science-school/science/how-much-does-a-cloud-weigh",
+    "https://climatekids.nasa.gov/cloud-formation/"
+  ],
+  "lines": [
+    {
+      "text": "Wait! How 1 Fluffy Cloud Weighs as Much as 100 Elephants!",
+      "caps": "*WAIT! How 1 | *FLUFFY Cloud Weighs | as *MUCH as | 100 *ELEPHANTS!"
+    },
+    {
+      "text": "Most kids guess totally wrong about why do clouds float!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | why do *CLOUDS | *FLOAT!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "A fluffy cumulus cloud holds huge water weight spread over.",
+      "caps": "A fluffy *CUMULUS | *CLOUD holds huge | water *WEIGHT spread | *OVER."
+    },
+    {
+      "text": "trillions of microscopic droplets that rise easily on warm air currents.",
+      "caps": "trillions of *MICROSCOPIC | *DROPLETS that rise | *EASILY on warm | air *CURRENTS."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind 100 Elephant Cloud!",
+      "caps": "Now you *KNOW | the real *TRUTH | behind 100 *ELEPHANT | *CLOUD!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

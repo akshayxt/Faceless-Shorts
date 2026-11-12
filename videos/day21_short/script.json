@@ -1,0 +1,52 @@
+{
+  "title": "How Honeybees Dance to Share Secret GPS Maps!",
+  "thumb_text": "BEE DANCE GPS!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kids.nationalgeographic.com/animals/invertebrates/facts/honeybee",
+    "https://www.britannica.com/science/bee-dance"
+  ],
+  "lines": [
+    {
+      "text": "Wait! How Honeybees Dance to Share Secret GPS Maps!",
+      "caps": "Wait! How *HONEYBEES | *DANCE to Share | *SECRET GPS Maps!"
+    },
+    {
+      "text": "Most kids guess totally wrong about why bees do waggle dance!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | why *BEES do | *WAGGLE dance!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Worker honeybees perform a figure-eight waggle dance whose angle to.",
+      "caps": "Worker *HONEYBEES perform | a *FIGURE-EIGHT waggle | *DANCE whose angle | *TO."
+    },
+    {
+      "text": "the sun and wiggle duration give hive mates exact flower directions.",
+      "caps": "*THE sun and | wiggle *DURATION give | hive *MATES exact | flower *DIRECTIONS."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Bee Dance Gps!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Bee Dance | *GPS!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

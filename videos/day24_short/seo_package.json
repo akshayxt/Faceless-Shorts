@@ -1,0 +1,146 @@
+{
+  "topic_id": "day24",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Why Seeing Someone Yawn Makes YOU Yawn Too!",
+      "chars": 43,
+      "score": 66,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why Seeing Someone Yawn Makes YOU Yawn...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on yawn - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Why Seeing Someone Yawn Makes YOU Yawn Too! #Shorts",
+      "chars": 51,
+      "score": 66,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why Seeing Someone Yawn Makes YOU Yawn...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on yawn - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Why Seeing Someone Yawn Makes YOU Yawn Too!",
+  "selected_title_lint": {
+    "title": "Why Seeing Someone Yawn Makes YOU Yawn Too!",
+    "chars": 43,
+    "score": 66,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Why Seeing Someone Yawn Makes YOU Yawn...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on yawn - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "43 characters, inside the 60-character desktop cut",
+      "1 all-caps word for emphasis"
+    ]
+  },
+  "thumb_text": "YAWN CHAIN!",
+  "hook_lint": {
+    "hook": "Try not to yawn while watching this—why does 1 yawn spread across an entire room?",
+    "properties": {
+      "SPECIFICITY": 56,
+      "ADDRESS": 26,
+      "STAKES": 36,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 44,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "why is yawning contagious for kids",
+  "supporting_keywords": [
+    "brain cooling yawn kids",
+    "human body reflex cartoon"
+  ],
+  "target_search_queries": [
+    "why is yawning contagious for kids",
+    "why is yawning contagious",
+    "why is yawning so contagious",
+    "human body facts for kids"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-12T09:55:40.659361+05:30",
+    "live_yt_suggest_queries": [
+      "why is yawning contagious",
+      "why is yawning so contagious",
+      "human body facts for kids"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "Why Seeing Someone Yawn Makes YOU Yawn Too! — Try not to yawn while watching this—why does 1 yawn spread across an entire room?\nKids science answer for \"why is yawning contagious for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nYawning boosts alertness and helps regulate brain temperature, while social mirror neurons trigger contagious yawns across groups.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- why is yawning contagious\n- why is yawning so contagious\n- human body facts for kids\n\nSources & Fact Check:\n- https://kidshealth.org/en/kids/yawn.html\n- https://www.nih.gov/news-events/nih-research-matters/why-yawning-contagious\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "why is yawning contagious",
+    "why is yawning so contagious",
+    "human body facts for kids",
+    "why is yawning contagious for kids",
+    "brain cooling yawn kids",
+    "human body reflex cartoon",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

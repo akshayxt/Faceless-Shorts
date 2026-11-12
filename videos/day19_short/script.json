@@ -1,0 +1,52 @@
+{
+  "title": "Why Penguin Feet Never Freeze on -40° Ice!",
+  "thumb_text": "ICE-PROOF FEET!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://www.whoi.edu/know-your-ocean/did-you-know/how-do-penguins-keep-their-feet-warm/",
+    "https://kids.nationalgeographic.com/animals/birds/facts/emperor-penguin"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Why Penguin Feet Never Freeze on -40° Ice!",
+      "caps": "Wait! Why *PENGUIN | Feet Never *FREEZE | on -40° *ICE!"
+    },
+    {
+      "text": "Most kids guess totally wrong about why penguins feet dont freeze!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | why *PENGUINS feet | dont *FREEZE!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Penguins use clever warm-to-cold heat-swap blood vessels in their legs.",
+      "caps": "*PENGUINS use clever | *WARM-TO-COLD heat-swap blood | *VESSELS in their | *LEGS."
+    },
+    {
+      "text": "so feet stay just above freezing while keeping core bodies toasty.",
+      "caps": "so *FEET stay | just above *FREEZING | while *KEEPING core | *BODIES toasty."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Ice-Proof Feet!",
+      "caps": "Now you *KNOW | the real *TRUTH | behind *ICE-PROOF Feet!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

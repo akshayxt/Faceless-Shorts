@@ -1,0 +1,52 @@
+{
+  "title": "Chameleons Don't Change Color Just to Hide?!",
+  "thumb_text": "MOOD COLORS!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kids.nationalgeographic.com/animals/reptiles/facts/chameleon",
+    "https://www.nature.com/articles/ncomms7368"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Chameleons Don't Change Color Just to Hide!",
+      "caps": "Wait! *CHAMELEONS Don't | *CHANGE Color Just | to *HIDE!"
+    },
+    {
+      "text": "Most kids guess totally wrong about why chameleons change color!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | why *CHAMELEONS change | *COLOR!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Chameleons mostly shift skin nanocrystals to control body temperature.",
+      "caps": "*CHAMELEONS mostly shift | skin *NANOCRYSTALS to | control body *TEMPERATURE."
+    },
+    {
+      "text": "and signal moods like excitement, anger, or sunshine warmth.",
+      "caps": "and *SIGNAL moods | like *EXCITEMENT, anger, | or *SUNSHINE warmth."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Mood Colors!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Mood Colors!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

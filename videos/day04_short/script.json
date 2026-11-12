@@ -1,0 +1,52 @@
+{
+  "title": "Why Cutting 1 Onion Makes Your Eyes Cry in 10 Seconds!",
+  "thumb_text": "ONION TEARS!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://www.loc.gov/everyday-mysteries/food-and-nutrition/item/why-do-onions-make-you-cry/",
+    "https://www.britannica.com/story/why-do-onions-make-you-cry"
+  ],
+  "lines": [
+    {
+      "text": "Wait! Why Cutting 1 Onion Makes Your Eyes Cry in 10 Seconds!",
+      "caps": "Wait! Why *CUTTING | 1 *ONION Makes | *YOUR Eyes Cry | in 10 *SECONDS!"
+    },
+    {
+      "text": "Most kids guess totally wrong about why onions make you cry!",
+      "caps": "Most kids *GUESS | *TOTALLY wrong about | why *ONIONS make | *YOU cry!"
+    },
+    {
+      "text": "Stop and picture what actually happens inside.",
+      "caps": "Stop and *PICTURE | what *ACTUALLY happens | *INSIDE."
+    },
+    {
+      "text": "Slicing onion cells mixes enzymes and sulfur compounds into an invisible gas.",
+      "caps": "*SLICING onion cells | mixes *ENZYMES and | sulfur *COMPOUNDS into | an *INVISIBLE gas."
+    },
+    {
+      "text": "that floats to your eyes and triggers tears to wash the eyes clean.",
+      "caps": "that *FLOATS to | *YOUR eyes and | *TRIGGERS tears to | *WASH the eyes | *CLEAN."
+    },
+    {
+      "text": "Nature uses amazing science tricks right under our noses!",
+      "caps": "Nature uses *AMAZING | *SCIENCE tricks right | *UNDER our noses!"
+    },
+    {
+      "text": "Even many grown-ups still believe the old rumor instead of this fact!",
+      "caps": "Even many *GROWN-UPS | still *BELIEVE the | old rumor *INSTEAD | of *THIS fact!"
+    },
+    {
+      "text": "Now you know the real truth behind Onion Tears!",
+      "caps": "Now you *KNOW | the real *TRUTH | *BEHIND Onion Tears!"
+    },
+    {
+      "text": "Share this trick with a friend and subscribe to BabyBeats Rhymo!",
+      "caps": "*SHARE this trick | with a *FRIEND | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}
