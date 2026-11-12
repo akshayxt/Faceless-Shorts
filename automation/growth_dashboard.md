@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-12 23:33:29 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-13 02:40:00 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -16,9 +16,9 @@
 | Campaign Target (`2026-11-09` -> `2026-12-09`) | **+5,000 net new subscribers** |
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
-| Remaining Days / Required Daily Rate | `27` days / **`185.2` subs/day** |
+| Remaining Days / Required Daily Rate | `26` days / **`192.3` subs/day** |
 | Videos Rendered & Verified | **`31`** (`14` uploaded/scheduled, `17` remaining) |
-| Real-Time US SEO Sync | `2026-11-12T23:33:22.060967+05:30` |
+| Real-Time US SEO Sync | `2026-11-13T02:39:54.150777+05:30` |
 | Topic Backlog Remaining | `0` pending out of `30` scored |
 
 ## 2. Production & Upload Queue Status
@@ -27,7 +27,7 @@
 |---|---|---|---|---|---|---|---|
 | `day01_short` | short | Why 1 Mosquito Bite Itches in 3 Seconds! | 100/100 | 2026-11-11 15:30:00 EST | 1080x1920, 35.19s | `UPLOADED` | [day01_short.mp4](videos/day01_short/renders/day01_short.mp4) |
 | `day01_longform` | long | Inside Your Brain at 2 AM: Why We Dream | 100/100 | 2026-11-11 18:00:00 EST | 1920x1080, 327.29s | `UPLOADED` | [day01_longform.mp4](videos/day01_longform/renders/day01_longform.mp4) |
-| `day02_short` | short | Swallowed Watermelon Seeds? The 5-Second Belly Truth! | 80/100 | 2026-11-12 15:30:00 EST | 1080x1920, 32.37s | `SCHEDULED` | [day02_short.mp4](videos/day02_short/renders/day02_short.mp4) |
+| `day02_short` | short | Swallowed Watermelon Seeds? The 5-Second Belly Truth! | 80/100 | 2026-11-12 15:30:00 EST | 1080x1920, 32.37s | `UPLOADED` | [day02_short.mp4](videos/day02_short/renders/day02_short.mp4) |
 | `day03_short` | short | Why Octopuses Have 3 Hearts? | 98/100 | 2026-11-13 15:30:00 EST | 1080x1920, 36.93s | `SCHEDULED` | [day03_short.mp4](videos/day03_short/renders/day03_short.mp4) |
 | `day04_short` | short | Why Cutting 1 Onion Makes Your Eyes Cry in 10 Seconds! | 80/100 | 2026-11-14 15:30:00 EST | 1080x1920, 37.43s | `SCHEDULED` | [day04_short.mp4](videos/day04_short/renders/day04_short.mp4) |
 | `day05_short` | short | Why the Daytime Sky Turns Blue (Not Purple)! | 62/100 | 2026-11-15 15:30:00 EST | 1080x1920, 31.73s | `SCHEDULED` | [day05_short.mp4](videos/day05_short/renders/day05_short.mp4) |
@@ -66,7 +66,7 @@
 | Day | Category | Video Opportunity Title | Score | Queue Status |
 |---|---|---|---|---|
 | Day 01 | body-science | Why 1 Mosquito Bite Itches in 3 Seconds! \| Kids Science | **93/100** | `uploaded` |
-| Day 02 | myth-bust | Swallowed Watermelon Seeds? The 5-Second Belly Truth! | **92/100** | `scheduled` |
+| Day 02 | myth-bust | Swallowed Watermelon Seeds? The 5-Second Belly Truth! | **92/100** | `uploaded` |
 | Day 03 | animal-vs | Why Octopuses Have 3 Hearts and Blue Blood! \| Ocean Facts | **90/100** | `scheduled` |
 | Day 04 | body-science | Why Cutting 1 Onion Makes Your Eyes Cry in 10 Seconds! | **89/100** | `scheduled` |
 | Day 05 | space-nature | Why the Daytime Sky Turns Blue (Not Purple)! \| Space Kids | **88/100** | `scheduled` |
