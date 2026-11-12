@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-12 17:33:32 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-12 20:39:25 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -17,8 +17,8 @@
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `27` days / **`185.2` subs/day** |
-| Videos Rendered & Verified | **`31`** (`9` uploaded/scheduled, `22` remaining) |
-| Real-Time US SEO Sync | `2026-11-12T17:33:22.158297+05:30` |
+| Videos Rendered & Verified | **`31`** (`14` uploaded/scheduled, `17` remaining) |
+| Real-Time US SEO Sync | `2026-11-12T20:38:47.398328+05:30` |
 | Topic Backlog Remaining | `0` pending out of `30` scored |
 
 ## 2. Production & Upload Queue Status
@@ -34,11 +34,11 @@
 | `day06_short` | short | What Causes Hiccups? | 98/100 | 2026-11-16 15:30:00 EST | 1080x1920, 34.13s | `SCHEDULED` | [day06_short.mp4](videos/day06_short/renders/day06_short.mp4) |
 | `day07_short` | short | How Do Cats Always Land on Their Feet? | 98/100 | 2026-11-17 15:30:00 EST | 1080x1920, 37.49s | `SCHEDULED` | [day07_short.mp4](videos/day07_short/renders/day07_short.mp4) |
 | `day08_short` | short | Why Cold Ice Cream Gives You Instant Brain Freeze! | 62/100 | 2026-11-18 15:30:00 EST | 1080x1920, 35.3s | `SCHEDULED` | [day08_short.mp4](videos/day08_short/renders/day08_short.mp4) |
-| `day09_short` | short | Can Holding 1 Sneeze Really Pop Your Eyes Out?! | 98/100 | 2026-11-19 15:30:00 EST | 1080x1920, 34.5s | `READY_FOR_UPLOAD` | [day09_short.mp4](videos/day09_short/renders/day09_short.mp4) |
-| `day10_short` | short | Why Brush Teeth at Night? | 98/100 | 2026-11-20 15:30:00 EST | 1080x1920, 35.89s | `READY_FOR_UPLOAD` | [day10_short.mp4](videos/day10_short/renders/day10_short.mp4) |
-| `day11_short` | short | How Dogs Can Literally Smell Time Passing! | 62/100 | 2026-11-21 15:30:00 EST | 1080x1920, 35.67s | `READY_FOR_UPLOAD` | [day11_short.mp4](videos/day11_short/renders/day11_short.mp4) |
-| `day12_short` | short | What Happens If You Step on Jupiter? (No Floor!) | 62/100 | 2026-11-22 15:30:00 EST | 1080x1920, 32.02s | `READY_FOR_UPLOAD` | [day12_short.mp4](videos/day12_short/renders/day12_short.mp4) |
-| `day13_short` | short | Why Fingers Prune in Water? | 80/100 | 2026-11-23 15:30:00 EST | 1080x1920, 36.03s | `READY_FOR_UPLOAD` | [day13_short.mp4](videos/day13_short/renders/day13_short.mp4) |
+| `day09_short` | short | Can Holding 1 Sneeze Really Pop Your Eyes Out?! | 98/100 | 2026-11-19 15:30:00 EST | 1080x1920, 34.5s | `SCHEDULED` | [day09_short.mp4](videos/day09_short/renders/day09_short.mp4) |
+| `day10_short` | short | Why Brush Teeth at Night? | 98/100 | 2026-11-20 15:30:00 EST | 1080x1920, 35.89s | `SCHEDULED` | [day10_short.mp4](videos/day10_short/renders/day10_short.mp4) |
+| `day11_short` | short | How Dogs Can Literally Smell Time Passing! | 62/100 | 2026-11-21 15:30:00 EST | 1080x1920, 35.67s | `SCHEDULED` | [day11_short.mp4](videos/day11_short/renders/day11_short.mp4) |
+| `day12_short` | short | What Happens If You Step on Jupiter? (No Floor!) | 62/100 | 2026-11-22 15:30:00 EST | 1080x1920, 32.02s | `SCHEDULED` | [day12_short.mp4](videos/day12_short/renders/day12_short.mp4) |
+| `day13_short` | short | Why Fingers Prune in Water? | 80/100 | 2026-11-23 15:30:00 EST | 1080x1920, 36.03s | `SCHEDULED` | [day13_short.mp4](videos/day13_short/renders/day13_short.mp4) |
 | `day14_short` | short | Does Sitting Close to the TV Permanently Hurt Eyes? | 66/100 | 2026-11-24 15:30:00 EST | 1080x1920, 36.97s | `READY_FOR_UPLOAD` | [day14_short.mp4](videos/day14_short/renders/day14_short.mp4) |
 | `day15_short` | short | Why Chameleons Change Color? | 98/100 | 2026-11-25 15:30:00 EST | 1080x1920, 35.69s | `READY_FOR_UPLOAD` | [day15_short.mp4](videos/day15_short/renders/day15_short.mp4) |
 | `day16_short` | short | Why You Hear ZERO Sound Inside Outer Space! | 66/100 | 2026-11-26 15:30:00 EST | 1080x1920, 31.86s | `READY_FOR_UPLOAD` | [day16_short.mp4](videos/day16_short/renders/day16_short.mp4) |
@@ -73,8 +73,8 @@
 | Day 06 | body-science | What Causes Sudden Hiccups Inside Your Belly! \| Body Lab | **87/100** | `scheduled` |
 | Day 07 | animal-vs | Small vs Tall Fall: Why Cats ALWAYS Land on Their Feet! | **87/100** | `scheduled` |
 | Day 08 | body-science | Why Cold Ice Cream Gives You Instant Brain Freeze! | **87/100** | `scheduled` |
-| Day 09 | myth-bust | Can Holding 1 Sneeze Really Pop Your Eyes Out?! \| Myth | **86/100** | `ready_for_upload` |
-| Day 10 | moral-story | The Night Leo Skipped Brushing His Teeth (Cartoon!) | **86/100** | `ready_for_upload` |
+| Day 09 | myth-bust | Can Holding 1 Sneeze Really Pop Your Eyes Out?! \| Myth | **86/100** | `scheduled` |
+| Day 10 | moral-story | The Night Leo Skipped Brushing His Teeth (Cartoon!) | **86/100** | `scheduled` |
 
 ## 4. Automation Loop Heartbeat (Latest Entries)
 ```text
