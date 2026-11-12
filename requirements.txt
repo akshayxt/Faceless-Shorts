@@ -1,0 +1,5 @@
+# Pure Python stdlib core (no paid dependencies required for Zapier + GitHub CDN mode).
+# Uncomment google-api-python-client below only if switching to direct YouTube OAuth uploads.
+# google-api-python-client>=2.100.0
+# google-auth-httplib2>=0.2.0
+# google-auth-oauthlib>=1.2.0

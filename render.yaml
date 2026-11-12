@@ -1,0 +1,32 @@
+services:
+  - type: web
+    name: babybeats-cloud-autopilot
+    runtime: python
+    plan: free
+    region: oregon
+    branch: main
+    autoDeploy: true
+    buildCommand: pip install -r requirements.txt
+    startCommand: python automation/cloud_server.py
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHONUTF8
+        value: "1"
+      - key: AUTO_INTERVAL_HOURS
+        value: "6"
+      - key: GITHUB_REPOSITORY
+        value: akshayxt/Faceless-Shorts
+      - key: GITHUB_BRANCH
+        value: main
+      - key: ZAPIER_CONNECTION_ID
+        value: 0223131b-a753-821b-a6ed-3cf66ef41b3e
+      - key: CRON_SECRET
+        generateValue: true
+      - key: TELEGRAM_CHAT_ID
+        sync: false
+      - key: ZAPIER_MCP_TOKEN
+        sync: false
+      - key: TELEGRAM_BOT_TOKEN
+        sync: false
+      - key: GITHUB_TOKEN
+        sync: false

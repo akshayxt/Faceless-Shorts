@@ -90,6 +90,7 @@ jobs:
             automation/growth_dashboard.md \
             'videos/*/seo.txt' \
             'videos/*/*_seo.txt' \
+            'videos/*/seo_package.json' \
             'videos/*/data/seo_package.json' || true
 
           if git diff --cached --quiet; then

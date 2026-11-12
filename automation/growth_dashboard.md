@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-12 10:24:48 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-12 10:35:13 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -18,7 +18,7 @@
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `27` days / **`185.2` subs/day** |
 | Videos Rendered & Verified | **`31`** (`9` uploaded/scheduled, `22` remaining) |
-| Real-Time US SEO Sync | `2026-11-12T10:19:32.386401+05:30` |
+| Real-Time US SEO Sync | `2026-11-12T10:35:03.622415+05:30` |
 | Topic Backlog Remaining | `0` pending out of `30` scored |
 
 ## 2. Production & Upload Queue Status
@@ -78,19 +78,19 @@
 
 ## 4. Automation Loop Heartbeat (Latest Entries)
 ```text
-[2026-11-12 10:22:33 IST] [DASHBOARD] EXIT CODE=0: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\refresh_dashboard.py
-[2026-11-12 10:23:34 IST] Cycle #51 heartbeat: rendered_topics=22/30 uploaded=9/31 remaining_uploads=22 pending_renders=0
-[2026-11-12 10:23:37 IST] Upload loop armed (9/31 scheduled; 22 remaining — Zapier hit 5/24h upload throttle; upgrade Zapier, resume after 24h via Zapier tunnel, or drop client_secrets.json in creds\).
-[2026-11-12 10:23:40 IST] [ANALYTICS] START: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\analytics_sync.py
-[2026-11-12 10:23:40 IST] [ANALYTICS] ANALYTICS_SKIPPED: No OAuth token at creds/youtube_token.json; keeping verified baseline without fabrication.
-[2026-11-12 10:23:40 IST] [ANALYTICS] EXIT CODE=0: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\analytics_sync.py
-[2026-11-12 10:23:42 IST] [DASHBOARD] START: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\refresh_dashboard.py
-[2026-11-12 10:23:42 IST] [DASHBOARD] Dashboard refreshed -> G:\Faceless-Shorts\automation\dashboard.html & G:\Faceless-Shorts\automation\growth_dashboard.md
-[2026-11-12 10:23:42 IST] [DASHBOARD] EXIT CODE=0: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\refresh_dashboard.py
-[2026-11-12 10:24:43 IST] Cycle #52 heartbeat: rendered_topics=22/30 uploaded=9/31 remaining_uploads=22 pending_renders=0
-[2026-11-12 10:24:44 IST] Upload loop armed (9/31 scheduled; 22 remaining — Zapier hit 5/24h upload throttle; upgrade Zapier, resume after 24h via Zapier tunnel, or drop client_secrets.json in creds\).
-[2026-11-12 10:24:46 IST] [ANALYTICS] START: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\analytics_sync.py
-[2026-11-12 10:24:46 IST] [ANALYTICS] ANALYTICS_SKIPPED: No OAuth token at creds/youtube_token.json; keeping verified baseline without fabrication.
-[2026-11-12 10:24:46 IST] [ANALYTICS] EXIT CODE=0: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\analytics_sync.py
-[2026-11-12 10:24:48 IST] [DASHBOARD] START: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\refresh_dashboard.py
+[2026-11-12 10:33:00 IST] [DASHBOARD] EXIT CODE=0: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\refresh_dashboard.py
+[2026-11-12 10:34:02 IST] Cycle #60 heartbeat: rendered_topics=22/30 uploaded=9/31 remaining_uploads=22 pending_renders=0
+[2026-11-12 10:34:03 IST] Upload loop armed (9/31 scheduled; 22 remaining — Zapier hit 5/24h upload throttle; upgrade Zapier, resume after 24h via Zapier tunnel, or drop client_secrets.json in creds\).
+[2026-11-12 10:34:04 IST] [ANALYTICS] START: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\analytics_sync.py
+[2026-11-12 10:34:04 IST] [ANALYTICS] ANALYTICS_SKIPPED: No OAuth token at creds/youtube_token.json; keeping verified baseline without fabrication.
+[2026-11-12 10:34:04 IST] [ANALYTICS] EXIT CODE=0: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\analytics_sync.py
+[2026-11-12 10:34:06 IST] [DASHBOARD] START: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\refresh_dashboard.py
+[2026-11-12 10:34:06 IST] [DASHBOARD] Dashboard refreshed -> G:\Faceless-Shorts\automation\dashboard.html & G:\Faceless-Shorts\automation\growth_dashboard.md
+[2026-11-12 10:34:06 IST] [DASHBOARD] EXIT CODE=0: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\refresh_dashboard.py
+[2026-11-12 10:35:09 IST] Cycle #61 heartbeat: rendered_topics=22/30 uploaded=9/31 remaining_uploads=22 pending_renders=0
+[2026-11-12 10:35:10 IST] Upload loop armed (9/31 scheduled; 22 remaining — Zapier hit 5/24h upload throttle; upgrade Zapier, resume after 24h via Zapier tunnel, or drop client_secrets.json in creds\).
+[2026-11-12 10:35:12 IST] [ANALYTICS] START: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\analytics_sync.py
+[2026-11-12 10:35:12 IST] [ANALYTICS] ANALYTICS_SKIPPED: No OAuth token at creds/youtube_token.json; keeping verified baseline without fabrication.
+[2026-11-12 10:35:12 IST] [ANALYTICS] EXIT CODE=0: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\analytics_sync.py
+[2026-11-12 10:35:13 IST] [DASHBOARD] START: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\refresh_dashboard.py
 ```
