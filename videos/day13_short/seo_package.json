@@ -33,6 +33,21 @@
       ]
     },
     {
+      "title": "Why Do Fingers Wrinkle in Water?",
+      "chars": 32,
+      "score": 80,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on water - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
       "title": "Why Our Fingers Get Wrinkly in Water?",
       "chars": 37,
       "score": 80,
@@ -50,6 +65,21 @@
     {
       "title": "Why Your Fingers Get Wrinkly in Water?",
       "chars": 38,
+      "score": 80,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on water - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Why Does Your Fingers Wrinkle in Water?",
+      "chars": 39,
       "score": 80,
       "issues": [
         [
@@ -93,6 +123,21 @@
       ]
     },
     {
+      "title": "Why Do Fingers Wrinkle in Water? #Shorts",
+      "chars": 40,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on water - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
       "title": "Why Our Fingers Get Wrinkly in Water? #Shorts",
       "chars": 45,
       "score": 62,
@@ -119,6 +164,25 @@
         [
           "mobile",
           "a mobile feed shows about \"Why Your Fingers Get Wrinkly in Water?...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on water - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Why Does Your Fingers Wrinkle in Water? #Shorts",
+      "chars": 47,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why Does Your Fingers Wrinkle in Water?...\" - check the subject survives"
         ],
         [
           "no-number",
@@ -194,16 +258,16 @@
   ],
   "realtime_seo": {
     "mode": "live_us_autocomplete_and_trends",
-    "fetched_at_ist": "2026-11-12T10:34:43.563650+05:30",
+    "fetched_at_ist": "2026-11-12T11:04:43.343714+05:30",
     "live_yt_suggest_queries": [
       "why fingers wrinkle in water",
       "why our fingers get wrinkly in water",
       "why your fingers get wrinkly in water",
       "why fingers prune in water",
+      "why do fingers wrinkle in water",
+      "why does your fingers wrinkle in water",
       "nervous system facts",
-      "nervous system information",
-      "nervous system fun facts",
-      "human nervous system facts"
+      "nervous system information"
     ],
     "matched_safe_us_trends": [],
     "observed_us_hashtags": [
@@ -214,23 +278,23 @@
       "#sciencefacts"
     ]
   },
-  "description": "Why Fingers Prune in Water? — Pruney bath fingers are NOT soggy skin—your brain turns them into rain tires!\nKids science answer for \"why fingers wrinkle in water for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nYour nervous system narrows tiny blood vessels under wet skin to build rain-tire wrinkles that help your fingers grip slippery toys underwater.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- why fingers wrinkle in water\n- why our fingers get wrinkly in water\n- why your fingers get wrinkly in water\n- why fingers prune in water\n- nervous system facts\n\nSources & Fact Check:\n- https://www.britannica.com/story/why-do-our-fingers-and-toes-wrinkle-in-water\n- https://www.nature.com/articles/nature.2013.12175\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "description": "Why Fingers Prune in Water? — Pruney bath fingers are NOT soggy skin—your brain turns them into rain tires!\nKids science answer for \"why fingers wrinkle in water for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nYour nervous system narrows tiny blood vessels under wet skin to build rain-tire wrinkles that help your fingers grip slippery toys underwater.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- why fingers wrinkle in water\n- why our fingers get wrinkly in water\n- why your fingers get wrinkly in water\n- why fingers prune in water\n- why do fingers wrinkle in water\n\nSources & Fact Check:\n- https://www.britannica.com/story/why-do-our-fingers-and-toes-wrinkle-in-water\n- https://www.nature.com/articles/nature.2013.12175\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
     "why fingers wrinkle in water",
     "why our fingers get wrinkly in water",
     "why your fingers get wrinkly in water",
     "why fingers prune in water",
-    "nervous system facts",
-    "nervous system information",
+    "why do fingers wrinkle in water",
+    "why does your fingers wrinkle in water",
     "why fingers wrinkle in water for kids",
     "rain tire fingers science kids",
+    "nervous system facts",
     "BabyBeats Rhymo",
     "kids science cartoon",
     "science for kids",
     "educational cartoons for kids",
     "fun facts for kids",
-    "youtube shorts",
-    "shorts"
+    "youtube shorts"
   ],
   "hashtags": [
     "#BabyBeatsRhymo",

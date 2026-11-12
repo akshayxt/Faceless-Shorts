@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-12 10:35:13 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-12 11:04:58 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -9,7 +9,7 @@
 - **Primary Niche:** Kids Cartoons, Science Education & Funny Stories (`made_for_kids: true`, Category `27`)
 - **Language & Market:** **US English ONLY (`am_puck`, `en-US`)** — targeting US kids & families
 - **Publishing Schedule (US Eastern):** Daily Short at **3:30 PM EST** (`02:00 AM IST`) | Daily Long-Form at **6:00 PM EST** (`04:30 AM IST`)
-- **Autopilot Daemon PID:** `﻿2964` · Live Local Cockpit: [`dashboard.html`](file:///G:/Faceless-Shorts/automation/dashboard.html)
+- **Autopilot Daemon PID:** `Not running` · Live Local Cockpit: [`dashboard.html`](file:///G:/Faceless-Shorts/automation/dashboard.html)
 
 | Metric | Value |
 |---|---|
@@ -18,15 +18,15 @@
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `27` days / **`185.2` subs/day** |
 | Videos Rendered & Verified | **`31`** (`9` uploaded/scheduled, `22` remaining) |
-| Real-Time US SEO Sync | `2026-11-12T10:35:03.622415+05:30` |
+| Real-Time US SEO Sync | `2026-11-12T11:04:52.810253+05:30` |
 | Topic Backlog Remaining | `0` pending out of `30` scored |
 
 ## 2. Production & Upload Queue Status
 
 | Queue ID | Format | Selected SEO Title | SEO Score | Scheduled EST | Verified Specs | Status | Deliverable |
 |---|---|---|---|---|---|---|---|
-| `day01_short` | short | Why 1 Mosquito Bite Itches in 3 Seconds! | 100/100 | 2026-11-11 15:30:00 EST | 1080x1920, 35.19s | `SCHEDULED` | [day01_short.mp4](videos/day01_short/renders/day01_short.mp4) |
-| `day01_longform` | long | Inside Your Brain at 2 AM: Why We Dream | 100/100 | 2026-11-11 18:00:00 EST | 1920x1080, 327.29s | `SCHEDULED` | [day01_longform.mp4](videos/day01_longform/renders/day01_longform.mp4) |
+| `day01_short` | short | Why 1 Mosquito Bite Itches in 3 Seconds! | 100/100 | 2026-11-11 15:30:00 EST | 1080x1920, 35.19s | `UPLOADED` | [day01_short.mp4](videos/day01_short/renders/day01_short.mp4) |
+| `day01_longform` | long | Inside Your Brain at 2 AM: Why We Dream | 100/100 | 2026-11-11 18:00:00 EST | 1920x1080, 327.29s | `UPLOADED` | [day01_longform.mp4](videos/day01_longform/renders/day01_longform.mp4) |
 | `day02_short` | short | Swallowed Watermelon Seeds? The 5-Second Belly Truth! | 80/100 | 2026-11-12 15:30:00 EST | 1080x1920, 32.37s | `SCHEDULED` | [day02_short.mp4](videos/day02_short/renders/day02_short.mp4) |
 | `day03_short` | short | Why Octopuses Have 3 Hearts? | 98/100 | 2026-11-13 15:30:00 EST | 1080x1920, 36.93s | `SCHEDULED` | [day03_short.mp4](videos/day03_short/renders/day03_short.mp4) |
 | `day04_short` | short | Why Cutting 1 Onion Makes Your Eyes Cry in 10 Seconds! | 80/100 | 2026-11-14 15:30:00 EST | 1080x1920, 37.43s | `SCHEDULED` | [day04_short.mp4](videos/day04_short/renders/day04_short.mp4) |
@@ -45,7 +45,7 @@
 | `day17_short` | short | Tablet 100% Charged vs Leo's Brain Battery at 5%! | 80/100 | 2026-11-27 15:30:00 EST | 1080x1920, 38.03s | `READY_FOR_UPLOAD` | [day17_short.mp4](videos/day17_short/renders/day17_short.mp4) |
 | `day18_short` | short | 60,000 Miles of Blood Pipes Hidden Inside 1 Kid! | 80/100 | 2026-11-28 15:30:00 EST | 1080x1920, 43.27s | `READY_FOR_UPLOAD` | [day18_short.mp4](videos/day18_short/renders/day18_short.mp4) |
 | `day19_short` | short | Why Penguin Feet Never Freeze on -40° Ice! | 80/100 | 2026-11-29 15:30:00 EST | 1080x1920, 36.37s | `READY_FOR_UPLOAD` | [day19_short.mp4](videos/day19_short/renders/day19_short.mp4) |
-| `day20_short` | short | Why Strong Stomach Acid Doesn't Melt Your Own Tummy! | 80/100 | 2026-11-30 15:30:00 EST | 1080x1920, 37.43s | `READY_FOR_UPLOAD` | [day20_short.mp4](videos/day20_short/renders/day20_short.mp4) |
+| `day20_short` | short | Digestive Acid in Stomach! | 94/100 | 2026-11-30 15:30:00 EST | 1080x1920, 37.43s | `READY_FOR_UPLOAD` | [day20_short.mp4](videos/day20_short/renders/day20_short.mp4) |
 | `day21_short` | short | How Honeybees Dance to Share Secret GPS Maps! | 52/100 | 2026-12-01 15:30:00 EST | 1080x1920, 36.33s | `READY_FOR_UPLOAD` | [day21_short.mp4](videos/day21_short/renders/day21_short.mp4) |
 | `day22_short` | short | Are Bats Actually Blind Like Movies Claim? | 84/100 | 2026-12-02 15:30:00 EST | 1080x1920, 34.03s | `READY_FOR_UPLOAD` | [day22_short.mp4](videos/day22_short/renders/day22_short.mp4) |
 | `day23_short` | short | How 1 Fluffy Cloud Weighs as Much as 100 Elephants! | 80/100 | 2026-12-03 15:30:00 EST | 1080x1920, 36.93s | `READY_FOR_UPLOAD` | [day23_short.mp4](videos/day23_short/renders/day23_short.mp4) |
@@ -65,7 +65,7 @@
 
 | Day | Category | Video Opportunity Title | Score | Queue Status |
 |---|---|---|---|---|
-| Day 01 | body-science | Why 1 Mosquito Bite Itches in 3 Seconds! \| Kids Science | **93/100** | `scheduled` |
+| Day 01 | body-science | Why 1 Mosquito Bite Itches in 3 Seconds! \| Kids Science | **93/100** | `uploaded` |
 | Day 02 | myth-bust | Swallowed Watermelon Seeds? The 5-Second Belly Truth! | **92/100** | `scheduled` |
 | Day 03 | animal-vs | Why Octopuses Have 3 Hearts and Blue Blood! \| Ocean Facts | **90/100** | `scheduled` |
 | Day 04 | body-science | Why Cutting 1 Onion Makes Your Eyes Cry in 10 Seconds! | **89/100** | `scheduled` |
@@ -78,19 +78,5 @@
 
 ## 4. Automation Loop Heartbeat (Latest Entries)
 ```text
-[2026-11-12 10:33:00 IST] [DASHBOARD] EXIT CODE=0: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\refresh_dashboard.py
-[2026-11-12 10:34:02 IST] Cycle #60 heartbeat: rendered_topics=22/30 uploaded=9/31 remaining_uploads=22 pending_renders=0
-[2026-11-12 10:34:03 IST] Upload loop armed (9/31 scheduled; 22 remaining — Zapier hit 5/24h upload throttle; upgrade Zapier, resume after 24h via Zapier tunnel, or drop client_secrets.json in creds\).
-[2026-11-12 10:34:04 IST] [ANALYTICS] START: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\analytics_sync.py
-[2026-11-12 10:34:04 IST] [ANALYTICS] ANALYTICS_SKIPPED: No OAuth token at creds/youtube_token.json; keeping verified baseline without fabrication.
-[2026-11-12 10:34:04 IST] [ANALYTICS] EXIT CODE=0: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\analytics_sync.py
-[2026-11-12 10:34:06 IST] [DASHBOARD] START: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\refresh_dashboard.py
-[2026-11-12 10:34:06 IST] [DASHBOARD] Dashboard refreshed -> G:\Faceless-Shorts\automation\dashboard.html & G:\Faceless-Shorts\automation\growth_dashboard.md
-[2026-11-12 10:34:06 IST] [DASHBOARD] EXIT CODE=0: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\refresh_dashboard.py
-[2026-11-12 10:35:09 IST] Cycle #61 heartbeat: rendered_topics=22/30 uploaded=9/31 remaining_uploads=22 pending_renders=0
-[2026-11-12 10:35:10 IST] Upload loop armed (9/31 scheduled; 22 remaining — Zapier hit 5/24h upload throttle; upgrade Zapier, resume after 24h via Zapier tunnel, or drop client_secrets.json in creds\).
-[2026-11-12 10:35:12 IST] [ANALYTICS] START: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\analytics_sync.py
-[2026-11-12 10:35:12 IST] [ANALYTICS] ANALYTICS_SKIPPED: No OAuth token at creds/youtube_token.json; keeping verified baseline without fabrication.
-[2026-11-12 10:35:12 IST] [ANALYTICS] EXIT CODE=0: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\analytics_sync.py
-[2026-11-12 10:35:13 IST] [DASHBOARD] START: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\refresh_dashboard.py
+No log lines recorded yet.
 ```

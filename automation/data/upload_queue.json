@@ -12,7 +12,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\day01_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "SCHEDULED",
+      "status": "UPLOADED",
       "youtube_video_id": "5Iw0ZOny3Ag",
       "youtube_url": "https://www.youtube.com/watch?v=5Iw0ZOny3Ag",
       "video_specs": {
@@ -50,7 +50,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\day01_longform\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "SCHEDULED",
+      "status": "UPLOADED",
       "youtube_video_id": "EL7dijAhNOs",
       "youtube_url": "https://www.youtube.com/watch?v=EL7dijAhNOs",
       "video_specs": {
@@ -352,13 +352,13 @@
       "updated_at_ist": "2026-11-11T11:12:44.961237+05:30",
       "scheduled_publish_est": "2026-11-19T15:30:00-05:00",
       "publish_at": "2026-11-19T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:34:44.568762+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:43.829315+05:30",
       "realtime_seo_score": 98,
       "realtime_seo_queries": [
         "holding in a sneeze myth for kids",
+        "holding in a sneeze",
         "science facts for kids",
-        "interesting science facts for kids",
-        "science facts for toddlers"
+        "interesting science facts for kids"
       ],
       "seo_txt_path": "videos/day09_short/renders/day09_short_seo.txt"
     },
@@ -385,13 +385,13 @@
       "updated_at_ist": "2026-11-11T11:16:35.954698+05:30",
       "scheduled_publish_est": "2026-11-20T15:30:00-05:00",
       "publish_at": "2026-11-20T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:34:45.370083+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:44.199289+05:30",
       "realtime_seo_score": 98,
       "realtime_seo_queries": [
         "why brush teeth at night for kids",
         "why brush teeth at night",
         "why it's important to brush your teeth at night",
-        "science facts for kids"
+        "why should you brush your teeth at night"
       ],
       "seo_txt_path": "videos/day10_short/renders/day10_short_seo.txt"
     },
@@ -418,13 +418,13 @@
       "updated_at_ist": "2026-11-11T11:26:15.925453+05:30",
       "scheduled_publish_est": "2026-11-21T15:30:00-05:00",
       "publish_at": "2026-11-21T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:34:46.257417+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:44.631156+05:30",
       "realtime_seo_score": 62,
       "realtime_seo_queries": [
         "dogs smell time facts for kids",
-        "science facts for kids",
-        "interesting science facts for kids",
-        "science facts for toddlers"
+        "amazing dog facts",
+        "amazing dog breeds",
+        "science facts for kids"
       ],
       "seo_txt_path": "videos/day11_short/renders/day11_short_seo.txt"
     },
@@ -451,7 +451,7 @@
       "updated_at_ist": "2026-11-11T11:28:24.611215+05:30",
       "scheduled_publish_est": "2026-11-22T15:30:00-05:00",
       "publish_at": "2026-11-22T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:34:47.232370+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:45.134947+05:30",
       "realtime_seo_score": 62,
       "realtime_seo_queries": [
         "can you stand on jupiter for kids",
@@ -484,7 +484,7 @@
       "updated_at_ist": "2026-11-11T11:30:41.638957+05:30",
       "scheduled_publish_est": "2026-11-23T15:30:00-05:00",
       "publish_at": "2026-11-23T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:34:48.268883+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:45.644540+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "why fingers wrinkle in water for kids",
@@ -517,13 +517,13 @@
       "updated_at_ist": "2026-11-11T11:32:54.583248+05:30",
       "scheduled_publish_est": "2026-11-24T15:30:00-05:00",
       "publish_at": "2026-11-24T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:34:49.039321+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:46.053672+05:30",
       "realtime_seo_score": 66,
       "realtime_seo_queries": [
         "does sitting close to tv hurt eyes for kids",
         "does sitting close to the tv ruin eyesight",
-        "science facts for kids",
-        "interesting science facts for kids"
+        "does staring at a screen damage eyesight",
+        "healthy eye habits"
       ],
       "seo_txt_path": "videos/day14_short/renders/day14_short_seo.txt"
     },
@@ -550,7 +550,7 @@
       "updated_at_ist": "2026-11-11T11:35:08.108542+05:30",
       "scheduled_publish_est": "2026-11-25T15:30:00-05:00",
       "publish_at": "2026-11-25T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:34:49.930911+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:46.472481+05:30",
       "realtime_seo_score": 98,
       "realtime_seo_queries": [
         "why chameleons change color for kids",
@@ -583,7 +583,7 @@
       "updated_at_ist": "2026-11-11T11:37:12.262204+05:30",
       "scheduled_publish_est": "2026-11-26T15:30:00-05:00",
       "publish_at": "2026-11-26T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:34:51.831387+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:46.906113+05:30",
       "realtime_seo_score": 66,
       "realtime_seo_queries": [
         "why is space silent for kids",
@@ -616,13 +616,13 @@
       "updated_at_ist": "2026-11-11T11:39:35.984886+05:30",
       "scheduled_publish_est": "2026-11-27T15:30:00-05:00",
       "publish_at": "2026-11-27T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:34:52.655271+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:47.339659+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "screen time before bed brain for kids",
-        "science facts for kids",
-        "interesting science facts for kids",
-        "science facts for toddlers"
+        "screen time before bed",
+        "bedtime success stories",
+        "bedtime stories hypnosis"
       ],
       "seo_txt_path": "videos/day17_short/renders/day17_short_seo.txt"
     },
@@ -649,13 +649,13 @@
       "updated_at_ist": "2026-11-11T11:42:10.464623+05:30",
       "scheduled_publish_est": "2026-11-28T15:30:00-05:00",
       "publish_at": "2026-11-28T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:34:53.500387+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:47.790251+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "blood vessels length inside human body for kids",
         "length of blood vessels in human body",
-        "human body facts for kids",
-        "heart circulatory system kids"
+        "blood vessels in our body",
+        "blood vessels in human body"
       ],
       "seo_txt_path": "videos/day18_short/renders/day18_short_seo.txt"
     },
@@ -682,13 +682,13 @@
       "updated_at_ist": "2026-11-11T11:44:19.263064+05:30",
       "scheduled_publish_est": "2026-11-29T15:30:00-05:00",
       "publish_at": "2026-11-29T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:34:54.360563+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:48.225163+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "why penguins feet dont freeze for kids",
+        "why penguins feet don't freeze",
         "science facts for kids",
-        "interesting science facts for kids",
-        "science facts for toddlers"
+        "interesting science facts for kids"
       ],
       "seo_txt_path": "videos/day19_short/renders/day19_short_seo.txt"
     },
@@ -697,7 +697,7 @@
       "topic_id": "day20",
       "format": "short",
       "scheduled_slot_est": "15:30 EST",
-      "title": "Why Strong Stomach Acid Doesn't Melt Your Own Tummy!",
+      "title": "Digestive Acid in Stomach!",
       "video_path": "G:\\Faceless-Shorts\\videos\\day20_short\\renders\\day20_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\day20_short\\renders\\day20_thumb.jpg",
       "seo_path": "G:\\Faceless-Shorts\\videos\\day20_short\\seo_package.json",
@@ -715,13 +715,13 @@
       "updated_at_ist": "2026-11-11T11:46:32.211575+05:30",
       "scheduled_publish_est": "2026-11-30T15:30:00-05:00",
       "publish_at": "2026-11-30T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:34:55.140783+05:30",
-      "realtime_seo_score": 80,
+      "seo_updated_at_ist": "2026-11-12T11:04:48.612457+05:30",
+      "realtime_seo_score": 94,
       "realtime_seo_queries": [
         "why stomach acid doesnt digest stomach for kids",
-        "human body facts for kids",
-        "stomach mucus shield kids",
-        "digestion facts cartoon"
+        "why stomach acid does not harm the stomach",
+        "digestive acid in stomach",
+        "human body facts for kids"
       ],
       "seo_txt_path": "videos/day20_short/renders/day20_short_seo.txt"
     },
@@ -748,13 +748,13 @@
       "updated_at_ist": "2026-11-11T11:48:40.488438+05:30",
       "scheduled_publish_est": "2026-12-01T15:30:00-05:00",
       "publish_at": "2026-12-01T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:34:55.961302+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:49.050187+05:30",
       "realtime_seo_score": 52,
       "realtime_seo_queries": [
         "why bees do waggle dance for kids",
-        "science facts for kids",
-        "interesting science facts for kids",
-        "science facts for toddlers"
+        "what's the waggle dance and why do honey bees do it",
+        "waggle dance honey bees",
+        "honey bee in cartoon"
       ],
       "seo_txt_path": "videos/day21_short/renders/day21_short_seo.txt"
     },
@@ -781,13 +781,13 @@
       "updated_at_ist": "2026-11-11T11:50:45.117205+05:30",
       "scheduled_publish_est": "2026-12-02T15:30:00-05:00",
       "publish_at": "2026-12-02T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:34:56.761191+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:49.476565+05:30",
       "realtime_seo_score": 84,
       "realtime_seo_queries": [
         "are bats blind myth for kids",
+        "are bats blind",
         "nocturnal animal facts",
-        "science facts for kids",
-        "interesting science facts for kids"
+        "night animal"
       ],
       "seo_txt_path": "videos/day22_short/renders/day22_short_seo.txt"
     },
@@ -814,7 +814,7 @@
       "updated_at_ist": "2026-11-11T11:52:56.311693+05:30",
       "scheduled_publish_est": "2026-12-03T15:30:00-05:00",
       "publish_at": "2026-12-03T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:34:57.574060+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:49.865868+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "why do clouds float for kids",
@@ -847,13 +847,13 @@
       "updated_at_ist": "2026-11-11T11:55:04.174154+05:30",
       "scheduled_publish_est": "2026-12-04T15:30:00-05:00",
       "publish_at": "2026-12-04T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:34:58.333118+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:50.282097+05:30",
       "realtime_seo_score": 66,
       "realtime_seo_queries": [
         "why is yawning contagious for kids",
         "why is yawning contagious",
         "why is yawning so contagious",
-        "human body facts for kids"
+        "human body reflexes"
       ],
       "seo_txt_path": "videos/day24_short/renders/day24_short_seo.txt"
     },
@@ -880,12 +880,12 @@
       "updated_at_ist": "2026-11-11T11:57:08.316089+05:30",
       "scheduled_publish_est": "2026-12-05T15:30:00-05:00",
       "publish_at": "2026-12-05T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:34:59.333709+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:50.784120+05:30",
       "realtime_seo_score": 98,
       "realtime_seo_queries": [
         "sharing kindness story cartoon for kids",
         "sharing and kindness story",
-        "animated moral stories for kids+free download",
+        "sharing kindness",
         "animated moral story kids"
       ],
       "seo_txt_path": "videos/day25_short/renders/day25_short_seo.txt"
@@ -913,7 +913,7 @@
       "updated_at_ist": "2026-11-11T11:59:35.269542+05:30",
       "scheduled_publish_est": "2026-12-06T15:30:00-05:00",
       "publish_at": "2026-12-06T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:35:00.153517+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:51.120537+05:30",
       "realtime_seo_score": 84,
       "realtime_seo_queries": [
         "fastest animal in the world for kids",
@@ -946,7 +946,7 @@
       "updated_at_ist": "2026-11-11T12:02:34.057566+05:30",
       "scheduled_publish_est": "2026-12-07T15:30:00-05:00",
       "publish_at": "2026-12-07T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:35:01.053857+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:51.533088+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "are rainbows full circles for kids",
@@ -979,7 +979,7 @@
       "updated_at_ist": "2026-11-11T12:05:32.354120+05:30",
       "scheduled_publish_est": "2026-12-08T15:30:00-05:00",
       "publish_at": "2026-12-08T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:35:01.894393+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:51.954523+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "what causes goosebumps for kids",
@@ -1012,7 +1012,7 @@
       "updated_at_ist": "2026-11-11T12:08:33.876268+05:30",
       "scheduled_publish_est": "2026-12-09T15:30:00-05:00",
       "publish_at": "2026-12-09T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:35:02.791377+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:52.385343+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "what happens when you crack knuckles for kids",
@@ -1045,17 +1045,17 @@
       "updated_at_ist": "2026-11-11T12:10:43.293667+05:30",
       "scheduled_publish_est": "2026-12-10T15:30:00-05:00",
       "publish_at": "2026-12-10T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-12T10:35:03.622378+05:30",
+      "seo_updated_at_ist": "2026-11-12T11:04:52.810189+05:30",
       "realtime_seo_score": 98,
       "realtime_seo_queries": [
         "is the 5 second rule true for kids",
         "is the 5 second rule true",
         "is the 5 second rule real",
-        "science facts for kids"
+        "5 second rule science"
       ],
       "seo_txt_path": "videos/day30_short/renders/day30_short_seo.txt"
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-12T10:35:03.622415+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-12T11:04:52.810253+05:30",
   "realtime_seo_us_trends_checked": 10
 }

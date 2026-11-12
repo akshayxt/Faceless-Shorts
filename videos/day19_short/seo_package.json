@@ -3,6 +3,21 @@
   "format": "short",
   "title_options": [
     {
+      "title": "Why Penguins Feet Don't Freeze?",
+      "chars": 31,
+      "score": 80,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on feet - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
       "title": "Why Penguin Feet Never Freeze on -40° Ice!",
       "chars": 42,
       "score": 80,
@@ -29,6 +44,21 @@
         [
           "duplicate",
           "thumbnail repeats the title on feet, ice - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Why Penguins Feet Don't Freeze? #Shorts",
+      "chars": 39,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on feet - the thumbnail should say what the title does not"
         ]
       ]
     }
@@ -75,14 +105,15 @@
   ],
   "target_search_queries": [
     "why penguins feet dont freeze for kids",
+    "why penguins feet don't freeze",
     "science facts for kids",
-    "interesting science facts for kids",
-    "science facts for toddlers"
+    "interesting science facts for kids"
   ],
   "realtime_seo": {
     "mode": "live_us_autocomplete_and_trends",
-    "fetched_at_ist": "2026-11-12T10:34:43.563650+05:30",
+    "fetched_at_ist": "2026-11-12T11:04:43.343714+05:30",
     "live_yt_suggest_queries": [
+      "why penguins feet don't freeze",
       "science facts for kids",
       "interesting science facts for kids",
       "science facts for toddlers",
@@ -97,8 +128,9 @@
       "#sciencefacts"
     ]
   },
-  "description": "Why Penguin Feet Never Freeze on -40° Ice! — Barefoot on freezing Antarctic ice all winter—why don't penguins turn into popsicles?\nKids science answer for \"why penguins feet dont freeze for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nPenguins use clever warm-to-cold heat-swap blood vessels in their legs so feet stay just above freezing while keeping core bodies toasty.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- science facts for kids\n- interesting science facts for kids\n- science facts for toddlers\n- titanic facts for kids-science facts\n\nSources & Fact Check:\n- https://www.whoi.edu/know-your-ocean/did-you-know/how-do-penguins-keep-their-feet-warm/\n- https://kids.nationalgeographic.com/animals/birds/facts/emperor-penguin\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "description": "Why Penguin Feet Never Freeze on -40° Ice! — Barefoot on freezing Antarctic ice all winter—why don't penguins turn into popsicles?\nKids science answer for \"why penguins feet dont freeze for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nPenguins use clever warm-to-cold heat-swap blood vessels in their legs so feet stay just above freezing while keeping core bodies toasty.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- why penguins feet don't freeze\n- science facts for kids\n- interesting science facts for kids\n- science facts for toddlers\n- titanic facts for kids-science facts\n\nSources & Fact Check:\n- https://www.whoi.edu/know-your-ocean/did-you-know/how-do-penguins-keep-their-feet-warm/\n- https://kids.nationalgeographic.com/animals/birds/facts/emperor-penguin\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
+    "why penguins feet don't freeze",
     "science facts for kids",
     "interesting science facts for kids",
     "science facts for toddlers",

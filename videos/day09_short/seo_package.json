@@ -34,6 +34,28 @@
           "a mobile feed shows about \"Can Holding 1 Sneeze Really Pop Your...\" - check the subject survives"
         ]
       ]
+    },
+    {
+      "title": "Holding in a Sneeze!",
+      "chars": 20,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Holding in a Sneeze! #Shorts",
+      "chars": 28,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
     }
   ],
   "selected_title": "Can Holding 1 Sneeze Really Pop Your Eyes Out?!",
@@ -76,14 +98,15 @@
   ],
   "target_search_queries": [
     "holding in a sneeze myth for kids",
+    "holding in a sneeze",
     "science facts for kids",
-    "interesting science facts for kids",
-    "science facts for toddlers"
+    "interesting science facts for kids"
   ],
   "realtime_seo": {
     "mode": "live_us_autocomplete_and_trends",
-    "fetched_at_ist": "2026-11-12T10:34:43.563650+05:30",
+    "fetched_at_ist": "2026-11-12T11:04:43.343714+05:30",
     "live_yt_suggest_queries": [
+      "holding in a sneeze",
       "science facts for kids",
       "interesting science facts for kids",
       "science facts for toddlers",
@@ -98,8 +121,9 @@
       "#sciencefacts"
     ]
   },
-  "description": "Can Holding 1 Sneeze Really Pop Your Eyes Out?! — AACHOO! If you pinch your nose during 1 big sneeze, where does that wind blast go?\nKids science answer for \"holding in a sneeze myth for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nStrong eye muscles keep eyes safely locked in place, but blocking a powerful sneeze forces air pressure toward delicate eardrum tubes.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- science facts for kids\n- interesting science facts for kids\n- science facts for toddlers\n- titanic facts for kids-science facts\n\nSources & Fact Check:\n- https://www.livescience.com/45491-can-sneezing-pop-your-eyeballs-out.html\n- https://kidshealth.org/en/kids/sneeze.html\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "description": "Can Holding 1 Sneeze Really Pop Your Eyes Out?! — AACHOO! If you pinch your nose during 1 big sneeze, where does that wind blast go?\nKids science answer for \"holding in a sneeze myth for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nStrong eye muscles keep eyes safely locked in place, but blocking a powerful sneeze forces air pressure toward delicate eardrum tubes.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- holding in a sneeze\n- science facts for kids\n- interesting science facts for kids\n- science facts for toddlers\n- titanic facts for kids-science facts\n\nSources & Fact Check:\n- https://www.livescience.com/45491-can-sneezing-pop-your-eyeballs-out.html\n- https://kidshealth.org/en/kids/sneeze.html\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
+    "holding in a sneeze",
     "science facts for kids",
     "interesting science facts for kids",
     "science facts for toddlers",
@@ -113,8 +137,7 @@
     "science for kids",
     "educational cartoons for kids",
     "fun facts for kids",
-    "youtube shorts",
-    "shorts"
+    "youtube shorts"
   ],
   "hashtags": [
     "#BabyBeatsRhymo",
