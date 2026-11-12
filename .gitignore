@@ -1,3 +1,16 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# Secrets, tokens, credentials & runtime logs (MUST stay out of git)
+automation/data/telegram_config.json
+automation/data/zapier_tunnel.json
+automation/creds/
+automation/logs/
+*.log
+*.pid
+*.key
+*.pem
+*.env
+client_secrets*.json
+youtube_token*.json

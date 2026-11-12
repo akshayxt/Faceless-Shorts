@@ -29,13 +29,26 @@ def _ipv4_telegram_getaddrinfo(host, port, family=0, type=0, proto=0, flags=0):
 
 socket.getaddrinfo = _ipv4_telegram_getaddrinfo
 
-AUTO = Path(r"G:\Faceless-Shorts\automation")
+from repo_paths import AUTO_DIR
+
+AUTO = AUTO_DIR
 CFG_PATH = AUTO / "data" / "telegram_config.json"
 ALL_LOG_PATH = AUTO / "logs" / "all_processes.log"
 IST = timezone(timedelta(hours=5, minutes=30))
 
 
 def load_config() -> dict:
+    env_tok = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+    env_chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+    if env_tok and env_chat:
+        return {
+            "enabled": os.environ.get("TELEGRAM_ENABLED", "1") != "0",
+            "bot_token": env_tok,
+            "chat_id": env_chat,
+            "max_chars_per_message": 3500,
+            "flush_interval_sec": 4.0,
+            "timezone": "IST",
+        }
     if not CFG_PATH.exists():
         return {"enabled": False}
     return json.loads(CFG_PATH.read_text(encoding="utf-8"))

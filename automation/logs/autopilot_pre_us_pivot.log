@@ -1,6 +1,0 @@
-﻿[2026-11-11 10:25:56 IST] === BABYBEATS RHYMO AUTOPILOT LOOP STARTED (PID=7240) ===
-[2026-11-11 10:25:56 IST] Cycle #1 heartbeat: ready_for_upload=1 pending=29
-[2026-11-11 10:25:57 IST] Long-form 1080p render active; yielding CPU this cycle before queuing next Short.
-[2026-11-11 10:25:57 IST] Upload gate paused: waiting for OAuth token (creds\youtube_token.json) OR fresh chat Zapier MCP session to flush upload_queue.json.
-[2026-11-11 10:26:57 IST] Cycle #2 heartbeat: ready_for_upload=1 pending=29
-[2026-11-11 10:26:57 IST] Long-form 1080p render active; yielding CPU this cycle before queuing next Short.

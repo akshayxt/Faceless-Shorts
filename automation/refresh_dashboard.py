@@ -3,8 +3,10 @@ import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-ROOT = Path(r"G:\Faceless-Shorts")
-AUTO = ROOT / "automation"
+from repo_paths import AUTO_DIR, ROOT_DIR, resolve_repo_path, to_repo_posix
+
+ROOT = ROOT_DIR
+AUTO = AUTO_DIR
 QUEUE_PATH = AUTO / "data" / "30day_topic_queue.json"
 UPLOAD_Q_PATH = AUTO / "data" / "upload_queue.json"
 GROWTH_PATH = AUTO / "data" / "growth_tracker.json"
@@ -12,6 +14,7 @@ CHANNEL_PATH = AUTO / "data" / "channel_config.json"
 LOCK_PATH = AUTO / "logs" / "autopilot.pid"
 LOG_PATH = AUTO / "logs" / "autopilot.log"
 HTML_OUT = AUTO / "dashboard.html"
+REPO_MD_OUT = AUTO / "growth_dashboard.md"
 MD_ARTIFACT = Path(r"C:\Users\Admin\.gemini\antigravity\brain\91b89b72-aed5-4703-add7-594e8deab7a2\growth_dashboard.md")
 IST = timezone(timedelta(hours=5, minutes=30))
 
@@ -51,7 +54,7 @@ def main():
     # 1. Generate visual HTML cockpit
     rows_html = []
     for it in items:
-        vid_file = Path(it.get("video_path", "")).name
+        vid_file = resolve_repo_path(it.get("video_path", "")).name
         specs = it.get("video_specs", {})
         res_str = f"{specs.get('width', '?')}x{specs.get('height', '?')} ({specs.get('duration_sec', '?')}s)"
         badge_cls = "ok" if (it.get("status") in ("UPLOADED", "SCHEDULED", "UPLOADED_PRIVATE") or it.get("youtube_video_id")) else "ready"
@@ -106,8 +109,10 @@ def main():
         dim = f"{sp.get('width', '?')}x{sp.get('height', '?')}, {sp.get('duration_sec', '?')}s"
         sched = it.get("scheduled_publish_est", it.get("scheduled_slot_est", "—")).replace("T", " ").replace("-05:00", " EST")
         seo_sc = it.get("realtime_seo_score", "—")
+        rel_vid = to_repo_posix(it.get("video_path", ""))
+        vid_name = resolve_repo_path(it.get("video_path", "")).name
         md_rows.append(
-            f"| `{it['id']}` | {it['format']} | {md_cell(it['title'])} | {seo_sc}/100 | {sched} | {dim} | `{it['status']}` | [{Path(it['video_path']).name}](file:///{it['video_path'].replace(chr(92), '/')}) |"
+            f"| `{it['id']}` | {it['format']} | {md_cell(it['title'])} | {seo_sc}/100 | {sched} | {dim} | `{it['status']}` | [{vid_name}]({rel_vid}) |"
         )
 
     top10 = []
@@ -158,8 +163,10 @@ def main():
 {chr(10).join(recent_logs) if recent_logs else 'No log lines recorded yet.'}
 ```
 """
-    MD_ARTIFACT.write_text(md, encoding="utf-8")
-    print(f"Dashboard refreshed -> {HTML_OUT} & {MD_ARTIFACT}")
+    REPO_MD_OUT.write_text(md, encoding="utf-8")
+    if MD_ARTIFACT.parent.exists():
+        MD_ARTIFACT.write_text(md, encoding="utf-8")
+    print(f"Dashboard refreshed -> {HTML_OUT} & {REPO_MD_OUT}")
 
 
 if __name__ == "__main__":

@@ -262,11 +262,13 @@
       ],
       "hook": "Sunlight looks white—so why does the sky paint itself giant blue every morning?",
       "visual_focus": "sun prism beam hitting air molecules bouncing blue waves across sky",
-      "status": "ready_for_upload",
+      "status": "scheduled",
       "rendered_at_ist": "2026-11-11T10:58:06.034579+05:30",
       "video_path": "G:\\Faceless-Shorts\\videos\\day05_short\\renders\\day05_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\day05_short\\renders\\day05_thumb.jpg",
-      "seo_path": "G:\\Faceless-Shorts\\videos\\day05_short\\seo_package.json"
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day05_short\\seo_package.json",
+      "youtube_video_id": "Ad5u8jjER8k",
+      "youtube_url": "https://www.youtube.com/watch?v=Ad5u8jjER8k"
     },
     {
       "id": "day06",
@@ -298,11 +300,13 @@
       ],
       "hook": "HIC! What muscle beneath your lungs just bounced without asking your permission?",
       "visual_focus": "x-ray lungs bouncing over startled diaphragm trampoline",
-      "status": "ready_for_upload",
+      "status": "scheduled",
       "rendered_at_ist": "2026-11-11T11:00:46.434762+05:30",
       "video_path": "G:\\Faceless-Shorts\\videos\\day06_short\\renders\\day06_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\day06_short\\renders\\day06_thumb.jpg",
-      "seo_path": "G:\\Faceless-Shorts\\videos\\day06_short\\seo_package.json"
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day06_short\\seo_package.json",
+      "youtube_video_id": "jfy4vRWt3UI",
+      "youtube_url": "https://www.youtube.com/watch?v=jfy4vRWt3UI"
     },
     {
       "id": "day07",
@@ -334,11 +338,13 @@
       ],
       "hook": "Drop 1 pillow—it flops. Yet how does a cat pull off a ninja flip mid-air?",
       "visual_focus": "cartoon cat mid-air twist steps with inner-ear gyro compass",
-      "status": "ready_for_upload",
+      "status": "scheduled",
       "rendered_at_ist": "2026-11-11T11:05:09.484668+05:30",
       "video_path": "G:\\Faceless-Shorts\\videos\\day07_short\\renders\\day07_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\day07_short\\renders\\day07_thumb.jpg",
-      "seo_path": "G:\\Faceless-Shorts\\videos\\day07_short\\seo_package.json"
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day07_short\\seo_package.json",
+      "youtube_video_id": "TvG4IM9lMxQ",
+      "youtube_url": "https://www.youtube.com/watch?v=TvG4IM9lMxQ"
     },
     {
       "id": "day08",
@@ -370,11 +376,13 @@
       ],
       "hook": "One giant scoop of ice cream and boom—did your brain actually freeze inside?",
       "visual_focus": "ice cream cone cold wave hitting mouth roof nerve alarm to brain",
-      "status": "ready_for_upload",
+      "status": "scheduled",
       "rendered_at_ist": "2026-11-11T11:08:55.852246+05:30",
       "video_path": "G:\\Faceless-Shorts\\videos\\day08_short\\renders\\day08_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\day08_short\\renders\\day08_thumb.jpg",
-      "seo_path": "G:\\Faceless-Shorts\\videos\\day08_short\\seo_package.json"
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day08_short\\seo_package.json",
+      "youtube_video_id": "ke9xw4vfQ-Y",
+      "youtube_url": "https://www.youtube.com/watch?v=ke9xw4vfQ-Y"
     },
     {
       "id": "day09",

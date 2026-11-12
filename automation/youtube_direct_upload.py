@@ -6,13 +6,16 @@ Enforces idempotent upload state (never re-uploads an item already marked UPLOAD
 """
 import argparse
 import json
+import os
 import subprocess
 import sys
 import time
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-AUTO = Path(r"G:\Faceless-Shorts\automation")
+from repo_paths import AUTO_DIR, resolve_repo_path
+
+AUTO = AUTO_DIR
 CREDS_DIR = AUTO / "creds"
 CLIENT_SECRETS = CREDS_DIR / "client_secrets.json"
 TOKEN_FILE = CREDS_DIR / "youtube_token.json"
@@ -46,14 +49,17 @@ def get_service():
     from googleapiclient.discovery import build
 
     CREDS_DIR.mkdir(parents=True, exist_ok=True)
-    if not CLIENT_SECRETS.exists() and not TOKEN_FILE.exists():
+    env_tok_raw = os.environ.get("YOUTUBE_TOKEN_JSON", "").strip()
+    if not CLIENT_SECRETS.exists() and not TOKEN_FILE.exists() and not env_tok_raw:
         raise FileNotFoundError(
             f"Missing OAuth credentials at {CLIENT_SECRETS}. "
-            "Drop Google OAuth Desktop client_secrets.json there or upload via fresh Zapier MCP chat session."
+            "Drop Google OAuth Desktop client_secrets.json there or set YOUTUBE_TOKEN_JSON secret."
         )
 
     creds = None
-    if TOKEN_FILE.exists():
+    if env_tok_raw:
+        creds = Credentials.from_authorized_user_info(json.loads(env_tok_raw), SCOPES)
+    elif TOKEN_FILE.exists():
         creds = Credentials.from_authorized_user_file(str(TOKEN_FILE), SCOPES)
     if not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
@@ -61,7 +67,8 @@ def get_service():
         else:
             flow = InstalledAppFlow.from_client_secrets_file(str(CLIENT_SECRETS), SCOPES)
             creds = flow.run_local_server(port=0)
-        TOKEN_FILE.write_text(creds.to_json(), encoding="utf-8")
+        if not env_tok_raw:
+            TOKEN_FILE.write_text(creds.to_json(), encoding="utf-8")
     return build("youtube", "v3", credentials=creds)
 
 
@@ -110,7 +117,10 @@ def upload_one(item_id: str | None = None, dry_run: bool = False, use_realtime_s
         q = json.loads(UPLOAD_Q.read_text(encoding="utf-8"))
         target = next((it for it in q.get("items", []) if it.get("id") == target["id"]), target)
 
-    seo = json.loads(Path(target["seo_path"]).read_text(encoding="utf-8"))
+    seo_p = resolve_repo_path(target["seo_path"])
+    vid_p = resolve_repo_path(target["video_path"])
+    thumb_p = resolve_repo_path(target["thumb_path"]) if target.get("thumb_path") else None
+    seo = json.loads(seo_p.read_text(encoding="utf-8"))
     pub_at = target.get("publish_at")
     now_utc = datetime.now(timezone.utc)
     use_schedule = False
@@ -158,16 +168,16 @@ def upload_one(item_id: str | None = None, dry_run: bool = False, use_realtime_s
         },
         "status": status_obj
     }
-    media = MediaFileUpload(target["video_path"], chunksize=-1, resumable=True)
+    media = MediaFileUpload(str(vid_p), chunksize=-1, resumable=True)
     req = yt.videos().insert(part="snippet,status", body=body, media_body=media)
     resp = None
     while resp is None:
         _, resp = req.next_chunk()
 
     vid = resp["id"]
-    if target.get("thumb_path") and Path(target["thumb_path"]).exists():
+    if thumb_p and thumb_p.exists():
         try:
-            yt.thumbnails().set(videoId=vid, media_body=MediaFileUpload(target["thumb_path"])).execute()
+            yt.thumbnails().set(videoId=vid, media_body=MediaFileUpload(str(thumb_p))).execute()
         except Exception as e:
             target["thumb_warning"] = str(e)
 

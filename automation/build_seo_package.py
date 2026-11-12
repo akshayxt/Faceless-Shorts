@@ -4,8 +4,10 @@ import json
 import sys
 from pathlib import Path
 
-TITLE_PY = Path(r"G:\Faceless-Shorts\skills\yt-package\title.py")
-HOOK_PY = Path(r"G:\Faceless-Shorts\skills\yt-script\hookscore.py")
+from repo_paths import AUTO_DIR, ROOT_DIR
+
+TITLE_PY = ROOT_DIR / "skills" / "yt-package" / "title.py"
+HOOK_PY = ROOT_DIR / "skills" / "yt-script" / "hookscore.py"
 
 
 def _load_module(name: str, path: Path):
@@ -357,7 +359,7 @@ def main():
     wrap_if_top_level("SEO_BUILDER", __file__, sys.argv[1:])
     ap = argparse.ArgumentParser()
     ap.add_argument("--topic-id", required=True)
-    ap.add_argument("--queue", default=r"G:\Faceless-Shorts\automation\data\30day_topic_queue.json")
+    ap.add_argument("--queue", default=str(AUTO_DIR / "data" / "30day_topic_queue.json"))
     ap.add_argument("--out", required=True)
     ap.add_argument("--longform", action="store_true")
     ap.add_argument("--chapters-file")

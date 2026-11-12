@@ -5,10 +5,13 @@ Never invents views, CTR, AVD, or subscriber numbers when credentials are absent
 Tracks 24h / 48-72h / 7-day checkpoints for uploaded videos and adjusts strategy triggers.
 """
 import json
+import os
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-AUTO = Path(r"G:\Faceless-Shorts\automation")
+from repo_paths import AUTO_DIR
+
+AUTO = AUTO_DIR
 TOKEN_FILE = AUTO / "creds" / "youtube_token.json"
 GROWTH_PATH = AUTO / "data" / "growth_tracker.json"
 UPLOAD_Q = AUTO / "data" / "upload_queue.json"
@@ -23,7 +26,8 @@ SCOPES = [
 
 
 def sync_live():
-    if not TOKEN_FILE.exists():
+    env_tok_raw = os.environ.get("YOUTUBE_TOKEN_JSON", "").strip()
+    if not TOKEN_FILE.exists() and not env_tok_raw:
         print("ANALYTICS_SKIPPED: No OAuth token at creds/youtube_token.json; keeping verified baseline without fabrication.")
         return 0
 
@@ -35,10 +39,15 @@ def sync_live():
         print("ANALYTICS_SKIPPED: google-api-python-client not installed in venv.")
         return 0
 
-    creds = Credentials.from_authorized_user_file(str(TOKEN_FILE), SCOPES)
+    if env_tok_raw:
+        creds = Credentials.from_authorized_user_info(json.loads(env_tok_raw), SCOPES)
+    else:
+        creds = Credentials.from_authorized_user_file(str(TOKEN_FILE), SCOPES)
     if creds.expired and creds.refresh_token:
         creds.refresh(Request())
-        TOKEN_FILE.write_text(creds.to_json(), encoding="utf-8")
+        if TOKEN_FILE.parent.exists() or not env_tok_raw:
+            TOKEN_FILE.parent.mkdir(parents=True, exist_ok=True)
+            TOKEN_FILE.write_text(creds.to_json(), encoding="utf-8")
 
     yt = build("youtube", "v3", credentials=creds)
     cfg = json.loads(CHANNEL_CFG.read_text(encoding="utf-8"))

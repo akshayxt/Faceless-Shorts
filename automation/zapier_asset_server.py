@@ -21,18 +21,20 @@ import urllib.request
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
+from repo_paths import AUTO_DIR, resolve_repo_path
+
 _orig_getaddrinfo = socket.getaddrinfo
 
 
 def _ipv4_tunnel_getaddrinfo(host, port, family=0, type=0, proto=0, flags=0):
-    if host and (host.endswith("trycloudflare.com") or host.endswith("lhr.life")) and family in (0, socket.AF_UNSPEC):
+    if host and any(host.endswith(d) for d in ("trycloudflare.com", "lhr.life", "pinggy.net", "pinggy.link", "pinggy.io")) and family in (0, socket.AF_UNSPEC):
         family = socket.AF_INET
     return _orig_getaddrinfo(host, port, family, type, proto, flags)
 
 
 socket.getaddrinfo = _ipv4_tunnel_getaddrinfo
 
-AUTO = Path(r"G:\Faceless-Shorts\automation")
+AUTO = AUTO_DIR
 UPLOAD_Q = AUTO / "data" / "upload_queue.json"
 TOPIC_Q = AUTO / "data" / "30day_topic_queue.json"
 TUNNEL_STATE = AUTO / "logs" / "zapier_tunnel.json"
@@ -65,8 +67,8 @@ def build_asset_map() -> dict[str, tuple[Path, str]]:
     assets: dict[str, tuple[Path, str]] = {}
     for it in uq.get("items", []):
         iid = it["id"]
-        vp = Path(it.get("video_path", ""))
-        tp = Path(it.get("thumb_path", ""))
+        vp = resolve_repo_path(it.get("video_path", ""))
+        tp = resolve_repo_path(it.get("thumb_path", ""))
         if vp.exists() and vp.is_file():
             assets[f"{iid}.mp4"] = (vp, "video/mp4")
         if tp.exists() and tp.is_file():
@@ -170,6 +172,13 @@ def make_handler(token: str, assets: dict[str, tuple[Path, str]]):
 class ThreadedHTTPServer(socketserver.ThreadingMixIn, http.server.HTTPServer):
     daemon_threads = True
     allow_reuse_address = True
+
+    def handle_error(self, request, client_address):
+        # Suppress noisy tracebacks when tunnel proxies reset idle keep-alive sockets.
+        exc_type, _, _ = sys.exc_info()
+        if exc_type in (ConnectionResetError, BrokenPipeError, ConnectionAbortedError):
+            return
+        super().handle_error(request, client_address)
 
 
 def _record_tunnel_state(public_host: str, token: str, port: int, pid: int, asset_count: int, provider: str, registered: bool) -> dict:
@@ -294,17 +303,32 @@ def serve_tunnel(port: int, provider: str = "auto"):
             candidates.append(("cloudflared", [cf_bin, "tunnel", "--url", f"http://127.0.0.1:{port}", "--edge-ip-version", "4", "--protocol", "http2", "--no-autoupdate"], cf_re, "Registered tunnel connection", 22.0))
 
     ssh_bin = shutil.which("ssh")
-    if provider in ("auto", "localhostrun") and ssh_bin:
+    if provider in ("auto", "pinggy", "localhostrun") and ssh_bin:
         known_hosts = AUTO / "logs" / "tunnel_known_hosts"
         known_hosts.parent.mkdir(parents=True, exist_ok=True)
-        lhr_re = re.compile(r"https://[a-z0-9.-]+\.lhr\.life")
-        candidates.append((
-            "localhostrun",
-            [ssh_bin, "-T", "-o", "StrictHostKeyChecking=accept-new", "-o", f"UserKnownHostsFile={known_hosts}", "-o", "BatchMode=yes", "-o", "ServerAliveInterval=15", "-o", "ConnectTimeout=12", "-R", f"80:127.0.0.1:{port}", "nokey@localhost.run"],
-            lhr_re,
-            ".lhr.life",
-            22.0,
-        ))
+        tmp_key = AUTO / "logs" / "tunnel_tmp_key"
+        if not tmp_key.exists():
+            keygen = shutil.which("ssh-keygen")
+            if keygen:
+                subprocess.run([keygen, "-t", "ed25519", "-N", "", "-f", str(tmp_key), "-q"], check=False)
+
+        if provider in ("auto", "pinggy"):
+            pg_re = re.compile(r"https://(?!dashboard\.)[a-z0-9.-]+\.(?:pinggy\.link|pinggy\.io|pinggy\.net)")
+            pg_cmd = [ssh_bin, "-4", "-p", "443", "-T"]
+            if tmp_key.exists():
+                pg_cmd += ["-i", str(tmp_key)]
+            pg_cmd += ["-o", "StrictHostKeyChecking=accept-new", "-o", f"UserKnownHostsFile={known_hosts}", "-o", "BatchMode=yes", "-o", "ServerAliveInterval=15", "-o", "ConnectTimeout=12", "-R0:127.0.0.1:" + str(port), "a.pinggy.io"]
+            candidates.append(("pinggy", pg_cmd, pg_re, ".pinggy.", 22.0))
+
+        if provider in ("auto", "localhostrun"):
+            lhr_re = re.compile(r"https://[a-z0-9.-]+\.lhr\.life")
+            candidates.append((
+                "localhostrun",
+                [ssh_bin, "-T", "-o", "StrictHostKeyChecking=accept-new", "-o", f"UserKnownHostsFile={known_hosts}", "-o", "BatchMode=yes", "-o", "ServerAliveInterval=15", "-o", "ConnectTimeout=12", "-R", f"80:127.0.0.1:{port}", "nokey@localhost.run"],
+                lhr_re,
+                ".lhr.life",
+                22.0,
+            ))
 
     if not candidates:
         print("ERROR: Neither cloudflared.exe nor ssh.exe available for HTTPS tunneling.", flush=True)
@@ -348,7 +372,7 @@ def build_payload(item_id: str, include_publish_at: bool = True, include_thumb: 
     it = next((x for x in uq.get("items", []) if x["id"] == item_id), None)
     if not it:
         raise ValueError(f"Queue item not found: {item_id}")
-    seo = json.loads(Path(it["seo_path"]).read_text(encoding="utf-8"))
+    seo = json.loads(resolve_repo_path(it["seo_path"]).read_text(encoding="utf-8"))
 
     # Use live real-time SEO values
     base_url = st["base_url"]
@@ -380,7 +404,14 @@ def build_payload(item_id: str, include_publish_at: bool = True, include_thumb: 
     }
 
 
-def mark_uploaded(item_id: str, video_id: str, status: str, note: str = "") -> dict:
+def mark_uploaded(
+    item_id: str,
+    video_id: str,
+    status: str,
+    note: str = "",
+    upload_method: str = "zapier_mcp",
+    refresh: bool = True,
+) -> dict:
     uq = json.loads(UPLOAD_Q.read_text(encoding="utf-8"))
     target = None
     for it in uq.get("items", []):
@@ -394,7 +425,7 @@ def mark_uploaded(item_id: str, video_id: str, status: str, note: str = "") -> d
     target["status"] = status
     target["youtube_video_id"] = video_id
     target["youtube_url"] = url
-    target["upload_method"] = "zapier_mcp"
+    target["upload_method"] = upload_method
     target["uploaded_at_ist"] = datetime.now(IST).isoformat()
     if note:
         target["upload_note"] = note
@@ -410,9 +441,10 @@ def mark_uploaded(item_id: str, video_id: str, status: str, note: str = "") -> d
                 t["youtube_url"] = url
         TOPIC_Q.write_text(json.dumps(tq, indent=2, ensure_ascii=False), encoding="utf-8")
 
-    refresh_py = AUTO / "refresh_dashboard.py"
-    if refresh_py.exists():
-        subprocess.run([sys.executable, str(refresh_py)], check=False)
+    if refresh:
+        refresh_py = AUTO / "refresh_dashboard.py"
+        if refresh_py.exists():
+            subprocess.run([sys.executable, str(refresh_py)], check=False)
 
     return {"id": item_id, "status": status, "youtube_video_id": video_id, "youtube_url": url}
 
@@ -423,7 +455,7 @@ def main():
 
     p_srv = sub.add_parser("serve")
     p_srv.add_argument("--port", type=int, default=18923)
-    p_srv.add_argument("--provider", choices=["auto", "cloudflared", "localhostrun"], default="auto")
+    p_srv.add_argument("--provider", choices=["auto", "cloudflared", "pinggy", "localhostrun"], default="auto")
 
     p_pay = sub.add_parser("payload")
     p_pay.add_argument("--id", required=True)

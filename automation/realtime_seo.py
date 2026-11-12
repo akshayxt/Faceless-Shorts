@@ -16,6 +16,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 from build_seo_package import BLOCKED_NON_US_TAGS, build_seo, write_seo_txt
+from repo_paths import AUTO_DIR, resolve_repo_path, to_repo_posix
 
 # Force IPv4 on Windows for Google endpoints so IPv6 fallback never stalls HTTP calls
 _orig_getaddrinfo = socket.getaddrinfo
@@ -29,7 +30,7 @@ def _ipv4_google_getaddrinfo(host, port, family=0, type=0, proto=0, flags=0):
 
 socket.getaddrinfo = _ipv4_google_getaddrinfo
 
-AUTO = Path(r"G:\Faceless-Shorts\automation")
+AUTO = AUTO_DIR
 TOPIC_Q = AUTO / "data" / "30day_topic_queue.json"
 UPLOAD_Q = AUTO / "data" / "upload_queue.json"
 TRENDS_SNAPSHOT = AUTO / "data" / "live_us_trends.json"
@@ -175,7 +176,7 @@ def refresh_item(
         if set(re.findall(r"[a-z]+", tr.lower())) & topic_words
     ]
 
-    seo_path = Path(item["seo_path"])
+    seo_path = resolve_repo_path(item["seo_path"])
     ch_path = seo_path.parent / "data" / "chapters.json"
     chapters = None
     if is_longform and ch_path.exists():
@@ -191,7 +192,7 @@ def refresh_item(
         fetched_at_ist=trends_info.get("fetched_at_ist"),
     )
     seo_path.write_text(json.dumps(seo, indent=2, ensure_ascii=False), encoding="utf-8")
-    vid_p = Path(item["video_path"]) if item.get("video_path") else None
+    vid_p = resolve_repo_path(item["video_path"]) if item.get("video_path") else None
     sched_est = item.get("scheduled_publish_est", item.get("scheduled_slot_est", ""))
     seo_txt_path = write_seo_txt(
         seo,
@@ -203,7 +204,7 @@ def refresh_item(
 
     old_title = item.get("title", "")
     item["title"] = seo["selected_title"]
-    item["seo_txt_path"] = str(seo_txt_path)
+    item["seo_txt_path"] = to_repo_posix(seo_txt_path)
     item["seo_updated_at_ist"] = datetime.now(IST).isoformat()
     item["realtime_seo_score"] = seo["selected_title_lint"].get("score", 0)
     item["realtime_seo_queries"] = seo.get("target_search_queries", [])[:4]

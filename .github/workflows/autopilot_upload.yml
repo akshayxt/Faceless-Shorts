@@ -1,0 +1,102 @@
+name: BabyBeats Cloud Autopilot (24/7 SEO & Upload)
+
+on:
+  schedule:
+    # Runs 4x daily (every 6 hours) at 00:05, 06:05, 12:05, 18:05 UTC even when your PC is offline
+    - cron: "5 0,6,12,18 * * *"
+  workflow_dispatch:
+    inputs:
+      max_uploads:
+        description: "Maximum videos to attempt in this run"
+        required: false
+        default: "10"
+        type: string
+      sync_only:
+        description: "Only reconcile YouTube channel uploads, SEO, and dashboards"
+        required: false
+        default: false
+        type: boolean
+      dry_run:
+        description: "Verify SEO & GitHub CDN URLs without uploading or pushing commits"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: babybeats-cloud-autopilot
+  cancel-in-progress: false
+
+jobs:
+  autopilot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install optional YouTube API client (when OAuth secret configured)
+        env:
+          HAS_YT_TOKEN: ${{ secrets.YOUTUBE_TOKEN_JSON != '' }}
+        run: |
+          if [ "$HAS_YT_TOKEN" = "true" ]; then
+            python -m pip install --quiet google-api-python-client google-auth-httplib2 google-auth-oauthlib
+          else
+            echo "Running pure-stdlib Zapier + GitHub CDN mode ($0 deps)."
+          fi
+
+      - name: Run Cloud Autopilot (SEO + Sync + Upload + Dashboard + Telegram)
+        id: run_autopilot
+        env:
+          ZAPIER_MCP_TOKEN: ${{ secrets.ZAPIER_MCP_TOKEN }}
+          ZAPIER_CONNECTION_ID: ${{ secrets.ZAPIER_CONNECTION_ID }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          YOUTUBE_TOKEN_JSON: ${{ secrets.YOUTUBE_TOKEN_JSON }}
+          INPUT_MAX_UPLOADS: ${{ inputs.max_uploads || '10' }}
+          INPUT_SYNC_ONLY: ${{ inputs.sync_only || 'false' }}
+          INPUT_DRY_RUN: ${{ inputs.dry_run || 'false' }}
+        run: |
+          ARGS=("--max-uploads" "$INPUT_MAX_UPLOADS")
+          if [ "$INPUT_SYNC_ONLY" = "true" ]; then
+            ARGS+=("--sync-only")
+          fi
+          if [ "$INPUT_DRY_RUN" = "true" ]; then
+            ARGS+=("--dry-run")
+          fi
+          python automation/cloud_autopilot.py "${ARGS[@]}"
+
+      - name: Commit and push updated queue, SEO & dashboards
+        if: ${{ !cancelled() && inputs.dry_run != true }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -- \
+            automation/data/upload_queue.json \
+            automation/data/30day_topic_queue.json \
+            automation/data/growth_tracker.json \
+            automation/dashboard.html \
+            automation/growth_dashboard.md \
+            'videos/*/seo.txt' \
+            'videos/*/*_seo.txt' \
+            'videos/*/data/seo_package.json' || true
+
+          if git diff --cached --quiet; then
+            echo "No queue, SEO, or dashboard state changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore(autopilot): sync SEO, YouTube upload status & dashboards [skip ci]"
+          git pull --rebase --autostash origin main
+          git push origin HEAD:main
