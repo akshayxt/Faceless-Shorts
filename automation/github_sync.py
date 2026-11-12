@@ -98,7 +98,7 @@ def _candidate_sync_paths() -> list[Path]:
     return unique
 
 
-def push_changed_files(commit_message: str = "chore(cloud-server): sync SEO, upload status & dashboards [skip ci]") -> dict:
+def push_changed_files(commit_message: str = "chore(cloud-server): sync SEO, upload status & dashboards [skip render] [skip ci]") -> dict:
     """Create one atomic commit on GitHub for any modified state, SEO, or dashboard files."""
     token, repo, branch = _gh_cfg()
     if not token:
