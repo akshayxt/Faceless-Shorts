@@ -34,8 +34,9 @@ CHANNEL_CFG = AUTO_DIR / "data" / "channel_config.json"
 BOT_SETTINGS_PATH = AUTO_DIR / "data" / "bot_settings.json"
 
 DEFAULT_PUBLIC_URL = "https://babybeats-cloud-autopilot.onrender.com"
+OWNER_ID = 7118065044
+UNAUTHORIZED_REPLY = "Baap Ko Bhej Tere Bs Ki Baat Ni Meethe"
 PAGE_SIZE = 8
-_ADMIN_CACHE: dict[int, tuple[bool, float]] = {}
 _BOT_USERNAME: str = ""
 
 BOT_COMMANDS: list[dict[str, str]] = [
@@ -211,30 +212,18 @@ def register_telegram_bot(base_url: str | None = None) -> dict:
 
 
 def is_authorized_actor(user_id: int | None, chat_id: int | str, chat_type: str) -> bool:
-    """Allow only configured admins (or group admins of TELEGRAM_CHAT_ID) in the primary group or DM."""
-    if not user_id:
+    """Allow strictly OWNER_ID (7118065044) in the primary group or private DM."""
+    try:
+        uid = int(user_id) if user_id is not None else 0
+    except (TypeError, ValueError):
+        return False
+    if uid != OWNER_ID:
         return False
     cfg = load_tg_config()
     primary_chat = str(cfg.get("chat_id", "")).strip()
-    if chat_type != "private" and str(chat_id) != primary_chat:
+    if chat_type != "private" and primary_chat and str(chat_id) != primary_chat:
         return False
-
-    explicit = {x.strip() for x in os.environ.get("TELEGRAM_ADMIN_IDS", "").split(",") if x.strip()}
-    if explicit:
-        return str(user_id) in explicit
-
-    now = time.monotonic()
-    cached = _ADMIN_CACHE.get(user_id)
-    if cached and cached[1] > now:
-        return cached[0]
-
-    if not primary_chat:
-        return False
-    res = tg_api("getChatMember", {"chat_id": primary_chat, "user_id": user_id})
-    status = str((res.get("result") or {}).get("status") or "")
-    allowed = bool(res.get("ok") and status in ("creator", "administrator"))
-    _ADMIN_CACHE[user_id] = (allowed, now + 300.0)
-    return allowed
+    return True
 
 
 def _parse_command(text: str, bot_username: str) -> tuple[str | None, str]:
@@ -611,7 +600,7 @@ def handle_webhook_update(
         data = str(cq.get("data") or "")
 
         if not is_authorized_actor(from_u.get("id"), chat_id, str(chat.get("type") or "")):
-            tg_api("answerCallbackQuery", {"callback_query_id": cq_id, "text": "Admins only.", "show_alert": True})
+            tg_api("answerCallbackQuery", {"callback_query_id": cq_id, "text": UNAUTHORIZED_REPLY, "show_alert": True})
             return {"handled": "unauthorized_callback"}
 
         if data == "cb:dash":
@@ -680,6 +669,7 @@ def handle_webhook_update(
     from_u = msg.get("from") or {}
 
     if not is_authorized_actor(from_u.get("id"), chat_id, str(chat.get("type") or "")):
+        _dispatch_message(chat_id, UNAUTHORIZED_REPLY, reply_to=msg_id)
         return {"handled": "unauthorized_message"}
 
     if cmd in ("start", "help"):
