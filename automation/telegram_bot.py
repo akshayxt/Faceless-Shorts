@@ -13,6 +13,8 @@ import hmac
 import html
 import json
 import os
+import random
+import re
 import threading
 import time
 import urllib.error
@@ -32,15 +34,57 @@ TOPIC_Q = AUTO_DIR / "data" / "30day_topic_queue.json"
 GROWTH_PATH = AUTO_DIR / "data" / "growth_tracker.json"
 CHANNEL_CFG = AUTO_DIR / "data" / "channel_config.json"
 BOT_SETTINGS_PATH = AUTO_DIR / "data" / "bot_settings.json"
+AGENT_INBOX_PATH = AUTO_DIR / "data" / "agent_inbox.json"
 
 DEFAULT_PUBLIC_URL = "https://babybeats-cloud-autopilot.onrender.com"
 OWNER_ID = 7118065044
 UNAUTHORIZED_REPLY = "Baap Ko Bhej Tere Bs Ki Baat Ni Meethe"
+SUPPORT_CHAT = "TeamXT_Support"
+UPDATES_CHAT = "TeamX_TSupport"
 PAGE_SIZE = 8
 _BOT_USERNAME: str = ""
 
+START_IMG = [
+    "https://telegra.ph/file/f3b2776b2766e911383f0.jpg",
+    "https://graph.org/file/08db66a4374af926c9bd3.jpg",
+    "https://graph.org/file/7d9eaee9efe95444fb5e3.jpg",
+    "https://telegra.ph/file/f71f13dc4755349c13a70.jpg",
+    "https://telegra.ph/file/0b99d9768000b9fbc7a28.jpg",
+    "https://telegra.ph/file/6af06601caadb0e88e8fe.jpg",
+    "https://telegra.ph/file/0cd3fdfb1c37e35860167.jpg",
+    "https://graph.org/file/a45b214adabcd86401152.jpg",
+]
+
+START_VID = PING_MP4 = ALIVE_ANIMATION = [
+    "https://telegra.ph/file/5ce0259747cdd75db040f.mp4",
+    "https://telegra.ph/file/925d833773c3f75500255.mp4",
+    "https://telegra.ph/file/3c1ca2ea64323e00426c2.mp4",
+    "https://telegra.ph/file/436f9cacca9b37538dda3.mp4",
+]
+
+HEY_IMG = "https://graph.org/file/3740819ccb58317741e8e.jpg"
+
+FIRST_PART_TEXT = "✨ <b>ʜᴇʟʟᴏ</b> <code>{}</code> . . ."
+
+PM_START_TEXT = (
+    "<b>Hᴇʏ ɢᴜʏs, I ᴀᴍ BᴀʙʏBᴇᴀᴛs XT</b>, ᴀ ʜᴀᴄᴋɪɴɢ ᴛʜᴇᴍᴇ ʙᴀsᴇᴅ "
+    "<b>24/7 YᴏᴜTᴜʙᴇ Cʟᴏᴜᴅ Aᴜᴛᴏᴘɪʟᴏᴛ &amp; AI Cᴏɴᴛʀᴏʟ Bᴏᴛ</b> "
+    "ᴘᴏᴡᴇʀᴇᴅ ʙʏ <b>Rᴇɴᴅᴇʀ + GɪᴛHᴜʙ + Aɴᴛɪɢʀᴀᴠɪᴛʏ</b> ⚡"
+)
+
+HELP_STRINGS = (
+    "☉ <b>Here, you will find a list of all the available commands.</b>\n"
+    "ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ : <code>/</code>"
+)
+
 BOT_COMMANDS: list[dict[str, str]] = [
+    {"command": "start", "description": "Stylish BabyBeats XT control center intro"},
+    {"command": "alive", "description": "Check live bot animation, cloud & queue ping"},
     {"command": "dashboard", "description": "Interactive growth, upload & server cockpit"},
+    {"command": "ask", "description": "Give natural-language command (/ask upload 2 videos)"},
+    {"command": "cmd", "description": "Execute cloud/AI instruction (/cmd sync youtube)"},
+    {"command": "agent", "description": "Queue coding/browser task for Antigravity bridge"},
+    {"command": "tasks", "description": "View queued & completed Antigravity agent tasks"},
     {"command": "status", "description": "Cloud runner health, cron & commit telemetry"},
     {"command": "queue", "description": "Browse all 31 videos with status & links"},
     {"command": "pending", "description": "Show remaining READY_FOR_UPLOAD videos"},
@@ -58,7 +102,7 @@ BOT_COMMANDS: list[dict[str, str]] = [
     {"command": "logs", "description": "Latest cloud execution & GitHub sync details"},
     {"command": "help", "description": "Show all BabyBeats bot commands"},
 ]
-_KNOWN_CMD_SET = {c["command"] for c in BOT_COMMANDS} | {"start", "dash", "panel"}
+_KNOWN_CMD_SET = {c["command"] for c in BOT_COMMANDS} | {"dash", "panel", "do", "ai", "inbox"}
 
 
 def _now_ist() -> str:
@@ -514,15 +558,134 @@ def _send_seo_document(chat_id: int | str, item_id: str = "", reply_to: int | No
     return bool(res.get("ok")), str(res.get("description") or "Sent")
 
 
-def build_help_view() -> tuple[str, dict]:
-    lines = ["🤖 <b>BabyBeats Rhymo — Bot Command Center</b>\n"]
-    for entry in BOT_COMMANDS:
-        lines.append(f"/{entry['command']} — {html.escape(entry['description'])}")
-    lines.append("\n<i>All cloud actions run on Render + sync state to GitHub even when your PC is off.</i>")
+_INBOX_LOCK = threading.Lock()
+
+
+def _bot_username() -> str:
+    global _BOT_USERNAME
+    if not _BOT_USERNAME:
+        me = tg_api("getMe")
+        if me.get("ok"):
+            _BOT_USERNAME = str((me.get("result") or {}).get("username") or "").lower()
+    return _BOT_USERNAME or "MessageXTRobot"
+
+
+def _start_buttons(chat_type: str) -> dict:
+    uname = _bot_username()
+    if chat_type == "private":
+        return {
+            "inline_keyboard": [
+                [{"text": "⛩ 𝘼𝘿𝘿 𝙈𝙀 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝘾 ⛩", "url": f"https://t.me/{uname}?startgroup=true"}],
+                [
+                    {"text": "📊 𝘿𝘼𝙎𝙃𝘽𝙊𝘼𝙍𝘿", "callback_data": "cb:dash"},
+                    {"text": "📖 𝙃𝙀𝙇𝙋", "callback_data": "help_back"},
+                ],
+                [
+                    {"text": "ℹ️ DETAILS", "callback_data": "bb_details"},
+                    {"text": "🤖 AI", "callback_data": "ai_handler"},
+                    {"text": "📦 SOURCE", "callback_data": "git_source"},
+                ],
+                [{"text": "👑 CREATOR", "url": f"tg://user?id={OWNER_ID}"}],
+                [
+                    {"text": "💬 𝘾𝙃𝘼𝙏 𝙂𝙍𝙊𝙐𝙋", "url": f"https://t.me/{SUPPORT_CHAT}"},
+                    {"text": "⚡ 𝐓𝐄𝐀𝐌冬𝗫𝗧", "url": f"https://t.me/{UPDATES_CHAT}"},
+                ],
+            ]
+        }
+    return {
+        "inline_keyboard": [
+            [{"text": "⇦ 𝘼𝘿𝘿 𝙈𝙀 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝘾 ⇨", "url": f"https://t.me/{uname}?startgroup=true"}],
+            [
+                {"text": "📊 DASHBOARD", "callback_data": "cb:dash"},
+                {"text": "🤖 AI CMD", "callback_data": "ai_handler"},
+            ],
+            [
+                {"text": "💬 SUPPORT", "url": f"https://t.me/{SUPPORT_CHAT}"},
+                {"text": "👑 CREATOR", "url": f"tg://user?id={OWNER_ID}"},
+            ],
+        ]
+    }
+
+
+def _alive_buttons() -> dict:
+    uname = _bot_username()
+    return {
+        "inline_keyboard": [
+            [
+                {"text": "⚡ UPDATES", "url": f"https://t.me/{UPDATES_CHAT}"},
+                {"text": "💬 SUPPORT", "url": f"https://t.me/{SUPPORT_CHAT}"},
+            ],
+            [{"text": "📊 DASHBOARD", "callback_data": "cb:dash"}, {"text": "🤖 AI CMD", "callback_data": "ai_handler"}],
+            [{"text": "⇦ 𝘼𝘿𝘿 𝙈𝙀 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝘾 ⇨", "url": f"https://t.me/{uname}?startgroup=true"}],
+        ]
+    }
+
+
+def build_start_view(user_name: str, chat_type: str, server_state: dict) -> tuple[str, dict]:
+    snap = _load_queue_snapshot()
+    nxt = snap["next_item"]
+    nxt_id = html.escape(nxt["id"]) if nxt else "ALL DONE"
+    mode = "⏸ PAUSED" if get_bot_settings()["paused"] else ("🔄 RUNNING" if server_state.get("running") else "🟢 ONLINE 24/7")
+    text = (
+        f"{FIRST_PART_TEXT.format(html.escape(user_name or 'Owner'))}\n\n"
+        f"{PM_START_TEXT}\n\n"
+        f"• <b>Sᴛᴀᴛᴇ:</b> {mode}\n"
+        f"• <b>Pʀᴏɢʀᴇss:</b> <code>{snap['done_cnt']}/{snap['total_cnt']}</code> (Next: <code>{nxt_id}</code>)\n"
+        f"• <b>Oᴡɴᴇʀ Lᴏᴄᴋ:</b> <code>{OWNER_ID}</code>"
+    )
+    return text, _start_buttons(chat_type)
+
+
+def build_details_view(server_state: dict) -> tuple[str, dict]:
+    snap = _load_queue_snapshot()
+    cfg = _read_json(CHANNEL_CFG, {})
+    gh_repo = os.environ.get("GITHUB_REPOSITORY", DEFAULT_REPO)
+    text = (
+        f"ℹ️ <b>BabyBeats XT — System Details</b>\n\n"
+        f"• <b>YouTube Channel:</b> <code>{html.escape(str(cfg.get('channel_id', 'UCR-Di4-tEAdUM7oPzlGn-vg')))}</code>\n"
+        f"• <b>Cloud Host:</b> Render Free Web Service (24/7 PC-Offline)\n"
+        f"• <b>Storage &amp; CDN:</b> <code>{html.escape(gh_repo)}</code>\n"
+        f"• <b>Queue:</b> {snap['done_cnt']}/{snap['total_cnt']} uploaded/scheduled\n"
+        f"• <b>Completed Runs:</b> {server_state.get('runs_completed', 0)}\n"
+        f"• <b>Access Lock:</b> Strictly <code>OWNER_ID = {OWNER_ID}</code>"
+    )
     kb = {
         "inline_keyboard": [
-            [{"text": "🚀 Open Dashboard", "callback_data": "cb:dash"}, {"text": "📋 Queue", "callback_data": "cb:queue:all:0"}],
-            [{"text": "🌐 Web Cockpit", "url": f"{public_base_url()}/dashboard"}],
+            [{"text": "📊 Open Dashboard", "callback_data": "cb:dash"}, {"text": "🔙 Back", "callback_data": "start_home"}]
+        ]
+    }
+    return text, kb
+
+
+def build_ai_guide_view() -> tuple[str, dict]:
+    text = (
+        f"🤖 <b>Antigravity Telegram AI Command Mode</b>\n\n"
+        f"Send commands to me here just like Antigravity chat:\n\n"
+        f"• <b>In DM:</b> Simply type any instruction normally (no <code>/</code> needed!)\n"
+        f"  <i>e.g.</i> <code>upload 2 videos now</code>, <code>kitne pending hain?</code>, <code>refresh seo</code>, <code>pause uploads</code>\n"
+        f"• <b>In Group:</b> Prefix with <code>/ask</code>, <code>/cmd</code>, or <code>/agent</code>:\n"
+        f"  <code>/ask show next video seo file</code>\n"
+        f"  <code>/cmd upload 1 video</code>\n"
+        f"  <code>/agent update day10 thumbnail headline</code>\n\n"
+        f"• Use <code>/tasks</code> to track queued Antigravity bridge jobs."
+    )
+    kb = {
+        "inline_keyboard": [
+            [{"text": "📋 Agent Tasks", "callback_data": "cb:tasks"}, {"text": "📊 Dashboard", "callback_data": "cb:dash"}],
+            [{"text": "🔙 Back", "callback_data": "start_home"}],
+        ]
+    }
+    return text, kb
+
+
+def build_help_view() -> tuple[str, dict]:
+    lines = [HELP_STRINGS, ""]
+    for entry in BOT_COMMANDS:
+        lines.append(f"/{entry['command']} — {html.escape(entry['description'])}")
+    kb = {
+        "inline_keyboard": [
+            [{"text": "🚀 Dashboard", "callback_data": "cb:dash"}, {"text": "📋 Queue", "callback_data": "cb:queue:all:0"}],
+            [{"text": "🤖 AI Mode", "callback_data": "ai_handler"}, {"text": "🔙 Start", "callback_data": "start_home"}],
         ]
     }
     return "\n".join(lines), kb
@@ -542,11 +705,105 @@ def build_links_view() -> tuple[str, dict]:
     )
     kb = {
         "inline_keyboard": [
-            [{"text": "🌐 Open Dashboard", "url": f"{base}/dashboard"}, {"text": "📺 YouTube Channel", "url": f"https://www.youtube.com/channel/{ch_id}"}],
-            [{"text": "🔙 Back to Bot Dashboard", "callback_data": "cb:dash"}],
+            [{"text": "🌐 Web Dashboard", "url": f"{base}/dashboard"}, {"text": "📁 GitHub Repo", "url": f"https://github.com/{gh_repo}"}],
+            [{"text": "🔙 Back", "callback_data": "start_home"}],
         ]
     }
     return text, kb
+
+
+def list_agent_tasks(status_filter: str | None = None) -> list[dict]:
+    with _INBOX_LOCK:
+        data = _read_json(AGENT_INBOX_PATH, {"tasks": []})
+        tasks = list(data.get("tasks") or [])
+    if status_filter:
+        return [t for t in tasks if t.get("status") == status_filter]
+    return tasks
+
+
+def queue_agent_task(prompt: str, chat_id: int | str, msg_id: int | None, actor: str) -> dict:
+    task = {
+        "task_id": f"T-{datetime.now(IST).strftime('%H%M%S')}-{uuid.uuid4().hex[:4]}",
+        "prompt": prompt.strip(),
+        "chat_id": str(chat_id),
+        "reply_to_message_id": msg_id,
+        "requested_by": actor,
+        "status": "PENDING",
+        "created_at_ist": _now_ist(),
+        "completed_at_ist": None,
+        "reply": None,
+    }
+    with _INBOX_LOCK:
+        data = _read_json(AGENT_INBOX_PATH, {"tasks": []})
+        tasks = list(data.get("tasks") or [])
+        tasks.append(task)
+        data["tasks"] = tasks[-100:]
+        AGENT_INBOX_PATH.parent.mkdir(parents=True, exist_ok=True)
+        AGENT_INBOX_PATH.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    return task
+
+
+def complete_agent_task(task_id: str, reply_text: str, status: str = "DONE") -> dict | None:
+    updated = None
+    with _INBOX_LOCK:
+        data = _read_json(AGENT_INBOX_PATH, {"tasks": []})
+        tasks = list(data.get("tasks") or [])
+        for t in tasks:
+            if t.get("task_id") == task_id:
+                t["status"] = status
+                t["reply"] = reply_text
+                t["completed_at_ist"] = _now_ist()
+                updated = dict(t)
+                break
+        if updated:
+            AGENT_INBOX_PATH.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    return updated
+
+
+def build_tasks_view() -> tuple[str, dict]:
+    tasks = list_agent_tasks()
+    recent = list(reversed(tasks[-8:]))
+    lines = [f"🤖 <b>Antigravity Command Inbox</b> ({len(tasks)} total)\n"]
+    icon = {"PENDING": "🟡", "DONE": "🟢", "FAILED": "🔴"}
+    for t in recent:
+        ico = icon.get(t.get("status", ""), "❔")
+        snippet = html.escape(str(t.get("prompt", ""))[:55])
+        lines.append(f"{ico} <code>{html.escape(str(t.get('task_id')))}</code> [{t.get('status')}] · {snippet}")
+    if not recent:
+        lines.append("<i>No Antigravity tasks queued yet. Use /agent &lt;task&gt; or chat in DM.</i>")
+    kb = {
+        "inline_keyboard": [
+            [{"text": "🔄 Refresh Tasks", "callback_data": "cb:tasks"}, {"text": "📊 Dashboard", "callback_data": "cb:dash"}]
+        ]
+    }
+    return "\n".join(lines), kb
+
+
+def _ask_gemini_cloud(prompt: str, server_state: dict) -> str | None:
+    api_key = os.environ.get("GEMINI_API_KEY", "").strip()
+    if not api_key:
+        return None
+    snap = _load_queue_snapshot()
+    nxt = snap["next_item"] or {}
+    context = (
+        f"Project: BabyBeats Rhymo YouTube Automation (31 videos). "
+        f"Progress: {snap['done_cnt']}/{snap['total_cnt']} done, {len(snap['pending'])} remaining. "
+        f"Next video: {nxt.get('id', 'none')} - {nxt.get('title', '')}. "
+        f"Paused: {get_bot_settings()['paused']}. Server runs: {server_state.get('runs_completed', 0)}."
+    )
+    body = json.dumps({
+        "contents": [{"parts": [{"text": f"System context: {context}\nReply concisely in Hinglish/English for the repo owner:\n\n{prompt}"}]}]
+    }).encode("utf-8")
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
+    req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"}, method="POST")
+    try:
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            data = json.loads(resp.read().decode("utf-8", errors="replace"))
+        cands = data.get("candidates") or []
+        parts = ((cands[0].get("content") or {}).get("parts") or []) if cands else []
+        return str(parts[0].get("text") or "").strip() if parts else None
+    except Exception:
+        return None
 
 
 def _dispatch_message(chat_id: int | str, text: str, reply_markup: dict | None = None, reply_to: int | None = None) -> dict:
@@ -563,6 +820,56 @@ def _dispatch_message(chat_id: int | str, text: str, reply_markup: dict | None =
     return tg_api("sendMessage", payload)
 
 
+def _dispatch_start_media(chat_id: int | str, caption: str, reply_markup: dict, reply_to: int | None = None) -> dict:
+    for url in random.sample(START_IMG, min(2, len(START_IMG))):
+        payload: dict[str, Any] = {
+            "chat_id": str(chat_id),
+            "photo": url,
+            "caption": caption[:1024],
+            "parse_mode": "HTML",
+            "reply_markup": reply_markup,
+        }
+        if reply_to:
+            payload["reply_to_message_id"] = reply_to
+        res = tg_api("sendPhoto", payload, timeout=20)
+        if res.get("ok"):
+            return res
+    return _dispatch_message(chat_id, caption, reply_markup, reply_to=reply_to)
+
+
+def _dispatch_alive_media(chat_id: int | str, server_state: dict, reply_to: int | None = None) -> dict:
+    snap = _load_queue_snapshot()
+    caption = (
+        f"⚡ <b>BᴀʙʏBᴇᴀᴛs XT — ALIVE &amp; RUNNING</b>\n\n"
+        f"• <b>Host:</b> Render Cloud + GitHub CDN\n"
+        f"• <b>Progress:</b> <code>{snap['done_cnt']}/{snap['total_cnt']}</code> done\n"
+        f"• <b>Completed Runs:</b> <code>{server_state.get('runs_completed', 0)}</code>\n"
+        f"• <b>Time:</b> <code>{_now_ist()}</code>"
+    )
+    kb = _alive_buttons()
+    vid = random.choice(ALIVE_ANIMATION)
+    payload: dict[str, Any] = {
+        "chat_id": str(chat_id),
+        "video": vid,
+        "caption": caption[:1024],
+        "parse_mode": "HTML",
+        "reply_markup": kb,
+    }
+    if reply_to:
+        payload["reply_to_message_id"] = reply_to
+    res = tg_api("sendVideo", payload, timeout=20)
+    if res.get("ok"):
+        return res
+    if HEY_IMG:
+        p2 = dict(payload)
+        p2.pop("video", None)
+        p2["photo"] = HEY_IMG
+        res2 = tg_api("sendPhoto", p2, timeout=20)
+        if res2.get("ok"):
+            return res2
+    return _dispatch_message(chat_id, caption, kb, reply_to=reply_to)
+
+
 def _edit_message(chat_id: int | str, message_id: int, text: str, reply_markup: dict | None = None) -> dict:
     payload: dict[str, Any] = {
         "chat_id": str(chat_id),
@@ -576,6 +883,155 @@ def _edit_message(chat_id: int | str, message_id: int, text: str, reply_markup: 
     return tg_api("editMessageText", payload)
 
 
+def _edit_message_smart(msg: dict, chat_id: int | str, message_id: int, text: str, reply_markup: dict | None = None) -> dict:
+    is_media = any(k in msg for k in ("photo", "video", "animation", "document"))
+    if is_media:
+        if len(text) <= 1024:
+            payload: dict[str, Any] = {
+                "chat_id": str(chat_id),
+                "message_id": message_id,
+                "caption": text,
+                "parse_mode": "HTML",
+            }
+            if reply_markup:
+                payload["reply_markup"] = reply_markup
+            res = tg_api("editMessageCaption", payload)
+            if res.get("ok"):
+                return res
+        return _dispatch_message(chat_id, text, reply_markup)
+    res = _edit_message(chat_id, message_id, text, reply_markup)
+    if not res.get("ok") and "message to edit not found" not in str(res).lower():
+        return _dispatch_message(chat_id, text, reply_markup)
+    return res
+
+
+def _execute_nl_command(
+    prompt: str,
+    chat_id: int | str,
+    msg_id: int | None,
+    from_u: dict,
+    get_state: Callable[[], dict],
+    trigger_cycle: Callable[..., dict],
+    sync_github_fn: Callable[[str], dict],
+    force_agent: bool = False,
+) -> dict:
+    raw = (prompt or "").strip()
+    if not raw:
+        t, kb = build_ai_guide_view()
+        _dispatch_message(chat_id, t, kb, reply_to=msg_id)
+        return {"handled": "nl_empty"}
+
+    low = raw.lower()
+    actor = from_u.get("username") or str(from_u.get("id") or OWNER_ID)
+    vid_match = re.search(r"\b(day\d{2}_(?:short|long))\b", low)
+    vid_id = vid_match.group(1) if vid_match else ""
+
+    if not force_agent:
+        if any(k in low for k in ("pause upload", "pause auto", "stop upload", "uploads band", "pause kr")):
+            set_bot_paused(True, actor=f"@{actor}")
+            threading.Thread(target=sync_github_fn, args=("chore(bot): pause auto uploads via AI cmd [skip render] [skip ci]",), daemon=True).start()
+            t, kb = build_dashboard_view(get_state())
+            _dispatch_message(chat_id, "⏸ <b>Auto-uploads PAUSED via AI command.</b>\n\n" + t, kb, reply_to=msg_id)
+            return {"handled": "nl:pause"}
+
+        if any(k in low for k in ("resume upload", "unpause", "start auto", "resume kr", "chalu kr")):
+            set_bot_paused(False, actor=f"@{actor}")
+            threading.Thread(target=sync_github_fn, args=("chore(bot): resume auto uploads via AI cmd [skip render] [skip ci]",), daemon=True).start()
+            t, kb = build_dashboard_view(get_state())
+            _dispatch_message(chat_id, "▶ <b>Auto-uploads RESUMED via AI command.</b>\n\n" + t, kb, reply_to=msg_id)
+            return {"handled": "nl:resume"}
+
+        if any(k in low for k in ("upload", "run cycle", "run now", "upload kro", "start upload")) and "queue" not in low and "status" not in low:
+            m_num = re.search(r"\b(\d{1,2})\b", low)
+            max_up = max(1, min(31, int(m_num.group(1)))) if m_num else 10
+            res = trigger_cycle(max_uploads=max_up, sync_only=False, skip_seo=False, reply_chat_id=chat_id)
+            reply = f"🚀 <b>Started</b> cloud upload cycle (max <code>{max_up}</code>) on Render — completion update will arrive here." if res.get("started") else "⏳ A cloud cycle is already running; check /status shortly."
+            _dispatch_message(chat_id, reply, reply_to=msg_id)
+            return {"handled": f"nl:upload:{max_up}"}
+
+        if "refresh seo" in low or "update seo" in low:
+            res = trigger_cycle(max_uploads=10, sync_only=True, skip_seo=False, reply_chat_id=chat_id)
+            _dispatch_message(chat_id, "🔍 <b>Started</b> Real-Time US SEO refresh on Render." if res.get("started") else "⏳ A cloud cycle is already running.", reply_to=msg_id)
+            return {"handled": "nl:refreshseo"}
+
+        if any(k in low for k in ("sync youtube", "reconcile", "yt sync", "sync kr", "sync channel")):
+            res = trigger_cycle(max_uploads=10, sync_only=True, skip_seo=True, reply_chat_id=chat_id)
+            _dispatch_message(chat_id, "🔎 <b>Started</b> YouTube channel sync + dashboard refresh on Render." if res.get("started") else "⏳ A cloud cycle is already running.", reply_to=msg_id)
+            return {"handled": "nl:sync"}
+
+        if any(k in low for k in ("seotxt", "seo.txt", "seo file")) or ("file" in low and ("seo" in low or vid_id)):
+            ok, info = _send_seo_document(chat_id, vid_id, reply_to=msg_id)
+            if not ok:
+                _dispatch_message(chat_id, f"⚠️ {html.escape(info)}", reply_to=msg_id)
+            return {"handled": "nl:seotxt"}
+
+        if "seo" in low or "next video" in low or vid_id:
+            t, kb, _ = build_next_or_seo_view(vid_id, include_desc=("seo" in low or bool(vid_id)))
+            _dispatch_message(chat_id, t, kb, reply_to=msg_id)
+            return {"handled": "nl:seo"}
+
+        if any(k in low for k in ("dashboard", "dash", "progress", "kitne", "kya haal", "report", "summary")):
+            t, kb = build_dashboard_view(get_state())
+            _dispatch_message(chat_id, t, kb, reply_to=msg_id)
+            return {"handled": "nl:dashboard"}
+
+        if any(k in low for k in ("status", "health", "logs", "server", "telemetry")):
+            t, kb = build_status_view(get_state())
+            _dispatch_message(chat_id, t, kb, reply_to=msg_id)
+            return {"handled": "nl:status"}
+
+        if any(k in low for k in ("pending", "remaining", "bache")):
+            t, kb = build_queue_view("pending", 0)
+            _dispatch_message(chat_id, t, kb, reply_to=msg_id)
+            return {"handled": "nl:pending"}
+
+        if "scheduled" in low:
+            t, kb = build_queue_view("scheduled", 0)
+            _dispatch_message(chat_id, t, kb, reply_to=msg_id)
+            return {"handled": "nl:scheduled"}
+
+        if "uploaded" in low or "live video" in low:
+            t, kb = build_queue_view("uploaded", 0)
+            _dispatch_message(chat_id, t, kb, reply_to=msg_id)
+            return {"handled": "nl:uploaded"}
+
+        if "queue" in low or "videos list" in low:
+            t, kb = build_queue_view("all", 0)
+            _dispatch_message(chat_id, t, kb, reply_to=msg_id)
+            return {"handled": "nl:queue"}
+
+        if "tasks" in low or "inbox" in low:
+            t, kb = build_tasks_view()
+            _dispatch_message(chat_id, t, kb, reply_to=msg_id)
+            return {"handled": "nl:tasks"}
+
+        if "links" in low or "url" in low:
+            t, kb = build_links_view()
+            _dispatch_message(chat_id, t, kb, reply_to=msg_id)
+            return {"handled": "nl:links"}
+
+        gem_ans = _ask_gemini_cloud(raw, get_state())
+        if gem_ans:
+            _dispatch_message(chat_id, f"🤖 <b>Cloud AI Reply:</b>\n\n{html.escape(gem_ans)}", reply_to=msg_id)
+            return {"handled": "nl:gemini"}
+
+    task = queue_agent_task(raw, chat_id, msg_id, actor=f"@{actor}")
+    threading.Thread(
+        target=sync_github_fn,
+        args=(f"chore(agent-inbox): queue {task['task_id']} [skip render] [skip ci]",),
+        daemon=True,
+    ).start()
+    _dispatch_message(
+        chat_id,
+        f"🧠 <b>Antigravity Command Queued:</b> <code>{html.escape(task['task_id'])}</code>\n\n"
+        f"• <b>Command:</b> <code>{html.escape(raw[:300])}</code>\n"
+        f"• <b>Status:</b> 🟡 <code>PENDING</code> (synced to GitHub + <code>/agent/inbox</code>)\n\n"
+        f"<i>Custom code/browser tasks run automatically whenever your Antigravity bridge is online; instant upload/SEO/queue commands execute 24/7 directly via /ask or /cmd even when PC is off.</i>",
+        reply_to=msg_id,
+    )
+    return {"handled": f"nl:queued:{task['task_id']}"}
+
+
 def handle_webhook_update(
     update: dict,
     get_state: Callable[[], dict],
@@ -583,11 +1039,7 @@ def handle_webhook_update(
     sync_github_fn: Callable[[str], dict],
 ) -> dict:
     """Process one Telegram Message or CallbackQuery update cleanly without blocking HTTP response."""
-    global _BOT_USERNAME
-    if not _BOT_USERNAME:
-        me = tg_api("getMe")
-        if me.get("ok"):
-            _BOT_USERNAME = str((me.get("result") or {}).get("username") or "").lower()
+    _bot_username()
 
     if "callback_query" in update:
         cq = update["callback_query"]
@@ -596,31 +1048,57 @@ def handle_webhook_update(
         msg = cq.get("message") or {}
         chat = msg.get("chat") or {}
         chat_id = chat.get("id")
+        chat_type = str(chat.get("type") or "")
         msg_id = msg.get("message_id")
         data = str(cq.get("data") or "")
 
-        if not is_authorized_actor(from_u.get("id"), chat_id, str(chat.get("type") or "")):
+        if not is_authorized_actor(from_u.get("id"), chat_id, chat_type):
             tg_api("answerCallbackQuery", {"callback_query_id": cq_id, "text": UNAUTHORIZED_REPLY, "show_alert": True})
             return {"handled": "unauthorized_callback"}
 
-        if data == "cb:dash":
+        if data == "start_home":
+            uname = str(from_u.get("first_name") or from_u.get("username") or "Owner")
+            text, kb = build_start_view(uname, chat_type, get_state())
+            _edit_message_smart(msg, chat_id, msg_id, text, kb)
+            tg_api("answerCallbackQuery", {"callback_query_id": cq_id})
+        elif data == "help_back":
+            text, kb = build_help_view()
+            _edit_message_smart(msg, chat_id, msg_id, text, kb)
+            tg_api("answerCallbackQuery", {"callback_query_id": cq_id})
+        elif data == "bb_details":
+            text, kb = build_details_view(get_state())
+            _edit_message_smart(msg, chat_id, msg_id, text, kb)
+            tg_api("answerCallbackQuery", {"callback_query_id": cq_id})
+        elif data == "ai_handler":
+            text, kb = build_ai_guide_view()
+            _edit_message_smart(msg, chat_id, msg_id, text, kb)
+            tg_api("answerCallbackQuery", {"callback_query_id": cq_id})
+        elif data == "git_source":
+            text, kb = build_links_view()
+            _edit_message_smart(msg, chat_id, msg_id, text, kb)
+            tg_api("answerCallbackQuery", {"callback_query_id": cq_id})
+        elif data == "cb:tasks":
+            text, kb = build_tasks_view()
+            _edit_message_smart(msg, chat_id, msg_id, text, kb)
+            tg_api("answerCallbackQuery", {"callback_query_id": cq_id})
+        elif data == "cb:dash":
             text, kb = build_dashboard_view(get_state())
-            _edit_message(chat_id, msg_id, text, kb)
+            _edit_message_smart(msg, chat_id, msg_id, text, kb)
             tg_api("answerCallbackQuery", {"callback_query_id": cq_id, "text": "Dashboard refreshed"})
         elif data == "cb:status":
             text, kb = build_status_view(get_state())
-            _edit_message(chat_id, msg_id, text, kb)
+            _edit_message_smart(msg, chat_id, msg_id, text, kb)
             tg_api("answerCallbackQuery", {"callback_query_id": cq_id})
         elif data.startswith("cb:queue:"):
             parts = data.split(":")
             flt = parts[2] if len(parts) > 2 else "all"
             page = int(parts[3]) if len(parts) > 3 and parts[3].isdigit() else 0
             text, kb = build_queue_view(flt, page)
-            _edit_message(chat_id, msg_id, text, kb)
+            _edit_message_smart(msg, chat_id, msg_id, text, kb)
             tg_api("answerCallbackQuery", {"callback_query_id": cq_id})
         elif data == "cb:next":
             text, kb, _ = build_next_or_seo_view("", include_desc=False)
-            _edit_message(chat_id, msg_id, text, kb)
+            _edit_message_smart(msg, chat_id, msg_id, text, kb)
             tg_api("answerCallbackQuery", {"callback_query_id": cq_id})
         elif data.startswith("cb:seodoc:"):
             iid = data.split(":", 2)[2]
@@ -638,7 +1116,7 @@ def handle_webhook_update(
             pop = f"🚀 Started: {label}" if res.get("started") else "⏳ A cloud cycle is already running"
             tg_api("answerCallbackQuery", {"callback_query_id": cq_id, "text": pop})
             text, kb = build_dashboard_view(get_state())
-            _edit_message(chat_id, msg_id, text, kb)
+            _edit_message_smart(msg, chat_id, msg_id, text, kb)
         elif data in ("cb:pause", "cb:resume"):
             actor = from_u.get("username") or str(from_u.get("id"))
             paused = data == "cb:pause"
@@ -650,7 +1128,7 @@ def handle_webhook_update(
             ).start()
             tg_api("answerCallbackQuery", {"callback_query_id": cq_id, "text": "Uploads paused ⏸" if paused else "Uploads resumed ▶"})
             text, kb = build_dashboard_view(get_state())
-            _edit_message(chat_id, msg_id, text, kb)
+            _edit_message_smart(msg, chat_id, msg_id, text, kb)
         else:
             tg_api("answerCallbackQuery", {"callback_query_id": cq_id})
         return {"handled": f"callback:{data}"}
@@ -659,21 +1137,42 @@ def handle_webhook_update(
     if not msg or not msg.get("text"):
         return {"handled": "ignored_non_text"}
 
-    cmd, arg = _parse_command(msg["text"], _BOT_USERNAME)
-    if not cmd:
-        return {"handled": "ignored_non_bot_cmd"}
-
+    text_in = str(msg["text"]).strip()
     chat = msg.get("chat") or {}
     chat_id = chat.get("id")
+    chat_type = str(chat.get("type") or "")
     msg_id = msg.get("message_id")
     from_u = msg.get("from") or {}
 
-    if not is_authorized_actor(from_u.get("id"), chat_id, str(chat.get("type") or "")):
+    if not text_in.startswith("/"):
+        if chat_type != "private":
+            return {"handled": "ignored_group_chatter"}
+        if not is_authorized_actor(from_u.get("id"), chat_id, chat_type):
+            _dispatch_message(chat_id, UNAUTHORIZED_REPLY, reply_to=msg_id)
+            return {"handled": "unauthorized_message"}
+        return _execute_nl_command(text_in, chat_id, msg_id, from_u, get_state, trigger_cycle, sync_github_fn, force_agent=False)
+
+    cmd, arg = _parse_command(text_in, _BOT_USERNAME)
+    if not cmd:
+        return {"handled": "ignored_non_bot_cmd"}
+
+    if not is_authorized_actor(from_u.get("id"), chat_id, chat_type):
         _dispatch_message(chat_id, UNAUTHORIZED_REPLY, reply_to=msg_id)
         return {"handled": "unauthorized_message"}
 
-    if cmd in ("start", "help"):
+    if cmd == "start":
+        uname = str(from_u.get("first_name") or from_u.get("username") or "Owner")
+        text, kb = build_start_view(uname, chat_type, get_state())
+        _dispatch_start_media(chat_id, text, kb, reply_to=msg_id)
+    elif cmd == "alive":
+        _dispatch_alive_media(chat_id, get_state(), reply_to=msg_id)
+    elif cmd == "help":
         text, kb = build_help_view()
+        _dispatch_message(chat_id, text, kb, reply_to=msg_id)
+    elif cmd in ("ask", "cmd", "do", "ai", "agent"):
+        return _execute_nl_command(arg, chat_id, msg_id, from_u, get_state, trigger_cycle, sync_github_fn, force_agent=(cmd == "agent"))
+    elif cmd in ("tasks", "inbox"):
+        text, kb = build_tasks_view()
         _dispatch_message(chat_id, text, kb, reply_to=msg_id)
     elif cmd in ("dashboard", "dash", "panel"):
         text, kb = build_dashboard_view(get_state())

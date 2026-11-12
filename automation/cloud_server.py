@@ -30,7 +30,9 @@ from repo_paths import AUTO_DIR
 from telegram_bot import (
     _dispatch_message,
     build_dashboard_view,
+    complete_agent_task,
     handle_webhook_update,
+    list_agent_tasks,
     register_telegram_bot,
     verify_webhook_header,
 )
@@ -212,6 +214,54 @@ class CloudAutopilotHandler(http.server.BaseHTTPRequestHandler):
                 self._send_json(code, {"error": msg})
                 return
             self._send_json(200, register_telegram_bot())
+            return
+
+        if route == "/agent/inbox":
+            ok, code, msg = _is_authorized(self, query)
+            if not ok:
+                self._send_json(code, {"error": msg})
+                return
+            st_flt = (query.get("status") or [""])[0].strip().upper() or None
+            self._send_json(200, {"tasks": list_agent_tasks(st_flt)})
+            return
+
+        if route == "/agent/reply":
+            if self.command != "POST":
+                self._send_json(405, {"error": "Method not allowed"})
+                return
+            ok, code, msg = _is_authorized(self, query)
+            if not ok:
+                self._send_json(code, {"error": msg})
+                return
+            try:
+                body = json.loads(body_bytes.decode("utf-8", errors="replace") or "{}")
+            except Exception:
+                self._send_json(400, {"error": "Invalid JSON"})
+                return
+            task_id = str(body.get("task_id") or "").strip()
+            reply_text = str(body.get("reply") or "").strip()
+            status = str(body.get("status") or "DONE").strip().upper()
+            if status not in ("DONE", "FAILED"):
+                status = "DONE"
+            if not task_id or not reply_text:
+                self._send_json(400, {"error": "task_id and reply are required"})
+                return
+            updated = complete_agent_task(task_id, reply_text, status=status)
+            if not updated:
+                self._send_json(404, {"error": "Task not found"})
+                return
+            import html as _html
+            _dispatch_message(
+                updated["chat_id"],
+                f"🧠 <b>Antigravity Result</b> (<code>{_html.escape(task_id)}</code> · {status}):\n\n{_html.escape(reply_text[:3400])}",
+                reply_to=updated.get("reply_to_message_id"),
+            )
+            threading.Thread(
+                target=push_changed_files,
+                args=(f"chore(agent-inbox): complete {task_id} [skip render] [skip ci]",),
+                daemon=True,
+            ).start()
+            self._send_json(200, {"ok": True, "task": updated})
             return
 
         if route in ("/", "/health", "/status"):
