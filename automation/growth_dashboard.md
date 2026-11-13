@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-13 20:30:40 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-13 20:42:11 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -17,8 +17,8 @@
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `26` days / **`192.3` subs/day** |
-| Videos Rendered & Verified | **`31`** (`14` uploaded/scheduled, `17` remaining) |
-| Real-Time US SEO Sync | `2026-11-13T17:33:22.913047+05:30` |
+| Videos Rendered & Verified | **`31`** (`19` uploaded/scheduled, `12` remaining) |
+| Real-Time US SEO Sync | `2026-11-13T20:41:33.528776+05:30` |
 | Topic Backlog Remaining | `0` pending out of `30` scored |
 
 ## 2. Production & Upload Queue Status
@@ -39,11 +39,11 @@
 | `day11_short` | short | How Dogs Can Literally Smell Time Passing! | 62/100 | 2026-11-21 15:30:00 EST | 1080x1920, 35.67s | `SCHEDULED` | [day11_short.mp4](videos/day11_short/renders/day11_short.mp4) |
 | `day12_short` | short | What Happens If You Step on Jupiter? (No Floor!) | 62/100 | 2026-11-22 15:30:00 EST | 1080x1920, 32.02s | `SCHEDULED` | [day12_short.mp4](videos/day12_short/renders/day12_short.mp4) |
 | `day13_short` | short | Why Fingers Prune in Water? | 80/100 | 2026-11-23 15:30:00 EST | 1080x1920, 36.03s | `SCHEDULED` | [day13_short.mp4](videos/day13_short/renders/day13_short.mp4) |
-| `day14_short` | short | Does Sitting Close to the TV Permanently Hurt Eyes? | 66/100 | 2026-11-24 15:30:00 EST | 1080x1920, 36.97s | `READY_FOR_UPLOAD` | [day14_short.mp4](videos/day14_short/renders/day14_short.mp4) |
-| `day15_short` | short | Why Chameleons Change Color? | 98/100 | 2026-11-25 15:30:00 EST | 1080x1920, 35.69s | `READY_FOR_UPLOAD` | [day15_short.mp4](videos/day15_short/renders/day15_short.mp4) |
-| `day16_short` | short | Why You Hear ZERO Sound Inside Outer Space! | 66/100 | 2026-11-26 15:30:00 EST | 1080x1920, 31.86s | `READY_FOR_UPLOAD` | [day16_short.mp4](videos/day16_short/renders/day16_short.mp4) |
-| `day17_short` | short | Tablet 100% Charged vs Leo's Brain Battery at 5%! | 80/100 | 2026-11-27 15:30:00 EST | 1080x1920, 38.03s | `READY_FOR_UPLOAD` | [day17_short.mp4](videos/day17_short/renders/day17_short.mp4) |
-| `day18_short` | short | 60,000 Miles of Blood Pipes Hidden Inside 1 Kid! | 80/100 | 2026-11-28 15:30:00 EST | 1080x1920, 43.27s | `READY_FOR_UPLOAD` | [day18_short.mp4](videos/day18_short/renders/day18_short.mp4) |
+| `day14_short` | short | Does Sitting Close to the TV Permanently Hurt Eyes? | 66/100 | 2026-11-24 15:30:00 EST | 1080x1920, 36.97s | `SCHEDULED` | [day14_short.mp4](videos/day14_short/renders/day14_short.mp4) |
+| `day15_short` | short | Why Chameleons Change Color? | 98/100 | 2026-11-25 15:30:00 EST | 1080x1920, 35.69s | `SCHEDULED` | [day15_short.mp4](videos/day15_short/renders/day15_short.mp4) |
+| `day16_short` | short | Why You Hear ZERO Sound Inside Outer Space! | 66/100 | 2026-11-26 15:30:00 EST | 1080x1920, 31.86s | `SCHEDULED` | [day16_short.mp4](videos/day16_short/renders/day16_short.mp4) |
+| `day17_short` | short | Tablet 100% Charged vs Leo's Brain Battery at 5%! | 80/100 | 2026-11-27 15:30:00 EST | 1080x1920, 38.03s | `SCHEDULED` | [day17_short.mp4](videos/day17_short/renders/day17_short.mp4) |
+| `day18_short` | short | 60,000 Miles of Blood Pipes Hidden Inside 1 Kid! | 80/100 | 2026-11-28 15:30:00 EST | 1080x1920, 43.27s | `SCHEDULED` | [day18_short.mp4](videos/day18_short/renders/day18_short.mp4) |
 | `day19_short` | short | Why Penguin Feet Never Freeze on -40° Ice! | 80/100 | 2026-11-29 15:30:00 EST | 1080x1920, 36.37s | `READY_FOR_UPLOAD` | [day19_short.mp4](videos/day19_short/renders/day19_short.mp4) |
 | `day20_short` | short | Digestive Acid in Stomach! | 94/100 | 2026-11-30 15:30:00 EST | 1080x1920, 37.43s | `READY_FOR_UPLOAD` | [day20_short.mp4](videos/day20_short/renders/day20_short.mp4) |
 | `day21_short` | short | How Honeybees Dance to Share Secret GPS Maps! | 52/100 | 2026-12-01 15:30:00 EST | 1080x1920, 36.33s | `READY_FOR_UPLOAD` | [day21_short.mp4](videos/day21_short/renders/day21_short.mp4) |
