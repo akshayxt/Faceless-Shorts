@@ -66,14 +66,15 @@
   ],
   "realtime_seo": {
     "mode": "live_us_autocomplete_and_trends",
-    "fetched_at_ist": "2026-11-13T20:41:26.602661+05:30",
+    "fetched_at_ist": "2026-11-13T23:06:39.404670+05:30",
     "live_yt_suggest_queries": [
       "why do clouds float",
       "why do clouds float in the sky",
       "why do clouds move",
       "why does clouds move",
       "why do clouds form",
-      "why do clouds exist"
+      "why do clouds exist",
+      "how do clouds hold water"
     ],
     "matched_safe_us_trends": [],
     "observed_us_hashtags": [
