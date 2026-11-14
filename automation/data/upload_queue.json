@@ -700,9 +700,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\day19_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "7Dd7W34Bbrg",
+      "youtube_url": "https://www.youtube.com/watch?v=7Dd7W34Bbrg",
       "video_specs": {
         "duration_sec": 36.37,
         "size_bytes": 6288285,
@@ -712,7 +712,7 @@
       "updated_at_ist": "2026-11-11T11:44:19.263064+05:30",
       "scheduled_publish_est": "2026-11-29T15:30:00-05:00",
       "publish_at": "2026-11-29T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-14T17:33:17.867719+05:30",
+      "seo_updated_at_ist": "2026-11-14T19:48:25.514250+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "why penguins feet dont freeze for kids",
@@ -720,7 +720,10 @@
         "fun fact about penguins",
         "science facts for kids"
       ],
-      "seo_txt_path": "videos/day19_short/renders/day19_short_seo.txt"
+      "seo_txt_path": "videos/day19_short/renders/day19_short_seo.txt",
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-14T19:48:38.837761+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "day20_short",
@@ -733,9 +736,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\day20_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "bodAShPx1ec",
+      "youtube_url": "https://www.youtube.com/watch?v=bodAShPx1ec",
       "video_specs": {
         "duration_sec": 37.43,
         "size_bytes": 7209921,
@@ -745,7 +748,7 @@
       "updated_at_ist": "2026-11-11T11:46:32.211575+05:30",
       "scheduled_publish_est": "2026-11-30T15:30:00-05:00",
       "publish_at": "2026-11-30T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-14T17:33:18.277247+05:30",
+      "seo_updated_at_ist": "2026-11-14T19:48:25.967272+05:30",
       "realtime_seo_score": 94,
       "realtime_seo_queries": [
         "why stomach acid doesnt digest stomach for kids",
@@ -753,7 +756,10 @@
         "digestive acid in stomach",
         "human body facts for kids"
       ],
-      "seo_txt_path": "videos/day20_short/renders/day20_short_seo.txt"
+      "seo_txt_path": "videos/day20_short/renders/day20_short_seo.txt",
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-14T19:48:49.079888+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "day21_short",
@@ -766,9 +772,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\day21_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "_LMiX8rqRSk",
+      "youtube_url": "https://www.youtube.com/watch?v=_LMiX8rqRSk",
       "video_specs": {
         "duration_sec": 36.33,
         "size_bytes": 6343071,
@@ -778,7 +784,7 @@
       "updated_at_ist": "2026-11-11T11:48:40.488438+05:30",
       "scheduled_publish_est": "2026-12-01T15:30:00-05:00",
       "publish_at": "2026-12-01T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-14T17:33:18.620115+05:30",
+      "seo_updated_at_ist": "2026-11-14T19:48:26.274095+05:30",
       "realtime_seo_score": 52,
       "realtime_seo_queries": [
         "why bees do waggle dance for kids",
@@ -786,7 +792,10 @@
         "waggle dance honey bees",
         "honey bee in cartoon"
       ],
-      "seo_txt_path": "videos/day21_short/renders/day21_short_seo.txt"
+      "seo_txt_path": "videos/day21_short/renders/day21_short_seo.txt",
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-14T19:48:55.510761+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "day22_short",
@@ -799,9 +808,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\day22_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "gDUztzfQlEE",
+      "youtube_url": "https://www.youtube.com/watch?v=gDUztzfQlEE",
       "video_specs": {
         "duration_sec": 34.03,
         "size_bytes": 6321634,
@@ -811,7 +820,7 @@
       "updated_at_ist": "2026-11-11T11:50:45.117205+05:30",
       "scheduled_publish_est": "2026-12-02T15:30:00-05:00",
       "publish_at": "2026-12-02T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-14T17:33:18.922950+05:30",
+      "seo_updated_at_ist": "2026-11-14T19:48:26.663970+05:30",
       "realtime_seo_score": 84,
       "realtime_seo_queries": [
         "are bats blind myth for kids",
@@ -819,7 +828,10 @@
         "nocturnal animal facts",
         "night animal"
       ],
-      "seo_txt_path": "videos/day22_short/renders/day22_short_seo.txt"
+      "seo_txt_path": "videos/day22_short/renders/day22_short_seo.txt",
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-14T19:49:01.433888+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "day23_short",
@@ -832,9 +844,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\day23_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "J1QQKU6GuXo",
+      "youtube_url": "https://www.youtube.com/watch?v=J1QQKU6GuXo",
       "video_specs": {
         "duration_sec": 36.93,
         "size_bytes": 5872065,
@@ -844,7 +856,7 @@
       "updated_at_ist": "2026-11-11T11:52:56.311693+05:30",
       "scheduled_publish_est": "2026-12-03T15:30:00-05:00",
       "publish_at": "2026-12-03T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-14T17:33:19.267645+05:30",
+      "seo_updated_at_ist": "2026-11-14T19:48:27.094533+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "why do clouds float for kids",
@@ -852,7 +864,10 @@
         "why do clouds float in the sky",
         "why do clouds move"
       ],
-      "seo_txt_path": "videos/day23_short/renders/day23_short_seo.txt"
+      "seo_txt_path": "videos/day23_short/renders/day23_short_seo.txt",
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-14T19:49:08.792852+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "day24_short",
@@ -877,7 +892,7 @@
       "updated_at_ist": "2026-11-11T11:55:04.174154+05:30",
       "scheduled_publish_est": "2026-12-04T15:30:00-05:00",
       "publish_at": "2026-12-04T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-14T17:33:19.617975+05:30",
+      "seo_updated_at_ist": "2026-11-14T19:48:27.441389+05:30",
       "realtime_seo_score": 66,
       "realtime_seo_queries": [
         "why is yawning contagious for kids",
@@ -910,7 +925,7 @@
       "updated_at_ist": "2026-11-11T11:57:08.316089+05:30",
       "scheduled_publish_est": "2026-12-05T15:30:00-05:00",
       "publish_at": "2026-12-05T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-14T17:33:20.087279+05:30",
+      "seo_updated_at_ist": "2026-11-14T19:48:27.888252+05:30",
       "realtime_seo_score": 98,
       "realtime_seo_queries": [
         "sharing kindness story cartoon for kids",
@@ -943,7 +958,7 @@
       "updated_at_ist": "2026-11-11T11:59:35.269542+05:30",
       "scheduled_publish_est": "2026-12-06T15:30:00-05:00",
       "publish_at": "2026-12-06T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-14T17:33:20.387871+05:30",
+      "seo_updated_at_ist": "2026-11-14T19:48:28.252587+05:30",
       "realtime_seo_score": 84,
       "realtime_seo_queries": [
         "fastest animal in the world for kids",
@@ -976,7 +991,7 @@
       "updated_at_ist": "2026-11-11T12:02:34.057566+05:30",
       "scheduled_publish_est": "2026-12-07T15:30:00-05:00",
       "publish_at": "2026-12-07T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-14T17:33:20.688517+05:30",
+      "seo_updated_at_ist": "2026-11-14T19:48:28.729066+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "are rainbows full circles for kids",
@@ -1009,7 +1024,7 @@
       "updated_at_ist": "2026-11-11T12:05:32.354120+05:30",
       "scheduled_publish_est": "2026-12-08T15:30:00-05:00",
       "publish_at": "2026-12-08T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-14T17:33:21.116703+05:30",
+      "seo_updated_at_ist": "2026-11-14T19:48:29.080634+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "what causes goosebumps for kids",
@@ -1042,7 +1057,7 @@
       "updated_at_ist": "2026-11-11T12:08:33.876268+05:30",
       "scheduled_publish_est": "2026-12-09T15:30:00-05:00",
       "publish_at": "2026-12-09T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-14T17:33:21.474947+05:30",
+      "seo_updated_at_ist": "2026-11-14T19:48:29.368050+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "what happens when you crack knuckles for kids",
@@ -1075,7 +1090,7 @@
       "updated_at_ist": "2026-11-11T12:10:43.293667+05:30",
       "scheduled_publish_est": "2026-12-10T15:30:00-05:00",
       "publish_at": "2026-12-10T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-14T17:33:21.871549+05:30",
+      "seo_updated_at_ist": "2026-11-14T19:48:29.722545+05:30",
       "realtime_seo_score": 98,
       "realtime_seo_queries": [
         "is the 5 second rule true for kids",
@@ -1086,6 +1101,6 @@
       "seo_txt_path": "videos/day30_short/renders/day30_short_seo.txt"
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-14T17:33:21.871606+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-14T19:48:29.722589+05:30",
   "realtime_seo_us_trends_checked": 10
 }

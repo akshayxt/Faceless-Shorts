@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-14 17:33:29 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-14 19:49:10 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -17,8 +17,8 @@
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `25` days / **`200.0` subs/day** |
-| Videos Rendered & Verified | **`31`** (`19` uploaded/scheduled, `12` remaining) |
-| Real-Time US SEO Sync | `2026-11-14T17:33:21.871606+05:30` |
+| Videos Rendered & Verified | **`31`** (`24` uploaded/scheduled, `7` remaining) |
+| Real-Time US SEO Sync | `2026-11-14T19:48:29.722589+05:30` |
 | Topic Backlog Remaining | `0` pending out of `30` scored |
 
 ## 2. Production & Upload Queue Status
@@ -44,11 +44,11 @@
 | `day16_short` | short | Why You Hear ZERO Sound Inside Outer Space! | 66/100 | 2026-11-26 15:30:00 EST | 1080x1920, 31.86s | `SCHEDULED` | [day16_short.mp4](videos/day16_short/renders/day16_short.mp4) |
 | `day17_short` | short | Tablet 100% Charged vs Leo's Brain Battery at 5%! | 80/100 | 2026-11-27 15:30:00 EST | 1080x1920, 38.03s | `SCHEDULED` | [day17_short.mp4](videos/day17_short/renders/day17_short.mp4) |
 | `day18_short` | short | 60,000 Miles of Blood Pipes Hidden Inside 1 Kid! | 80/100 | 2026-11-28 15:30:00 EST | 1080x1920, 43.27s | `SCHEDULED` | [day18_short.mp4](videos/day18_short/renders/day18_short.mp4) |
-| `day19_short` | short | Why Penguin Feet Never Freeze on -40° Ice! | 80/100 | 2026-11-29 15:30:00 EST | 1080x1920, 36.37s | `READY_FOR_UPLOAD` | [day19_short.mp4](videos/day19_short/renders/day19_short.mp4) |
-| `day20_short` | short | Digestive Acid in Stomach! | 94/100 | 2026-11-30 15:30:00 EST | 1080x1920, 37.43s | `READY_FOR_UPLOAD` | [day20_short.mp4](videos/day20_short/renders/day20_short.mp4) |
-| `day21_short` | short | How Honeybees Dance to Share Secret GPS Maps! | 52/100 | 2026-12-01 15:30:00 EST | 1080x1920, 36.33s | `READY_FOR_UPLOAD` | [day21_short.mp4](videos/day21_short/renders/day21_short.mp4) |
-| `day22_short` | short | Are Bats Actually Blind Like Movies Claim? | 84/100 | 2026-12-02 15:30:00 EST | 1080x1920, 34.03s | `READY_FOR_UPLOAD` | [day22_short.mp4](videos/day22_short/renders/day22_short.mp4) |
-| `day23_short` | short | How 1 Fluffy Cloud Weighs as Much as 100 Elephants! | 80/100 | 2026-12-03 15:30:00 EST | 1080x1920, 36.93s | `READY_FOR_UPLOAD` | [day23_short.mp4](videos/day23_short/renders/day23_short.mp4) |
+| `day19_short` | short | Why Penguin Feet Never Freeze on -40° Ice! | 80/100 | 2026-11-29 15:30:00 EST | 1080x1920, 36.37s | `SCHEDULED` | [day19_short.mp4](videos/day19_short/renders/day19_short.mp4) |
+| `day20_short` | short | Digestive Acid in Stomach! | 94/100 | 2026-11-30 15:30:00 EST | 1080x1920, 37.43s | `SCHEDULED` | [day20_short.mp4](videos/day20_short/renders/day20_short.mp4) |
+| `day21_short` | short | How Honeybees Dance to Share Secret GPS Maps! | 52/100 | 2026-12-01 15:30:00 EST | 1080x1920, 36.33s | `SCHEDULED` | [day21_short.mp4](videos/day21_short/renders/day21_short.mp4) |
+| `day22_short` | short | Are Bats Actually Blind Like Movies Claim? | 84/100 | 2026-12-02 15:30:00 EST | 1080x1920, 34.03s | `SCHEDULED` | [day22_short.mp4](videos/day22_short/renders/day22_short.mp4) |
+| `day23_short` | short | How 1 Fluffy Cloud Weighs as Much as 100 Elephants! | 80/100 | 2026-12-03 15:30:00 EST | 1080x1920, 36.93s | `SCHEDULED` | [day23_short.mp4](videos/day23_short/renders/day23_short.mp4) |
 | `day24_short` | short | Why Seeing Someone Yawn Makes YOU Yawn Too! | 66/100 | 2026-12-04 15:30:00 EST | 1080x1920, 34.43s | `READY_FOR_UPLOAD` | [day24_short.mp4](videos/day24_short/renders/day24_short.mp4) |
 | `day25_short` | short | How Sharing 1 Candy Turned Into 4 Treats! | 98/100 | 2026-12-05 15:30:00 EST | 1080x1920, 34.45s | `READY_FOR_UPLOAD` | [day25_short.mp4](videos/day25_short/renders/day25_short.mp4) |
 | `day26_short` | short | Cheetah vs Falcon: Who Hits 240 MPH in a Race?! | 84/100 | 2026-12-06 15:30:00 EST | 1080x1920, 41.6s | `READY_FOR_UPLOAD` | [day26_short.mp4](videos/day26_short/renders/day26_short.mp4) |
