@@ -3,6 +3,32 @@
   "format": "short",
   "title_options": [
     {
+      "title": "Science Behind Cracking Knuckles!",
+      "chars": 33,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Science Behind Cracking Knuckles! #Shorts",
+      "chars": 41,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Science Behind Cracking Knuckles!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
       "title": "Does Cracking Knuckles Really Hurt Your Bones?!",
       "chars": 47,
       "score": 80,
@@ -33,24 +59,16 @@
       ]
     }
   ],
-  "selected_title": "Does Cracking Knuckles Really Hurt Your Bones?!",
+  "selected_title": "Science Behind Cracking Knuckles!",
   "selected_title_lint": {
-    "title": "Does Cracking Knuckles Really Hurt Your Bones?!",
-    "chars": 47,
-    "score": 80,
+    "title": "Science Behind Cracking Knuckles!",
+    "chars": 33,
+    "score": 94,
     "issues": [
-      [
-        "mobile",
-        "a mobile feed shows about \"Does Cracking Knuckles Really Hurt Your...\" - check the subject survives"
-      ],
       [
         "no-number",
         "no number, date or name - the most reliable single fix"
       ]
-    ],
-    "good": [
-      "47 characters, inside the 60-character desktop cut",
-      "thumbnail and title carry different words"
     ]
   },
   "thumb_text": "GAS BUBBLE POP!",
@@ -81,7 +99,7 @@
   ],
   "realtime_seo": {
     "mode": "live_us_autocomplete_and_trends",
-    "fetched_at_ist": "2026-11-14T08:42:55.936234+05:30",
+    "fetched_at_ist": "2026-11-14T11:33:17.282527+05:30",
     "live_yt_suggest_queries": [
       "what happens when you crack knuckles",
       "what happens when you crack your knuckles x ray",
@@ -90,7 +108,7 @@
       "knuckle cracking experiment",
       "knuckle cracking animation",
       "knuckle popping xray",
-      "science facts for kids"
+      "science behind cracking knuckles"
     ],
     "matched_safe_us_trends": [],
     "observed_us_hashtags": [
@@ -101,7 +119,7 @@
       "#sciencefacts"
     ]
   },
-  "description": "Does Cracking Knuckles Really Hurt Your Bones?! — POP! Every time you crack your knuckles, are your finger bones actually snapping?!\nKids science answer for \"what happens when you crack knuckles for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nThe loud pop comes from tiny harmless gas bubbles snapping inside joint fluid—not bones grinding—and research shows it does not cause arthritis.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- what happens when you crack knuckles\n- what happens when you crack your knuckles x ray\n- what happens when we crack your fingers\n- what happens if you crack your knuckles\n- knuckle cracking experiment\n\nSources & Fact Check:\n- https://www.health.harvard.edu/pain/does-knuckle-cracking-cause-arthritis\n- https://www.livescience.com/50516-knuckle-cracking-mri-video.html\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "description": "Science Behind Cracking Knuckles! — POP! Every time you crack your knuckles, are your finger bones actually snapping?!\nKids science answer for \"what happens when you crack knuckles for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nThe loud pop comes from tiny harmless gas bubbles snapping inside joint fluid—not bones grinding—and research shows it does not cause arthritis.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- what happens when you crack knuckles\n- what happens when you crack your knuckles x ray\n- what happens when we crack your fingers\n- what happens if you crack your knuckles\n- knuckle cracking experiment\n\nSources & Fact Check:\n- https://www.health.harvard.edu/pain/does-knuckle-cracking-cause-arthritis\n- https://www.livescience.com/50516-knuckle-cracking-mri-video.html\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
     "what happens when you crack knuckles",
     "what happens when we crack your fingers",

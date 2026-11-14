@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-14 08:43:06 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-14 11:33:27 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -18,7 +18,7 @@
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `25` days / **`200.0` subs/day** |
 | Videos Rendered & Verified | **`31`** (`19` uploaded/scheduled, `12` remaining) |
-| Real-Time US SEO Sync | `2026-11-14T08:43:01.103344+05:30` |
+| Real-Time US SEO Sync | `2026-11-14T11:33:22.052031+05:30` |
 | Topic Backlog Remaining | `0` pending out of `30` scored |
 
 ## 2. Production & Upload Queue Status
@@ -54,7 +54,7 @@
 | `day26_short` | short | Cheetah vs Falcon: Who Hits 240 MPH in a Race?! | 84/100 | 2026-12-06 15:30:00 EST | 1080x1920, 41.6s | `READY_FOR_UPLOAD` | [day26_short.mp4](videos/day26_short/renders/day26_short.mp4) |
 | `day27_short` | short | Why Every Rainbow Is Really a Full 360° Circle! | 80/100 | 2026-12-07 15:30:00 EST | 1080x1920, 34.17s | `READY_FOR_UPLOAD` | [day27_short.mp4](videos/day27_short/renders/day27_short.mp4) |
 | `day28_short` | short | Why Goosebumps Pop Up During Awesome Music! | 80/100 | 2026-12-08 15:30:00 EST | 1080x1920, 35.6s | `READY_FOR_UPLOAD` | [day28_short.mp4](videos/day28_short/renders/day28_short.mp4) |
-| `day29_short` | short | Does Cracking Knuckles Really Hurt Your Bones?! | 80/100 | 2026-12-09 15:30:00 EST | 1080x1920, 36.46s | `READY_FOR_UPLOAD` | [day29_short.mp4](videos/day29_short/renders/day29_short.mp4) |
+| `day29_short` | short | Science Behind Cracking Knuckles! | 94/100 | 2026-12-09 15:30:00 EST | 1080x1920, 36.46s | `READY_FOR_UPLOAD` | [day29_short.mp4](videos/day29_short/renders/day29_short.mp4) |
 | `day30_short` | short | Is the 5 Second Rule True? | 98/100 | 2026-12-10 15:30:00 EST | 1080x1920, 38.4s | `READY_FOR_UPLOAD` | [day30_short.mp4](videos/day30_short/renders/day30_short.mp4) |
 
 ### Publishing Status Note
