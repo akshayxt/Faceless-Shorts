@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-15 23:33:26 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-16 02:47:38 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -16,9 +16,9 @@
 | Campaign Target (`2026-11-09` -> `2026-12-09`) | **+5,000 net new subscribers** |
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
-| Remaining Days / Required Daily Rate | `24` days / **`208.3` subs/day** |
+| Remaining Days / Required Daily Rate | `23` days / **`217.4` subs/day** |
 | Videos Rendered & Verified | **`31`** (`29` uploaded/scheduled, `2` remaining) |
-| Real-Time US SEO Sync | `2026-11-15T23:33:19.838750+05:30` |
+| Real-Time US SEO Sync | `2026-11-16T02:47:32.672987+05:30` |
 | Topic Backlog Remaining | `0` pending out of `30` scored |
 
 ## 2. Production & Upload Queue Status
@@ -30,7 +30,7 @@
 | `day02_short` | short | Swallowed Watermelon Seeds? The 5-Second Belly Truth! | 80/100 | 2026-11-12 15:30:00 EST | 1080x1920, 32.37s | `UPLOADED` | [day02_short.mp4](videos/day02_short/renders/day02_short.mp4) |
 | `day03_short` | short | Why Octopuses Have 3 Hearts? | 98/100 | 2026-11-13 15:30:00 EST | 1080x1920, 36.93s | `UPLOADED` | [day03_short.mp4](videos/day03_short/renders/day03_short.mp4) |
 | `day04_short` | short | Why Cutting 1 Onion Makes Your Eyes Cry in 10 Seconds! | 80/100 | 2026-11-14 15:30:00 EST | 1080x1920, 37.43s | `UPLOADED` | [day04_short.mp4](videos/day04_short/renders/day04_short.mp4) |
-| `day05_short` | short | Why the Daytime Sky Turns Blue (Not Purple)! | 62/100 | 2026-11-15 15:30:00 EST | 1080x1920, 31.73s | `SCHEDULED` | [day05_short.mp4](videos/day05_short/renders/day05_short.mp4) |
+| `day05_short` | short | Why the Daytime Sky Turns Blue (Not Purple)! | 62/100 | 2026-11-15 15:30:00 EST | 1080x1920, 31.73s | `UPLOADED` | [day05_short.mp4](videos/day05_short/renders/day05_short.mp4) |
 | `day06_short` | short | What Causes Hiccups? | 98/100 | 2026-11-16 15:30:00 EST | 1080x1920, 34.13s | `SCHEDULED` | [day06_short.mp4](videos/day06_short/renders/day06_short.mp4) |
 | `day07_short` | short | How Do Cats Always Land on Their Feet? | 98/100 | 2026-11-17 15:30:00 EST | 1080x1920, 37.49s | `SCHEDULED` | [day07_short.mp4](videos/day07_short/renders/day07_short.mp4) |
 | `day08_short` | short | Why Cold Ice Cream Gives You Instant Brain Freeze! | 62/100 | 2026-11-18 15:30:00 EST | 1080x1920, 35.3s | `SCHEDULED` | [day08_short.mp4](videos/day08_short/renders/day08_short.mp4) |
@@ -69,7 +69,7 @@
 | Day 02 | myth-bust | Swallowed Watermelon Seeds? The 5-Second Belly Truth! | **92/100** | `uploaded` |
 | Day 03 | animal-vs | Why Octopuses Have 3 Hearts and Blue Blood! \| Ocean Facts | **90/100** | `uploaded` |
 | Day 04 | body-science | Why Cutting 1 Onion Makes Your Eyes Cry in 10 Seconds! | **89/100** | `uploaded` |
-| Day 05 | space-nature | Why the Daytime Sky Turns Blue (Not Purple)! \| Space Kids | **88/100** | `scheduled` |
+| Day 05 | space-nature | Why the Daytime Sky Turns Blue (Not Purple)! \| Space Kids | **88/100** | `uploaded` |
 | Day 06 | body-science | What Causes Sudden Hiccups Inside Your Belly! \| Body Lab | **87/100** | `scheduled` |
 | Day 07 | animal-vs | Small vs Tall Fall: Why Cats ALWAYS Land on Their Feet! | **87/100** | `scheduled` |
 | Day 08 | body-science | Why Cold Ice Cream Gives You Instant Brain Freeze! | **87/100** | `scheduled` |
