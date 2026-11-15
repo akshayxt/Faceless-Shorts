@@ -880,9 +880,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\day24_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "lgdReC9K_f8",
+      "youtube_url": "https://www.youtube.com/watch?v=lgdReC9K_f8",
       "video_specs": {
         "duration_sec": 34.43,
         "size_bytes": 6690118,
@@ -892,7 +892,7 @@
       "updated_at_ist": "2026-11-11T11:55:04.174154+05:30",
       "scheduled_publish_est": "2026-12-04T15:30:00-05:00",
       "publish_at": "2026-12-04T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-15T17:33:20.216167+05:30",
+      "seo_updated_at_ist": "2026-11-15T20:46:40.255554+05:30",
       "realtime_seo_score": 66,
       "realtime_seo_queries": [
         "why is yawning contagious for kids",
@@ -900,7 +900,10 @@
         "why is yawning so contagious",
         "human body facts for kids"
       ],
-      "seo_txt_path": "videos/day24_short/renders/day24_short_seo.txt"
+      "seo_txt_path": "videos/day24_short/renders/day24_short_seo.txt",
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-15T20:46:51.355262+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "day25_short",
@@ -913,9 +916,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\day25_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "GEOfzcavTf8",
+      "youtube_url": "https://www.youtube.com/watch?v=GEOfzcavTf8",
       "video_specs": {
         "duration_sec": 34.45,
         "size_bytes": 5538815,
@@ -925,7 +928,7 @@
       "updated_at_ist": "2026-11-11T11:57:08.316089+05:30",
       "scheduled_publish_est": "2026-12-05T15:30:00-05:00",
       "publish_at": "2026-12-05T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-15T17:33:20.676188+05:30",
+      "seo_updated_at_ist": "2026-11-15T20:46:40.633460+05:30",
       "realtime_seo_score": 98,
       "realtime_seo_queries": [
         "sharing kindness story cartoon for kids",
@@ -933,7 +936,10 @@
         "sharing kindness",
         "animated moral story kids"
       ],
-      "seo_txt_path": "videos/day25_short/renders/day25_short_seo.txt"
+      "seo_txt_path": "videos/day25_short/renders/day25_short_seo.txt",
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-15T20:46:57.079426+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "day26_short",
@@ -946,9 +952,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\day26_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "xINUxoCnyc0",
+      "youtube_url": "https://www.youtube.com/watch?v=xINUxoCnyc0",
       "video_specs": {
         "duration_sec": 41.6,
         "size_bytes": 6923606,
@@ -958,7 +964,7 @@
       "updated_at_ist": "2026-11-11T11:59:35.269542+05:30",
       "scheduled_publish_est": "2026-12-06T15:30:00-05:00",
       "publish_at": "2026-12-06T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-15T17:33:21.076269+05:30",
+      "seo_updated_at_ist": "2026-11-15T20:46:41.076338+05:30",
       "realtime_seo_score": 84,
       "realtime_seo_queries": [
         "fastest animal in the world for kids",
@@ -966,7 +972,10 @@
         "fastest animal in the world edit",
         "fastest animal in the world bird"
       ],
-      "seo_txt_path": "videos/day26_short/renders/day26_short_seo.txt"
+      "seo_txt_path": "videos/day26_short/renders/day26_short_seo.txt",
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-15T20:47:01.444115+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "day27_short",
@@ -979,9 +988,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\day27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "7FNjyxh-se0",
+      "youtube_url": "https://www.youtube.com/watch?v=7FNjyxh-se0",
       "video_specs": {
         "duration_sec": 34.17,
         "size_bytes": 5265151,
@@ -991,7 +1000,7 @@
       "updated_at_ist": "2026-11-11T12:02:34.057566+05:30",
       "scheduled_publish_est": "2026-12-07T15:30:00-05:00",
       "publish_at": "2026-12-07T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-15T17:33:21.487399+05:30",
+      "seo_updated_at_ist": "2026-11-15T20:46:41.476817+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "are rainbows full circles for kids",
@@ -999,7 +1008,10 @@
         "full circle rainbow from airplane",
         "rainbow science cartoon kids"
       ],
-      "seo_txt_path": "videos/day27_short/renders/day27_short_seo.txt"
+      "seo_txt_path": "videos/day27_short/renders/day27_short_seo.txt",
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-15T20:47:07.614793+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "day28_short",
@@ -1012,9 +1024,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\day28_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "aPyf5BPssAY",
+      "youtube_url": "https://www.youtube.com/watch?v=aPyf5BPssAY",
       "video_specs": {
         "duration_sec": 35.6,
         "size_bytes": 6957820,
@@ -1024,7 +1036,7 @@
       "updated_at_ist": "2026-11-11T12:05:32.354120+05:30",
       "scheduled_publish_est": "2026-12-08T15:30:00-05:00",
       "publish_at": "2026-12-08T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-15T17:33:21.837337+05:30",
+      "seo_updated_at_ist": "2026-11-15T20:46:41.873086+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "what causes goosebumps for kids",
@@ -1032,7 +1044,10 @@
         "what causes chills in your body",
         "what causes chills without fever"
       ],
-      "seo_txt_path": "videos/day28_short/renders/day28_short_seo.txt"
+      "seo_txt_path": "videos/day28_short/renders/day28_short_seo.txt",
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-15T20:47:14.268094+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "day29_short",
@@ -1057,7 +1072,7 @@
       "updated_at_ist": "2026-11-11T12:08:33.876268+05:30",
       "scheduled_publish_est": "2026-12-09T15:30:00-05:00",
       "publish_at": "2026-12-09T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-15T17:33:22.197665+05:30",
+      "seo_updated_at_ist": "2026-11-15T20:46:42.190179+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "what happens when you crack knuckles for kids",
@@ -1090,7 +1105,7 @@
       "updated_at_ist": "2026-11-11T12:10:43.293667+05:30",
       "scheduled_publish_est": "2026-12-10T15:30:00-05:00",
       "publish_at": "2026-12-10T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-15T17:33:22.562061+05:30",
+      "seo_updated_at_ist": "2026-11-15T20:46:42.554220+05:30",
       "realtime_seo_score": 98,
       "realtime_seo_queries": [
         "is the 5 second rule true for kids",
@@ -1101,6 +1116,6 @@
       "seo_txt_path": "videos/day30_short/renders/day30_short_seo.txt"
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-15T17:33:22.562103+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-15T20:46:42.554260+05:30",
   "realtime_seo_us_trends_checked": 10
 }
