@@ -1054,7 +1054,7 @@
       "topic_id": "day29",
       "format": "short",
       "scheduled_slot_est": "15:30 EST",
-      "title": "Science Behind Cracking Knuckles!",
+      "title": "Does Cracking Knuckles Really Hurt Your Bones?!",
       "video_path": "G:\\Faceless-Shorts\\videos\\day29_short\\renders\\day29_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\day29_short\\renders\\day29_thumb.jpg",
       "seo_path": "G:\\Faceless-Shorts\\videos\\day29_short\\seo_package.json",
@@ -1072,8 +1072,8 @@
       "updated_at_ist": "2026-11-11T12:08:33.876268+05:30",
       "scheduled_publish_est": "2026-12-09T15:30:00-05:00",
       "publish_at": "2026-12-09T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-16T08:47:58.599328+05:30",
-      "realtime_seo_score": 94,
+      "seo_updated_at_ist": "2026-11-16T14:28:54.580312+05:30",
+      "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "what happens when you crack knuckles for kids",
         "what happens when you crack knuckles",
@@ -1105,7 +1105,7 @@
       "updated_at_ist": "2026-11-11T12:10:43.293667+05:30",
       "scheduled_publish_est": "2026-12-10T15:30:00-05:00",
       "publish_at": "2026-12-10T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-16T08:47:58.915724+05:30",
+      "seo_updated_at_ist": "2026-11-16T14:28:54.937342+05:30",
       "realtime_seo_score": 98,
       "realtime_seo_queries": [
         "is the 5 second rule true for kids",
@@ -1116,6 +1116,6 @@
       "seo_txt_path": "videos/day30_short/renders/day30_short_seo.txt"
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-16T08:47:58.915766+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-16T14:28:54.937386+05:30",
   "realtime_seo_us_trends_checked": 10
 }
