@@ -1154,11 +1154,13 @@
       ],
       "hook": "POP! Every time you crack your knuckles, are your finger bones actually snapping?!",
       "visual_focus": "x-ray finger joint showing harmless tiny bubble pop in fluid cushion",
-      "status": "ready_for_upload",
+      "status": "scheduled",
       "rendered_at_ist": "2026-11-11T12:08:33.875413+05:30",
       "video_path": "G:\\Faceless-Shorts\\videos\\day29_short\\renders\\day29_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\day29_short\\renders\\day29_thumb.jpg",
-      "seo_path": "G:\\Faceless-Shorts\\videos\\day29_short\\seo_package.json"
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day29_short\\seo_package.json",
+      "youtube_video_id": "8K3jBgZb5A8",
+      "youtube_url": "https://www.youtube.com/watch?v=8K3jBgZb5A8"
     },
     {
       "id": "day30",
@@ -1189,11 +1191,13 @@
       ],
       "hook": "You drop a cookie and yell FIVE-SECOND RULE! Wait—can germs really count to 5?",
       "visual_focus": "stopwatch racing funny cartoon germs jumping instantly onto sticky slice",
-      "status": "ready_for_upload",
+      "status": "scheduled",
       "rendered_at_ist": "2026-11-11T12:10:43.292790+05:30",
       "video_path": "G:\\Faceless-Shorts\\videos\\day30_short\\renders\\day30_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\day30_short\\renders\\day30_thumb.jpg",
-      "seo_path": "G:\\Faceless-Shorts\\videos\\day30_short\\seo_package.json"
+      "seo_path": "G:\\Faceless-Shorts\\videos\\day30_short\\seo_package.json",
+      "youtube_video_id": "O3riBManI9I",
+      "youtube_url": "https://www.youtube.com/watch?v=O3riBManI9I"
     }
   ]
 }

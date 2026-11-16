@@ -1060,9 +1060,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\day29_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "8K3jBgZb5A8",
+      "youtube_url": "https://www.youtube.com/watch?v=8K3jBgZb5A8",
       "video_specs": {
         "duration_sec": 36.46,
         "size_bytes": 6754830,
@@ -1072,7 +1072,7 @@
       "updated_at_ist": "2026-11-11T12:08:33.876268+05:30",
       "scheduled_publish_est": "2026-12-09T15:30:00-05:00",
       "publish_at": "2026-12-09T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-16T17:57:19.605170+05:30",
+      "seo_updated_at_ist": "2026-11-16T20:48:45.746643+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "what happens when you crack knuckles for kids",
@@ -1080,7 +1080,10 @@
         "what happens when you crack your knuckles x ray",
         "what happens when we crack your fingers"
       ],
-      "seo_txt_path": "videos/day29_short/renders/day29_short_seo.txt"
+      "seo_txt_path": "videos/day29_short/renders/day29_short_seo.txt",
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-16T20:48:58.377342+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "day30_short",
@@ -1093,9 +1096,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\day30_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "O3riBManI9I",
+      "youtube_url": "https://www.youtube.com/watch?v=O3riBManI9I",
       "video_specs": {
         "duration_sec": 38.4,
         "size_bytes": 6082348,
@@ -1105,7 +1108,7 @@
       "updated_at_ist": "2026-11-11T12:10:43.293667+05:30",
       "scheduled_publish_est": "2026-12-10T15:30:00-05:00",
       "publish_at": "2026-12-10T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-16T17:57:19.832582+05:30",
+      "seo_updated_at_ist": "2026-11-16T20:48:46.147542+05:30",
       "realtime_seo_score": 98,
       "realtime_seo_queries": [
         "is the 5 second rule true for kids",
@@ -1113,9 +1116,12 @@
         "is the 5 second rule real",
         "5 second rule science"
       ],
-      "seo_txt_path": "videos/day30_short/renders/day30_short_seo.txt"
+      "seo_txt_path": "videos/day30_short/renders/day30_short_seo.txt",
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-16T20:49:07.766095+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-16T17:57:19.832625+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-16T20:48:46.147580+05:30",
   "realtime_seo_us_trends_checked": 10
 }
