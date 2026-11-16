@@ -77,15 +77,22 @@ HELP_STRINGS = (
     "ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ : <code>/</code>"
 )
 
+import telegram_moderation as tm
+
 BOT_COMMANDS: list[dict[str, str]] = [
+    # General & Interactive Cockpit
     {"command": "start", "description": "Stylish BabyBeats XT control center intro"},
     {"command": "alive", "description": "Check live bot animation, cloud & queue ping"},
+    {"command": "panel", "description": "Open master control panel (10 dashboard sections)"},
+    {"command": "stats", "description": "Display bot & server statistics"},
     {"command": "dashboard", "description": "Interactive growth, upload & server cockpit"},
-    {"command": "ask", "description": "Give natural-language command (/ask upload 2 videos)"},
-    {"command": "cmd", "description": "Execute cloud/AI instruction (/cmd sync youtube)"},
-    {"command": "agent", "description": "Queue coding/browser task for Antigravity bridge"},
-    {"command": "tasks", "description": "View queued & completed Antigravity agent tasks"},
     {"command": "status", "description": "Cloud runner health, cron & commit telemetry"},
+    {"command": "help", "description": "Show all BabyBeats bot commands"},
+    {"command": "links", "description": "Web dashboard, health API, channel & repo links"},
+
+    # Video Privacy & Autopilot Controls
+    {"command": "public", "description": "Set video privacy to public (/public <id>)"},
+    {"command": "private", "description": "Set video privacy to private (/private <id>)"},
     {"command": "queue", "description": "Browse all 31 videos with status & links"},
     {"command": "pending", "description": "Show remaining READY_FOR_UPLOAD videos"},
     {"command": "scheduled", "description": "Show YouTube scheduled videos & times"},
@@ -98,11 +105,61 @@ BOT_COMMANDS: list[dict[str, str]] = [
     {"command": "refreshseo", "description": "Refresh real-time US trending SEO for pending items"},
     {"command": "pause", "description": "Pause automatic uploads cleanly"},
     {"command": "resume", "description": "Resume automatic uploads"},
-    {"command": "links", "description": "Web dashboard, health API, channel & repo links"},
-    {"command": "logs", "description": "Latest cloud execution & GitHub sync details"},
-    {"command": "help", "description": "Show all BabyBeats bot commands"},
+    {"command": "ask", "description": "Give natural-language command (/ask upload 2 videos)"},
+    {"command": "cmd", "description": "Execute cloud/AI instruction (/cmd sync youtube)"},
+    {"command": "agent", "description": "Queue coding/browser task for Antigravity bridge"},
+    {"command": "tasks", "description": "View queued & completed Antigravity agent tasks"},
+
+    # Group Administration
+    {"command": "promote", "description": "Promote member to administrator (/promote @user)"},
+    {"command": "demote", "description": "Demote administrator to normal member (/demote @user)"},
+    {"command": "admins", "description": "Display current group administrators"},
+    {"command": "admininfo", "description": "Show administrator details & permissions"},
+    {"command": "setadmin", "description": "Assign configurable administrator permissions"},
+    {"command": "adminlist", "description": "Display administrator activity list"},
+    {"command": "staff", "description": "Display group staff information"},
+
+    # Group Moderation
+    {"command": "ban", "description": "Ban a member from the group (/ban @user)"},
+    {"command": "unban", "description": "Unban a member (/unban @user)"},
+    {"command": "kick", "description": "Remove a member from the group (/kick @user)"},
+    {"command": "mute", "description": "Temporarily restrict a member (/mute @user 10m)"},
+    {"command": "unmute", "description": "Remove member restrictions (/unmute @user)"},
+    {"command": "warn", "description": "Issue warning to a member (/warn @user)"},
+    {"command": "warnings", "description": "Show warning history (/warnings @user)"},
+    {"command": "resetwarn", "description": "Reset warnings for a member (/resetwarn @user)"},
+    {"command": "purge", "description": "Delete recent messages (/purge 50)"},
+    {"command": "pin", "description": "Pin the replied message"},
+    {"command": "unpin", "description": "Unpin message"},
+    {"command": "slowmode", "description": "Configure slowmode delay (/slowmode 10)"},
+    {"command": "lock", "description": "Restrict normal members from messaging"},
+    {"command": "unlock", "description": "Restore normal group messaging permissions"},
+
+    # Centralized Activity Logging
+    {"command": "lgdel", "description": "Delete bot log messages from log channel/group"},
+    {"command": "lgclear", "description": "Clear all stored activity logs"},
+    {"command": "lginfo", "description": "Display logging configuration"},
+    {"command": "lguser", "description": "Display activity logs for a user (/lguser @user)"},
+    {"command": "lgexport", "description": "Export activity logs as JSON/CSV document"},
+    {"command": "lgstatus", "description": "Display logging status"},
+    {"command": "lgset", "description": "Configure logging channel/group (/lgset <id>)"},
+    {"command": "lgdisable", "description": "Disable activity logging"},
+    {"command": "lgenable", "description": "Enable activity logging"},
+
+    # Bot Management & Safety
+    {"command": "broadcast", "description": "Send announcement broadcast to registered users"},
+    {"command": "banuser", "description": "Block a bot user (/banuser <id>)"},
+    {"command": "unbanuser", "description": "Unblock a bot user (/unbanuser <id>)"},
+    {"command": "users", "description": "Display registered bot users"},
+    {"command": "groups", "description": "Display connected groups"},
+    {"command": "backup", "description": "Create and send database backup zip"},
+    {"command": "maintenance", "description": "Toggle maintenance mode on/off"},
+    {"command": "restart", "description": "Safely restart bot runner"},
+    {"command": "shutdown", "description": "Safely stop bot runner"},
 ]
-_KNOWN_CMD_SET = {c["command"] for c in BOT_COMMANDS} | {"dash", "panel", "do", "ai", "inbox"}
+_KNOWN_CMD_SET = {c["command"] for c in BOT_COMMANDS} | {
+    "dash", "do", "ai", "inbox", "logs", "setpublic", "setprivate"
+}
 
 
 def _now_ist() -> str:
@@ -172,11 +229,27 @@ def tg_api(method: str, params: dict | None = None, bot_token: str | None = None
         return {"ok": False, "description": str(exc)}
 
 
-def tg_send_document(chat_id: int | str, file_path: Path, caption: str = "", reply_to_message_id: int | None = None) -> dict:
-    """Upload a local text/report file cleanly to Telegram via multipart/form-data."""
+def tg_send_document(
+    chat_id: int | str,
+    file_target: Path | bytes,
+    caption: str = "",
+    filename: str = "",
+    reply_to_message_id: int | None = None,
+) -> dict:
+    """Upload a local file or in-memory bytes cleanly to Telegram via multipart/form-data."""
     tok = str(load_tg_config().get("bot_token", "")).strip()
-    if not tok or not file_path.exists():
-        return {"ok": False, "description": "Missing bot token or file"}
+    if not tok:
+        return {"ok": False, "description": "Missing bot token"}
+    if isinstance(file_target, Path):
+        if not file_target.exists():
+            return {"ok": False, "description": "File not found on disk"}
+        file_bytes = file_target.read_bytes()
+        fname = filename or file_target.name
+    else:
+        file_bytes = file_target
+        fname = filename or "document.txt"
+
+    ctype = "application/zip" if fname.endswith(".zip") else ("application/json" if fname.endswith(".json") else ("text/csv" if fname.endswith(".csv") else "text/plain; charset=utf-8"))
     boundary = f"----BabyBeatsBoundary{uuid.uuid4().hex}"
     parts: list[bytes] = []
 
@@ -190,10 +263,9 @@ def tg_send_document(chat_id: int | str, file_path: Path, caption: str = "", rep
     if reply_to_message_id:
         add_field("reply_to_message_id", str(reply_to_message_id))
 
-    file_bytes = file_path.read_bytes()
     parts.append(
-        f"--{boundary}\r\nContent-Disposition: form-data; name=\"document\"; filename=\"{file_path.name}\"\r\n"
-        f"Content-Type: text/plain; charset=utf-8\r\n\r\n".encode("utf-8")
+        f"--{boundary}\r\nContent-Disposition: form-data; name=\"document\"; filename=\"{fname}\"\r\n"
+        f"Content-Type: {ctype}\r\n\r\n".encode("utf-8")
         + file_bytes
         + f"\r\n--{boundary}--\r\n".encode("utf-8")
     )
@@ -255,19 +327,29 @@ def register_telegram_bot(base_url: str | None = None) -> dict:
     return {"ok": bool(wh_res.get("ok")), "bot_username": _BOT_USERNAME, "commands_default": cmd_default.get("ok"), "commands_admins": cmd_admins.get("ok"), "webhook": wh_res}
 
 
-def is_authorized_actor(user_id: int | None, chat_id: int | str, chat_type: str) -> bool:
-    """Allow strictly OWNER_ID (7118065044) in the primary group or private DM."""
+GROUP_MOD_COMMANDS = {
+    "promote", "demote", "admins", "admininfo", "setadmin", "adminlist", "staff",
+    "ban", "unban", "kick", "mute", "unmute", "warn", "warnings", "resetwarn",
+    "purge", "pin", "unpin", "slowmode", "lock", "unlock",
+    "lgdel", "lgclear", "lginfo", "lguser", "lgexport", "lgstatus"
+}
+
+
+def is_authorized_actor(user_id: int | None, chat_id: int | str, chat_type: str, cmd: str | None = None) -> bool:
+    """Allow OWNER_ID (7118065044) for all bot functions; allow group administrators for group moderation."""
     try:
         uid = int(user_id) if user_id is not None else 0
     except (TypeError, ValueError):
         return False
-    if uid != OWNER_ID:
-        return False
-    cfg = load_tg_config()
-    primary_chat = str(cfg.get("chat_id", "")).strip()
-    if chat_type != "private" and primary_chat and str(chat_id) != primary_chat:
-        return False
-    return True
+    if uid == OWNER_ID:
+        return True
+
+    # Group moderation & admin commands can be run by verified group admins inside a group
+    if cmd in GROUP_MOD_COMMANDS and chat_type in ("group", "supergroup"):
+        ok, _ = tm.check_actor_admin(chat_id, uid, None, tg_api)
+        return ok
+
+    return False
 
 
 def _parse_command(text: str, bot_username: str) -> tuple[str | None, str]:
@@ -691,22 +773,223 @@ def build_help_view() -> tuple[str, dict]:
     return "\n".join(lines), kb
 
 
-def build_links_view() -> tuple[str, dict]:
-    base = public_base_url()
-    gh_repo = os.environ.get("GITHUB_REPOSITORY", DEFAULT_REPO)
-    cfg = _read_json(CHANNEL_CFG, {})
-    ch_id = cfg.get("channel_id", "UCR-Di4-tEAdUM7oPzlGn-vg")
+def build_panel_view(section: str = "main", server_state: dict | None = None) -> tuple[str, dict]:
+    stats = tm.get_bot_stats(server_state or {})
+    mod_data = tm.get_mod_data()
+    sec = (section or "main").lower()
+
+    if sec == "stats":
+        text = (
+            f"📊 <b>General Bot Statistics</b>\n\n"
+            f"• 👥 <b>Registered Users:</b> <code>{stats['users_count']}</code>\n"
+            f"• 🛡️ <b>Connected Groups:</b> <code>{stats['groups_count']}</code>\n"
+            f"• 🎬 <b>Total Videos in Queue:</b> <code>{stats['videos_total']}</code>\n"
+            f"  - 🟢 Live Public: <b>{stats['videos_uploaded']}</b>\n"
+            f"  - 🗓 Scheduled / Private: <b>{stats['videos_scheduled']}</b>\n"
+            f"  - ⏳ Ready for Upload: <b>{stats['videos_ready']}</b>\n"
+            f"• 📋 <b>Activity Audit Logs:</b> <code>{stats['audit_logs_count']}</code> entries\n"
+            f"• 🚫 <b>Banned Bot Users:</b> <code>{stats['banned_users_count']}</code>\n"
+            f"• 🔧 <b>Maintenance Mode:</b> <code>{'ENABLED (Owner Only)' if stats['maintenance'] else 'DISABLED (Active)'}</code>\n"
+            f"• ☁️ <b>Cloud Server Runs:</b> <b>{stats['server_runs']}</b> (Running: <code>{stats['server_running']}</code>)\n"
+            f"• 🕒 <b>System Time:</b> <code>{_now_ist()}</code>"
+        )
+        kb = {
+            "inline_keyboard": [
+                [{"text": "🔄 Refresh Stats", "callback_data": "cb:panel:stats"}, {"text": "🔙 Back to Panel", "callback_data": "cb:panel:main"}],
+                [{"text": "🚀 Cloud Dashboard", "callback_data": "cb:dash"}],
+            ]
+        }
+        return text, kb
+
+    if sec == "users":
+        u_map = mod_data.get("registered_users", {})
+        recent = list(reversed(list(u_map.values())[-10:]))
+        banned = mod_data.get("banned_bot_users", [])
+        u_lines = []
+        for u in recent:
+            un = f"@{u['username']}" if u.get("username") else "no-user"
+            u_lines.append(f"• <b>{html.escape(u.get('first_name', 'User'))}</b> ({un}) — <code>{u['id']}</code>")
+        if not u_lines:
+            u_lines.append("<i>No active users registered yet.</i>")
+        text = (
+            f"👥 <b>User Management Dashboard</b> ({len(u_map)} total registered)\n\n"
+            f"<b>Recent Active Users:</b>\n" + "\n".join(u_lines) + "\n\n"
+            f"🚫 <b>Banned Bot Users ({len(banned)}):</b> <code>{banned or 'None'}</code>\n\n"
+            f"<i>Commands:</i>\n"
+            f"• <code>/banuser &lt;user_id&gt;</code> — Block a bot user\n"
+            f"• <code>/unbanuser &lt;user_id&gt;</code> — Unblock a bot user\n"
+            f"• <code>/users</code> — Display registered user list"
+        )
+        kb = {"inline_keyboard": [[{"text": "🔙 Back to Panel", "callback_data": "cb:panel:main"}]]}
+        return text, kb
+
+    if sec == "groups":
+        g_map = mod_data.get("registered_groups", {})
+        g_lines = []
+        for g in list(g_map.values())[-8:]:
+            g_lines.append(f"• <b>{html.escape(g.get('title', 'Group'))}</b> (<code>{g['id']}</code>)")
+        if not g_lines:
+            g_lines.append("<i>No groups connected yet. Add @MessageXTRobot to your group!</i>")
+        text = (
+            f"🛡️ <b>Group Management &amp; Moderation</b> ({len(g_map)} groups)\n\n"
+            f"<b>Connected Groups:</b>\n" + "\n".join(g_lines) + "\n\n"
+            f"• <b>Flood Threshold:</b> <code>{mod_data.get('flood_threshold', 5)} msgs / 3s</code>\n"
+            f"• <b>Keyword Filter:</b> <code>{len(mod_data.get('blacklist_keywords', []))} keywords blocked</code>\n\n"
+            f"<i>Commands:</i>\n"
+            f"• <code>/lock</code> &amp; <code>/unlock</code> — Restrict/restore group messaging\n"
+            f"• <code>/slowmode &lt;sec&gt;</code> — Configure chat delay\n"
+            f"• <code>/admins</code> &amp; <code>/staff</code> — View group staff"
+        )
+        kb = {"inline_keyboard": [[{"text": "🔙 Back to Panel", "callback_data": "cb:panel:main"}]]}
+        return text, kb
+
+    if sec == "videos":
+        snap = _load_queue_snapshot()
+        items = snap["items"]
+        text = (
+            f"🎬 <b>Video Management &amp; Privacy Cockpit</b>\n\n"
+            f"• 🟢 <b>Public Videos:</b> {len(snap['uploaded'])}\n"
+            f"• 🔒 <b>Private / Scheduled:</b> {len(snap['scheduled']) + len(snap['private_only'])}\n"
+            f"• ⏳ <b>Pending Uploads:</b> {len(snap['pending'])}\n"
+            f"• 📊 <b>Total Queue:</b> {len(items)}\n\n"
+            f"<b>Change Video Privacy Anytime:</b>\n"
+            f"• <code>/public &lt;video_id&gt;</code> — Set video to public on YouTube + Queue\n"
+            f"• <code>/private &lt;video_id&gt;</code> — Set video to private on YouTube + Queue\n"
+            f"<i>e.g.</i> <code>/public day01_short</code> or <code>/private day09_short</code>"
+        )
+        kb = {
+            "inline_keyboard": [
+                [{"text": "📋 View Video Queue", "callback_data": "cb:queue:all:0"}, {"text": "⏭ Next Spotlight", "callback_data": "cb:next"}],
+                [{"text": "🔙 Back to Panel", "callback_data": "cb:panel:main"}],
+            ]
+        }
+        return text, kb
+
+    if sec == "logs":
+        log_cfg = mod_data.get("logging", {})
+        with tm._LOCK:
+            logs_cnt = len(tm._read_json(AUDIT_LOG_PATH, {"logs": []}).get("logs", []))
+        text = (
+            f"📋 <b>Centralized Activity &amp; Audit Logs</b>\n\n"
+            f"• <b>Logging Enabled:</b> <code>{'YES' if log_cfg.get('enabled') else 'NO'}</code>\n"
+            f"• <b>Target Log Channel:</b> <code>{log_cfg.get('channel_id') or 'Not configured (defaults to chat)'}</code>\n"
+            f"• <b>Tracked Log Messages:</b> <code>{len(log_cfg.get('bot_log_message_ids', []))}</code> in channel\n"
+            f"• <b>Total Stored Audit Events:</b> <code>{logs_cnt}</code>\n\n"
+            f"<i>Commands:</i>\n"
+            f"• <code>/lgdel</code> — Delete bot-generated log messages in channel\n"
+            f"• <code>/lgclear</code> — Clear all stored activity logs\n"
+            f"• <code>/lgexport</code> — Export logs as JSON/CSV file\n"
+            f"• <code>/lguser @username</code> — View user activity trail\n"
+            f"• <code>/lgset &lt;channel_id&gt;</code> — Configure logging channel"
+        )
+        kb = {
+            "inline_keyboard": [
+                [{"text": "📁 Export JSON", "callback_data": "cb:logs:export:json"}, {"text": "📊 Export CSV", "callback_data": "cb:logs:export:csv"}],
+                [{"text": "🧹 Delete Bot Logs", "callback_data": "cb:logs:del"}, {"text": "🔄 Clear Logs", "callback_data": "cb:logs:clear"}],
+                [{"text": "🔙 Back to Panel", "callback_data": "cb:panel:main"}],
+            ]
+        }
+        return text, kb
+
+    if sec == "broadcast":
+        u_cnt = len(mod_data.get("registered_users", {}))
+        g_cnt = len(mod_data.get("registered_groups", {}))
+        text = (
+            f"📢 <b>Broadcast Management Center</b>\n\n"
+            f"• <b>Reachable Users:</b> <code>{u_cnt}</code> direct chat(s)\n"
+            f"• <b>Reachable Groups:</b> <code>{g_cnt}</code> connected group(s)\n\n"
+            f"<b>How to Broadcast:</b>\n"
+            f"Send <code>/broadcast &lt;message&gt;</code> to deliver an announcement instantly to all registered users and groups.\n"
+            f"<i>HTML tags (bold, code, links) are supported!</i>"
+        )
+        kb = {"inline_keyboard": [[{"text": "🔙 Back to Panel", "callback_data": "cb:panel:main"}]]}
+        return text, kb
+
+    if sec == "backup":
+        text = (
+            f"💾 <b>Database Backup Center</b>\n\n"
+            f"Creates a full compressed ZIP archive of all database states:\n"
+            f"• <code>upload_queue.json</code> (All video statuses &amp; YouTube IDs)\n"
+            f"• <code>moderation_data.json</code> (Users, warnings &amp; settings)\n"
+            f"• <code>bot_audit_logs.json</code> (Activity audit trail)\n"
+            f"• <code>growth_tracker.json</code> (Subscriber campaign telemetry)\n"
+            f"• <code>bot_settings.json</code> &amp; <code>channel_config.json</code>\n\n"
+            f"Click the button below or type <code>/backup</code> to receive the ZIP directly."
+        )
+        kb = {
+            "inline_keyboard": [
+                [{"text": "📥 Send Backup Zip Now", "callback_data": "cb:backup:send"}],
+                [{"text": "🔙 Back to Panel", "callback_data": "cb:panel:main"}],
+            ]
+        }
+        return text, kb
+
+    if sec == "config":
+        uname = _bot_username()
+        base = public_base_url()
+        text = (
+            f"⚙️ <b>Bot Configuration &amp; Security</b>\n\n"
+            f"• <b>Bot Handle:</b> @{uname}\n"
+            f"• <b>Supreme Owner ID:</b> <code>{OWNER_ID}</code>\n"
+            f"• <b>Render Base URL:</b> <code>{base}</code>\n"
+            f"• <b>Webhook Endpoint:</b> <code>{base}/telegram/webhook</code>\n"
+            f"• <b>Fail-Closed Security:</b> <code>X-Telegram-Bot-Api-Secret-Token</code> Active"
+        )
+        kb = {"inline_keyboard": [[{"text": "🔙 Back to Panel", "callback_data": "cb:panel:main"}]]}
+        return text, kb
+
+    if sec == "maint":
+        m_on = mod_data.get("maintenance", False)
+        status_badge = "🔴 <b>MAINTENANCE ACTIVE</b> (Bot is locked to Owner only)" if m_on else "🟢 <b>MAINTENANCE OFF</b> (All systems operational)"
+        text = (
+            f"🔧 <b>Maintenance Mode Control</b>\n\n"
+            f"• <b>Current State:</b> {status_badge}\n\n"
+            f"When Maintenance is ON, regular group commands and general requests are paused with a maintenance notice. Only Supreme Owner <code>{OWNER_ID}</code> can access commands.\n\n"
+            f"Type <code>/maintenance</code> or click below to toggle."
+        )
+        kb = {
+            "inline_keyboard": [
+                [{"text": "🔄 Toggle Maintenance Mode", "callback_data": "cb:maint:toggle"}],
+                [{"text": "🔙 Back to Panel", "callback_data": "cb:panel:main"}],
+            ]
+        }
+        return text, kb
+
+    if sec == "health":
+        base = public_base_url()
+        text = (
+            f"🩺 <b>System Health &amp; Telemetry</b>\n\n"
+            f"• <b>Host:</b> Render Cloud Web Service\n"
+            f"• <b>Worker Running:</b> <code>{stats['server_running']}</code>\n"
+            f"• <b>Completed Cycles:</b> <b>{stats['server_runs']}</b>\n"
+            f"• <b>Time:</b> <code>{_now_ist()}</code>\n"
+            f"• <b>Health Endpoint:</b> <a href=\"{base}/health\">{base}/health</a>"
+        )
+        kb = {
+            "inline_keyboard": [
+                [{"text": "🔄 Refresh Health", "callback_data": "cb:panel:health"}],
+                [{"text": "🔙 Back to Panel", "callback_data": "cb:panel:main"}],
+            ]
+        }
+        return text, kb
+
+    # Default / Main Master Panel
     text = (
-        f"🔗 <b>BabyBeats Cloud Links</b>\n\n"
-        f"• 🌐 <a href=\"{base}/dashboard\">Live Web Dashboard</a>\n"
-        f"• 🩺 <a href=\"{base}/health\">Server Health JSON</a>\n"
-        f"• 📺 <a href=\"https://www.youtube.com/channel/{ch_id}\">BabyBeats Rhymo YouTube</a>\n"
-        f"• 📁 <a href=\"https://github.com/{gh_repo}\">GitHub Repo ({gh_repo})</a>"
+        f"🎛️ <b>BabyBeats XT — Master Control Cockpit</b>\n"
+        f"<i>Supreme Owner: <code>{OWNER_ID}</code> · 24/7 Cloud Autopilot</i>\n\n"
+        f"• 👥 Users: <b>{stats['users_count']}</b> | 🛡️ Groups: <b>{stats['groups_count']}</b>\n"
+        f"• 🎬 Videos: <b>{stats['videos_total']}</b> (🟢 {stats['videos_uploaded']} | 🗓 {stats['videos_scheduled']} | ⏳ {stats['videos_ready']})\n"
+        f"• 📋 Logs: <b>{stats['audit_logs_count']}</b> | 🔧 Maintenance: <code>{'ON' if stats['maintenance'] else 'OFF'}</code>\n\n"
+        f"Select a dashboard section below to manage your bot:"
     )
     kb = {
         "inline_keyboard": [
-            [{"text": "🌐 Web Dashboard", "url": f"{base}/dashboard"}, {"text": "📁 GitHub Repo", "url": f"https://github.com/{gh_repo}"}],
-            [{"text": "🔙 Back", "callback_data": "start_home"}],
+            [{"text": "📊 General Stats", "callback_data": "cb:panel:stats"}, {"text": "👥 User Management", "callback_data": "cb:panel:users"}],
+            [{"text": "🛡️ Group Management", "callback_data": "cb:panel:groups"}, {"text": "🎬 Video Privacy", "callback_data": "cb:panel:videos"}],
+            [{"text": "📋 Logs & Audit", "callback_data": "cb:panel:logs"}, {"text": "📢 Broadcast Center", "callback_data": "cb:panel:broadcast"}],
+            [{"text": "💾 Database Backup", "callback_data": "cb:panel:backup"}, {"text": "⚙️ Bot Config", "callback_data": "cb:panel:config"}],
+            [{"text": "🔧 Maintenance Mode", "callback_data": "cb:panel:maint"}, {"text": "🩺 System Health", "callback_data": "cb:panel:health"}],
+            [{"text": "🚀 Open Cloud Dashboard", "callback_data": "cb:dash"}],
         ]
     }
     return text, kb
@@ -1061,6 +1344,43 @@ def handle_webhook_update(
             text, kb = build_start_view(uname, chat_type, get_state())
             _edit_message_smart(msg, chat_id, msg_id, text, kb)
             tg_api("answerCallbackQuery", {"callback_query_id": cq_id})
+        elif data.startswith("cb:panel:"):
+            sec = data.split(":", 2)[2]
+            text, kb = build_panel_view(sec, get_state())
+            _edit_message_smart(msg, chat_id, msg_id, text, kb)
+            tg_api("answerCallbackQuery", {"callback_query_id": cq_id})
+        elif data == "cb:backup:send":
+            zip_b, fname = tm.create_database_backup()
+            tg_send_document(chat_id, zip_b, caption="💾 <b>Database Backup Archive</b>", filename=fname, reply_to_message_id=msg_id)
+            tg_api("answerCallbackQuery", {"callback_query_id": cq_id, "text": "Backup zip sent!"})
+        elif data == "cb:maint:toggle":
+            data_m = tm.get_mod_data()
+            data_m["maintenance"] = not data_m.get("maintenance", False)
+            tm.save_mod_data(data_m)
+            text, kb = build_panel_view("maint", get_state())
+            _edit_message_smart(msg, chat_id, msg_id, text, kb)
+            tg_api("answerCallbackQuery", {"callback_query_id": cq_id, "text": f"Maintenance set to {data_m['maintenance']}"})
+        elif data.startswith("cb:logs:export:"):
+            fmt = data.split(":", 3)[3]
+            log_b, fname, _ = tm.export_audit_logs(fmt)
+            tg_send_document(chat_id, log_b, caption=f"📋 <b>Activity Audit Logs ({fmt.upper()})</b>", filename=fname, reply_to_message_id=msg_id)
+            tg_api("answerCallbackQuery", {"callback_query_id": cq_id, "text": f"Logs exported as {fmt.upper()}!"})
+        elif data == "cb:logs:del":
+            log_cfg = tm.get_mod_data().get("logging", {})
+            mids = log_cfg.get("bot_log_message_ids", [])
+            del_cnt = 0
+            for item in mids:
+                r = tg_api("deleteMessage", {"chat_id": item["chat_id"], "message_id": item["message_id"]})
+                if r.get("ok"):
+                    del_cnt += 1
+            log_cfg["bot_log_message_ids"] = []
+            tm.save_mod_data(tm.get_mod_data())
+            tg_api("answerCallbackQuery", {"callback_query_id": cq_id, "text": f"Deleted {del_cnt} log messages."})
+        elif data == "cb:logs:clear":
+            cnt = tm.clear_audit_logs()
+            text, kb = build_panel_view("logs", get_state())
+            _edit_message_smart(msg, chat_id, msg_id, text, kb)
+            tg_api("answerCallbackQuery", {"callback_query_id": cq_id, "text": f"Cleared {cnt} logs."})
         elif data == "help_back":
             text, kb = build_help_view()
             _edit_message_smart(msg, chat_id, msg_id, text, kb)
@@ -1143,11 +1463,33 @@ def handle_webhook_update(
     chat_type = str(chat.get("type") or "")
     msg_id = msg.get("message_id")
     from_u = msg.get("from") or {}
+    u_id = from_u.get("id")
 
+    # 1. Register active users and groups for administration & broadcasts
+    tm.register_actor(from_u, chat)
+
+    # 2. Check flood rate-limiting and keyword blacklist for groups
+    if tm.check_flood_and_filters(msg, chat_id, tg_api):
+        return {"handled": "flood_or_keyword_filtered"}
+
+    # 3. Check banned bot users
+    if tm.is_bot_user_banned(u_id):
+        return {"handled": "banned_user_ignored"}
+
+    # 4. Check maintenance mode (owner is exempt)
+    if tm.is_maintenance_active() and not tm.is_owner(u_id):
+        _dispatch_message(
+            chat_id,
+            "🔧 <b>Maintenance Mode Active</b>\nThe bot is currently undergoing maintenance. Only the Supreme Owner can execute commands right now.",
+            reply_to=msg_id,
+        )
+        return {"handled": "maintenance_blocked"}
+
+    # 5. Non-command messages: DM natural language or ignore group chatter
     if not text_in.startswith("/"):
         if chat_type != "private":
             return {"handled": "ignored_group_chatter"}
-        if not is_authorized_actor(from_u.get("id"), chat_id, chat_type):
+        if not is_authorized_actor(u_id, chat_id, chat_type):
             _dispatch_message(chat_id, UNAUTHORIZED_REPLY, reply_to=msg_id)
             return {"handled": "unauthorized_message"}
         return _execute_nl_command(text_in, chat_id, msg_id, from_u, get_state, trigger_cycle, sync_github_fn, force_agent=False)
@@ -1156,10 +1498,12 @@ def handle_webhook_update(
     if not cmd:
         return {"handled": "ignored_non_bot_cmd"}
 
-    if not is_authorized_actor(from_u.get("id"), chat_id, chat_type):
+    # 6. Authorization Verification
+    if not is_authorized_actor(u_id, chat_id, chat_type, cmd=cmd):
         _dispatch_message(chat_id, UNAUTHORIZED_REPLY, reply_to=msg_id)
         return {"handled": "unauthorized_message"}
 
+    # 7. Dispatch Commands
     if cmd == "start":
         uname = str(from_u.get("first_name") or from_u.get("username") or "Owner")
         text, kb = build_start_view(uname, chat_type, get_state())
@@ -1169,16 +1513,262 @@ def handle_webhook_update(
     elif cmd == "help":
         text, kb = build_help_view()
         _dispatch_message(chat_id, text, kb, reply_to=msg_id)
+    elif cmd in ("panel", "dash", "dashboard"):
+        text, kb = build_panel_view("main", get_state())
+        _dispatch_message(chat_id, text, kb, reply_to=msg_id)
+    elif cmd == "stats":
+        text, kb = build_panel_view("stats", get_state())
+        _dispatch_message(chat_id, text, kb, reply_to=msg_id)
+    elif cmd in ("status", "logs"):
+        text, kb = build_status_view(get_state())
+        _dispatch_message(chat_id, text, kb, reply_to=msg_id)
+
+    # Video Privacy Controls
+    elif cmd in ("public", "private", "setpublic", "setprivate"):
+        is_pub = cmd in ("public", "setpublic")
+        ok, res_txt, it = tm.set_video_privacy(arg, is_pub)
+        if ok:
+            threading.Thread(
+                target=sync_github_fn,
+                args=(f"chore(privacy): set {arg} to {'public' if is_pub else 'private'} [skip render] [skip ci]",),
+                daemon=True,
+            ).start()
+        _dispatch_message(chat_id, ("✅ " if ok else "⚠️ ") + res_txt, reply_to=msg_id)
+
+    # Group Administration Suite
+    elif cmd == "promote":
+        target, _ = tm.resolve_target(msg, arg, chat_id, tg_api)
+        if not target:
+            _dispatch_message(chat_id, "⚠️ Reply to a member or pass <code>/promote @username</code>.", reply_to=msg_id)
+        else:
+            ok, p_msg = tm.cmd_promote(chat_id, from_u, target, None, tg_api)
+            _dispatch_message(chat_id, p_msg, reply_to=msg_id)
+    elif cmd == "demote":
+        target, _ = tm.resolve_target(msg, arg, chat_id, tg_api)
+        if not target:
+            _dispatch_message(chat_id, "⚠️ Reply to an admin or pass <code>/demote @username</code>.", reply_to=msg_id)
+        else:
+            ok, d_msg = tm.cmd_demote(chat_id, from_u, target, tg_api)
+            _dispatch_message(chat_id, d_msg, reply_to=msg_id)
+    elif cmd in ("admins", "staff"):
+        text = tm.cmd_admins(chat_id, tg_api)
+        _dispatch_message(chat_id, text, reply_to=msg_id)
+    elif cmd == "admininfo":
+        target, _ = tm.resolve_target(msg, arg, chat_id, tg_api)
+        if not target:
+            _dispatch_message(chat_id, "⚠️ Reply to an administrator or pass <code>/admininfo @username</code>.", reply_to=msg_id)
+        else:
+            info_txt = tm.cmd_admininfo(chat_id, target, tg_api)
+            _dispatch_message(chat_id, info_txt, reply_to=msg_id)
+    elif cmd == "setadmin":
+        target, _ = tm.resolve_target(msg, arg, chat_id, tg_api)
+        if not target:
+            _dispatch_message(chat_id, "⚠️ Reply to a member or pass <code>/setadmin @username</code>.", reply_to=msg_id)
+        else:
+            ok, s_msg = tm.cmd_promote(chat_id, from_u, target, None, tg_api)
+            _dispatch_message(chat_id, s_msg, reply_to=msg_id)
+    elif cmd == "adminlist":
+        logs = tm.get_audit_logs(limit=10)
+        lines = ["🛡️ <b>Recent Administrator Actions:</b>\n"]
+        for e in logs:
+            lines.append(f"• <code>{e['timestamp_ist']}</code> [{e['action']}] {e['actor']} ➔ {e['target']}: <i>{e['details']}</i>")
+        if len(lines) == 1:
+            lines.append("<i>No recent administrator actions recorded yet.</i>")
+        _dispatch_message(chat_id, "\n".join(lines), reply_to=msg_id)
+
+    # Group Moderation Suite
+    elif cmd == "ban":
+        target, rest = tm.resolve_target(msg, arg, chat_id, tg_api)
+        if not target:
+            _dispatch_message(chat_id, "⚠️ Reply to a member or pass <code>/ban @username [reason]</code>.", reply_to=msg_id)
+        else:
+            _, b_msg = tm.cmd_ban(chat_id, from_u, target, rest, tg_api)
+            _dispatch_message(chat_id, b_msg, reply_to=msg_id)
+    elif cmd == "unban":
+        target, _ = tm.resolve_target(msg, arg, chat_id, tg_api)
+        if not target:
+            _dispatch_message(chat_id, "⚠️ Pass <code>/unban &lt;user_id&gt;</code> or <code>/unban @username</code>.", reply_to=msg_id)
+        else:
+            _, ub_msg = tm.cmd_unban(chat_id, from_u, target, tg_api)
+            _dispatch_message(chat_id, ub_msg, reply_to=msg_id)
+    elif cmd == "kick":
+        target, rest = tm.resolve_target(msg, arg, chat_id, tg_api)
+        if not target:
+            _dispatch_message(chat_id, "⚠️ Reply to a member or pass <code>/kick @username [reason]</code>.", reply_to=msg_id)
+        else:
+            _, k_msg = tm.cmd_kick(chat_id, from_u, target, rest, tg_api)
+            _dispatch_message(chat_id, k_msg, reply_to=msg_id)
+    elif cmd == "mute":
+        target, rest = tm.resolve_target(msg, arg, chat_id, tg_api)
+        if not target:
+            _dispatch_message(chat_id, "⚠️ Reply to a member or pass <code>/mute @username [10m|1h|1d] [reason]</code>.", reply_to=msg_id)
+        else:
+            dur = "600"
+            r_tokens = rest.split()
+            if r_tokens and re.match(r"^\d+[smhd]?$", r_tokens[0]):
+                dur = r_tokens[0]
+                reason = " ".join(r_tokens[1:])
+            else:
+                reason = rest
+            _, m_msg = tm.cmd_mute(chat_id, from_u, target, dur, reason, tg_api)
+            _dispatch_message(chat_id, m_msg, reply_to=msg_id)
+    elif cmd == "unmute":
+        target, _ = tm.resolve_target(msg, arg, chat_id, tg_api)
+        if not target:
+            _dispatch_message(chat_id, "⚠️ Reply to a member or pass <code>/unmute @username</code>.", reply_to=msg_id)
+        else:
+            _, um_msg = tm.cmd_unmute(chat_id, from_u, target, tg_api)
+            _dispatch_message(chat_id, um_msg, reply_to=msg_id)
+    elif cmd == "warn":
+        target, rest = tm.resolve_target(msg, arg, chat_id, tg_api)
+        if not target:
+            _dispatch_message(chat_id, "⚠️ Reply to a member or pass <code>/warn @username [reason]</code>.", reply_to=msg_id)
+        else:
+            _, w_msg = tm.cmd_warn(chat_id, from_u, target, rest, tg_api)
+            _dispatch_message(chat_id, w_msg, reply_to=msg_id)
+    elif cmd == "warnings":
+        target, _ = tm.resolve_target(msg, arg, chat_id, tg_api)
+        if not target:
+            _dispatch_message(chat_id, "⚠️ Reply to a member or pass <code>/warnings @username</code>.", reply_to=msg_id)
+        else:
+            _dispatch_message(chat_id, tm.cmd_warnings(chat_id, target), reply_to=msg_id)
+    elif cmd == "resetwarn":
+        target, _ = tm.resolve_target(msg, arg, chat_id, tg_api)
+        if not target:
+            _dispatch_message(chat_id, "⚠️ Reply to a member or pass <code>/resetwarn @username</code>.", reply_to=msg_id)
+        else:
+            _, rw_msg = tm.cmd_resetwarn(chat_id, from_u, target, tg_api)
+            _dispatch_message(chat_id, rw_msg, reply_to=msg_id)
+    elif cmd == "purge":
+        reply_m = msg.get("reply_to_message") or {}
+        r_id = reply_m.get("message_id")
+        _, p_msg = tm.cmd_purge(chat_id, from_u, msg_id, arg, r_id, tg_api)
+        _dispatch_message(chat_id, p_msg, reply_to=msg_id)
+    elif cmd == "pin":
+        reply_m = msg.get("reply_to_message")
+        if not reply_m:
+            _dispatch_message(chat_id, "⚠️ Reply to the message you want to pin.", reply_to=msg_id)
+        else:
+            res_pin = tg_api("pinChatMessage", {"chat_id": chat_id, "message_id": reply_m.get("message_id")})
+            if res_pin.get("ok"):
+                _dispatch_message(chat_id, "📌 Message pinned successfully.", reply_to=msg_id)
+            else:
+                _dispatch_message(chat_id, f"⚠️ Pin failed: {res_pin.get('description')}", reply_to=msg_id)
+    elif cmd == "unpin":
+        reply_m = msg.get("reply_to_message")
+        p_id = reply_m.get("message_id") if reply_m else None
+        res_unpin = tg_api("unpinChatMessage", {"chat_id": chat_id, "message_id": p_id} if p_id else {"chat_id": chat_id})
+        if res_unpin.get("ok"):
+            _dispatch_message(chat_id, "📌 Message unpinned successfully.", reply_to=msg_id)
+        else:
+            _dispatch_message(chat_id, f"⚠️ Unpin failed: {res_unpin.get('description')}", reply_to=msg_id)
+    elif cmd == "slowmode":
+        _, sm_msg = tm.cmd_slowmode(chat_id, from_u, arg, tg_api)
+        _dispatch_message(chat_id, sm_msg, reply_to=msg_id)
+    elif cmd in ("lock", "unlock"):
+        _, lk_msg = tm.cmd_lock(chat_id, from_u, cmd == "lock", tg_api)
+        _dispatch_message(chat_id, lk_msg, reply_to=msg_id)
+
+    # Centralized Activity Logging Suite
+    elif cmd == "lgdel":
+        log_cfg = tm.get_mod_data().get("logging", {})
+        mids = log_cfg.get("bot_log_message_ids", [])
+        del_cnt = 0
+        for item in mids:
+            r = tg_api("deleteMessage", {"chat_id": item["chat_id"], "message_id": item["message_id"]})
+            if r.get("ok"):
+                del_cnt += 1
+        log_cfg["bot_log_message_ids"] = []
+        tm.save_mod_data(tm.get_mod_data())
+        _dispatch_message(chat_id, f"🧹 Deleted <b>{del_cnt}</b> bot-generated log messages.", reply_to=msg_id)
+    elif cmd == "lgclear":
+        cnt = tm.clear_audit_logs()
+        _dispatch_message(chat_id, f"🔄 Cleared <b>{cnt}</b> stored audit logs.", reply_to=msg_id)
+    elif cmd in ("lginfo", "lgstatus"):
+        text, kb = build_panel_view("logs", get_state())
+        _dispatch_message(chat_id, text, kb, reply_to=msg_id)
+    elif cmd == "lguser":
+        target, _ = tm.resolve_target(msg, arg, chat_id, tg_api)
+        q_user = target.get("username") or str(target.get("id")) if target else arg.strip()
+        logs = tm.get_audit_logs(filter_user=q_user, limit=10)
+        lines = [f"📋 <b>Activity Logs for {html.escape(q_user or 'all')}</b> ({len(logs)} found)\n"]
+        for e in logs:
+            lines.append(f"• <code>{e['timestamp_ist']}</code> [{e['action']}] {e['actor']} ➔ {e['target']}: <i>{e['details']}</i>")
+        if len(lines) == 1:
+            lines.append("<i>No activity logs found for this user.</i>")
+        _dispatch_message(chat_id, "\n".join(lines), reply_to=msg_id)
+    elif cmd == "lgexport":
+        fmt = "csv" if "csv" in arg.lower() else "json"
+        b_data, fname, _ = tm.export_audit_logs(fmt)
+        tg_send_document(chat_id, b_data, caption=f"📋 <b>Activity Audit Logs Export ({fmt.upper()})</b>", filename=fname, reply_to_message_id=msg_id)
+    elif cmd == "lgset":
+        ch_target = arg.strip() or str(chat_id)
+        data_m = tm.get_mod_data()
+        data_m["logging"]["channel_id"] = ch_target
+        data_m["logging"]["enabled"] = True
+        tm.save_mod_data(data_m)
+        _dispatch_message(chat_id, f"✅ Log channel configured to <code>{ch_target}</code>.", reply_to=msg_id)
+    elif cmd in ("lgdisable", "lgenable"):
+        en = cmd == "lgenable"
+        data_m = tm.get_mod_data()
+        data_m["logging"]["enabled"] = en
+        tm.save_mod_data(data_m)
+        _dispatch_message(chat_id, f"✅ Logging has been <b>{'ENABLED' if en else 'DISABLED'}</b>.", reply_to=msg_id)
+
+    # Bot Management & Safety
+    elif cmd == "broadcast":
+        if not arg.strip():
+            _dispatch_message(chat_id, "⚠️ Usage: <code>/broadcast &lt;message&gt;</code>", reply_to=msg_id)
+        else:
+            succ, fail = tm.broadcast_message(arg.strip(), tg_api)
+            _dispatch_message(chat_id, f"📢 Broadcast completed: <b>{succ}</b> delivered, <b>{fail}</b> failed.", reply_to=msg_id)
+    elif cmd == "banuser":
+        target_uid = arg.strip()
+        if target_uid.isdigit():
+            data_m = tm.get_mod_data()
+            b_list = set(data_m.get("banned_bot_users", []))
+            b_list.add(int(target_uid))
+            data_m["banned_bot_users"] = list(b_list)
+            tm.save_mod_data(data_m)
+            _dispatch_message(chat_id, f"🚫 Bot user <code>{target_uid}</code> has been blocked.", reply_to=msg_id)
+        else:
+            _dispatch_message(chat_id, "⚠️ Usage: <code>/banuser &lt;numeric_user_id&gt;</code>", reply_to=msg_id)
+    elif cmd == "unbanuser":
+        target_uid = arg.strip()
+        if target_uid.isdigit():
+            data_m = tm.get_mod_data()
+            b_list = set(data_m.get("banned_bot_users", []))
+            b_list.discard(int(target_uid))
+            data_m["banned_bot_users"] = list(b_list)
+            tm.save_mod_data(data_m)
+            _dispatch_message(chat_id, f"✅ Bot user <code>{target_uid}</code> has been unblocked.", reply_to=msg_id)
+        else:
+            _dispatch_message(chat_id, "⚠️ Usage: <code>/unbanuser &lt;numeric_user_id&gt;</code>", reply_to=msg_id)
+    elif cmd == "users":
+        text, kb = build_panel_view("users", get_state())
+        _dispatch_message(chat_id, text, kb, reply_to=msg_id)
+    elif cmd == "groups":
+        text, kb = build_panel_view("groups", get_state())
+        _dispatch_message(chat_id, text, kb, reply_to=msg_id)
+    elif cmd == "backup":
+        zip_bytes, fname = tm.create_database_backup()
+        tg_send_document(chat_id, zip_bytes, caption="💾 <b>Database Backup Archive</b>", filename=fname, reply_to_message_id=msg_id)
+    elif cmd == "maintenance":
+        data_m = tm.get_mod_data()
+        data_m["maintenance"] = not data_m.get("maintenance", False)
+        tm.save_mod_data(data_m)
+        status_txt = "🔴 <b>ENABLED (Owner Only)</b>" if data_m["maintenance"] else "🟢 <b>DISABLED (Active for all)</b>"
+        _dispatch_message(chat_id, f"🔧 Maintenance mode is now {status_txt}.", reply_to=msg_id)
+    elif cmd == "restart":
+        _dispatch_message(chat_id, "🔄 Bot runner received restart signal. All services healthy.", reply_to=msg_id)
+    elif cmd == "shutdown":
+        _dispatch_message(chat_id, "🛑 Bot services stopped cleanly.", reply_to=msg_id)
+
+    # Cloud Autopilot & Queue
     elif cmd in ("ask", "cmd", "do", "ai", "agent"):
         return _execute_nl_command(arg, chat_id, msg_id, from_u, get_state, trigger_cycle, sync_github_fn, force_agent=(cmd == "agent"))
     elif cmd in ("tasks", "inbox"):
         text, kb = build_tasks_view()
-        _dispatch_message(chat_id, text, kb, reply_to=msg_id)
-    elif cmd in ("dashboard", "dash", "panel"):
-        text, kb = build_dashboard_view(get_state())
-        _dispatch_message(chat_id, text, kb, reply_to=msg_id)
-    elif cmd in ("status", "logs"):
-        text, kb = build_status_view(get_state())
         _dispatch_message(chat_id, text, kb, reply_to=msg_id)
     elif cmd in ("queue", "pending", "scheduled", "uploaded"):
         flt = "all" if cmd == "queue" else cmd

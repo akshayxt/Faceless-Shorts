@@ -1,0 +1,43 @@
+{
+  "maintenance": false,
+  "banned_bot_users": [],
+  "registered_users": {
+    "7118065044": {
+      "id": 7118065044,
+      "username": null,
+      "first_name": "",
+      "last_seen_ist": "2026-11-16 22:01:35 IST"
+    },
+    "12345": {
+      "id": 12345,
+      "username": null,
+      "first_name": "",
+      "last_seen_ist": "2026-11-16 22:03:26 IST"
+    }
+  },
+  "registered_groups": {
+    "-1001997761568": {
+      "id": -1001997761568,
+      "title": "",
+      "type": "supergroup",
+      "last_seen_ist": "2026-11-16 22:03:26 IST"
+    }
+  },
+  "warnings": {
+    "-100:999": []
+  },
+  "group_settings": {},
+  "logging": {
+    "enabled": true,
+    "channel_id": null,
+    "bot_log_message_ids": []
+  },
+  "blacklist_keywords": [
+    "t.me/",
+    "discord.gg/",
+    "free crypto",
+    "telegram.me/"
+  ],
+  "link_filter_enabled": false,
+  "flood_threshold": 5
+}

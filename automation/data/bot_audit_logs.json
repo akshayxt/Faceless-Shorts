@@ -1,0 +1,36 @@
+{
+  "logs": [
+    {
+      "timestamp_ist": "2026-11-16 22:05:38 IST",
+      "action": "WARN",
+      "actor": "@admin",
+      "target": "@badguy",
+      "chat_id": "-100",
+      "details": "Warn #1. Reason: one"
+    },
+    {
+      "timestamp_ist": "2026-11-16 22:05:38 IST",
+      "action": "WARN",
+      "actor": "@admin",
+      "target": "@badguy",
+      "chat_id": "-100",
+      "details": "Warn #2. Reason: two"
+    },
+    {
+      "timestamp_ist": "2026-11-16 22:05:38 IST",
+      "action": "WARN",
+      "actor": "@admin",
+      "target": "@badguy",
+      "chat_id": "-100",
+      "details": "Warn #3. Reason: three"
+    },
+    {
+      "timestamp_ist": "2026-11-16 22:05:38 IST",
+      "action": "AUTO_TEMP_BAN",
+      "actor": "SYSTEM",
+      "target": "@badguy",
+      "chat_id": "-100",
+      "details": "3 warnings limit reached (24h ban)"
+    }
+  ]
+}
