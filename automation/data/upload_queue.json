@@ -1072,7 +1072,7 @@
       "updated_at_ist": "2026-11-11T12:08:33.876268+05:30",
       "scheduled_publish_est": "2026-12-09T15:30:00-05:00",
       "publish_at": "2026-12-09T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-16T14:28:54.580312+05:30",
+      "seo_updated_at_ist": "2026-11-16T17:33:16.526187+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "what happens when you crack knuckles for kids",
@@ -1105,7 +1105,7 @@
       "updated_at_ist": "2026-11-11T12:10:43.293667+05:30",
       "scheduled_publish_est": "2026-12-10T15:30:00-05:00",
       "publish_at": "2026-12-10T20:30:00Z",
-      "seo_updated_at_ist": "2026-11-16T14:28:54.937342+05:30",
+      "seo_updated_at_ist": "2026-11-16T17:33:16.853051+05:30",
       "realtime_seo_score": 98,
       "realtime_seo_queries": [
         "is the 5 second rule true for kids",
@@ -1116,6 +1116,6 @@
       "seo_txt_path": "videos/day30_short/renders/day30_short_seo.txt"
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-16T14:28:54.937386+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-16T17:33:16.853089+05:30",
   "realtime_seo_us_trends_checked": 10
 }
