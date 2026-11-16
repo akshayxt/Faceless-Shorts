@@ -1,0 +1,114 @@
+{
+  "topic_id": "12_12_26",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "The Wheels on the Bus: How Heavy Giant Wheels Spin So Fast!",
+      "chars": 59,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"The Wheels on the Bus: How Heavy Giant...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "The Wheels on the Bus: How Heavy Giant Wheels Spin So Fast!",
+  "selected_title_lint": {
+    "title": "The Wheels on the Bus: How Heavy Giant Wheels Spin So Fast!",
+    "chars": 59,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"The Wheels on the Bus: How Heavy Giant...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "59 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "BUS WHEEL SECRET!",
+  "hook_lint": {
+    "hook": "The wheels on the bus go round and round! But how do heavy steel wheels roll so smooth without getting stuck?",
+    "properties": {
+      "SPECIFICITY": 35,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 76,
+      "BREVITY": 100
+    },
+    "verdict": 40,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "wheels on the bus rhyme for kids",
+  "supporting_keywords": [
+    "how wheels roll science for kids",
+    "wheels on the bus cartoon",
+    "preschool bus song"
+  ],
+  "target_search_queries": [
+    "wheels on the bus rhyme for kids",
+    "how wheels roll science for kids",
+    "wheels on the bus cartoon",
+    "preschool bus song"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "The Wheels on the Bus: How Heavy Giant Wheels Spin So Fast! — The wheels on the bus go round and round! But how do heavy steel wheels roll so smooth without getting stuck?\nKids science answer for \"wheels on the bus rhyme for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nInside every giant bus wheel, tiny steel ball bearings roll smoothly around a central axle, beating friction so heavy buses glide easily down the street.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "wheels on the bus rhyme for kids",
+    "how wheels roll science for kids",
+    "wheels on the bus cartoon",
+    "preschool bus song",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

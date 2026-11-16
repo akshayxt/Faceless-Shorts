@@ -1,0 +1,52 @@
+{
+  "title": "Humpty Dumpty: Why Are Eggshells Curved and Super Strong?",
+  "thumb_text": "EGGSHELL SECRET!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.nasa.gov/kidsclub"
+  ],
+  "lines": [
+    {
+      "text": "Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall!",
+      "caps": "Humpty Dumpty sat *ON | a *WALL, Humpty | Dumpty had a *GREAT | *FALL!"
+    },
+    {
+      "text": "Did you know eggshells are actually built like super strong architecture domes?",
+      "caps": "Did you know eggshells are *ACTUALLY | built like super *STRONG | architecture *DOMES!"
+    },
+    {
+      "text": "All the king's horses and all the king's men couldn't put Humpty together again!",
+      "caps": "All the king's *HORSES | and all the king's *MEN | couldn't put Humpty *TOGETHER | *AGAIN!"
+    },
+    {
+      "text": "An egg's curved dome shape spreads weight evenly around the whole shell!",
+      "caps": "An egg's curved *DOME | shape spreads weight *EVENLY | around the *WHOLE | *SHELL!"
+    },
+    {
+      "text": "That is why mother birds can sit on eggs without breaking them at all!",
+      "caps": "That is why *MOTHER | birds can sit on *EGGS | without breaking *THEM | at *ALL!"
+    },
+    {
+      "text": "But when Humpty hits a hard stone wall on one sharp point, the calcium cracks!",
+      "caps": "But when Humpty hits a *HARD | stone wall on *ONE | sharp point, the calcium *CRACKS!"
+    },
+    {
+      "text": "Nature gave eggs dome engineering millions of years before humans built bridges!",
+      "caps": "Nature gave eggs dome *ENGINEERING | millions of *YEARS | before humans built *BRIDGES!"
+    },
+    {
+      "text": "Now you know the real dome secret behind Humpty Dumpty!",
+      "caps": "Now you *KNOW | the real dome *SECRET | behind *HUMPTY | *DUMPTY!"
+    },
+    {
+      "text": "Crack open more fun knowledge and subscribe to BabyBeats Rhymo!",
+      "caps": "*CRACK open more | fun *KNOWLEDGE and | *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

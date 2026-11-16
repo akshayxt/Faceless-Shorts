@@ -1,0 +1,114 @@
+{
+  "topic_id": "16_12_26",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Row Row Row Your Boat: Why Giant Heavy Boats Float on Water!",
+      "chars": 60,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Row Row Row Your Boat: Why Giant Heavy...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on boats, float - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Row Row Row Your Boat: Why Giant Heavy Boats Float on Water!",
+  "selected_title_lint": {
+    "title": "Row Row Row Your Boat: Why Giant Heavy Boats Float on Water!",
+    "chars": 60,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Row Row Row Your Boat: Why Giant Heavy...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on boats, float - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "60 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "WHY BOATS FLOAT!",
+  "hook_lint": {
+    "hook": "Row row row your boat gently down the stream! Why does a tiny pebble sink instantly, but a massive wooden boat floats?",
+    "properties": {
+      "SPECIFICITY": 24,
+      "ADDRESS": 76,
+      "STAKES": 22,
+      "CURIOSITY": 76,
+      "BREVITY": 100
+    },
+    "verdict": 45,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "row row row your boat rhyme for kids",
+  "supporting_keywords": [
+    "why do heavy boats float kids science",
+    "row your boat cartoon",
+    "preschool boat song"
+  ],
+  "target_search_queries": [
+    "row row row your boat rhyme for kids",
+    "why do heavy boats float kids science",
+    "row your boat cartoon",
+    "preschool boat song"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Row Row Row Your Boat: Why Giant Heavy Boats Float on Water! — Row row row your boat gently down the stream! Why does a tiny pebble sink instantly, but a massive wooden boat floats?\nKids science answer for \"row row row your boat rhyme for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nA tiny pebble sinks because it is solid and heavy for its size, but a hollow boat pushes aside water that pushes back upward with equal lifting power called buoyancy.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "row row row your boat rhyme for kids",
+    "why do heavy boats float kids science",
+    "row your boat cartoon",
+    "preschool boat song",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

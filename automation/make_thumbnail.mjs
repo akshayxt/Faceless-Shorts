@@ -279,7 +279,10 @@ fs.writeFileSync(outFile, Buffer.from(shot.data, 'base64'));
 console.log(`Thumbnail written: ${outFile} (1280x720 ${format})`);
 await sendNodeTelegram('THUMBNAIL', `Thumbnail written: ${outFile} (1280x720 ${format})`);
 
-ws.close();
-try { proc.kill('SIGKILL'); } catch {}
+try { ws.close(); } catch {}
+try { proc.kill(); } catch {}
 try { server.closeAllConnections?.(); server.close(); } catch {}
-setTimeout(() => { try { fs.rmSync(userData, { recursive: true, force: true }); } catch {} process.exit(0); }, 200);
+setTimeout(() => {
+  try { fs.rmSync(userData, { recursive: true, force: true }); } catch {}
+  process.exit(0);
+}, 300);

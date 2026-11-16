@@ -1,0 +1,52 @@
+{
+  "title": "Twinkle Twinkle Little Star: What Is a Star Really Made Of?",
+  "thumb_text": "REAL STAR TRUTH!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.nasa.gov/kidsclub"
+  ],
+  "lines": [
+    {
+      "text": "Twinkle twinkle little star, how I wonder what you are!",
+      "caps": "*TWINKLE twinkle | little *STAR, how | I wonder *WHAT | you *ARE!"
+    },
+    {
+      "text": "Did you know real stars are NOT pointy shapes at all?",
+      "caps": "Did you *KNOW | real stars are *NOT | pointy *SHAPES at | *ALL?"
+    },
+    {
+      "text": "Up above the world so high, like a diamond in the sky!",
+      "caps": "Up above the *WORLD | so *HIGH, like | a *DIAMOND in | the *SKY!"
+    },
+    {
+      "text": "Each star is actually a giant glowing ball of super hot gas, just like our sun!",
+      "caps": "Each star is *ACTUALLY | a *GIANT glowing | ball of super *HOT | gas, just *LIKE our sun!"
+    },
+    {
+      "text": "They look like tiny dots only because they are trillions of miles away!",
+      "caps": "They look like *TINY | dots only *BECAUSE | they are *TRILLIONS | of miles *AWAY!"
+    },
+    {
+      "text": "When starlight passes through our wobbly air, it twinkles like magic!",
+      "caps": "When starlight *PASSES | through our *WOBBLY | air, it *TWINKLES | like *MAGIC!"
+    },
+    {
+      "text": "So next time you look up, you know you are seeing giant cosmic suns!",
+      "caps": "So next time you *LOOK | up, you *KNOW | you are seeing *GIANT | cosmic *SUNS!"
+    },
+    {
+      "text": "Now you know the real truth behind Twinkle Twinkle Little Star!",
+      "caps": "Now you *KNOW | the real *TRUTH | behind *TWINKLE Twinkle | Little *STAR!"
+    },
+    {
+      "text": "Sing along and subscribe to BabyBeats Rhymo for more fun discoveries!",
+      "caps": "*SING along and | *SUBSCRIBE to | *BABYBEATS Rhymo | for more fun *DISCOVERIES!"
+    }
+  ]
+}

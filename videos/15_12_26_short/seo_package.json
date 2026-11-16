@@ -1,0 +1,115 @@
+{
+  "topic_id": "15_12_26",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Baa Baa Black Sheep: Where Does Warm Winter Wool Come From?",
+      "chars": 59,
+      "score": 66,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Baa Baa Black Sheep: Where Does Warm...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on wool - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Baa Baa Black Sheep: Where Does Warm Winter Wool Come From?",
+  "selected_title_lint": {
+    "title": "Baa Baa Black Sheep: Where Does Warm Winter Wool Come From?",
+    "chars": 59,
+    "score": 66,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Baa Baa Black Sheep: Where Does Warm...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on wool - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "59 characters, inside the 60-character desktop cut",
+      "open question in the title"
+    ]
+  },
+  "thumb_text": "HOW WOOL IS MADE!",
+  "hook_lint": {
+    "hook": "Baa baa black sheep, have you any wool? Yes sir, yes sir, three bags full! But how does sheep fluff turn into warm cozy sweaters?",
+    "properties": {
+      "SPECIFICITY": 46,
+      "ADDRESS": 76,
+      "STAKES": 22,
+      "CURIOSITY": 76,
+      "BREVITY": 93
+    },
+    "verdict": 46,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "baa baa black sheep rhyme for kids",
+  "supporting_keywords": [
+    "where does wool come from for kids",
+    "baa baa black sheep cartoon",
+    "preschool sheep song"
+  ],
+  "target_search_queries": [
+    "baa baa black sheep rhyme for kids",
+    "where does wool come from for kids",
+    "baa baa black sheep cartoon",
+    "preschool sheep song"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Baa Baa Black Sheep: Where Does Warm Winter Wool Come From? — Baa baa black sheep, have you any wool? Yes sir, yes sir, three bags full! But how does sheep fluff turn into warm cozy sweaters?\nKids science answer for \"baa baa black sheep rhyme for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nIn springtime, farmers gently give sheep a quick haircut to collect fluffy fleece, which gets washed, spun into cozy yarn, and knitted into warm winter sweaters.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "baa baa black sheep rhyme for kids",
+    "where does wool come from for kids",
+    "baa baa black sheep cartoon",
+    "preschool sheep song",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

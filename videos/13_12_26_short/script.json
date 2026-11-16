@@ -1,0 +1,52 @@
+{
+  "title": "Itsy Bitsy Spider: How Spiders Climb Smooth Water Spouts!",
+  "thumb_text": "SPIDER FEET SECRET!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.nasa.gov/kidsclub"
+  ],
+  "lines": [
+    {
+      "text": "The itsy bitsy spider climbed up the water spout!",
+      "caps": "The *ITSY bitsy | spider *CLIMBED up | the water *SPOUT!"
+    },
+    {
+      "text": "How can a tiny spider walk up smooth metal and glass without falling?",
+      "caps": "How can a *TINY | spider walk up *SMOOTH | metal and glass *WITHOUT | *FALLING?"
+    },
+    {
+      "text": "Down came the rain and washed the spider out!",
+      "caps": "Down *CAME the | rain and *WASHED | the spider *OUT!"
+    },
+    {
+      "text": "Under a microscope, each spider foot has hundreds of thousands of tiny hairs!",
+      "caps": "Under a *MICROSCOPE, | each spider *FOOT | has hundreds of thousands *OF | tiny *HAIRS!"
+    },
+    {
+      "text": "These hair tips grab onto invisible microscopic bumps on the smoothest walls!",
+      "caps": "These hair *TIPS | grab onto *INVISIBLE | microscopic bumps on the *SMOOTHEST | *WALLS!"
+    },
+    {
+      "text": "Out came the sun and dried up all the rain!",
+      "caps": "Out *CAME the | sun and *DRIED | up all the *RAIN!"
+    },
+    {
+      "text": "And the itsy bitsy spider climbed up the spout again with super sticky feet!",
+      "caps": "And the itsy *BITSY | spider climbed up the *SPOUT | again with super *STICKY | *FEET!"
+    },
+    {
+      "text": "Now you know the real superpower behind the Itsy Bitsy Spider!",
+      "caps": "Now you *KNOW | the real *SUPERPOWER | behind the *ITSY | Bitsy *SPIDER!"
+    },
+    {
+      "text": "Climb higher with daily fun facts—subscribe to BabyBeats Rhymo!",
+      "caps": "*CLIMB higher with | daily fun *FACTS— | *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

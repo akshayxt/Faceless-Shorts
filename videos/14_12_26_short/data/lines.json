@@ -1,0 +1,61 @@
+{
+ "duration": 39.714,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Five little monkeys jumping on the bed, one fell off and bumped his head!",
+   "start": 0.35,
+   "end": 4.528
+  },
+  {
+   "i": 1,
+   "text": "Why did the monkey tumble DOWN instead of floating UP into space?",
+   "start": 4.778,
+   "end": 8.444
+  },
+  {
+   "i": 2,
+   "text": "Mama called the doctor and the doctor said, no more monkeys jumping on the bed!",
+   "start": 8.694,
+   "end": 13.08
+  },
+  {
+   "i": 3,
+   "text": "Earth has an invisible super-magnet pulling everything down called Gravity!",
+   "start": 13.33,
+   "end": 17.505
+  },
+  {
+   "i": 4,
+   "text": "No matter how high you bounce, gravity pulls your feet back to the ground!",
+   "start": 17.755,
+   "end": 21.896
+  },
+  {
+   "i": 5,
+   "text": "Gravity keeps our oceans, our houses, and little monkeys safely on Earth!",
+   "start": 22.146,
+   "end": 26.575
+  },
+  {
+   "i": 6,
+   "text": "So jump safely on the floor, little monkeys, and respect gravity!",
+   "start": 26.825,
+   "end": 30.903
+  },
+  {
+   "i": 7,
+   "text": "Now you know the science power behind Five Little Monkeys!",
+   "start": 31.153,
+   "end": 34.388
+  },
+  {
+   "i": 8,
+   "text": "Bounce over to more fun learning and subscribe to BabyBeats Rhymo!",
+   "start": 34.638,
+   "end": 38.614
+  }
+ ]
+}

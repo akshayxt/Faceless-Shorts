@@ -1,0 +1,108 @@
+{
+  "topic_id": "17_12_26",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Humpty Dumpty: Why Are Eggshells Curved and Super Strong?",
+      "chars": 57,
+      "score": 84,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Humpty Dumpty: Why Are Eggshells Curved...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Humpty Dumpty: Why Are Eggshells Curved and Super Strong?",
+  "selected_title_lint": {
+    "title": "Humpty Dumpty: Why Are Eggshells Curved and Super Strong?",
+    "chars": 57,
+    "score": 84,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Humpty Dumpty: Why Are Eggshells Curved...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ]
+    ],
+    "good": [
+      "57 characters, inside the 60-character desktop cut",
+      "open question in the title",
+      "thumbnail and title carry different words"
+    ]
+  },
+  "thumb_text": "EGGSHELL SECRET!",
+  "hook_lint": {
+    "hook": "Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall! Did you know an eggshell is as strong as an architectural dome?",
+    "properties": {
+      "SPECIFICITY": 52,
+      "ADDRESS": 46,
+      "STAKES": 22,
+      "CURIOSITY": 42,
+      "BREVITY": 100
+    },
+    "verdict": 40,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "humpty dumpty rhyme for kids",
+  "supporting_keywords": [
+    "why are eggs shaped like that kids science",
+    "humpty dumpty cartoon",
+    "preschool egg song"
+  ],
+  "target_search_queries": [
+    "humpty dumpty rhyme for kids",
+    "why are eggs shaped like that kids science",
+    "humpty dumpty cartoon",
+    "preschool egg song"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Humpty Dumpty: Why Are Eggshells Curved and Super Strong? — Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall! Did you know an eggshell is as strong as an architectural dome?\nKids science answer for \"humpty dumpty rhyme for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nAn egg's dome arch shape spreads weight evenly around the whole shell so mother birds do not crush them when sitting, but sharp drops crack the brittle calcium instantly.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "humpty dumpty rhyme for kids",
+    "why are eggs shaped like that kids science",
+    "humpty dumpty cartoon",
+    "preschool egg song",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

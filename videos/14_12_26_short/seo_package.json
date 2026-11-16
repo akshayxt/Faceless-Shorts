@@ -1,0 +1,114 @@
+{
+  "topic_id": "14_12_26",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Five Little Monkeys: Why Gravity Always Pulls You Down!",
+      "chars": 55,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Five Little Monkeys: Why Gravity Always...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on down - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Five Little Monkeys: Why Gravity Always Pulls You Down!",
+  "selected_title_lint": {
+    "title": "Five Little Monkeys: Why Gravity Always Pulls You Down!",
+    "chars": 55,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Five Little Monkeys: Why Gravity Always...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on down - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "55 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "WHY WE FALL DOWN!",
+  "hook_lint": {
+    "hook": "Five little monkeys jumping on the bed, one fell off! But why do things always fall DOWN and never float UP?",
+    "properties": {
+      "SPECIFICITY": 52,
+      "ADDRESS": 26,
+      "STAKES": 48,
+      "CURIOSITY": 76,
+      "BREVITY": 100
+    },
+    "verdict": 47,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "five little monkeys jumping on the bed rhyme",
+  "supporting_keywords": [
+    "gravity explained for kids cartoon",
+    "five little monkeys song",
+    "preschool gravity rhyme"
+  ],
+  "target_search_queries": [
+    "five little monkeys jumping on the bed rhyme",
+    "gravity explained for kids cartoon",
+    "five little monkeys song",
+    "preschool gravity rhyme"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Five Little Monkeys: Why Gravity Always Pulls You Down! — Five little monkeys jumping on the bed, one fell off! But why do things always fall DOWN and never float UP?\nKids science answer for \"five little monkeys jumping on the bed rhyme\" with fun 2D animation by BabyBeats Rhymo!\n\nWhen a monkey jumps up, Earth's invisible super-magnet called gravity pulls everything straight down toward the center of the planet.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "five little monkeys jumping on the bed rhyme",
+    "gravity explained for kids cartoon",
+    "five little monkeys song",
+    "preschool gravity rhyme",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

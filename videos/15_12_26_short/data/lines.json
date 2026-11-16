@@ -1,0 +1,61 @@
+{
+ "duration": 40.001,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Baa baa black sheep, have you any wool? Yes sir, yes sir, three bags full!",
+   "start": 0.35,
+   "end": 5.014
+  },
+  {
+   "i": 1,
+   "text": "Where does soft warm wool actually come from?",
+   "start": 5.264,
+   "end": 7.777
+  },
+  {
+   "i": 2,
+   "text": "One for the master, and one for the dame, and one for the little boy down the lane!",
+   "start": 8.027,
+   "end": 12.632
+  },
+  {
+   "i": 3,
+   "text": "Every spring, farmers give sheep a gentle haircut to keep them cool for summer!",
+   "start": 12.882,
+   "end": 17.339
+  },
+  {
+   "i": 4,
+   "text": "The fluffy fleece is washed clean and spun into strong cozy yarn!",
+   "start": 17.589,
+   "end": 21.679
+  },
+  {
+   "i": 5,
+   "text": "Knitting machines turn that yarn into warm winter hats, socks, and sweaters!",
+   "start": 21.929,
+   "end": 26.55
+  },
+  {
+   "i": 6,
+   "text": "The wool grows right back on the sheep before winter returns!",
+   "start": 26.8,
+   "end": 30.004
+  },
+  {
+   "i": 7,
+   "text": "Now you know where your cozy sweater came from with Baa Baa Black Sheep!",
+   "start": 30.254,
+   "end": 33.929
+  },
+  {
+   "i": 8,
+   "text": "Stay warm and smart—subscribe to BabyBeats Rhymo for daily stories!",
+   "start": 34.179,
+   "end": 38.901
+  }
+ ]
+}

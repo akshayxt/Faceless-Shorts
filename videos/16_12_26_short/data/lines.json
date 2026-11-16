@@ -1,0 +1,61 @@
+{
+ "duration": 39.957,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Row row row your boat gently down the stream, merrily merrily merrily life is but a dream!",
+   "start": 0.35,
+   "end": 6.122
+  },
+  {
+   "i": 1,
+   "text": "Why does a tiny pebble sink like a rock, but a giant heavy boat floats on water?",
+   "start": 6.372,
+   "end": 11.134
+  },
+  {
+   "i": 2,
+   "text": "Pebbles are solid and heavy for their size, so water cannot hold them up!",
+   "start": 11.384,
+   "end": 15.686
+  },
+  {
+   "i": 3,
+   "text": "Boats are hollow and wide, pushing aside gallons of water!",
+   "start": 15.936,
+   "end": 19.359
+  },
+  {
+   "i": 4,
+   "text": "That pushed water pushes back upward with a secret lifting force called Buoyancy!",
+   "start": 19.609,
+   "end": 24.047
+  },
+  {
+   "i": 5,
+   "text": "As long as the boat is wide and hollow, buoyancy keeps it floating high!",
+   "start": 24.297,
+   "end": 28.333
+  },
+  {
+   "i": 6,
+   "text": "Grab your oars and paddle along the stream of science!",
+   "start": 28.583,
+   "end": 31.504
+  },
+  {
+   "i": 7,
+   "text": "Now you know the floating secret behind Row Row Row Your Boat!",
+   "start": 31.754,
+   "end": 35.271
+  },
+  {
+   "i": 8,
+   "text": "Glide along with us and subscribe to BabyBeats Rhymo!",
+   "start": 35.521,
+   "end": 38.857
+  }
+ ]
+}
