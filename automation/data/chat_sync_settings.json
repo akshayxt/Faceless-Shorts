@@ -1,0 +1,15 @@
+{
+  "enabled": false,
+  "interval_minutes": 5,
+  "last_sync_ist": null,
+  "total_messages_recorded": 1,
+  "groups_tracked": {
+    "-1001997761568": {
+      "id": -1001997761568,
+      "title": "Group_-1001997761568",
+      "file": "Group_-1001997761568_1001997761568.json",
+      "last_message_at": "2026-11-17 11:24:15 IST",
+      "message_count": 1
+    }
+  }
+}

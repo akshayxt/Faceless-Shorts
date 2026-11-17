@@ -78,6 +78,7 @@ HELP_STRINGS = (
 )
 
 import telegram_moderation as tm
+import chat_archiver as ca
 
 BOT_COMMANDS: list[dict[str, str]] = [
     # General & Interactive Cockpit
@@ -156,9 +157,10 @@ BOT_COMMANDS: list[dict[str, str]] = [
     {"command": "maintenance", "description": "Toggle maintenance mode on/off"},
     {"command": "restart", "description": "Safely restart bot runner"},
     {"command": "shutdown", "description": "Safely stop bot runner"},
+    {"command": "boostcommit", "description": "Group chat archiver & periodic GitHub sync (/boostcommit -on [t] | -off)"},
 ]
 _KNOWN_CMD_SET = {c["command"] for c in BOT_COMMANDS} | {
-    "dash", "do", "ai", "inbox", "logs", "setpublic", "setprivate"
+    "dash", "do", "ai", "inbox", "logs", "setpublic", "setprivate", "chatsync"
 }
 
 
@@ -324,6 +326,7 @@ def register_telegram_bot(base_url: str | None = None) -> dict:
         },
         bot_token=tok,
     )
+    ca.ensure_worker_running()
     return {"ok": bool(wh_res.get("ok")), "bot_username": _BOT_USERNAME, "commands_default": cmd_default.get("ok"), "commands_admins": cmd_admins.get("ok"), "webhook": wh_res}
 
 
@@ -1485,10 +1488,14 @@ def handle_webhook_update(
         )
         return {"handled": "maintenance_blocked"}
 
-    # 5. Non-command messages: DM natural language or ignore group chatter
+    # Record group message into per-group file and master chatdata.json
+    if chat_type in ("group", "supergroup"):
+        ca.record_group_message(msg)
+
+    # 5. Non-command messages: DM natural language or log group chatter
     if not text_in.startswith("/"):
         if chat_type != "private":
-            return {"handled": "ignored_group_chatter"}
+            return {"handled": "logged_group_chatter"}
         if not is_authorized_actor(u_id, chat_id, chat_type):
             _dispatch_message(chat_id, UNAUTHORIZED_REPLY, reply_to=msg_id)
             return {"handled": "unauthorized_message"}
@@ -1763,6 +1770,9 @@ def handle_webhook_update(
         _dispatch_message(chat_id, "🔄 Bot runner received restart signal. All services healthy.", reply_to=msg_id)
     elif cmd == "shutdown":
         _dispatch_message(chat_id, "🛑 Bot services stopped cleanly.", reply_to=msg_id)
+    elif cmd in ("boostcommit", "chatsync"):
+        resp_txt = ca.handle_boostcommit_command(from_u, arg)
+        _dispatch_message(chat_id, resp_txt, reply_to=msg_id)
 
     # Cloud Autopilot & Queue
     elif cmd in ("ask", "cmd", "do", "ai", "agent"):

@@ -24,6 +24,8 @@ PULL_PATHS = (
     "automation/data/agent_inbox.json",
     "automation/data/moderation_data.json",
     "automation/data/bot_audit_logs.json",
+    "automation/data/chatdata.json",
+    "automation/data/chat_sync_settings.json",
 )
 
 
@@ -90,9 +92,14 @@ def _candidate_sync_paths() -> list[Path]:
         AUTO_DIR / "data" / "agent_inbox.json",
         AUTO_DIR / "data" / "moderation_data.json",
         AUTO_DIR / "data" / "bot_audit_logs.json",
+        AUTO_DIR / "data" / "chatdata.json",
+        AUTO_DIR / "data" / "chat_sync_settings.json",
         AUTO_DIR / "dashboard.html",
         AUTO_DIR / "growth_dashboard.md",
     ]
+    chat_logs_dir = AUTO_DIR / "data" / "chat_logs"
+    if chat_logs_dir.exists():
+        paths.extend(sorted(chat_logs_dir.glob("*.json")))
     videos_dir = ROOT_DIR / "videos"
     if videos_dir.exists():
         for pat in ("*/seo.txt", "*/*_seo.txt", "*/seo_package.json", "*/data/seo_package.json"):

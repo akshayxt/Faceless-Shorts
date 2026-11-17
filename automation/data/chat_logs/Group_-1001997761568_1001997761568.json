@@ -1,0 +1,18 @@
+{
+  "chat_id": -1001997761568,
+  "chat_title": "Group_-1001997761568",
+  "created_at_ist": "2026-11-17 11:24:15 IST",
+  "updated_at_ist": "2026-11-17 11:24:15 IST",
+  "messages": [
+    {
+      "msg_id": 12,
+      "chat_id": -1001997761568,
+      "chat_title": "Group_-1001997761568",
+      "sender_id": 12345,
+      "sender_username": null,
+      "sender_name": "User",
+      "text": "/boostcommit -on 5",
+      "date_ist": "2026-11-17 11:24:15 IST"
+    }
+  ]
+}
