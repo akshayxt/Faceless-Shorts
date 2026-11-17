@@ -232,7 +232,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\day06_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "SCHEDULED",
+      "status": "UPLOADED",
       "youtube_video_id": "jfy4vRWt3UI",
       "youtube_url": "https://www.youtube.com/watch?v=jfy4vRWt3UI",
       "video_specs": {
@@ -1126,15 +1126,15 @@
       "topic_id": "11_12_26",
       "format": "short",
       "scheduled_slot_est": "15:30 EST",
-      "title": "Twinkle Twinkle Little Star: What Is a Star Really Made Of?",
+      "title": "Twinkle Twinkle Little Star!",
       "video_path": "G:\\Faceless-Shorts\\videos\\11_12_26_short\\renders\\11_12_26_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\11_12_26_short\\renders\\11_12_26_thumb.jpg",
       "seo_path": "G:\\Faceless-Shorts\\videos\\11_12_26_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "SOuzH2ciNig",
+      "youtube_url": "https://www.youtube.com/watch?v=SOuzH2ciNig",
       "scheduled_publish_est": "2026-12-11T15:30:00-05:00",
       "publish_at": "2026-12-11T20:30:00Z",
       "video_specs": {
@@ -1143,22 +1143,34 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-16T23:28:13.084287+05:30"
+      "updated_at_ist": "2026-11-16T23:28:13.084287+05:30",
+      "seo_txt_path": "videos/11_12_26_short/renders/11_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-17T05:33:16.767165+05:30",
+      "realtime_seo_score": 76,
+      "realtime_seo_queries": [
+        "twinkle twinkle little star for kids",
+        "twinkle twinkle little star",
+        "twinkle twinkle little star piano",
+        "what are stars made of for kids"
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-17T05:33:29.956812+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "12_12_26_short",
       "topic_id": "12_12_26",
       "format": "short",
       "scheduled_slot_est": "15:30 EST",
-      "title": "The Wheels on the Bus: How Heavy Giant Wheels Spin So Fast!",
+      "title": "Wheels on the Bus Rhyme!",
       "video_path": "G:\\Faceless-Shorts\\videos\\12_12_26_short\\renders\\12_12_26_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\12_12_26_short\\renders\\12_12_26_thumb.jpg",
       "seo_path": "G:\\Faceless-Shorts\\videos\\12_12_26_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "AW0uEHXKSDg",
+      "youtube_url": "https://www.youtube.com/watch?v=AW0uEHXKSDg",
       "scheduled_publish_est": "2026-12-12T15:30:00-05:00",
       "publish_at": "2026-12-12T20:30:00Z",
       "video_specs": {
@@ -1167,22 +1179,34 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-16T23:30:31.809534+05:30"
+      "updated_at_ist": "2026-11-16T23:30:31.809534+05:30",
+      "seo_txt_path": "videos/12_12_26_short/renders/12_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-17T05:33:17.127887+05:30",
+      "realtime_seo_score": 76,
+      "realtime_seo_queries": [
+        "wheels on the bus rhyme for kids",
+        "the wheels on the bus song #kids #sing #school",
+        "wheels on the bus 🚌lep 199ᅵsong for kidsᅵbebefinn nursery rhymes bebefinn",
+        "wheels on the bus rhyme"
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-17T05:33:34.895129+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "13_12_26_short",
       "topic_id": "13_12_26",
       "format": "short",
       "scheduled_slot_est": "15:30 EST",
-      "title": "Itsy Bitsy Spider: How Spiders Climb Smooth Water Spouts!",
+      "title": "Itsy Bitsy Spider Cartoon 1994!",
       "video_path": "G:\\Faceless-Shorts\\videos\\13_12_26_short\\renders\\13_12_26_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\13_12_26_short\\renders\\13_12_26_thumb.jpg",
       "seo_path": "G:\\Faceless-Shorts\\videos\\13_12_26_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "dRcggjg83tU",
+      "youtube_url": "https://www.youtube.com/watch?v=dRcggjg83tU",
       "scheduled_publish_est": "2026-12-13T15:30:00-05:00",
       "publish_at": "2026-12-13T20:30:00Z",
       "video_specs": {
@@ -1191,14 +1215,26 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-16T23:33:00.089264+05:30"
+      "updated_at_ist": "2026-11-16T23:33:00.089264+05:30",
+      "seo_txt_path": "videos/13_12_26_short/renders/13_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-17T05:33:17.481257+05:30",
+      "realtime_seo_score": 94,
+      "realtime_seo_queries": [
+        "itsy bitsy spider rhyme for kids",
+        "itsy bitsy spider rhyme",
+        "itsy bitsy spider rhyme with action",
+        "itsy bitsy spider rhymes lyrics"
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-17T05:33:43.407446+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "14_12_26_short",
       "topic_id": "14_12_26",
       "format": "short",
       "scheduled_slot_est": "15:30 EST",
-      "title": "Five Little Monkeys: Why Gravity Always Pulls You Down!",
+      "title": "Five Little Monkeys Jumping on the Bed Song!",
       "video_path": "G:\\Faceless-Shorts\\videos\\14_12_26_short\\renders\\14_12_26_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\14_12_26_short\\renders\\14_12_26_thumb.jpg",
       "seo_path": "G:\\Faceless-Shorts\\videos\\14_12_26_short\\seo_package.json",
@@ -1215,14 +1251,23 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-16T23:35:21.882534+05:30"
+      "updated_at_ist": "2026-11-16T23:35:21.882534+05:30",
+      "seo_txt_path": "videos/14_12_26_short/renders/14_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-17T05:33:17.862264+05:30",
+      "realtime_seo_score": 80,
+      "realtime_seo_queries": [
+        "five little monkeys jumping on the bed rhyme",
+        "five little monkeys jumping on the bed rhymes with action",
+        "five little monkeys jumping on the bed song",
+        "gravity explained for kids cartoon"
+      ]
     },
     {
       "id": "15_12_26_short",
       "topic_id": "15_12_26",
       "format": "short",
       "scheduled_slot_est": "15:30 EST",
-      "title": "Baa Baa Black Sheep: Where Does Warm Winter Wool Come From?",
+      "title": "Baa Baa Black Sheep Rhymes!",
       "video_path": "G:\\Faceless-Shorts\\videos\\15_12_26_short\\renders\\15_12_26_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\15_12_26_short\\renders\\15_12_26_thumb.jpg",
       "seo_path": "G:\\Faceless-Shorts\\videos\\15_12_26_short\\seo_package.json",
@@ -1239,14 +1284,23 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-16T23:37:59.625444+05:30"
+      "updated_at_ist": "2026-11-16T23:37:59.625444+05:30",
+      "seo_txt_path": "videos/15_12_26_short/renders/15_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-17T05:33:18.155116+05:30",
+      "realtime_seo_score": 94,
+      "realtime_seo_queries": [
+        "baa baa black sheep rhyme for kids",
+        "baa baa black sheep rhymes",
+        "baa baa black sheep rhymes with action",
+        "baa baa black sheep rhymes nursery"
+      ]
     },
     {
       "id": "16_12_26_short",
       "topic_id": "16_12_26",
       "format": "short",
       "scheduled_slot_est": "15:30 EST",
-      "title": "Row Row Row Your Boat: Why Giant Heavy Boats Float on Water!",
+      "title": "Row Row Row Your Boat Rhymes 1st Std!",
       "video_path": "G:\\Faceless-Shorts\\videos\\16_12_26_short\\renders\\16_12_26_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\16_12_26_short\\renders\\16_12_26_thumb.jpg",
       "seo_path": "G:\\Faceless-Shorts\\videos\\16_12_26_short\\seo_package.json",
@@ -1263,14 +1317,23 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-16T23:40:10.275440+05:30"
+      "updated_at_ist": "2026-11-16T23:40:10.275440+05:30",
+      "seo_txt_path": "videos/16_12_26_short/renders/16_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-17T05:33:18.431630+05:30",
+      "realtime_seo_score": 100,
+      "realtime_seo_queries": [
+        "row row row your boat rhyme for kids",
+        "row row row your boat rhymes",
+        "row row row your boat rhymes 1st std",
+        "row row row your boat rhymes with action"
+      ]
     },
     {
       "id": "17_12_26_short",
       "topic_id": "17_12_26",
       "format": "short",
       "scheduled_slot_est": "15:30 EST",
-      "title": "Humpty Dumpty: Why Are Eggshells Curved and Super Strong?",
+      "title": "Humpty Dumpty Rhyme!",
       "video_path": "G:\\Faceless-Shorts\\videos\\17_12_26_short\\renders\\17_12_26_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\17_12_26_short\\renders\\17_12_26_thumb.jpg",
       "seo_path": "G:\\Faceless-Shorts\\videos\\17_12_26_short\\seo_package.json",
@@ -1287,9 +1350,18 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-16T23:42:22.242356+05:30"
+      "updated_at_ist": "2026-11-16T23:42:22.242356+05:30",
+      "seo_txt_path": "videos/17_12_26_short/renders/17_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-17T05:33:18.768139+05:30",
+      "realtime_seo_score": 94,
+      "realtime_seo_queries": [
+        "humpty dumpty rhyme for kids",
+        "humpty dumpty rhymes for kids",
+        "humpty dumpty rhyme nursery",
+        "humpty dumpty rhyme song"
+      ]
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-16T23:33:16.102525+05:30",
-  "realtime_seo_us_trends_checked": 10
+  "realtime_seo_last_sync_ist": "2026-11-17T05:33:18.768203+05:30",
+  "realtime_seo_us_trends_checked": 0
 }

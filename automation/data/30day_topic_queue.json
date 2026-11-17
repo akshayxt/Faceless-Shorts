@@ -300,7 +300,7 @@
       ],
       "hook": "HIC! What muscle beneath your lungs just bounced without asking your permission?",
       "visual_focus": "x-ray lungs bouncing over startled diaphragm trampoline",
-      "status": "scheduled",
+      "status": "uploaded",
       "rendered_at_ist": "2026-11-11T11:00:46.434762+05:30",
       "video_path": "G:\\Faceless-Shorts\\videos\\day06_short\\renders\\day06_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\day06_short\\renders\\day06_thumb.jpg",
@@ -1229,7 +1229,7 @@
       ],
       "hook": "Twinkle twinkle little star... wait, did you know real stars are NOT pointy at all?",
       "visual_focus": "vibrant nursery rhyme cartoon mascot explaining everyday science",
-      "status": "ready_for_upload",
+      "status": "scheduled",
       "date_str": "11/12/26",
       "publish_slot_est": "2026-12-11T15:30:00-05:00",
       "publish_at_utc": "2026-12-11T20:30:00Z",
@@ -1270,7 +1270,9 @@
           "text": "Sing along and subscribe to BabyBeats Rhymo for more fun discoveries!",
           "caps": "*SING along and | *SUBSCRIBE to | *BABYBEATS Rhymo | for more fun *DISCOVERIES!"
         }
-      ]
+      ],
+      "youtube_video_id": "SOuzH2ciNig",
+      "youtube_url": "https://www.youtube.com/watch?v=SOuzH2ciNig"
     },
     {
       "id": "12_12_26",
@@ -1302,7 +1304,7 @@
       ],
       "hook": "The wheels on the bus go round and round! But how do heavy steel wheels roll so smooth without getting stuck?",
       "visual_focus": "vibrant nursery rhyme cartoon mascot explaining everyday science",
-      "status": "ready_for_upload",
+      "status": "scheduled",
       "date_str": "12/12/26",
       "publish_slot_est": "2026-12-12T15:30:00-05:00",
       "publish_at_utc": "2026-12-12T20:30:00Z",
@@ -1343,7 +1345,9 @@
           "text": "Roll into more fun science and subscribe to BabyBeats Rhymo!",
           "caps": "*ROLL into more | fun *SCIENCE and | *SUBSCRIBE to | *BABYBEATS Rhymo!"
         }
-      ]
+      ],
+      "youtube_video_id": "AW0uEHXKSDg",
+      "youtube_url": "https://www.youtube.com/watch?v=AW0uEHXKSDg"
     },
     {
       "id": "13_12_26",
@@ -1375,7 +1379,7 @@
       ],
       "hook": "The itsy bitsy spider climbed up the water spout! Ever wonder why spiders NEVER slip and fall down?",
       "visual_focus": "vibrant nursery rhyme cartoon mascot explaining everyday science",
-      "status": "ready_for_upload",
+      "status": "scheduled",
       "date_str": "13/12/26",
       "publish_slot_est": "2026-12-13T15:30:00-05:00",
       "publish_at_utc": "2026-12-13T20:30:00Z",
@@ -1416,7 +1420,9 @@
           "text": "Climb higher with daily fun facts—subscribe to BabyBeats Rhymo!",
           "caps": "*CLIMB higher with | daily fun *FACTS— | *SUBSCRIBE to | *BABYBEATS Rhymo!"
         }
-      ]
+      ],
+      "youtube_video_id": "dRcggjg83tU",
+      "youtube_url": "https://www.youtube.com/watch?v=dRcggjg83tU"
     },
     {
       "id": "14_12_26",

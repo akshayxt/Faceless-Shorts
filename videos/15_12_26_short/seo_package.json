@@ -3,6 +3,258 @@
   "format": "short",
   "title_options": [
     {
+      "title": "Baa Baa Black Sheep Rhymes!",
+      "chars": 27,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Baa Baa Black Sheep Cartoon!",
+      "chars": 28,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Baa Baa Black Sheep Rhymes Lkg!",
+      "chars": 31,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Baa Baa Black Sheep Rhymes! #Shorts",
+      "chars": 35,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Baa Baa Black Sheep Rhymes Nursery!",
+      "chars": 35,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Baa Baa Black Sheep Cartoon! #Shorts",
+      "chars": 36,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Baa Baa Black Sheep Rhymes in English!",
+      "chars": 38,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Baa Baa Black Sheep Rhymes with Props!",
+      "chars": 38,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Baa Baa Black Sheep Rhymes with Action!",
+      "chars": 39,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Baa Baa Black Sheep Rhymes with Lyrics!",
+      "chars": 39,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Baa Baa Black Sheep Rhymes Competition!",
+      "chars": 39,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Baa Baa Black Sheep Rhymes Lkg! #Shorts",
+      "chars": 39,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Baa Baa Black Sheep Rhymes Action Ke Sath!",
+      "chars": 42,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Baa Baa Black Sheep Rhymes Action Ke...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Baa Baa Black Sheep Rhymes Nursery! #Shorts",
+      "chars": 43,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Baa Baa Black Sheep Rhymes Nursery!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Baa Baa Black Sheep Rhymes in English! #Shorts",
+      "chars": 46,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Baa Baa Black Sheep Rhymes in English!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Baa Baa Black Sheep Rhymes with Props! #Shorts",
+      "chars": 46,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Baa Baa Black Sheep Rhymes with Props!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Baa Baa Black Sheep Rhymes with Action! #Shorts",
+      "chars": 47,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Baa Baa Black Sheep Rhymes with Action!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Baa Baa Black Sheep Rhymes with Lyrics! #Shorts",
+      "chars": 47,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Baa Baa Black Sheep Rhymes with Lyrics!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Baa Baa Black Sheep Rhymes Competition! #Shorts",
+      "chars": 47,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Baa Baa Black Sheep Rhymes Competition!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Baa Baa Black Sheep Rhymes Action Ke Sath! #Shorts",
+      "chars": 50,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Baa Baa Black Sheep Rhymes Action Ke...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
       "title": "Baa Baa Black Sheep: Where Does Warm Winter Wool Come From?",
       "chars": 59,
       "score": 66,
@@ -22,28 +274,16 @@
       ]
     }
   ],
-  "selected_title": "Baa Baa Black Sheep: Where Does Warm Winter Wool Come From?",
+  "selected_title": "Baa Baa Black Sheep Rhymes!",
   "selected_title_lint": {
-    "title": "Baa Baa Black Sheep: Where Does Warm Winter Wool Come From?",
-    "chars": 59,
-    "score": 66,
+    "title": "Baa Baa Black Sheep Rhymes!",
+    "chars": 27,
+    "score": 94,
     "issues": [
-      [
-        "mobile",
-        "a mobile feed shows about \"Baa Baa Black Sheep: Where Does Warm...\" - check the subject survives"
-      ],
       [
         "no-number",
         "no number, date or name - the most reliable single fix"
-      ],
-      [
-        "duplicate",
-        "thumbnail repeats the title on wool - the thumbnail should say what the title does not"
       ]
-    ],
-    "good": [
-      "59 characters, inside the 60-character desktop cut",
-      "open question in the title"
     ]
   },
   "thumb_text": "HOW WOOL IS MADE!",
@@ -69,19 +309,40 @@
   ],
   "target_search_queries": [
     "baa baa black sheep rhyme for kids",
-    "where does wool come from for kids",
-    "baa baa black sheep cartoon",
-    "preschool sheep song"
+    "baa baa black sheep rhymes",
+    "baa baa black sheep rhymes with action",
+    "baa baa black sheep rhymes nursery"
   ],
   "realtime_seo": {
-    "mode": "local_curated",
-    "fetched_at_ist": null,
-    "live_yt_suggest_queries": [],
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-17T05:33:16.293450+05:30",
+    "live_yt_suggest_queries": [
+      "baa baa black sheep rhymes",
+      "baa baa black sheep rhymes with action",
+      "baa baa black sheep rhymes nursery",
+      "baa baa black sheep rhymes with lyrics",
+      "baa baa black sheep rhymes in english",
+      "baa baa black sheep rhymes competition",
+      "baa baa black sheep rhymes lkg",
+      "baa baa black sheep rhymes with props"
+    ],
     "matched_safe_us_trends": [],
-    "observed_us_hashtags": []
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
   },
-  "description": "Baa Baa Black Sheep: Where Does Warm Winter Wool Come From? — Baa baa black sheep, have you any wool? Yes sir, yes sir, three bags full! But how does sheep fluff turn into warm cozy sweaters?\nKids science answer for \"baa baa black sheep rhyme for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nIn springtime, farmers gently give sheep a quick haircut to collect fluffy fleece, which gets washed, spun into cozy yarn, and knitted into warm winter sweaters.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "description": "Baa Baa Black Sheep Rhymes! — Baa baa black sheep, have you any wool? Yes sir, yes sir, three bags full! But how does sheep fluff turn into warm cozy sweaters?\nKids science answer for \"baa baa black sheep rhyme for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nIn springtime, farmers gently give sheep a quick haircut to collect fluffy fleece, which gets washed, spun into cozy yarn, and knitted into warm winter sweaters.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- baa baa black sheep rhymes\n- baa baa black sheep rhymes with action\n- baa baa black sheep rhymes nursery\n- baa baa black sheep rhymes with lyrics\n- baa baa black sheep rhymes in english\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
+    "baa baa black sheep rhymes",
+    "baa baa black sheep rhymes with action",
+    "baa baa black sheep rhymes nursery",
+    "baa baa black sheep rhymes with lyrics",
+    "baa baa black sheep rhymes in english",
+    "baa baa black sheep rhymes competition",
     "baa baa black sheep rhyme for kids",
     "where does wool come from for kids",
     "baa baa black sheep cartoon",
@@ -90,8 +351,6 @@
     "kids science cartoon",
     "science for kids",
     "educational cartoons for kids",
-    "fun facts for kids",
-    "youtube shorts",
     "shorts"
   ],
   "hashtags": [
@@ -99,7 +358,8 @@
     "#KidsScience",
     "#ScienceForKids",
     "#EducationalCartoons",
-    "#Shorts"
+    "#Shorts",
+    "#facts"
   ],
   "chapters": [],
   "pinned_comment": "Did you know this before today? Drop your next curious science question below!",

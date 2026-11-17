@@ -3,6 +3,156 @@
   "format": "short",
   "title_options": [
     {
+      "title": "Five Little Monkeys Jumping on the Bed Song!",
+      "chars": 44,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Five Little Monkeys Jumping on the Bed...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Five Little Monkeys Jumping on the Bed Rhyme!",
+      "chars": 45,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Five Little Monkeys Jumping on the Bed...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Five Little Monkeys Jumping on the Bed Song Rap!",
+      "chars": 48,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Five Little Monkeys Jumping on the Bed...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Five Little Monkeys Jumping on the Bed Song Cvs!",
+      "chars": 48,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Five Little Monkeys Jumping on the Bed...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Five Little Monkeys Jumping on the Bed Song Lyrics!",
+      "chars": 51,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Five Little Monkeys Jumping on the Bed...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Five Little Monkeys Jumping on the Bed Song! #Shorts",
+      "chars": 52,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Five Little Monkeys Jumping on the Bed...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Five Little Monkeys Jumping on the Bed Rhyme! #Shorts",
+      "chars": 53,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Five Little Monkeys Jumping on the Bed...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Five Little Monkeys Jumping on the Bed Song Rap! #Shorts",
+      "chars": 56,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Five Little Monkeys Jumping on the Bed...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Five Little Monkeys Jumping on the Bed Song Cvs! #Shorts",
+      "chars": 56,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Five Little Monkeys Jumping on the Bed...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Five Little Monkeys Jumping on the Bed Song Lyrics! #Shorts",
+      "chars": 59,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Five Little Monkeys Jumping on the Bed...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
       "title": "Five Little Monkeys: Why Gravity Always Pulls You Down!",
       "chars": 55,
       "score": 62,
@@ -22,27 +172,20 @@
       ]
     }
   ],
-  "selected_title": "Five Little Monkeys: Why Gravity Always Pulls You Down!",
+  "selected_title": "Five Little Monkeys Jumping on the Bed Song!",
   "selected_title_lint": {
-    "title": "Five Little Monkeys: Why Gravity Always Pulls You Down!",
-    "chars": 55,
-    "score": 62,
+    "title": "Five Little Monkeys Jumping on the Bed Song!",
+    "chars": 44,
+    "score": 80,
     "issues": [
       [
         "mobile",
-        "a mobile feed shows about \"Five Little Monkeys: Why Gravity Always...\" - check the subject survives"
+        "a mobile feed shows about \"Five Little Monkeys Jumping on the Bed...\" - check the subject survives"
       ],
       [
         "no-number",
         "no number, date or name - the most reliable single fix"
-      ],
-      [
-        "duplicate",
-        "thumbnail repeats the title on down - the thumbnail should say what the title does not"
       ]
-    ],
-    "good": [
-      "55 characters, inside the 60-character desktop cut"
     ]
   },
   "thumb_text": "WHY WE FALL DOWN!",
@@ -68,20 +211,36 @@
   ],
   "target_search_queries": [
     "five little monkeys jumping on the bed rhyme",
-    "gravity explained for kids cartoon",
-    "five little monkeys song",
-    "preschool gravity rhyme"
+    "five little monkeys jumping on the bed rhymes with action",
+    "five little monkeys jumping on the bed song",
+    "gravity explained for kids cartoon"
   ],
   "realtime_seo": {
-    "mode": "local_curated",
-    "fetched_at_ist": null,
-    "live_yt_suggest_queries": [],
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-17T05:33:16.293450+05:30",
+    "live_yt_suggest_queries": [
+      "five little monkeys jumping on the bed rhyme",
+      "five little monkeys jumping on the bed rhymes with action",
+      "five little monkeys jumping on the bed song",
+      "five little monkeys jumping on the bed song super simple songs",
+      "five little monkeys jumping on the bed song rap",
+      "five little monkeys jumping on the bed song lyrics",
+      "five little monkeys jumping on the bed song dave and ava",
+      "five little monkeys jumping on the bed song cvs"
+    ],
     "matched_safe_us_trends": [],
-    "observed_us_hashtags": []
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
   },
-  "description": "Five Little Monkeys: Why Gravity Always Pulls You Down! — Five little monkeys jumping on the bed, one fell off! But why do things always fall DOWN and never float UP?\nKids science answer for \"five little monkeys jumping on the bed rhyme\" with fun 2D animation by BabyBeats Rhymo!\n\nWhen a monkey jumps up, Earth's invisible super-magnet called gravity pulls everything straight down toward the center of the planet.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "description": "Five Little Monkeys Jumping on the Bed Song! — Five little monkeys jumping on the bed, one fell off! But why do things always fall DOWN and never float UP?\nKids science answer for \"five little monkeys jumping on the bed rhyme\" with fun 2D animation by BabyBeats Rhymo!\n\nWhen a monkey jumps up, Earth's invisible super-magnet called gravity pulls everything straight down toward the center of the planet.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- five little monkeys jumping on the bed rhyme\n- five little monkeys jumping on the bed rhymes with action\n- five little monkeys jumping on the bed song\n- five little monkeys jumping on the bed song super simple songs\n- five little monkeys jumping on the bed song rap\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
     "five little monkeys jumping on the bed rhyme",
+    "five little monkeys jumping on the bed song",
     "gravity explained for kids cartoon",
     "five little monkeys song",
     "preschool gravity rhyme",
@@ -98,7 +257,8 @@
     "#KidsScience",
     "#ScienceForKids",
     "#EducationalCartoons",
-    "#Shorts"
+    "#Shorts",
+    "#facts"
   ],
   "chapters": [],
   "pinned_comment": "Did you know this before today? Drop your next curious science question below!",

@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-16 23:59:55 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-17 05:33:45 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -16,9 +16,9 @@
 | Campaign Target (`2026-11-09` -> `2026-12-09`) | **+5,000 net new subscribers** |
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
-| Remaining Days / Required Daily Rate | `23` days / **`217.4` subs/day** |
-| Videos Rendered & Verified | **`38`** (`31` uploaded/scheduled, `7` remaining) |
-| Real-Time US SEO Sync | `2026-11-16T23:33:16.102525+05:30` |
+| Remaining Days / Required Daily Rate | `22` days / **`227.3` subs/day** |
+| Videos Rendered & Verified | **`38`** (`34` uploaded/scheduled, `4` remaining) |
+| Real-Time US SEO Sync | `2026-11-17T05:33:18.768203+05:30` |
 | Topic Backlog Remaining | `0` pending out of `37` scored |
 
 ## 2. Production & Upload Queue Status
@@ -31,7 +31,7 @@
 | `day03_short` | short | Why Octopuses Have 3 Hearts? | 98/100 | 2026-11-13 15:30:00 EST | 1080x1920, 36.93s | `UPLOADED` | [day03_short.mp4](videos/day03_short/renders/day03_short.mp4) |
 | `day04_short` | short | Why Cutting 1 Onion Makes Your Eyes Cry in 10 Seconds! | 80/100 | 2026-11-14 15:30:00 EST | 1080x1920, 37.43s | `UPLOADED` | [day04_short.mp4](videos/day04_short/renders/day04_short.mp4) |
 | `day05_short` | short | Why the Daytime Sky Turns Blue (Not Purple)! | 62/100 | 2026-11-15 15:30:00 EST | 1080x1920, 31.73s | `UPLOADED` | [day05_short.mp4](videos/day05_short/renders/day05_short.mp4) |
-| `day06_short` | short | What Causes Hiccups? | 98/100 | 2026-11-16 15:30:00 EST | 1080x1920, 34.13s | `SCHEDULED` | [day06_short.mp4](videos/day06_short/renders/day06_short.mp4) |
+| `day06_short` | short | What Causes Hiccups? | 98/100 | 2026-11-16 15:30:00 EST | 1080x1920, 34.13s | `UPLOADED` | [day06_short.mp4](videos/day06_short/renders/day06_short.mp4) |
 | `day07_short` | short | How Do Cats Always Land on Their Feet? | 98/100 | 2026-11-17 15:30:00 EST | 1080x1920, 37.49s | `SCHEDULED` | [day07_short.mp4](videos/day07_short/renders/day07_short.mp4) |
 | `day08_short` | short | Why Cold Ice Cream Gives You Instant Brain Freeze! | 62/100 | 2026-11-18 15:30:00 EST | 1080x1920, 35.3s | `SCHEDULED` | [day08_short.mp4](videos/day08_short/renders/day08_short.mp4) |
 | `day09_short` | short | Can Holding 1 Sneeze Really Pop Your Eyes Out?! | 98/100 | 2026-11-19 15:30:00 EST | 1080x1920, 34.5s | `SCHEDULED` | [day09_short.mp4](videos/day09_short/renders/day09_short.mp4) |
@@ -56,13 +56,13 @@
 | `day28_short` | short | Why Goosebumps Pop Up During Awesome Music! | 80/100 | 2026-12-08 15:30:00 EST | 1080x1920, 35.6s | `SCHEDULED` | [day28_short.mp4](videos/day28_short/renders/day28_short.mp4) |
 | `day29_short` | short | Does Cracking Knuckles Really Hurt Your Bones?! | 80/100 | 2026-12-09 15:30:00 EST | 1080x1920, 36.46s | `SCHEDULED` | [day29_short.mp4](videos/day29_short/renders/day29_short.mp4) |
 | `day30_short` | short | Is the 5 Second Rule True? | 98/100 | 2026-12-10 15:30:00 EST | 1080x1920, 38.4s | `SCHEDULED` | [day30_short.mp4](videos/day30_short/renders/day30_short.mp4) |
-| `11_12_26_short` | short | Twinkle Twinkle Little Star: What Is a Star Really Made Of? | —/100 | 2026-12-11 15:30:00 EST | 1080x1920, 38.53s | `READY_FOR_UPLOAD` | [11_12_26_short.mp4](videos/11_12_26_short/renders/11_12_26_short.mp4) |
-| `12_12_26_short` | short | The Wheels on the Bus: How Heavy Giant Wheels Spin So Fast! | —/100 | 2026-12-12 15:30:00 EST | 1080x1920, 35.86s | `READY_FOR_UPLOAD` | [12_12_26_short.mp4](videos/12_12_26_short/renders/12_12_26_short.mp4) |
-| `13_12_26_short` | short | Itsy Bitsy Spider: How Spiders Climb Smooth Water Spouts! | —/100 | 2026-12-13 15:30:00 EST | 1080x1920, 36.46s | `READY_FOR_UPLOAD` | [13_12_26_short.mp4](videos/13_12_26_short/renders/13_12_26_short.mp4) |
-| `14_12_26_short` | short | Five Little Monkeys: Why Gravity Always Pulls You Down! | —/100 | 2026-12-14 15:30:00 EST | 1080x1920, 39.7s | `READY_FOR_UPLOAD` | [14_12_26_short.mp4](videos/14_12_26_short/renders/14_12_26_short.mp4) |
-| `15_12_26_short` | short | Baa Baa Black Sheep: Where Does Warm Winter Wool Come From? | —/100 | 2026-12-15 15:30:00 EST | 1080x1920, 40.0s | `READY_FOR_UPLOAD` | [15_12_26_short.mp4](videos/15_12_26_short/renders/15_12_26_short.mp4) |
-| `16_12_26_short` | short | Row Row Row Your Boat: Why Giant Heavy Boats Float on Water! | —/100 | 2026-12-16 15:30:00 EST | 1080x1920, 39.96s | `READY_FOR_UPLOAD` | [16_12_26_short.mp4](videos/16_12_26_short/renders/16_12_26_short.mp4) |
-| `17_12_26_short` | short | Humpty Dumpty: Why Are Eggshells Curved and Super Strong? | —/100 | 2026-12-17 15:30:00 EST | 1080x1920, 39.45s | `READY_FOR_UPLOAD` | [17_12_26_short.mp4](videos/17_12_26_short/renders/17_12_26_short.mp4) |
+| `11_12_26_short` | short | Twinkle Twinkle Little Star! | 76/100 | 2026-12-11 15:30:00 EST | 1080x1920, 38.53s | `SCHEDULED` | [11_12_26_short.mp4](videos/11_12_26_short/renders/11_12_26_short.mp4) |
+| `12_12_26_short` | short | Wheels on the Bus Rhyme! | 76/100 | 2026-12-12 15:30:00 EST | 1080x1920, 35.86s | `SCHEDULED` | [12_12_26_short.mp4](videos/12_12_26_short/renders/12_12_26_short.mp4) |
+| `13_12_26_short` | short | Itsy Bitsy Spider Cartoon 1994! | 94/100 | 2026-12-13 15:30:00 EST | 1080x1920, 36.46s | `SCHEDULED` | [13_12_26_short.mp4](videos/13_12_26_short/renders/13_12_26_short.mp4) |
+| `14_12_26_short` | short | Five Little Monkeys Jumping on the Bed Song! | 80/100 | 2026-12-14 15:30:00 EST | 1080x1920, 39.7s | `READY_FOR_UPLOAD` | [14_12_26_short.mp4](videos/14_12_26_short/renders/14_12_26_short.mp4) |
+| `15_12_26_short` | short | Baa Baa Black Sheep Rhymes! | 94/100 | 2026-12-15 15:30:00 EST | 1080x1920, 40.0s | `READY_FOR_UPLOAD` | [15_12_26_short.mp4](videos/15_12_26_short/renders/15_12_26_short.mp4) |
+| `16_12_26_short` | short | Row Row Row Your Boat Rhymes 1st Std! | 100/100 | 2026-12-16 15:30:00 EST | 1080x1920, 39.96s | `READY_FOR_UPLOAD` | [16_12_26_short.mp4](videos/16_12_26_short/renders/16_12_26_short.mp4) |
+| `17_12_26_short` | short | Humpty Dumpty Rhyme! | 94/100 | 2026-12-17 15:30:00 EST | 1080x1920, 39.45s | `READY_FOR_UPLOAD` | [17_12_26_short.mp4](videos/17_12_26_short/renders/17_12_26_short.mp4) |
 
 ### Publishing Status Note
 - Automated unattended publishing runs via [`youtube_direct_upload.py`](file:///G:/Faceless-Shorts/automation/youtube_direct_upload.py) once Google OAuth credentials (`client_secrets.json`) are placed in `G:/Faceless-Shorts/automation/creds/`, **or** by opening a fresh chat session where `zapier_zapier` MCP tools are loaded and triggering upload from `upload_queue.json`.
@@ -77,7 +77,7 @@
 | Day 03 | animal-vs | Why Octopuses Have 3 Hearts and Blue Blood! \| Ocean Facts | **90/100** | `uploaded` |
 | Day 04 | body-science | Why Cutting 1 Onion Makes Your Eyes Cry in 10 Seconds! | **89/100** | `uploaded` |
 | Day 05 | space-nature | Why the Daytime Sky Turns Blue (Not Purple)! \| Space Kids | **88/100** | `uploaded` |
-| Day 06 | body-science | What Causes Sudden Hiccups Inside Your Belly! \| Body Lab | **87/100** | `scheduled` |
+| Day 06 | body-science | What Causes Sudden Hiccups Inside Your Belly! \| Body Lab | **87/100** | `uploaded` |
 | Day 07 | animal-vs | Small vs Tall Fall: Why Cats ALWAYS Land on Their Feet! | **87/100** | `scheduled` |
 | Day 08 | body-science | Why Cold Ice Cream Gives You Instant Brain Freeze! | **87/100** | `scheduled` |
 | Day 09 | myth-bust | Can Holding 1 Sneeze Really Pop Your Eyes Out?! \| Myth | **86/100** | `scheduled` |
@@ -85,19 +85,5 @@
 
 ## 4. Automation Loop Heartbeat (Latest Entries)
 ```text
-[2026-11-12 11:09:51 IST] [DASHBOARD]   File "G:\Faceless-Shorts\automation\refresh_dashboard.py", line 25, in read_json
-[2026-11-12 11:09:51 IST] [DASHBOARD]     return json.loads(p.read_text(encoding="utf-8"))
-[2026-11-12 11:09:51 IST] [DASHBOARD]            ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-[2026-11-12 11:09:51 IST] [DASHBOARD]   File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\json\__init__.py", line 352, in loads
-[2026-11-12 11:09:51 IST] [DASHBOARD]     return _default_decoder.decode(s)
-[2026-11-12 11:09:51 IST] [DASHBOARD]            ~~~~~~~~~~~~~~~~~~~~~~~^^^
-[2026-11-12 11:09:51 IST] [DASHBOARD]   File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\json\decoder.py", line 345, in decode
-[2026-11-12 11:09:51 IST] [DASHBOARD]     obj, end = self.raw_decode(s, idx=_w(s, 0).end())
-[2026-11-12 11:09:51 IST] [DASHBOARD]                ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
-[2026-11-12 11:09:51 IST] [DASHBOARD]   File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\json\decoder.py", line 361, in raw_decode
-[2026-11-12 11:09:51 IST] [DASHBOARD]     obj, end = self.scan_once(s, idx)
-[2026-11-12 11:09:51 IST] [DASHBOARD]                ~~~~~~~~~~~~~~^^^^^^^^
-[2026-11-12 11:09:51 IST] [DASHBOARD] json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 355 column 1 (char 15107)
-[2026-11-12 11:09:51 IST] [DASHBOARD] EXIT CODE=1: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\refresh_dashboard.py
-[2026-11-12 11:10:52 IST] STOP_AUTOPILOT sentinel detected. Exiting cleanly.
+No log lines recorded yet.
 ```

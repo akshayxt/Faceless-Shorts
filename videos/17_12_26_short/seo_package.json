@@ -3,6 +3,215 @@
   "format": "short",
   "title_options": [
     {
+      "title": "Humpty Dumpty Rhyme!",
+      "chars": 20,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Humpty Dumpty Rhymecast!",
+      "chars": 24,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Humpty Dumpty Rhyme Song!",
+      "chars": 25,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Humpty Dumpty Rhyme Nursery!",
+      "chars": 28,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Humpty Dumpty Rhyme! #Shorts",
+      "chars": 28,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Humpty Dumpty Preschool Song!",
+      "chars": 29,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Humpty Dumpty Rhymes Nursery!",
+      "chars": 29,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Humpty Dumpty Rhymes for Kids!",
+      "chars": 30,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Humpty Dumpty Rhyme in English!",
+      "chars": 31,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Humpty Dumpty Rhyme with Lyrics!",
+      "chars": 32,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Humpty Dumpty Rhymecast! #Shorts",
+      "chars": 32,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Humpty Dumpty Rhyme Song! #Shorts",
+      "chars": 33,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Humpty Dumpty Rhymes with Action!",
+      "chars": 33,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Humpty Dumpty Rhyme Nursery! #Shorts",
+      "chars": 36,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Humpty Dumpty Preschool Song! #Shorts",
+      "chars": 37,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Humpty Dumpty Rhymes Nursery! #Shorts",
+      "chars": 37,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Humpty Dumpty Rhymes for Kids! #Shorts",
+      "chars": 38,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Humpty Dumpty Rhyme in English! #Shorts",
+      "chars": 39,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Humpty Dumpty Rhyme with Lyrics! #Shorts",
+      "chars": 40,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
       "title": "Humpty Dumpty: Why Are Eggshells Curved and Super Strong?",
       "chars": 57,
       "score": 84,
@@ -16,27 +225,33 @@
           "no number, date or name - the most reliable single fix"
         ]
       ]
+    },
+    {
+      "title": "Humpty Dumpty Rhymes with Action! #Shorts",
+      "chars": 41,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Humpty Dumpty Rhymes with Action!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
     }
   ],
-  "selected_title": "Humpty Dumpty: Why Are Eggshells Curved and Super Strong?",
+  "selected_title": "Humpty Dumpty Rhyme!",
   "selected_title_lint": {
-    "title": "Humpty Dumpty: Why Are Eggshells Curved and Super Strong?",
-    "chars": 57,
-    "score": 84,
+    "title": "Humpty Dumpty Rhyme!",
+    "chars": 20,
+    "score": 94,
     "issues": [
-      [
-        "mobile",
-        "a mobile feed shows about \"Humpty Dumpty: Why Are Eggshells Curved...\" - check the subject survives"
-      ],
       [
         "no-number",
         "no number, date or name - the most reliable single fix"
       ]
-    ],
-    "good": [
-      "57 characters, inside the 60-character desktop cut",
-      "open question in the title",
-      "thumbnail and title carry different words"
     ]
   },
   "thumb_text": "EGGSHELL SECRET!",
@@ -62,19 +277,40 @@
   ],
   "target_search_queries": [
     "humpty dumpty rhyme for kids",
-    "why are eggs shaped like that kids science",
-    "humpty dumpty cartoon",
-    "preschool egg song"
+    "humpty dumpty rhymes for kids",
+    "humpty dumpty rhyme nursery",
+    "humpty dumpty rhyme song"
   ],
   "realtime_seo": {
-    "mode": "local_curated",
-    "fetched_at_ist": null,
-    "live_yt_suggest_queries": [],
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-17T05:33:16.293450+05:30",
+    "live_yt_suggest_queries": [
+      "humpty dumpty rhymes for kids",
+      "humpty dumpty rhyme nursery",
+      "humpty dumpty rhyme song",
+      "humpty dumpty rhyme with lyrics",
+      "humpty dumpty preschool song",
+      "humpty dumpty rhyme",
+      "humpty dumpty rhymes with action",
+      "humpty dumpty rhymecast"
+    ],
     "matched_safe_us_trends": [],
-    "observed_us_hashtags": []
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
   },
-  "description": "Humpty Dumpty: Why Are Eggshells Curved and Super Strong? — Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall! Did you know an eggshell is as strong as an architectural dome?\nKids science answer for \"humpty dumpty rhyme for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nAn egg's dome arch shape spreads weight evenly around the whole shell so mother birds do not crush them when sitting, but sharp drops crack the brittle calcium instantly.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "description": "Humpty Dumpty Rhyme! — Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall! Did you know an eggshell is as strong as an architectural dome?\nKids science answer for \"humpty dumpty rhyme for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nAn egg's dome arch shape spreads weight evenly around the whole shell so mother birds do not crush them when sitting, but sharp drops crack the brittle calcium instantly.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- humpty dumpty rhymes for kids\n- humpty dumpty rhyme nursery\n- humpty dumpty rhyme song\n- humpty dumpty rhyme with lyrics\n- humpty dumpty preschool song\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
+    "humpty dumpty rhymes for kids",
+    "humpty dumpty rhyme nursery",
+    "humpty dumpty rhyme song",
+    "humpty dumpty rhyme with lyrics",
+    "humpty dumpty preschool song",
+    "humpty dumpty rhyme",
     "humpty dumpty rhyme for kids",
     "why are eggs shaped like that kids science",
     "humpty dumpty cartoon",
@@ -83,16 +319,15 @@
     "kids science cartoon",
     "science for kids",
     "educational cartoons for kids",
-    "fun facts for kids",
-    "youtube shorts",
-    "shorts"
+    "fun facts for kids"
   ],
   "hashtags": [
     "#BabyBeatsRhymo",
     "#KidsScience",
     "#ScienceForKids",
     "#EducationalCartoons",
-    "#Shorts"
+    "#Shorts",
+    "#facts"
   ],
   "chapters": [],
   "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
