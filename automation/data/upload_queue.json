@@ -1271,9 +1271,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\14_12_26_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "rgce7BUSP1s",
+      "youtube_url": "https://www.youtube.com/watch?v=rgce7BUSP1s",
       "scheduled_publish_est": "2026-12-14T15:30:00-05:00",
       "publish_at": "2026-12-14T20:30:00Z",
       "video_specs": {
@@ -1284,14 +1284,17 @@
       },
       "updated_at_ist": "2026-11-16T23:35:21.882534+05:30",
       "seo_txt_path": "videos/14_12_26_short/renders/14_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-17T17:33:16.089434+05:30",
+      "seo_updated_at_ist": "2026-11-17T20:52:54.999355+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "five little monkeys jumping on the bed rhyme",
         "five little monkeys jumping on the bed rhymes with action",
         "five little monkeys jumping on the bed song",
         "gravity explained for kids cartoon"
-      ]
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-17T20:53:08.675791+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "15_12_26_short",
@@ -1304,9 +1307,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\15_12_26_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "sccMg-DWb_o",
+      "youtube_url": "https://www.youtube.com/watch?v=sccMg-DWb_o",
       "scheduled_publish_est": "2026-12-15T15:30:00-05:00",
       "publish_at": "2026-12-15T20:30:00Z",
       "video_specs": {
@@ -1317,14 +1320,17 @@
       },
       "updated_at_ist": "2026-11-16T23:37:59.625444+05:30",
       "seo_txt_path": "videos/15_12_26_short/renders/15_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-17T17:33:16.363561+05:30",
+      "seo_updated_at_ist": "2026-11-17T20:52:55.342721+05:30",
       "realtime_seo_score": 94,
       "realtime_seo_queries": [
         "baa baa black sheep rhyme for kids",
         "baa baa black sheep rhymes",
         "baa baa black sheep rhymes with action",
         "baa baa black sheep rhymes nursery"
-      ]
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-17T20:53:14.360890+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "16_12_26_short",
@@ -1337,9 +1343,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\16_12_26_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "BMfp0ljEt6E",
+      "youtube_url": "https://www.youtube.com/watch?v=BMfp0ljEt6E",
       "scheduled_publish_est": "2026-12-16T15:30:00-05:00",
       "publish_at": "2026-12-16T20:30:00Z",
       "video_specs": {
@@ -1350,14 +1356,17 @@
       },
       "updated_at_ist": "2026-11-16T23:40:10.275440+05:30",
       "seo_txt_path": "videos/16_12_26_short/renders/16_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-17T17:33:16.644817+05:30",
+      "seo_updated_at_ist": "2026-11-17T20:52:55.814529+05:30",
       "realtime_seo_score": 100,
       "realtime_seo_queries": [
         "row row row your boat rhyme for kids",
         "row row row your boat rhymes",
         "row row row your boat rhymes 1st std",
         "row row row your boat rhymes with action"
-      ]
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-17T20:54:20.195260+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "17_12_26_short",
@@ -1370,9 +1379,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\17_12_26_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "t2QC5HUfYTg",
+      "youtube_url": "https://www.youtube.com/watch?v=t2QC5HUfYTg",
       "scheduled_publish_est": "2026-12-17T15:30:00-05:00",
       "publish_at": "2026-12-17T20:30:00Z",
       "video_specs": {
@@ -1383,16 +1392,19 @@
       },
       "updated_at_ist": "2026-11-16T23:42:22.242356+05:30",
       "seo_txt_path": "videos/17_12_26_short/renders/17_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-17T17:33:16.879567+05:30",
+      "seo_updated_at_ist": "2026-11-17T20:52:56.101170+05:30",
       "realtime_seo_score": 94,
       "realtime_seo_queries": [
         "humpty dumpty rhyme for kids",
         "humpty dumpty rhymes for kids",
         "humpty dumpty rhyme nursery",
         "humpty dumpty rhyme song"
-      ]
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-17T20:54:26.149550+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-17T17:33:16.879615+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-17T20:52:56.101221+05:30",
   "realtime_seo_us_trends_checked": 10
 }

@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-17 17:33:21 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-17 20:54:26 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -17,8 +17,8 @@
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `22` days / **`227.3` subs/day** |
-| Videos Rendered & Verified | **`38`** (`34` uploaded/scheduled, `4` remaining) |
-| Real-Time US SEO Sync | `2026-11-17T17:33:16.879615+05:30` |
+| Videos Rendered & Verified | **`38`** (`38` uploaded/scheduled, `0` remaining) |
+| Real-Time US SEO Sync | `2026-11-17T20:52:56.101221+05:30` |
 | Topic Backlog Remaining | `0` pending out of `37` scored |
 
 ## 2. Production & Upload Queue Status
@@ -59,10 +59,10 @@
 | `11_12_26_short` | short | Twinkle Twinkle Little Star! | 76/100 | 2026-12-11 15:30:00 EST | 1080x1920, 38.53s | `SCHEDULED` | [11_12_26_short.mp4](videos/11_12_26_short/renders/11_12_26_short.mp4) |
 | `12_12_26_short` | short | Wheels on the Bus Rhyme! | 76/100 | 2026-12-12 15:30:00 EST | 1080x1920, 35.86s | `SCHEDULED` | [12_12_26_short.mp4](videos/12_12_26_short/renders/12_12_26_short.mp4) |
 | `13_12_26_short` | short | Itsy Bitsy Spider Cartoon 1994! | 94/100 | 2026-12-13 15:30:00 EST | 1080x1920, 36.46s | `SCHEDULED` | [13_12_26_short.mp4](videos/13_12_26_short/renders/13_12_26_short.mp4) |
-| `14_12_26_short` | short | Five Little Monkeys Jumping on the Bed Song! | 80/100 | 2026-12-14 15:30:00 EST | 1080x1920, 39.7s | `READY_FOR_UPLOAD` | [14_12_26_short.mp4](videos/14_12_26_short/renders/14_12_26_short.mp4) |
-| `15_12_26_short` | short | Baa Baa Black Sheep Rhymes! | 94/100 | 2026-12-15 15:30:00 EST | 1080x1920, 40.0s | `READY_FOR_UPLOAD` | [15_12_26_short.mp4](videos/15_12_26_short/renders/15_12_26_short.mp4) |
-| `16_12_26_short` | short | Row Row Row Your Boat Rhymes 1st Std! | 100/100 | 2026-12-16 15:30:00 EST | 1080x1920, 39.96s | `READY_FOR_UPLOAD` | [16_12_26_short.mp4](videos/16_12_26_short/renders/16_12_26_short.mp4) |
-| `17_12_26_short` | short | Humpty Dumpty Rhyme! | 94/100 | 2026-12-17 15:30:00 EST | 1080x1920, 39.45s | `READY_FOR_UPLOAD` | [17_12_26_short.mp4](videos/17_12_26_short/renders/17_12_26_short.mp4) |
+| `14_12_26_short` | short | Five Little Monkeys Jumping on the Bed Song! | 80/100 | 2026-12-14 15:30:00 EST | 1080x1920, 39.7s | `SCHEDULED` | [14_12_26_short.mp4](videos/14_12_26_short/renders/14_12_26_short.mp4) |
+| `15_12_26_short` | short | Baa Baa Black Sheep Rhymes! | 94/100 | 2026-12-15 15:30:00 EST | 1080x1920, 40.0s | `SCHEDULED` | [15_12_26_short.mp4](videos/15_12_26_short/renders/15_12_26_short.mp4) |
+| `16_12_26_short` | short | Row Row Row Your Boat Rhymes 1st Std! | 100/100 | 2026-12-16 15:30:00 EST | 1080x1920, 39.96s | `SCHEDULED` | [16_12_26_short.mp4](videos/16_12_26_short/renders/16_12_26_short.mp4) |
+| `17_12_26_short` | short | Humpty Dumpty Rhyme! | 94/100 | 2026-12-17 15:30:00 EST | 1080x1920, 39.45s | `SCHEDULED` | [17_12_26_short.mp4](videos/17_12_26_short/renders/17_12_26_short.mp4) |
 
 ### Publishing Status Note
 - Automated unattended publishing runs via [`youtube_direct_upload.py`](file:///G:/Faceless-Shorts/automation/youtube_direct_upload.py) once Google OAuth credentials (`client_secrets.json`) are placed in `G:/Faceless-Shorts/automation/creds/`, **or** by opening a fresh chat session where `zapier_zapier` MCP tools are loaded and triggering upload from `upload_queue.json`.

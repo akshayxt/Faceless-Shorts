@@ -1454,7 +1454,7 @@
       ],
       "hook": "Five little monkeys jumping on the bed, one fell off! But why do things always fall DOWN and never float UP?",
       "visual_focus": "vibrant nursery rhyme cartoon mascot explaining everyday science",
-      "status": "ready_for_upload",
+      "status": "scheduled",
       "date_str": "14/12/26",
       "publish_slot_est": "2026-12-14T15:30:00-05:00",
       "publish_at_utc": "2026-12-14T20:30:00Z",
@@ -1495,7 +1495,9 @@
           "text": "Bounce over to more fun learning and subscribe to BabyBeats Rhymo!",
           "caps": "*BOUNCE over to | more fun *LEARNING | and *SUBSCRIBE to | *BABYBEATS Rhymo!"
         }
-      ]
+      ],
+      "youtube_video_id": "rgce7BUSP1s",
+      "youtube_url": "https://www.youtube.com/watch?v=rgce7BUSP1s"
     },
     {
       "id": "15_12_26",
@@ -1527,7 +1529,7 @@
       ],
       "hook": "Baa baa black sheep, have you any wool? Yes sir, yes sir, three bags full! But how does sheep fluff turn into warm cozy sweaters?",
       "visual_focus": "vibrant nursery rhyme cartoon mascot explaining everyday science",
-      "status": "ready_for_upload",
+      "status": "scheduled",
       "date_str": "15/12/26",
       "publish_slot_est": "2026-12-15T15:30:00-05:00",
       "publish_at_utc": "2026-12-15T20:30:00Z",
@@ -1568,7 +1570,9 @@
           "text": "Stay warm and smart—subscribe to BabyBeats Rhymo for daily stories!",
           "caps": "Stay warm and *SMART— | *SUBSCRIBE to | *BABYBEATS Rhymo | for daily *STORIES!"
         }
-      ]
+      ],
+      "youtube_video_id": "sccMg-DWb_o",
+      "youtube_url": "https://www.youtube.com/watch?v=sccMg-DWb_o"
     },
     {
       "id": "16_12_26",
@@ -1600,7 +1604,7 @@
       ],
       "hook": "Row row row your boat gently down the stream! Why does a tiny pebble sink instantly, but a massive wooden boat floats?",
       "visual_focus": "vibrant nursery rhyme cartoon mascot explaining everyday science",
-      "status": "ready_for_upload",
+      "status": "scheduled",
       "date_str": "16/12/26",
       "publish_slot_est": "2026-12-16T15:30:00-05:00",
       "publish_at_utc": "2026-12-16T20:30:00Z",
@@ -1641,7 +1645,9 @@
           "text": "Glide along with us and subscribe to BabyBeats Rhymo!",
           "caps": "*GLIDE along with | us and *SUBSCRIBE | to *BABYBEATS | *RHYMO!"
         }
-      ]
+      ],
+      "youtube_video_id": "BMfp0ljEt6E",
+      "youtube_url": "https://www.youtube.com/watch?v=BMfp0ljEt6E"
     },
     {
       "id": "17_12_26",
@@ -1673,7 +1679,7 @@
       ],
       "hook": "Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall! Did you know an eggshell is as strong as an architectural dome?",
       "visual_focus": "vibrant nursery rhyme cartoon mascot explaining everyday science",
-      "status": "ready_for_upload",
+      "status": "scheduled",
       "date_str": "17/12/26",
       "publish_slot_est": "2026-12-17T15:30:00-05:00",
       "publish_at_utc": "2026-12-17T20:30:00Z",
@@ -1714,7 +1720,9 @@
           "text": "Crack open more fun knowledge and subscribe to BabyBeats Rhymo!",
           "caps": "*CRACK open more | fun *KNOWLEDGE and | *SUBSCRIBE to | *BABYBEATS Rhymo!"
         }
-      ]
+      ],
+      "youtube_video_id": "t2QC5HUfYTg",
+      "youtube_url": "https://www.youtube.com/watch?v=t2QC5HUfYTg"
     }
   ]
 }
