@@ -315,6 +315,7 @@ def sync_from_channel(client: ZapierMcpClient, connection_id: str) -> dict:
                 tp["status"] = new_status.lower()
                 tp["youtube_video_id"] = matched["video_id"]
                 tp["youtube_url"] = it["youtube_url"]
+            clean_uploaded_media(it["id"])
 
     if updated_ids:
         UPLOAD_Q.write_text(json.dumps(uq, indent=2, ensure_ascii=False), encoding="utf-8")
@@ -322,6 +323,23 @@ def sync_from_channel(client: ZapierMcpClient, connection_id: str) -> dict:
             TOPIC_Q.write_text(json.dumps(tq, indent=2, ensure_ascii=False), encoding="utf-8")
 
     return {"remote_count": len(remote_items), "reconciled": updated_ids}
+
+
+def clean_uploaded_media(item_id: str) -> None:
+    """Delete uploaded video file (.mp4) and heavy audio from disk once confirmed on YouTube."""
+    try:
+        from repo_paths import ROOT_DIR
+        for p in (
+            ROOT_DIR / "videos" / item_id / "renders" / f"{item_id}.mp4",
+            ROOT_DIR / "videos" / item_id / f"{item_id}.mp4",
+            ROOT_DIR / "videos" / item_id / "data" / "mix.wav",
+            ROOT_DIR / "videos" / item_id / "data" / "narration.wav",
+        ):
+            if p.exists() and p.is_file():
+                p.unlink(missing_ok=True)
+                print(f"CLEANED_UPLOADED_MEDIA {item_id} -> deleted {p.name}", flush=True)
+    except Exception as exc:
+        print(f"CLEAN_MEDIA_WARN {item_id}: {exc}", flush=True)
 
 
 def verify_url_accessible(url: str, timeout_sec: int = 15) -> tuple[bool, str]:
@@ -398,6 +416,7 @@ def _upload_via_direct_api(pending: list[dict], max_uploads: int, dry_run: bool)
             rc = upload_one(item_id=iid, dry_run=dry_run, use_realtime_seo=False)
             if rc != 0:
                 return uploaded, f"direct upload failed on {iid} (rc={rc})"
+            clean_uploaded_media(iid)
             uploaded.append(iid)
         except Exception as exc:
             msg = str(exc)
@@ -478,6 +497,7 @@ def _upload_via_zapier(
             upload_method="zapier_mcp_cloud",
             refresh=False,
         )
+        clean_uploaded_media(iid)
         uploaded.append(f"{iid}:{vid_id}")
         print(f"ZAPIER_UPLOAD_OK {iid} -> https://www.youtube.com/watch?v={vid_id} ({status})", flush=True)
 

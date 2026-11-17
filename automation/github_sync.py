@@ -126,7 +126,27 @@ def push_changed_files(commit_message: str = "chore(cloud-server): sync SEO, upl
         if remote_shas.get(rel) != _git_blob_sha(raw):
             changed.append((rel, raw))
 
-    if not changed:
+    # Automatically purge uploaded video & audio files from remote GitHub repository tree
+    to_delete_remote: list[str] = []
+    uq_path = AUTO_DIR / "data" / "upload_queue.json"
+    if uq_path.exists():
+        try:
+            uq = json.loads(uq_path.read_text(encoding="utf-8"))
+            for it in uq.get("items", []):
+                if it.get("status") in ("UPLOADED", "SCHEDULED", "UPLOADED_PRIVATE") or it.get("youtube_video_id"):
+                    iid = it.get("id")
+                    for cand in (
+                        f"videos/{iid}/renders/{iid}.mp4",
+                        f"videos/{iid}/{iid}.mp4",
+                        f"videos/{iid}/data/mix.wav",
+                        f"videos/{iid}/data/narration.wav",
+                    ):
+                        if cand in remote_shas:
+                            to_delete_remote.append(cand)
+        except Exception as exc:
+            print(f"GITHUB_SYNC_PRUNE_WARN: {exc}", flush=True)
+
+    if not changed and not to_delete_remote:
         return {"committed": False, "changed": 0}
 
     for attempt in range(2):
@@ -144,6 +164,9 @@ def push_changed_files(commit_message: str = "chore(cloud-server): sync SEO, upl
                 {"content": base64.b64encode(raw).decode("ascii"), "encoding": "base64"},
             )
             tree_entries.append({"path": rel, "mode": "100644", "type": "blob", "sha": blob_resp["sha"]})
+
+        for rel_del in to_delete_remote:
+            tree_entries.append({"path": rel_del, "mode": "100644", "type": "blob", "sha": None})
 
         new_tree = _gh_request(
             "POST",
