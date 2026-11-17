@@ -1,15 +1,22 @@
 {
-  "enabled": false,
+  "enabled": true,
   "interval_minutes": 5,
   "last_sync_ist": null,
-  "total_messages_recorded": 1,
+  "total_messages_recorded": 8,
   "groups_tracked": {
     "-1001997761568": {
       "id": -1001997761568,
-      "title": "Group_-1001997761568",
-      "file": "Group_-1001997761568_1001997761568.json",
-      "last_message_at": "2026-11-17 11:24:15 IST",
-      "message_count": 1
+      "title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "file": "𝐓𝐄𝐀𝐌冬𝗫𝗧_1001997761568.json",
+      "last_message_at": "2026-11-17 11:37:55 IST",
+      "message_count": 6
+    },
+    "-1003968526041": {
+      "id": -1003968526041,
+      "title": "𝗠𝚯𝚵𝐁𝗜𝗨𝗦 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗖𝗘𝗡𝗧𝗘𝗥 𒆜",
+      "file": "𝗠𝚯𝚵𝐁𝗜𝗨𝗦_𝗖𝗢𝗠𝗠𝗔𝗡𝗗_𝗖𝗘𝗡𝗧𝗘𝗥_𒆜_1003968526041.json",
+      "last_message_at": "2026-11-17 11:36:39 IST",
+      "message_count": 2
     }
   }
 }
