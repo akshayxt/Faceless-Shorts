@@ -2,7 +2,7 @@
   "chat_id": -1001997761568,
   "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
   "created_at_ist": "2026-11-17 11:31:28 IST",
-  "updated_at_ist": "2026-11-17 21:56:56 IST",
+  "updated_at_ist": "2026-11-18 17:04:47 IST",
   "messages": [
     {
       "msg_id": 27049,
@@ -143,6 +143,36 @@
       "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
       "text": "/call -supreme",
       "date_ist": "2026-11-17 21:56:56 IST"
+    },
+    {
+      "msg_id": 27104,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "API_ID : 23504178\nAPI_HASH : \"5ee1fe6fbf6ce497a46d6aadd62bca05\"",
+      "date_ist": "2026-11-18 17:04:33 IST"
+    },
+    {
+      "msg_id": 27105,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/SAVE",
+      "date_ist": "2026-11-18 17:04:36 IST"
+    },
+    {
+      "msg_id": 27107,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/save tg-api",
+      "date_ist": "2026-11-18 17:04:47 IST"
     }
   ]
 }
