@@ -31,6 +31,14 @@
       "target": "@badguy",
       "chat_id": "-100",
       "details": "3 warnings limit reached (24h ban)"
+    },
+    {
+      "timestamp_ist": "2026-11-18 23:52:40 IST",
+      "action": "PROMOTE",
+      "actor": "@Akshat_xt",
+      "target": "@Unfrozed",
+      "chat_id": "-1001997761568",
+      "details": "Promoted with rights: ['can_manage_chat', 'can_delete_messages', 'can_restrict_members', 'can_invite_users', 'can_pin_messages', 'can_promote_members', 'can_change_info', 'can_manage_video_chats']"
     }
   ]
 }
