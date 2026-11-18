@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-18 23:33:20 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-19 05:29:28 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -16,9 +16,9 @@
 | Campaign Target (`2026-11-09` -> `2026-12-09`) | **+5,000 net new subscribers** |
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
-| Remaining Days / Required Daily Rate | `21` days / **`238.1` subs/day** |
+| Remaining Days / Required Daily Rate | `20` days / **`250.0` subs/day** |
 | Videos Rendered & Verified | **`38`** (`38` uploaded/scheduled, `0` remaining) |
-| Real-Time US SEO Sync | `2026-11-18T23:33:18.313154+05:30` |
+| Real-Time US SEO Sync | `2026-11-19T05:29:24.811097+05:30` |
 | Topic Backlog Remaining | `0` pending out of `37` scored |
 
 ## 2. Production & Upload Queue Status
@@ -33,7 +33,7 @@
 | `day05_short` | short | Why the Daytime Sky Turns Blue (Not Purple)! | 62/100 | 2026-11-15 15:30:00 EST | 1080x1920, 31.73s | `UPLOADED` | [day05_short.mp4](videos/day05_short/renders/day05_short.mp4) |
 | `day06_short` | short | What Causes Hiccups? | 98/100 | 2026-11-16 15:30:00 EST | 1080x1920, 34.13s | `UPLOADED` | [day06_short.mp4](videos/day06_short/renders/day06_short.mp4) |
 | `day07_short` | short | How Do Cats Always Land on Their Feet? | 98/100 | 2026-11-17 15:30:00 EST | 1080x1920, 37.49s | `UPLOADED` | [day07_short.mp4](videos/day07_short/renders/day07_short.mp4) |
-| `day08_short` | short | Why Cold Ice Cream Gives You Instant Brain Freeze! | 62/100 | 2026-11-18 15:30:00 EST | 1080x1920, 35.3s | `SCHEDULED` | [day08_short.mp4](videos/day08_short/renders/day08_short.mp4) |
+| `day08_short` | short | Why Cold Ice Cream Gives You Instant Brain Freeze! | 62/100 | 2026-11-18 15:30:00 EST | 1080x1920, 35.3s | `UPLOADED` | [day08_short.mp4](videos/day08_short/renders/day08_short.mp4) |
 | `day09_short` | short | Can Holding 1 Sneeze Really Pop Your Eyes Out?! | 98/100 | 2026-11-19 15:30:00 EST | 1080x1920, 34.5s | `SCHEDULED` | [day09_short.mp4](videos/day09_short/renders/day09_short.mp4) |
 | `day10_short` | short | Why Brush Teeth at Night? | 98/100 | 2026-11-20 15:30:00 EST | 1080x1920, 35.89s | `SCHEDULED` | [day10_short.mp4](videos/day10_short/renders/day10_short.mp4) |
 | `day11_short` | short | How Dogs Can Literally Smell Time Passing! | 62/100 | 2026-11-21 15:30:00 EST | 1080x1920, 35.67s | `SCHEDULED` | [day11_short.mp4](videos/day11_short/renders/day11_short.mp4) |
@@ -79,7 +79,7 @@
 | Day 05 | space-nature | Why the Daytime Sky Turns Blue (Not Purple)! \| Space Kids | **88/100** | `uploaded` |
 | Day 06 | body-science | What Causes Sudden Hiccups Inside Your Belly! \| Body Lab | **87/100** | `uploaded` |
 | Day 07 | animal-vs | Small vs Tall Fall: Why Cats ALWAYS Land on Their Feet! | **87/100** | `uploaded` |
-| Day 08 | body-science | Why Cold Ice Cream Gives You Instant Brain Freeze! | **87/100** | `scheduled` |
+| Day 08 | body-science | Why Cold Ice Cream Gives You Instant Brain Freeze! | **87/100** | `uploaded` |
 | Day 09 | myth-bust | Can Holding 1 Sneeze Really Pop Your Eyes Out?! \| Myth | **86/100** | `scheduled` |
 | Day 10 | moral-story | The Night Leo Skipped Brushing His Teeth (Cartoon!) | **86/100** | `scheduled` |
 

@@ -312,7 +312,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\day08_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "SCHEDULED",
+      "status": "UPLOADED",
       "youtube_video_id": "ke9xw4vfQ-Y",
       "youtube_url": "https://www.youtube.com/watch?v=ke9xw4vfQ-Y",
       "video_specs": {
@@ -1405,6 +1405,6 @@
       "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-18T23:33:18.313154+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-19T05:29:24.811097+05:30",
   "realtime_seo_us_trends_checked": 10
 }
