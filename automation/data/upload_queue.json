@@ -349,7 +349,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\day09_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "SCHEDULED",
+      "status": "UPLOADED",
       "youtube_video_id": "_HgfKxW-5q0",
       "youtube_url": "https://www.youtube.com/watch?v=_HgfKxW-5q0",
       "video_specs": {
@@ -1608,7 +1608,7 @@
       },
       "updated_at_ist": "2026-11-19T21:14:26.607496+05:30",
       "seo_txt_path": "videos/23_12_26_short/renders/23_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-19T23:33:17.574992+05:30",
+      "seo_updated_at_ist": "2026-11-20T03:50:52.713229+05:30",
       "realtime_seo_score": 66,
       "realtime_seo_queries": [
         "why is ice slippery science for kids",
@@ -1641,7 +1641,7 @@
       },
       "updated_at_ist": "2026-11-19T21:17:35.093091+05:30",
       "seo_txt_path": "videos/24_12_26_short/renders/24_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-19T23:33:17.985106+05:30",
+      "seo_updated_at_ist": "2026-11-20T03:50:53.056625+05:30",
       "realtime_seo_score": 94,
       "realtime_seo_queries": [
         "jingle bells song for kids",
@@ -1674,7 +1674,7 @@
       },
       "updated_at_ist": "2026-11-19T21:20:27.575258+05:30",
       "seo_txt_path": "videos/25_12_26_short/renders/25_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-19T23:33:18.425911+05:30",
+      "seo_updated_at_ist": "2026-11-20T03:50:53.535448+05:30",
       "realtime_seo_score": 94,
       "realtime_seo_queries": [
         "evergreen trees for kids science",
@@ -1707,7 +1707,7 @@
       },
       "updated_at_ist": "2026-11-19T21:22:53.545412+05:30",
       "seo_txt_path": "videos/26_12_26_short/renders/26_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-19T23:33:18.921120+05:30",
+      "seo_updated_at_ist": "2026-11-20T03:50:53.907051+05:30",
       "realtime_seo_score": 66,
       "realtime_seo_queries": [
         "why do we shiver science for kids",
@@ -1740,7 +1740,7 @@
       },
       "updated_at_ist": "2026-11-19T21:25:15.244098+05:30",
       "seo_txt_path": "videos/27_12_26_short/renders/27_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-19T23:33:19.419163+05:30",
+      "seo_updated_at_ist": "2026-11-20T03:50:54.315687+05:30",
       "realtime_seo_score": 94,
       "realtime_seo_queries": [
         "why does wood crackle in fire kids",
@@ -1773,7 +1773,7 @@
       },
       "updated_at_ist": "2026-11-19T21:27:34.839346+05:30",
       "seo_txt_path": "videos/28_12_26_short/renders/28_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-19T23:33:19.793933+05:30",
+      "seo_updated_at_ist": "2026-11-20T03:50:54.716482+05:30",
       "realtime_seo_score": 98,
       "realtime_seo_queries": [
         "why do animals hibernate for kids",
@@ -1806,7 +1806,7 @@
       },
       "updated_at_ist": "2026-11-19T21:29:38.780291+05:30",
       "seo_txt_path": "videos/29_12_26_short/renders/29_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-19T23:33:20.133981+05:30",
+      "seo_updated_at_ist": "2026-11-20T03:50:55.051264+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "how does snow form for kids",
@@ -1839,7 +1839,7 @@
       },
       "updated_at_ist": "2026-11-19T21:32:10.497117+05:30",
       "seo_txt_path": "videos/30_12_26_short/renders/30_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-19T23:33:20.471734+05:30",
+      "seo_updated_at_ist": "2026-11-20T03:50:55.420346+05:30",
       "realtime_seo_score": 94,
       "realtime_seo_queries": [
         "hickory dickory dock rhyme for kids",
@@ -1849,6 +1849,6 @@
       ]
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-19T23:33:20.471790+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-20T03:50:55.420409+05:30",
   "realtime_seo_us_trends_checked": 10
 }

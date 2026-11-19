@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-19 23:33:27 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-20 03:51:03 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -16,9 +16,9 @@
 | Campaign Target (`2026-11-09` -> `2026-12-09`) | **+5,000 net new subscribers** |
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
-| Remaining Days / Required Daily Rate | `20` days / **`250.0` subs/day** |
+| Remaining Days / Required Daily Rate | `19` days / **`263.2` subs/day** |
 | Videos Rendered & Verified | **`51`** (`43` uploaded/scheduled, `8` remaining) |
-| Real-Time US SEO Sync | `2026-11-19T23:33:20.471790+05:30` |
+| Real-Time US SEO Sync | `2026-11-20T03:50:55.420409+05:30` |
 | Topic Backlog Remaining | `0` pending out of `50` scored |
 
 ## 2. Production & Upload Queue Status
@@ -34,7 +34,7 @@
 | `day06_short` | short | What Causes Hiccups? | 98/100 | 2026-11-16 15:30:00 EST | 1080x1920, 34.13s | `UPLOADED` | [day06_short.mp4](videos/day06_short/renders/day06_short.mp4) |
 | `day07_short` | short | How Do Cats Always Land on Their Feet? | 98/100 | 2026-11-17 15:30:00 EST | 1080x1920, 37.49s | `UPLOADED` | [day07_short.mp4](videos/day07_short/renders/day07_short.mp4) |
 | `day08_short` | short | Why Cold Ice Cream Gives You Instant Brain Freeze! | 62/100 | 2026-11-18 15:30:00 EST | 1080x1920, 35.3s | `UPLOADED` | [day08_short.mp4](videos/day08_short/renders/day08_short.mp4) |
-| `day09_short` | short | Can Holding 1 Sneeze Really Pop Your Eyes Out?! | 98/100 | 2026-11-19 15:30:00 EST | 1080x1920, 34.5s | `SCHEDULED` | [day09_short.mp4](videos/day09_short/renders/day09_short.mp4) |
+| `day09_short` | short | Can Holding 1 Sneeze Really Pop Your Eyes Out?! | 98/100 | 2026-11-19 15:30:00 EST | 1080x1920, 34.5s | `UPLOADED` | [day09_short.mp4](videos/day09_short/renders/day09_short.mp4) |
 | `day10_short` | short | Why Brush Teeth at Night? | 98/100 | 2026-11-20 15:30:00 EST | 1080x1920, 35.89s | `SCHEDULED` | [day10_short.mp4](videos/day10_short/renders/day10_short.mp4) |
 | `day11_short` | short | How Dogs Can Literally Smell Time Passing! | 62/100 | 2026-11-21 15:30:00 EST | 1080x1920, 35.67s | `SCHEDULED` | [day11_short.mp4](videos/day11_short/renders/day11_short.mp4) |
 | `day12_short` | short | What Happens If You Step on Jupiter? (No Floor!) | 62/100 | 2026-11-22 15:30:00 EST | 1080x1920, 32.02s | `SCHEDULED` | [day12_short.mp4](videos/day12_short/renders/day12_short.mp4) |
@@ -93,7 +93,7 @@
 | Day 06 | body-science | What Causes Sudden Hiccups Inside Your Belly! \| Body Lab | **87/100** | `uploaded` |
 | Day 07 | animal-vs | Small vs Tall Fall: Why Cats ALWAYS Land on Their Feet! | **87/100** | `uploaded` |
 | Day 08 | body-science | Why Cold Ice Cream Gives You Instant Brain Freeze! | **87/100** | `uploaded` |
-| Day 09 | myth-bust | Can Holding 1 Sneeze Really Pop Your Eyes Out?! \| Myth | **86/100** | `scheduled` |
+| Day 09 | myth-bust | Can Holding 1 Sneeze Really Pop Your Eyes Out?! \| Myth | **86/100** | `uploaded` |
 | Day 10 | moral-story | The Night Leo Skipped Brushing His Teeth (Cartoon!) | **86/100** | `scheduled` |
 
 ## 4. Automation Loop Heartbeat (Latest Entries)
