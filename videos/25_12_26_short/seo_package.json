@@ -3,6 +3,72 @@
   "format": "short",
   "title_options": [
     {
+      "title": "O Christmas Tree Cartoon!",
+      "chars": 25,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "O Christmas Tree Kidsongs!",
+      "chars": 26,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Oh Christmas Tree Cartoon!",
+      "chars": 26,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "O Christmas Tree Cartoon! #Shorts",
+      "chars": 33,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "O Christmas Tree Kidsongs! #Shorts",
+      "chars": 34,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Oh Christmas Tree Cartoon! #Shorts",
+      "chars": 34,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
       "title": "O Christmas Tree: Why Pine Trees Stay Green in Winter Snow!",
       "chars": 59,
       "score": 80,
@@ -18,24 +84,16 @@
       ]
     }
   ],
-  "selected_title": "O Christmas Tree: Why Pine Trees Stay Green in Winter Snow!",
+  "selected_title": "O Christmas Tree Cartoon!",
   "selected_title_lint": {
-    "title": "O Christmas Tree: Why Pine Trees Stay Green in Winter Snow!",
-    "chars": 59,
-    "score": 80,
+    "title": "O Christmas Tree Cartoon!",
+    "chars": 25,
+    "score": 94,
     "issues": [
-      [
-        "mobile",
-        "a mobile feed shows about \"O Christmas Tree: Why Pine Trees Stay...\" - check the subject survives"
-      ],
       [
         "no-number",
         "no number, date or name - the most reliable single fix"
       ]
-    ],
-    "good": [
-      "59 characters, inside the 60-character desktop cut",
-      "thumbnail and title carry different words"
     ]
   },
   "thumb_text": "EVERGREEN SECRET!",
@@ -61,19 +119,36 @@
   ],
   "target_search_queries": [
     "evergreen trees for kids science",
-    "o christmas tree rhyme cartoon",
-    "why do pine trees stay green",
-    "preschool winter plant facts"
+    "evergreen trees for kindergarten",
+    "evergreen trees",
+    "o christmas tree cartoon"
   ],
   "realtime_seo": {
-    "mode": "local_curated",
-    "fetched_at_ist": null,
-    "live_yt_suggest_queries": [],
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-19T21:40:25.330118+05:30",
+    "live_yt_suggest_queries": [
+      "evergreen trees for kindergarten",
+      "evergreen trees",
+      "o christmas tree cartoon",
+      "o christmas tree kidsongs",
+      "oh christmas tree cartoon"
+    ],
     "matched_safe_us_trends": [],
-    "observed_us_hashtags": []
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
   },
-  "description": "O Christmas Tree: Why Pine Trees Stay Green in Winter Snow! — O Christmas tree, O Christmas tree, how lovely are your branches! But why do pine trees stay bright green when all other trees lose their leaves?\nKids science answer for \"evergreen trees for kids science\" with fun 2D animation by BabyBeats Rhymo!\n\nPine needles are narrow and covered in a thick waterproof waxy coating that locks in moisture during freezing winter, with natural antifreeze inside cells so leaves don't freeze and fall!\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "description": "O Christmas Tree Cartoon! — O Christmas tree, O Christmas tree, how lovely are your branches! But why do pine trees stay bright green when all other trees lose their leaves?\nKids science answer for \"evergreen trees for kids science\" with fun 2D animation by BabyBeats Rhymo!\n\nPine needles are narrow and covered in a thick waterproof waxy coating that locks in moisture during freezing winter, with natural antifreeze inside cells so leaves don't freeze and fall!\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- evergreen trees for kindergarten\n- evergreen trees\n- o christmas tree cartoon\n- o christmas tree kidsongs\n- oh christmas tree cartoon\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
+    "evergreen trees for kindergarten",
+    "evergreen trees",
+    "o christmas tree cartoon",
+    "o christmas tree kidsongs",
+    "oh christmas tree cartoon",
     "evergreen trees for kids science",
     "o christmas tree rhyme cartoon",
     "why do pine trees stay green",
@@ -83,15 +158,15 @@
     "science for kids",
     "educational cartoons for kids",
     "fun facts for kids",
-    "youtube shorts",
-    "shorts"
+    "youtube shorts"
   ],
   "hashtags": [
     "#BabyBeatsRhymo",
     "#KidsScience",
     "#ScienceForKids",
     "#EducationalCartoons",
-    "#Shorts"
+    "#Shorts",
+    "#facts"
   ],
   "chapters": [],
   "pinned_comment": "Did you know this before today? Drop your next curious science question below!",

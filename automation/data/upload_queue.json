@@ -1415,9 +1415,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\18_12_26_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "qPO_B8JR-rw",
+      "youtube_url": "https://www.youtube.com/watch?v=qPO_B8JR-rw",
       "scheduled_publish_est": "2026-12-18T15:30:00-05:00",
       "publish_at": "2026-12-18T20:30:00Z",
       "video_specs": {
@@ -1426,22 +1426,34 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-19T20:59:55.413790+05:30"
+      "updated_at_ist": "2026-11-19T20:59:55.413790+05:30",
+      "seo_txt_path": "videos/18_12_26_short/renders/18_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-19T21:40:25.849594+05:30",
+      "realtime_seo_score": 62,
+      "realtime_seo_queries": [
+        "snowflake science for kids",
+        "snowflake science",
+        "snowflake science experiment",
+        "snowflake data science"
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-19T21:40:53.279728+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "19_12_26_short",
       "topic_id": "19_12_26",
       "format": "short",
       "scheduled_slot_est": "15:30 EST",
-      "title": "Three Little Kittens: How Mittens Keep Your Fingers Warm!",
+      "title": "Three Little Kittens Cvs 3d Rhymes!",
       "video_path": "G:\\Faceless-Shorts\\videos\\19_12_26_short\\renders\\19_12_26_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\19_12_26_short\\renders\\19_12_26_thumb.jpg",
       "seo_path": "G:\\Faceless-Shorts\\videos\\19_12_26_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "lUlWnMFv8Ys",
+      "youtube_url": "https://www.youtube.com/watch?v=lUlWnMFv8Ys",
       "scheduled_publish_est": "2026-12-19T15:30:00-05:00",
       "publish_at": "2026-12-19T20:30:00Z",
       "video_specs": {
@@ -1450,7 +1462,19 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-19T21:03:01.213520+05:30"
+      "updated_at_ist": "2026-11-19T21:03:01.213520+05:30",
+      "seo_txt_path": "videos/19_12_26_short/renders/19_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-19T21:40:26.331373+05:30",
+      "realtime_seo_score": 100,
+      "realtime_seo_queries": [
+        "three little kittens rhyme for kids",
+        "three little kittens rhyme",
+        "three little kittens rhymes with action",
+        "three little kittens rhymes in english"
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-19T21:41:00.856736+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "20_12_26_short",
@@ -1463,9 +1487,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\20_12_26_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "FtrBdDVHed8",
+      "youtube_url": "https://www.youtube.com/watch?v=FtrBdDVHed8",
       "scheduled_publish_est": "2026-12-20T15:30:00-05:00",
       "publish_at": "2026-12-20T20:30:00Z",
       "video_specs": {
@@ -1474,22 +1498,34 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-19T21:06:07.666005+05:30"
+      "updated_at_ist": "2026-11-19T21:06:07.666005+05:30",
+      "seo_txt_path": "videos/20_12_26_short/renders/20_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-19T21:40:26.696615+05:30",
+      "realtime_seo_score": 48,
+      "realtime_seo_queries": [
+        "hot cocoa science for kids",
+        "hot chocolate science experiment",
+        "hot cocoa water",
+        "hot cocoa hot cocoa"
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-19T21:41:08.447346+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "21_12_26_short",
       "topic_id": "21_12_26",
       "format": "short",
       "scheduled_slot_est": "15:30 EST",
-      "title": "Winter Solstice: Why Winter Nights Are the Longest of the Ye",
+      "title": "Winter Solstice Band!",
       "video_path": "G:\\Faceless-Shorts\\videos\\21_12_26_short\\renders\\21_12_26_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\21_12_26_short\\renders\\21_12_26_thumb.jpg",
       "seo_path": "G:\\Faceless-Shorts\\videos\\21_12_26_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "eoPBX-rYE6Q",
+      "youtube_url": "https://www.youtube.com/watch?v=eoPBX-rYE6Q",
       "scheduled_publish_est": "2026-12-21T15:30:00-05:00",
       "publish_at": "2026-12-21T20:30:00Z",
       "video_specs": {
@@ -1498,7 +1534,19 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-19T21:09:15.881554+05:30"
+      "updated_at_ist": "2026-11-19T21:09:15.881554+05:30",
+      "seo_txt_path": "videos/21_12_26_short/renders/21_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-19T21:40:27.128077+05:30",
+      "realtime_seo_score": 94,
+      "realtime_seo_queries": [
+        "winter solstice for kids cartoon",
+        "winter solstice",
+        "winter solstice music",
+        "winter solstice orchestra"
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-19T21:42:15.456127+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "22_12_26_short",
@@ -1511,9 +1559,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\22_12_26_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "MfCx-eRzmEQ",
+      "youtube_url": "https://www.youtube.com/watch?v=MfCx-eRzmEQ",
       "scheduled_publish_est": "2026-12-22T15:30:00-05:00",
       "publish_at": "2026-12-22T20:30:00Z",
       "video_specs": {
@@ -1522,7 +1570,19 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-19T21:11:46.223529+05:30"
+      "updated_at_ist": "2026-11-19T21:11:46.223529+05:30",
+      "seo_txt_path": "videos/22_12_26_short/renders/22_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-19T21:40:27.513040+05:30",
+      "realtime_seo_score": 62,
+      "realtime_seo_queries": [
+        "reindeer science facts for kids",
+        "facts about reindeer",
+        "rudolph the red-nosed reindeer cartoon",
+        "rudolph the red nosed reindeer cartoon song"
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-19T21:42:20.852061+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "23_12_26_short",
@@ -1546,14 +1606,23 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-19T21:14:26.607496+05:30"
+      "updated_at_ist": "2026-11-19T21:14:26.607496+05:30",
+      "seo_txt_path": "videos/23_12_26_short/renders/23_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-19T21:40:27.881486+05:30",
+      "realtime_seo_score": 66,
+      "realtime_seo_queries": [
+        "why is ice slippery science for kids",
+        "why is ice slippery",
+        "friction lesson for kids-physics",
+        "science facts for kids"
+      ]
     },
     {
       "id": "24_12_26_short",
       "topic_id": "24_12_26",
       "format": "short",
       "scheduled_slot_est": "15:30 EST",
-      "title": "Jingle Bells: How Sleigh Runners Glide Across Packed Snow!",
+      "title": "Jingle Bells Song!",
       "video_path": "G:\\Faceless-Shorts\\videos\\24_12_26_short\\renders\\24_12_26_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\24_12_26_short\\renders\\24_12_26_thumb.jpg",
       "seo_path": "G:\\Faceless-Shorts\\videos\\24_12_26_short\\seo_package.json",
@@ -1570,14 +1639,23 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-19T21:17:35.093091+05:30"
+      "updated_at_ist": "2026-11-19T21:17:35.093091+05:30",
+      "seo_txt_path": "videos/24_12_26_short/renders/24_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-19T21:40:28.180311+05:30",
+      "realtime_seo_score": 94,
+      "realtime_seo_queries": [
+        "jingle bells song for kids",
+        "jingle bells song for kids🦌🎅",
+        "jingle bells song for kids🦌🎅 with lyrics",
+        "how sleds work physics kids"
+      ]
     },
     {
       "id": "25_12_26_short",
       "topic_id": "25_12_26",
       "format": "short",
       "scheduled_slot_est": "15:30 EST",
-      "title": "O Christmas Tree: Why Pine Trees Stay Green in Winter Snow!",
+      "title": "O Christmas Tree Cartoon!",
       "video_path": "G:\\Faceless-Shorts\\videos\\25_12_26_short\\renders\\25_12_26_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\25_12_26_short\\renders\\25_12_26_thumb.jpg",
       "seo_path": "G:\\Faceless-Shorts\\videos\\25_12_26_short\\seo_package.json",
@@ -1594,7 +1672,16 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-19T21:20:27.575258+05:30"
+      "updated_at_ist": "2026-11-19T21:20:27.575258+05:30",
+      "seo_txt_path": "videos/25_12_26_short/renders/25_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-19T21:40:28.629034+05:30",
+      "realtime_seo_score": 94,
+      "realtime_seo_queries": [
+        "evergreen trees for kids science",
+        "evergreen trees for kindergarten",
+        "evergreen trees",
+        "o christmas tree cartoon"
+      ]
     },
     {
       "id": "26_12_26_short",
@@ -1618,14 +1705,23 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-19T21:22:53.545412+05:30"
+      "updated_at_ist": "2026-11-19T21:22:53.545412+05:30",
+      "seo_txt_path": "videos/26_12_26_short/renders/26_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-19T21:40:28.992061+05:30",
+      "realtime_seo_score": 66,
+      "realtime_seo_queries": [
+        "why do we shiver science for kids",
+        "why do we shiver",
+        "why we shiver",
+        "human body facts for kids"
+      ]
     },
     {
       "id": "27_12_26_short",
       "topic_id": "27_12_26",
       "format": "short",
       "scheduled_slot_est": "15:30 EST",
-      "title": "Cozy Fireplace: Why Wood Crackles and Pops in the Fire!",
+      "title": "Cozy Fire Relaxing Music!",
       "video_path": "G:\\Faceless-Shorts\\videos\\27_12_26_short\\renders\\27_12_26_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\27_12_26_short\\renders\\27_12_26_thumb.jpg",
       "seo_path": "G:\\Faceless-Shorts\\videos\\27_12_26_short\\seo_package.json",
@@ -1642,14 +1738,23 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-19T21:25:15.244098+05:30"
+      "updated_at_ist": "2026-11-19T21:25:15.244098+05:30",
+      "seo_txt_path": "videos/27_12_26_short/renders/27_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-19T21:40:29.431195+05:30",
+      "realtime_seo_score": 94,
+      "realtime_seo_queries": [
+        "why does wood crackle in fire kids",
+        "why does wood burn",
+        "fireplace campfire",
+        "fireplace cartoon"
+      ]
     },
     {
       "id": "28_12_26_short",
       "topic_id": "28_12_26",
       "format": "short",
       "scheduled_slot_est": "15:30 EST",
-      "title": "Rock-a-bye Baby: Why Animals Hibernate and Sleep All Winter!",
+      "title": "Why Do Animals Hibernate?",
       "video_path": "G:\\Faceless-Shorts\\videos\\28_12_26_short\\renders\\28_12_26_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\28_12_26_short\\renders\\28_12_26_thumb.jpg",
       "seo_path": "G:\\Faceless-Shorts\\videos\\28_12_26_short\\seo_package.json",
@@ -1666,14 +1771,23 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-19T21:27:34.839346+05:30"
+      "updated_at_ist": "2026-11-19T21:27:34.839346+05:30",
+      "seo_txt_path": "videos/28_12_26_short/renders/28_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-19T21:40:29.772959+05:30",
+      "realtime_seo_score": 98,
+      "realtime_seo_queries": [
+        "why do animals hibernate for kids",
+        "why do animals hibernate",
+        "why do animals hibernate read aloud",
+        "why do animals hibernate book"
+      ]
     },
     {
       "id": "29_12_26_short",
       "topic_id": "29_12_26",
       "format": "short",
       "scheduled_slot_est": "15:30 EST",
-      "title": "Snow Clouds: How Fluffy Clouds Turn Into Soft Snowflakes!",
+      "title": "How Does Snow Form in Clouds?",
       "video_path": "G:\\Faceless-Shorts\\videos\\29_12_26_short\\renders\\29_12_26_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\29_12_26_short\\renders\\29_12_26_thumb.jpg",
       "seo_path": "G:\\Faceless-Shorts\\videos\\29_12_26_short\\seo_package.json",
@@ -1690,14 +1804,23 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-19T21:29:38.780291+05:30"
+      "updated_at_ist": "2026-11-19T21:29:38.780291+05:30",
+      "seo_txt_path": "videos/29_12_26_short/renders/29_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-19T21:40:30.132461+05:30",
+      "realtime_seo_score": 80,
+      "realtime_seo_queries": [
+        "how does snow form for kids",
+        "how does snow form",
+        "how does snow form for kindergarten",
+        "how does snow form in clouds"
+      ]
     },
     {
       "id": "30_12_26_short",
       "topic_id": "30_12_26",
       "format": "short",
       "scheduled_slot_est": "15:30 EST",
-      "title": "Hickory Dickory Dock: How Clocks Count Every Single Second!",
+      "title": "Hickory Dickory Dock S!",
       "video_path": "G:\\Faceless-Shorts\\videos\\30_12_26_short\\renders\\30_12_26_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\30_12_26_short\\renders\\30_12_26_thumb.jpg",
       "seo_path": "G:\\Faceless-Shorts\\videos\\30_12_26_short\\seo_package.json",
@@ -1714,9 +1837,18 @@
         "width": 1080,
         "height": 1920
       },
-      "updated_at_ist": "2026-11-19T21:32:10.497117+05:30"
+      "updated_at_ist": "2026-11-19T21:32:10.497117+05:30",
+      "seo_txt_path": "videos/30_12_26_short/renders/30_12_26_short_seo.txt",
+      "seo_updated_at_ist": "2026-11-19T21:40:30.539882+05:30",
+      "realtime_seo_score": 94,
+      "realtime_seo_queries": [
+        "hickory dickory dock rhyme for kids",
+        "hickory dickory dock rhyme",
+        "hickory dickory dock rhymes nursery",
+        "hickory dickory dock rhyme cast"
+      ]
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-19T17:33:18.601427+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-19T21:40:30.539958+05:30",
   "realtime_seo_us_trends_checked": 10
 }

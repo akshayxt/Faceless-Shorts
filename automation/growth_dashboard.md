@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-19 21:34:38 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-19 21:42:23 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -17,8 +17,8 @@
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `20` days / **`250.0` subs/day** |
-| Videos Rendered & Verified | **`51`** (`38` uploaded/scheduled, `13` remaining) |
-| Real-Time US SEO Sync | `2026-11-19T17:33:18.601427+05:30` |
+| Videos Rendered & Verified | **`51`** (`43` uploaded/scheduled, `8` remaining) |
+| Real-Time US SEO Sync | `2026-11-19T21:40:30.539958+05:30` |
 | Topic Backlog Remaining | `0` pending out of `50` scored |
 
 ## 2. Production & Upload Queue Status
@@ -63,19 +63,19 @@
 | `15_12_26_short` | short | Baa Baa Black Sheep Rhymes! | 94/100 | 2026-12-15 15:30:00 EST | 1080x1920, 40.0s | `SCHEDULED` | [15_12_26_short.mp4](videos/15_12_26_short/renders/15_12_26_short.mp4) |
 | `16_12_26_short` | short | Row Row Row Your Boat Rhymes 1st Std! | 100/100 | 2026-12-16 15:30:00 EST | 1080x1920, 39.96s | `SCHEDULED` | [16_12_26_short.mp4](videos/16_12_26_short/renders/16_12_26_short.mp4) |
 | `17_12_26_short` | short | Humpty Dumpty Rhyme! | 94/100 | 2026-12-17 15:30:00 EST | 1080x1920, 39.45s | `SCHEDULED` | [17_12_26_short.mp4](videos/17_12_26_short/renders/17_12_26_short.mp4) |
-| `18_12_26_short` | short | Frosty Snowflakes: Why No Two Snowflakes Are Ever Identical! | —/100 | 2026-12-18 15:30:00 EST | 1080x1920, 42.96s | `READY_FOR_UPLOAD` | [18_12_26_short.mp4](videos/18_12_26_short/renders/18_12_26_short.mp4) |
-| `19_12_26_short` | short | Three Little Kittens: How Mittens Keep Your Fingers Warm! | —/100 | 2026-12-19 15:30:00 EST | 1080x1920, 37.63s | `READY_FOR_UPLOAD` | [19_12_26_short.mp4](videos/19_12_26_short/renders/19_12_26_short.mp4) |
-| `20_12_26_short` | short | Pease Porridge Hot: Why Hot Cocoa Forms a Secret Skin on Top | —/100 | 2026-12-20 15:30:00 EST | 1080x1920, 41.86s | `READY_FOR_UPLOAD` | [20_12_26_short.mp4](videos/20_12_26_short/renders/20_12_26_short.mp4) |
-| `21_12_26_short` | short | Winter Solstice: Why Winter Nights Are the Longest of the Ye | —/100 | 2026-12-21 15:30:00 EST | 1080x1920, 42.09s | `READY_FOR_UPLOAD` | [21_12_26_short.mp4](videos/21_12_26_short/renders/21_12_26_short.mp4) |
-| `22_12_26_short` | short | Arctic Reindeer: Why Reindeer Eyes Turn Deep Blue in Winter! | —/100 | 2026-12-22 15:30:00 EST | 1080x1920, 38.35s | `READY_FOR_UPLOAD` | [22_12_26_short.mp4](videos/22_12_26_short/renders/22_12_26_short.mp4) |
-| `23_12_26_short` | short | Jack and Jill: Why Is Winter Ice So Slippery? | —/100 | 2026-12-23 15:30:00 EST | 1080x1920, 39.93s | `READY_FOR_UPLOAD` | [23_12_26_short.mp4](videos/23_12_26_short/renders/23_12_26_short.mp4) |
-| `24_12_26_short` | short | Jingle Bells: How Sleigh Runners Glide Across Packed Snow! | —/100 | 2026-12-24 15:30:00 EST | 1080x1920, 43.13s | `READY_FOR_UPLOAD` | [24_12_26_short.mp4](videos/24_12_26_short/renders/24_12_26_short.mp4) |
-| `25_12_26_short` | short | O Christmas Tree: Why Pine Trees Stay Green in Winter Snow! | —/100 | 2026-12-25 15:30:00 EST | 1080x1920, 41.48s | `READY_FOR_UPLOAD` | [25_12_26_short.mp4](videos/25_12_26_short/renders/25_12_26_short.mp4) |
-| `26_12_26_short` | short | Brrr It's Cold: Why Do We Shiver and Chattering Teeth? | —/100 | 2026-12-26 15:30:00 EST | 1080x1920, 43.76s | `READY_FOR_UPLOAD` | [26_12_26_short.mp4](videos/26_12_26_short/renders/26_12_26_short.mp4) |
-| `27_12_26_short` | short | Cozy Fireplace: Why Wood Crackles and Pops in the Fire! | —/100 | 2026-12-27 15:30:00 EST | 1080x1920, 43.9s | `READY_FOR_UPLOAD` | [27_12_26_short.mp4](videos/27_12_26_short/renders/27_12_26_short.mp4) |
-| `28_12_26_short` | short | Rock-a-bye Baby: Why Animals Hibernate and Sleep All Winter! | —/100 | 2026-12-28 15:30:00 EST | 1080x1920, 43.93s | `READY_FOR_UPLOAD` | [28_12_26_short.mp4](videos/28_12_26_short/renders/28_12_26_short.mp4) |
-| `29_12_26_short` | short | Snow Clouds: How Fluffy Clouds Turn Into Soft Snowflakes! | —/100 | 2026-12-29 15:30:00 EST | 1080x1920, 43.66s | `READY_FOR_UPLOAD` | [29_12_26_short.mp4](videos/29_12_26_short/renders/29_12_26_short.mp4) |
-| `30_12_26_short` | short | Hickory Dickory Dock: How Clocks Count Every Single Second! | —/100 | 2026-12-30 15:30:00 EST | 1080x1920, 42.69s | `READY_FOR_UPLOAD` | [30_12_26_short.mp4](videos/30_12_26_short/renders/30_12_26_short.mp4) |
+| `18_12_26_short` | short | Frosty Snowflakes: Why No Two Snowflakes Are Ever Identical! | 62/100 | 2026-12-18 15:30:00 EST | 1080x1920, 42.96s | `SCHEDULED` | [18_12_26_short.mp4](videos/18_12_26_short/renders/18_12_26_short.mp4) |
+| `19_12_26_short` | short | Three Little Kittens Cvs 3d Rhymes! | 100/100 | 2026-12-19 15:30:00 EST | 1080x1920, 37.63s | `SCHEDULED` | [19_12_26_short.mp4](videos/19_12_26_short/renders/19_12_26_short.mp4) |
+| `20_12_26_short` | short | Pease Porridge Hot: Why Hot Cocoa Forms a Secret Skin on Top | 48/100 | 2026-12-20 15:30:00 EST | 1080x1920, 41.86s | `SCHEDULED` | [20_12_26_short.mp4](videos/20_12_26_short/renders/20_12_26_short.mp4) |
+| `21_12_26_short` | short | Winter Solstice Band! | 94/100 | 2026-12-21 15:30:00 EST | 1080x1920, 42.09s | `SCHEDULED` | [21_12_26_short.mp4](videos/21_12_26_short/renders/21_12_26_short.mp4) |
+| `22_12_26_short` | short | Arctic Reindeer: Why Reindeer Eyes Turn Deep Blue in Winter! | 62/100 | 2026-12-22 15:30:00 EST | 1080x1920, 38.35s | `SCHEDULED` | [22_12_26_short.mp4](videos/22_12_26_short/renders/22_12_26_short.mp4) |
+| `23_12_26_short` | short | Jack and Jill: Why Is Winter Ice So Slippery? | 66/100 | 2026-12-23 15:30:00 EST | 1080x1920, 39.93s | `READY_FOR_UPLOAD` | [23_12_26_short.mp4](videos/23_12_26_short/renders/23_12_26_short.mp4) |
+| `24_12_26_short` | short | Jingle Bells Song! | 94/100 | 2026-12-24 15:30:00 EST | 1080x1920, 43.13s | `READY_FOR_UPLOAD` | [24_12_26_short.mp4](videos/24_12_26_short/renders/24_12_26_short.mp4) |
+| `25_12_26_short` | short | O Christmas Tree Cartoon! | 94/100 | 2026-12-25 15:30:00 EST | 1080x1920, 41.48s | `READY_FOR_UPLOAD` | [25_12_26_short.mp4](videos/25_12_26_short/renders/25_12_26_short.mp4) |
+| `26_12_26_short` | short | Brrr It's Cold: Why Do We Shiver and Chattering Teeth? | 66/100 | 2026-12-26 15:30:00 EST | 1080x1920, 43.76s | `READY_FOR_UPLOAD` | [26_12_26_short.mp4](videos/26_12_26_short/renders/26_12_26_short.mp4) |
+| `27_12_26_short` | short | Cozy Fire Relaxing Music! | 94/100 | 2026-12-27 15:30:00 EST | 1080x1920, 43.9s | `READY_FOR_UPLOAD` | [27_12_26_short.mp4](videos/27_12_26_short/renders/27_12_26_short.mp4) |
+| `28_12_26_short` | short | Why Do Animals Hibernate? | 98/100 | 2026-12-28 15:30:00 EST | 1080x1920, 43.93s | `READY_FOR_UPLOAD` | [28_12_26_short.mp4](videos/28_12_26_short/renders/28_12_26_short.mp4) |
+| `29_12_26_short` | short | How Does Snow Form in Clouds? | 80/100 | 2026-12-29 15:30:00 EST | 1080x1920, 43.66s | `READY_FOR_UPLOAD` | [29_12_26_short.mp4](videos/29_12_26_short/renders/29_12_26_short.mp4) |
+| `30_12_26_short` | short | Hickory Dickory Dock S! | 94/100 | 2026-12-30 15:30:00 EST | 1080x1920, 42.69s | `READY_FOR_UPLOAD` | [30_12_26_short.mp4](videos/30_12_26_short/renders/30_12_26_short.mp4) |
 
 ### Publishing Status Note
 - Automated unattended publishing runs via [`youtube_direct_upload.py`](file:///G:/Faceless-Shorts/automation/youtube_direct_upload.py) once Google OAuth credentials (`client_secrets.json`) are placed in `G:/Faceless-Shorts/automation/creds/`, **or** by opening a fresh chat session where `zapier_zapier` MCP tools are loaded and triggering upload from `upload_queue.json`.
@@ -98,19 +98,5 @@
 
 ## 4. Automation Loop Heartbeat (Latest Entries)
 ```text
-[2026-11-12 11:09:51 IST] [DASHBOARD]   File "G:\Faceless-Shorts\automation\refresh_dashboard.py", line 25, in read_json
-[2026-11-12 11:09:51 IST] [DASHBOARD]     return json.loads(p.read_text(encoding="utf-8"))
-[2026-11-12 11:09:51 IST] [DASHBOARD]            ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-[2026-11-12 11:09:51 IST] [DASHBOARD]   File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\json\__init__.py", line 352, in loads
-[2026-11-12 11:09:51 IST] [DASHBOARD]     return _default_decoder.decode(s)
-[2026-11-12 11:09:51 IST] [DASHBOARD]            ~~~~~~~~~~~~~~~~~~~~~~~^^^
-[2026-11-12 11:09:51 IST] [DASHBOARD]   File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\json\decoder.py", line 345, in decode
-[2026-11-12 11:09:51 IST] [DASHBOARD]     obj, end = self.raw_decode(s, idx=_w(s, 0).end())
-[2026-11-12 11:09:51 IST] [DASHBOARD]                ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
-[2026-11-12 11:09:51 IST] [DASHBOARD]   File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\json\decoder.py", line 361, in raw_decode
-[2026-11-12 11:09:51 IST] [DASHBOARD]     obj, end = self.scan_once(s, idx)
-[2026-11-12 11:09:51 IST] [DASHBOARD]                ~~~~~~~~~~~~~~^^^^^^^^
-[2026-11-12 11:09:51 IST] [DASHBOARD] json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 355 column 1 (char 15107)
-[2026-11-12 11:09:51 IST] [DASHBOARD] EXIT CODE=1: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\refresh_dashboard.py
-[2026-11-12 11:10:52 IST] STOP_AUTOPILOT sentinel detected. Exiting cleanly.
+No log lines recorded yet.
 ```

@@ -3,6 +3,36 @@
   "format": "short",
   "title_options": [
     {
+      "title": "How Does Snow Form in Clouds?",
+      "chars": 29,
+      "score": 80,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on snow - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "How Does Snow Form in Clouds? #Shorts",
+      "chars": 37,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on snow - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
       "title": "Snow Clouds: How Fluffy Clouds Turn Into Soft Snowflakes!",
       "chars": 57,
       "score": 62,
@@ -22,16 +52,12 @@
       ]
     }
   ],
-  "selected_title": "Snow Clouds: How Fluffy Clouds Turn Into Soft Snowflakes!",
+  "selected_title": "How Does Snow Form in Clouds?",
   "selected_title_lint": {
-    "title": "Snow Clouds: How Fluffy Clouds Turn Into Soft Snowflakes!",
-    "chars": 57,
-    "score": 62,
+    "title": "How Does Snow Form in Clouds?",
+    "chars": 29,
+    "score": 80,
     "issues": [
-      [
-        "mobile",
-        "a mobile feed shows about \"Snow Clouds: How Fluffy Clouds Turn...\" - check the subject survives"
-      ],
       [
         "no-number",
         "no number, date or name - the most reliable single fix"
@@ -40,9 +66,6 @@
         "duplicate",
         "thumbnail repeats the title on snow - the thumbnail should say what the title does not"
       ]
-    ],
-    "good": [
-      "57 characters, inside the 60-character desktop cut"
     ]
   },
   "thumb_text": "CLOUD TO SNOW!",
@@ -68,19 +91,40 @@
   ],
   "target_search_queries": [
     "how does snow form for kids",
-    "rain rain go away snow edition",
-    "snow clouds science cartoon",
-    "preschool weather science rhyme"
+    "how does snow form",
+    "how does snow form for kindergarten",
+    "how does snow form in clouds"
   ],
   "realtime_seo": {
-    "mode": "local_curated",
-    "fetched_at_ist": null,
-    "live_yt_suggest_queries": [],
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-19T21:40:25.330118+05:30",
+    "live_yt_suggest_queries": [
+      "how does snow form",
+      "how does snow form for kindergarten",
+      "how does snow form in clouds",
+      "how is snow formed for preschoolers",
+      "how does snow fall",
+      "how snow is formed kindergarten",
+      "how snow is formed animation",
+      "rain rain go away elf"
+    ],
     "matched_safe_us_trends": [],
-    "observed_us_hashtags": []
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
   },
-  "description": "Snow Clouds: How Fluffy Clouds Turn Into Soft Snowflakes! — Rain, rain go away... wait, it's too cold for rain! How do fluffy gray clouds turn water vapor into soft, fluffy white snow?\nKids science answer for \"how does snow form for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nWhen the upper atmosphere drops below 32 degrees Fahrenheit, water vapor bypasses liquid form through deposition, directly crystalizing into ice on microscopic pollen or mineral dust particles.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "description": "How Does Snow Form in Clouds? — Rain, rain go away... wait, it's too cold for rain! How do fluffy gray clouds turn water vapor into soft, fluffy white snow?\nKids science answer for \"how does snow form for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nWhen the upper atmosphere drops below 32 degrees Fahrenheit, water vapor bypasses liquid form through deposition, directly crystalizing into ice on microscopic pollen or mineral dust particles.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- how does snow form\n- how does snow form for kindergarten\n- how does snow form in clouds\n- how is snow formed for preschoolers\n- how does snow fall\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
+    "how does snow form",
+    "how does snow form for kindergarten",
+    "how does snow form in clouds",
+    "how is snow formed for preschoolers",
+    "how does snow fall",
+    "how snow is formed kindergarten",
     "how does snow form for kids",
     "rain rain go away snow edition",
     "snow clouds science cartoon",
@@ -89,16 +133,15 @@
     "kids science cartoon",
     "science for kids",
     "educational cartoons for kids",
-    "fun facts for kids",
-    "youtube shorts",
-    "shorts"
+    "fun facts for kids"
   ],
   "hashtags": [
     "#BabyBeatsRhymo",
     "#KidsScience",
     "#ScienceForKids",
     "#EducationalCartoons",
-    "#Shorts"
+    "#Shorts",
+    "#facts"
   ],
   "chapters": [],
   "pinned_comment": "Did you know this before today? Drop your next curious science question below!",

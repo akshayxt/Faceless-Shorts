@@ -3,6 +3,178 @@
   "format": "short",
   "title_options": [
     {
+      "title": "Cozy Fire Relaxing Music!",
+      "chars": 25,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Cozy Fire Relaxing Music! #Shorts",
+      "chars": 33,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Cozy Fireplace Calming Music!",
+      "chars": 29,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on fireplace - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Fireplace with Crackling Fire!",
+      "chars": 30,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on fireplace - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Cozy Fireplace Ambience Music!",
+      "chars": 30,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on fireplace - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Cozy Fireplace Relaxing Music!",
+      "chars": 30,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on fireplace - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Cozy Fireplace Christmas Music!",
+      "chars": 31,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on fireplace - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Cozy Fireplace Calming Music! #Shorts",
+      "chars": 37,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on fireplace - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Fireplace with Crackling Fire! #Shorts",
+      "chars": 38,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on fireplace - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Cozy Fireplace Ambience Music! #Shorts",
+      "chars": 38,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on fireplace - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Cozy Fireplace Relaxing Music! #Shorts",
+      "chars": 38,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on fireplace - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Cozy Fireplace Christmas Music! #Shorts",
+      "chars": 39,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on fireplace - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
       "title": "Cozy Fireplace: Why Wood Crackles and Pops in the Fire!",
       "chars": 55,
       "score": 62,
@@ -22,27 +194,16 @@
       ]
     }
   ],
-  "selected_title": "Cozy Fireplace: Why Wood Crackles and Pops in the Fire!",
+  "selected_title": "Cozy Fire Relaxing Music!",
   "selected_title_lint": {
-    "title": "Cozy Fireplace: Why Wood Crackles and Pops in the Fire!",
-    "chars": 55,
-    "score": 62,
+    "title": "Cozy Fire Relaxing Music!",
+    "chars": 25,
+    "score": 94,
     "issues": [
-      [
-        "mobile",
-        "a mobile feed shows about \"Cozy Fireplace: Why Wood Crackles and...\" - check the subject survives"
-      ],
       [
         "no-number",
         "no number, date or name - the most reliable single fix"
-      ],
-      [
-        "duplicate",
-        "thumbnail repeats the title on fireplace, pops - the thumbnail should say what the title does not"
       ]
-    ],
-    "good": [
-      "55 characters, inside the 60-character desktop cut"
     ]
   },
   "thumb_text": "FIREPLACE POPS?!",
@@ -68,19 +229,40 @@
   ],
   "target_search_queries": [
     "why does wood crackle in fire kids",
-    "fireplace campfire science cartoon",
-    "cozy fire nursery rhyme",
-    "wood popping science preschool"
+    "why does wood burn",
+    "fireplace campfire",
+    "fireplace cartoon"
   ],
   "realtime_seo": {
-    "mode": "local_curated",
-    "fetched_at_ist": null,
-    "live_yt_suggest_queries": [],
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-19T21:40:25.330118+05:30",
+    "live_yt_suggest_queries": [
+      "why does wood burn",
+      "fireplace campfire",
+      "fireplace cartoon",
+      "fireplace with crackling fire",
+      "cozy fireplace calming music",
+      "cozy fireplace ambience music",
+      "cozy fireplace relaxing music",
+      "cozy fireplace christmas music"
+    ],
     "matched_safe_us_trends": [],
-    "observed_us_hashtags": []
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
   },
-  "description": "Cozy Fireplace: Why Wood Crackles and Pops in the Fire! — Sitting cozy by the fireplace! Crackle, pop, snap! Have you ever wondered what makes burning logs pop and shoot out tiny sparks?\nKids science answer for \"why does wood crackle in fire kids\" with fun 2D animation by BabyBeats Rhymo!\n\nWood contains trapped pockets of water, resin, and sap deep inside microscopic cellulose tubes. As heat turns trapped water to expanding steam, the high pressure ruptures the wood chamber with a loud pop!\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "description": "Cozy Fire Relaxing Music! — Sitting cozy by the fireplace! Crackle, pop, snap! Have you ever wondered what makes burning logs pop and shoot out tiny sparks?\nKids science answer for \"why does wood crackle in fire kids\" with fun 2D animation by BabyBeats Rhymo!\n\nWood contains trapped pockets of water, resin, and sap deep inside microscopic cellulose tubes. As heat turns trapped water to expanding steam, the high pressure ruptures the wood chamber with a loud pop!\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- why does wood burn\n- fireplace campfire\n- fireplace cartoon\n- fireplace with crackling fire\n- cozy fireplace calming music\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
+    "why does wood burn",
+    "fireplace campfire",
+    "fireplace cartoon",
+    "fireplace with crackling fire",
+    "cozy fireplace calming music",
+    "cozy fireplace ambience music",
     "why does wood crackle in fire kids",
     "fireplace campfire science cartoon",
     "cozy fire nursery rhyme",
@@ -89,16 +271,15 @@
     "kids science cartoon",
     "science for kids",
     "educational cartoons for kids",
-    "fun facts for kids",
-    "youtube shorts",
-    "shorts"
+    "fun facts for kids"
   ],
   "hashtags": [
     "#BabyBeatsRhymo",
     "#KidsScience",
     "#ScienceForKids",
     "#EducationalCartoons",
-    "#Shorts"
+    "#Shorts",
+    "#facts"
   ],
   "chapters": [],
   "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
