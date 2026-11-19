@@ -18,6 +18,7 @@ DEFAULT_BRANCH = "main"
 
 PULL_PATHS = (
     "automation/data/upload_queue.json",
+    "automation/data/uploaded_videos_archive.json",
     "automation/data/30day_topic_queue.json",
     "automation/data/growth_tracker.json",
     "automation/data/bot_settings.json",
@@ -86,6 +87,7 @@ def pull_state_files() -> dict:
 def _candidate_sync_paths() -> list[Path]:
     paths: list[Path] = [
         AUTO_DIR / "data" / "upload_queue.json",
+        AUTO_DIR / "data" / "uploaded_videos_archive.json",
         AUTO_DIR / "data" / "30day_topic_queue.json",
         AUTO_DIR / "data" / "growth_tracker.json",
         AUTO_DIR / "data" / "bot_settings.json",
@@ -133,23 +135,21 @@ def push_changed_files(commit_message: str = "chore(cloud-server): sync SEO, upl
         if remote_shas.get(rel) != _git_blob_sha(raw):
             changed.append((rel, raw))
 
-    # Automatically purge uploaded video & audio files from remote GitHub repository tree
+    # Automatically purge uploaded video projects and media files from remote GitHub repository tree
     to_delete_remote: list[str] = []
     uq_path = AUTO_DIR / "data" / "upload_queue.json"
     if uq_path.exists():
         try:
+            from auto_clean_archive import archive_and_clean_all
+            archive_and_clean_all(remove_from_disk=False, git_rm=False)
             uq = json.loads(uq_path.read_text(encoding="utf-8"))
             for it in uq.get("items", []):
                 if it.get("status") in ("UPLOADED", "SCHEDULED", "UPLOADED_PRIVATE") or it.get("youtube_video_id"):
                     iid = it.get("id")
-                    for cand in (
-                        f"videos/{iid}/renders/{iid}.mp4",
-                        f"videos/{iid}/{iid}.mp4",
-                        f"videos/{iid}/data/mix.wav",
-                        f"videos/{iid}/data/narration.wav",
-                    ):
-                        if cand in remote_shas:
-                            to_delete_remote.append(cand)
+                    prefix = f"videos/{iid}/"
+                    for remote_path in remote_shas:
+                        if remote_path.startswith(prefix):
+                            to_delete_remote.append(remote_path)
         except Exception as exc:
             print(f"GITHUB_SYNC_PRUNE_WARN: {exc}", flush=True)
 

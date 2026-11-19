@@ -326,18 +326,10 @@ def sync_from_channel(client: ZapierMcpClient, connection_id: str) -> dict:
 
 
 def clean_uploaded_media(item_id: str) -> None:
-    """Delete uploaded video file (.mp4) and heavy audio from disk once confirmed on YouTube."""
+    """Delete uploaded video file (.mp4), heavy audio, and archive metadata once confirmed on YouTube."""
     try:
-        from repo_paths import ROOT_DIR
-        for p in (
-            ROOT_DIR / "videos" / item_id / "renders" / f"{item_id}.mp4",
-            ROOT_DIR / "videos" / item_id / f"{item_id}.mp4",
-            ROOT_DIR / "videos" / item_id / "data" / "mix.wav",
-            ROOT_DIR / "videos" / item_id / "data" / "narration.wav",
-        ):
-            if p.exists() and p.is_file():
-                p.unlink(missing_ok=True)
-                print(f"CLEANED_UPLOADED_MEDIA {item_id} -> deleted {p.name}", flush=True)
+        from auto_clean_archive import archive_single_item
+        archive_single_item(item_id)
     except Exception as exc:
         print(f"CLEAN_MEDIA_WARN {item_id}: {exc}", flush=True)
 
