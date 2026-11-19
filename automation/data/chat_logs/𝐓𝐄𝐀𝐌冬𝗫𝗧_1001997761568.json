@@ -2,7 +2,7 @@
   "chat_id": -1001997761568,
   "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
   "created_at_ist": "2026-11-17 11:31:28 IST",
-  "updated_at_ist": "2026-11-19 11:14:19 IST",
+  "updated_at_ist": "2026-11-19 11:18:41 IST",
   "messages": [
     {
       "msg_id": 27049,
@@ -1623,6 +1623,36 @@
       "sender_name": "Aʏᴀɴᴏᴋᴏᴢɪ !! ❄️",
       "text": "@Akshat_xt dm",
       "date_ist": "2026-11-19 11:14:19 IST"
+    },
+    {
+      "msg_id": 27414,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 6753468481,
+      "sender_username": "Akshat_xt",
+      "sender_name": "Aᴋsʜᴀᴛ ࿐●",
+      "text": "/removepuser 6753468481",
+      "date_ist": "2026-11-19 11:17:19 IST"
+    },
+    {
+      "msg_id": 27418,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 6753468481,
+      "sender_username": "Akshat_xt",
+      "sender_name": "Aᴋsʜᴀᴛ ࿐●",
+      "text": "/q",
+      "date_ist": "2026-11-19 11:18:28 IST"
+    },
+    {
+      "msg_id": 27419,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 6753468481,
+      "sender_username": "Akshat_xt",
+      "sender_name": "Aᴋsʜᴀᴛ ࿐●",
+      "text": "@Unfrozed",
+      "date_ist": "2026-11-19 11:18:41 IST"
     }
   ]
 }
