@@ -1,0 +1,139 @@
+{
+  "topic_id": "20_12_26",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Pease Porridge Hot: Why Hot Cocoa Forms a Secret Skin on Top",
+      "chars": 60,
+      "score": 48,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Pease Porridge Hot: Why Hot Cocoa Forms...\" - check the subject survives"
+        ],
+        [
+          "vague",
+          "secret - swap for a number, a name or a date"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on cocoa, hot, skin - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Pease Porridge Hot: Why Hot Cocoa Forms a Secret Skin on Top",
+  "selected_title_lint": {
+    "title": "Pease Porridge Hot: Why Hot Cocoa Forms a Secret Skin on Top",
+    "chars": 60,
+    "score": 48,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Pease Porridge Hot: Why Hot Cocoa Forms...\" - check the subject survives"
+      ],
+      [
+        "vague",
+        "secret - swap for a number, a name or a date"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on cocoa, hot, skin - the thumbnail should say what the title does not"
+      ]
+    ]
+  },
+  "thumb_text": "HOT COCOA SKIN?!",
+  "hook_lint": {
+    "hook": "Pease porridge hot, pease porridge cold! Ever notice that weird thin skin that forms on top of your warm hot cocoa?",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 46,
+      "STAKES": 22,
+      "CURIOSITY": 42,
+      "BREVITY": 100
+    },
+    "verdict": 39,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "hot cocoa science for kids",
+  "supporting_keywords": [
+    "pease porridge hot rhyme kids",
+    "why does milk form a skin",
+    "winter hot chocolate cartoon"
+  ],
+  "target_search_queries": [
+    "hot cocoa science for kids",
+    "hot chocolate science experiment",
+    "hot cocoa water",
+    "hot cocoa hot cocoa"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-19T21:40:25.330118+05:30",
+    "live_yt_suggest_queries": [
+      "hot chocolate science experiment",
+      "hot cocoa water",
+      "hot cocoa hot cocoa",
+      "hot cocoa drink",
+      "when does milk form in breast",
+      "is milk bad for skin",
+      "what does milk do to your skin",
+      "human body facts for kids"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "Pease Porridge Hot: Why Hot Cocoa Forms a Secret Skin on Top — Pease porridge hot, pease porridge cold! Ever notice that weird thin skin that forms on top of your warm hot cocoa?\nKids science answer for \"hot cocoa science for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nWhen warm milk or cocoa sits on the counter, water evaporates from the surface while milk proteins like casein and whey dry out and tangle together, forming a harmless rubbery film on top.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- hot chocolate science experiment\n- hot cocoa water\n- hot cocoa hot cocoa\n- hot cocoa drink\n- when does milk form in breast\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "hot chocolate science experiment",
+    "hot cocoa water",
+    "hot cocoa hot cocoa",
+    "hot cocoa drink",
+    "when does milk form in breast",
+    "is milk bad for skin",
+    "hot cocoa science for kids",
+    "pease porridge hot rhyme kids",
+    "why does milk form a skin",
+    "winter hot chocolate cartoon",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}
