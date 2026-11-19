@@ -2,7 +2,7 @@
   "chat_id": -1003968526041,
   "chat_title": "𝗠𝚯𝚵𝐁𝗜𝗨𝗦 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗖𝗘𝗡𝗧𝗘𝗥 𒆜",
   "created_at_ist": "2026-11-17 11:36:39 IST",
-  "updated_at_ist": "2026-11-19 11:16:46 IST",
+  "updated_at_ist": "2026-11-20 00:33:13 IST",
   "messages": [
     {
       "msg_id": 59,
@@ -83,6 +83,36 @@
       "sender_name": "Aᴋsʜᴀᴛ ࿐●",
       "text": "/plane",
       "date_ist": "2026-11-19 11:16:46 IST"
+    },
+    {
+      "msg_id": 90,
+      "chat_id": -1003968526041,
+      "chat_title": "𝗠𝚯𝚵𝐁𝗜𝗨𝗦 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗖𝗘𝗡𝗧𝗘𝗥 𒆜",
+      "sender_id": 6753468481,
+      "sender_username": "Akshat_xt",
+      "sender_name": "Aᴋsʜᴀᴛ ࿐●",
+      "text": "/play chali aa",
+      "date_ist": "2026-11-20 00:31:54 IST"
+    },
+    {
+      "msg_id": 92,
+      "chat_id": -1003968526041,
+      "chat_title": "𝗠𝚯𝚵𝐁𝗜𝗨𝗦 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗖𝗘𝗡𝗧𝗘𝗥 𒆜",
+      "sender_id": 6753468481,
+      "sender_username": "Akshat_xt",
+      "sender_name": "Aᴋsʜᴀᴛ ࿐●",
+      "text": "/logs",
+      "date_ist": "2026-11-20 00:32:00 IST"
+    },
+    {
+      "msg_id": 96,
+      "chat_id": -1003968526041,
+      "chat_title": "𝗠𝚯𝚵𝐁𝗜𝗨𝗦 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗖𝗘𝗡𝗧𝗘𝗥 𒆜",
+      "sender_id": 7118065044,
+      "sender_username": "AkshayGangwar",
+      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
+      "text": "/play safar",
+      "date_ist": "2026-11-20 00:33:13 IST"
     }
   ]
 }
