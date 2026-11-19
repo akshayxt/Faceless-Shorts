@@ -1,0 +1,114 @@
+{
+  "topic_id": "27_12_26",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Cozy Fireplace: Why Wood Crackles and Pops in the Fire!",
+      "chars": 55,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Cozy Fireplace: Why Wood Crackles and...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on fireplace, pops - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Cozy Fireplace: Why Wood Crackles and Pops in the Fire!",
+  "selected_title_lint": {
+    "title": "Cozy Fireplace: Why Wood Crackles and Pops in the Fire!",
+    "chars": 55,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Cozy Fireplace: Why Wood Crackles and...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on fireplace, pops - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "55 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "FIREPLACE POPS?!",
+  "hook_lint": {
+    "hook": "Sitting cozy by the fireplace! Crackle, pop, snap! Have you ever wondered what makes burning logs pop and shoot out tiny sparks?",
+    "properties": {
+      "SPECIFICITY": 46,
+      "ADDRESS": 46,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 42,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "why does wood crackle in fire kids",
+  "supporting_keywords": [
+    "fireplace campfire science cartoon",
+    "cozy fire nursery rhyme",
+    "wood popping science preschool"
+  ],
+  "target_search_queries": [
+    "why does wood crackle in fire kids",
+    "fireplace campfire science cartoon",
+    "cozy fire nursery rhyme",
+    "wood popping science preschool"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Cozy Fireplace: Why Wood Crackles and Pops in the Fire! — Sitting cozy by the fireplace! Crackle, pop, snap! Have you ever wondered what makes burning logs pop and shoot out tiny sparks?\nKids science answer for \"why does wood crackle in fire kids\" with fun 2D animation by BabyBeats Rhymo!\n\nWood contains trapped pockets of water, resin, and sap deep inside microscopic cellulose tubes. As heat turns trapped water to expanding steam, the high pressure ruptures the wood chamber with a loud pop!\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "why does wood crackle in fire kids",
+    "fireplace campfire science cartoon",
+    "cozy fire nursery rhyme",
+    "wood popping science preschool",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

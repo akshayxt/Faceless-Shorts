@@ -1,0 +1,61 @@
+{
+ "duration": 43.903,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Warm little fire glowing bright, chasing away the chilly night!",
+   "start": 0.35,
+   "end": 4.02
+  },
+  {
+   "i": 1,
+   "text": "Snap, crackle, pop! What makes wooden logs pop and spark inside the fireplace?",
+   "start": 4.27,
+   "end": 9.177
+  },
+  {
+   "i": 2,
+   "text": "Even dry firewood has tiny droplets of water and tree sap trapped deep inside!",
+   "start": 9.427,
+   "end": 14.522
+  },
+  {
+   "i": 3,
+   "text": "Wood is made of microscopic cellulose straws that once carried water up the tree!",
+   "start": 14.772,
+   "end": 19.305
+  },
+  {
+   "i": 4,
+   "text": "As fierce fire heats the log, that trapped water boils and turns into expanding steam!",
+   "start": 19.555,
+   "end": 24.793
+  },
+  {
+   "i": 5,
+   "text": "The steam expands over a thousand times, building immense pressure inside the wood tube!",
+   "start": 25.043,
+   "end": 30.108
+  },
+  {
+   "i": 6,
+   "text": "Bam! The wood pocket bursts open with a loud pop, releasing a dancing spark!",
+   "start": 30.358,
+   "end": 35.199
+  },
+  {
+   "i": 7,
+   "text": "Now you know the cozy physics behind your crackling winter fire!",
+   "start": 35.449,
+   "end": 38.823
+  },
+  {
+   "i": 8,
+   "text": "Spark your curiosity and subscribe to BabyBeats Rhymo!",
+   "start": 39.073,
+   "end": 42.803
+  }
+ ]
+}

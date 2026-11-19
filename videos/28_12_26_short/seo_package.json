@@ -1,0 +1,107 @@
+{
+  "topic_id": "28_12_26",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Rock-a-bye Baby: Why Animals Hibernate and Sleep All Winter!",
+      "chars": 60,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Rock-a-bye Baby: Why Animals Hibernate...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Rock-a-bye Baby: Why Animals Hibernate and Sleep All Winter!",
+  "selected_title_lint": {
+    "title": "Rock-a-bye Baby: Why Animals Hibernate and Sleep All Winter!",
+    "chars": 60,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Rock-a-bye Baby: Why Animals Hibernate...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ]
+    ],
+    "good": [
+      "60 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  "thumb_text": "HIBERNATION SECRET!",
+  "hook_lint": {
+    "hook": "Rock-a-bye baby on the tree top! When winter comes, why do bears, bats, and frogs go to sleep for months and months?",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 38,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "why do animals hibernate for kids",
+  "supporting_keywords": [
+    "bear hibernation science cartoon",
+    "rock a bye baby animal rhyme",
+    "winter sleep animals preschool"
+  ],
+  "target_search_queries": [
+    "why do animals hibernate for kids",
+    "bear hibernation science cartoon",
+    "rock a bye baby animal rhyme",
+    "winter sleep animals preschool"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Rock-a-bye Baby: Why Animals Hibernate and Sleep All Winter! — Rock-a-bye baby on the tree top! When winter comes, why do bears, bats, and frogs go to sleep for months and months?\nKids science answer for \"why do animals hibernate for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nWinter brings scarce food and freezing temperatures. Hibernating animals drastically slow down their heartbeat, body temperature, and metabolism to live off stored fat until spring flowers bloom.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "why do animals hibernate for kids",
+    "bear hibernation science cartoon",
+    "rock a bye baby animal rhyme",
+    "winter sleep animals preschool",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

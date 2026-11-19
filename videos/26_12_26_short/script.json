@@ -1,0 +1,52 @@
+{
+  "title": "Brrr It's Cold: Why Do We Shiver and Chattering Teeth?",
+  "thumb_text": "WHY WE SHIVER!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.nasa.gov/kidsclub"
+  ],
+  "lines": [
+    {
+      "text": "Brrr, brrr, blow the winter wind, wrap your scarf up to your chin!",
+      "caps": "*BRRR, brrr, blow the winter *WIND, | wrap your scarf up to your *CHIN!"
+    },
+    {
+      "text": "Why do our muscles shake and our teeth go clack-clack-clack when we feel chilly?",
+      "caps": "Why do our muscles *SHAKE | and our teeth go clack-clack-clack *WHEN | we feel *CHILLY?"
+    },
+    {
+      "text": "Shivering is your body's built-in emergency heating furnace!",
+      "caps": "Shivering is your body's *BUILT-IN | emergency heating *FURNACE!"
+    },
+    {
+      "text": "When tiny thermometers in your skin feel the cold, your brain sends an instant alert!",
+      "caps": "When tiny thermometers in your *SKIN | feel the cold, your brain sends an *INSTANT | *ALERT!"
+    },
+    {
+      "text": "Your brain commands skeletal muscles to twitch and tighten up to thirty times a second!",
+      "caps": "Your brain commands skeletal *MUSCLES | to twitch and tighten up to thirty times a *SECOND!"
+    },
+    {
+      "text": "Rapid muscle movement burns stored glucose energy and releases warm thermal heat!",
+      "caps": "Rapid muscle movement burns *STORED | glucose energy and releases warm *THERMAL | *HEAT!"
+    },
+    {
+      "text": "Your jaw muscles contract too, making your teeth chatter together!",
+      "caps": "Your jaw muscles *CONTRACT | too, making your teeth *CHATTER | *TOGETHER!"
+    },
+    {
+      "text": "Shivering quickly warms your core back up to a toasty ninety-eight degrees!",
+      "caps": "Shivering quickly warms your *CORE | back up to a toasty ninety-eight *DEGREES!"
+    },
+    {
+      "text": "Warm up with smart science—subscribe to BabyBeats Rhymo!",
+      "caps": "*WARM up with smart | *SCIENCE— | *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

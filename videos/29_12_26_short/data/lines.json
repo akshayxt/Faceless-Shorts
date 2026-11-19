@@ -1,0 +1,61 @@
+{
+ "duration": 43.664,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Rain, rain, go away, come again another day!",
+   "start": 0.35,
+   "end": 3.03
+  },
+  {
+   "i": 1,
+   "text": "But when winter temperatures drop below freezing, rain turns into magical snow!",
+   "start": 3.28,
+   "end": 7.89
+  },
+  {
+   "i": 2,
+   "text": "How does invisible vapor floating in fluffy clouds turn into soft white snowflakes?",
+   "start": 8.14,
+   "end": 13.26
+  },
+  {
+   "i": 3,
+   "text": "High in the cold sky, clouds are filled with freezing water vapor and tiny floating dust!",
+   "start": 13.51,
+   "end": 18.988
+  },
+  {
+   "i": 4,
+   "text": "When the temperature dips below thirty-two degrees Fahrenheit, magic happens!",
+   "start": 19.238,
+   "end": 23.883
+  },
+  {
+   "i": 5,
+   "text": "Water vapor skips turning into rain and crystalizes directly into solid ice!",
+   "start": 24.133,
+   "end": 29.055
+  },
+  {
+   "i": 6,
+   "text": "Billions of tiny ice crystals group together into soft, puffy snowflakes!",
+   "start": 29.305,
+   "end": 34.009
+  },
+  {
+   "i": 7,
+   "text": "When they become too heavy for the cloud to hold, they gently float down to Earth!",
+   "start": 34.259,
+   "end": 38.594
+  },
+  {
+   "i": 8,
+   "text": "Snow into more fun science and subscribe to BabyBeats Rhymo!",
+   "start": 38.844,
+   "end": 42.564
+  }
+ ]
+}

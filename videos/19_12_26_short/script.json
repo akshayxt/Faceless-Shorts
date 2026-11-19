@@ -1,0 +1,52 @@
+{
+  "title": "Three Little Kittens: How Mittens Keep Your Fingers Warm!",
+  "thumb_text": "MITTEN MAGIC!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.nasa.gov/kidsclub"
+  ],
+  "lines": [
+    {
+      "text": "Three little kittens, they lost their mittens, and they began to cry!",
+      "caps": "Three little *KITTENS, | they lost their *MITTENS, | and they began to *CRY!"
+    },
+    {
+      "text": "Oh mother dear, our paws are freezing cold outside!",
+      "caps": "Oh mother *DEAR, | our paws are *FREEZING | cold *OUTSIDE!"
+    },
+    {
+      "text": "Put on your mittens! But did you know mittens don't actually make any heat?",
+      "caps": "Put on your *MITTENS! | But did you know mittens *DON'T | actually make any *HEAT?"
+    },
+    {
+      "text": "Your own body makes warm heat like a little internal furnace!",
+      "caps": "Your own body *MAKES | warm heat like a *LITTLE | internal *FURNACE!"
+    },
+    {
+      "text": "Fluffy wool fibers trap millions of microscopic pockets of still air!",
+      "caps": "Fluffy wool fibers *TRAP | millions of microscopic *POCKETS | of still *AIR!"
+    },
+    {
+      "text": "Trapped air is a super insulator that stops cold air from stealing your warmth!",
+      "caps": "Trapped air is a super *INSULATOR | that stops cold air from *STEALING | your *WARMTH!"
+    },
+    {
+      "text": "And inside mittens, your fingers huddle together to share their heat!",
+      "caps": "And inside *MITTENS, | your fingers huddle *TOGETHER | to share their *HEAT!"
+    },
+    {
+      "text": "Now you know the cozy physics behind Three Little Kittens and their mittens!",
+      "caps": "Now you *KNOW | the cozy *PHYSICS | behind Three Little *KITTENS | and their mittens!"
+    },
+    {
+      "text": "Stay warm and smart—subscribe to BabyBeats Rhymo!",
+      "caps": "Stay *WARM and smart— | *SUBSCRIBE to | *BABYBEATS | *RHYMO!"
+    }
+  ]
+}

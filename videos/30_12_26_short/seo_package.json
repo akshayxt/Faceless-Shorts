@@ -1,0 +1,114 @@
+{
+  "topic_id": "30_12_26",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Hickory Dickory Dock: How Clocks Count Every Single Second!",
+      "chars": 59,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Hickory Dickory Dock: How Clocks Count...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on clocks - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Hickory Dickory Dock: How Clocks Count Every Single Second!",
+  "selected_title_lint": {
+    "title": "Hickory Dickory Dock: How Clocks Count Every Single Second!",
+    "chars": 59,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Hickory Dickory Dock: How Clocks Count...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on clocks - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "59 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "HOW CLOCKS TICK!",
+  "hook_lint": {
+    "hook": "Hickory dickory dock, the mouse ran up the clock! The clock struck one! But how does a ticking clock know exactly how long a second is?",
+    "properties": {
+      "SPECIFICITY": 46,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 93,
+      "BREVITY": 86
+    },
+    "verdict": 42,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "hickory dickory dock rhyme for kids",
+  "supporting_keywords": [
+    "how clocks work science for kids",
+    "hickory dickory dock cartoon",
+    "preschool time clock song"
+  ],
+  "target_search_queries": [
+    "hickory dickory dock rhyme for kids",
+    "how clocks work science for kids",
+    "hickory dickory dock cartoon",
+    "preschool time clock song"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Hickory Dickory Dock: How Clocks Count Every Single Second! — Hickory dickory dock, the mouse ran up the clock! The clock struck one! But how does a ticking clock know exactly how long a second is?\nKids science answer for \"hickory dickory dock rhyme for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nInside old grandfather clocks, a swinging pendulum takes the exact same time on every swing, releasing gears tooth by tooth. Modern clocks use a tiny quartz crystal vibrating 32,768 times every second!\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "hickory dickory dock rhyme for kids",
+    "how clocks work science for kids",
+    "hickory dickory dock cartoon",
+    "preschool time clock song",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

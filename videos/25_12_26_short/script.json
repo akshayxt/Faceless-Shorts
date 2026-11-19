@@ -1,0 +1,52 @@
+{
+  "title": "O Christmas Tree: Why Pine Trees Stay Green in Winter Snow!",
+  "thumb_text": "EVERGREEN SECRET!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.nasa.gov/kidsclub"
+  ],
+  "lines": [
+    {
+      "text": "O Christmas tree, O Christmas tree, how lovely are your branches!",
+      "caps": "O Christmas *TREE, | O Christmas tree, how *LOVELY | are your *BRANCHES!"
+    },
+    {
+      "text": "While oak and maple trees drop all their leaves, pine trees stay brilliantly green!",
+      "caps": "While oak and maple trees *DROP | all their leaves, pine trees stay *BRILLIANTLY | *GREEN!"
+    },
+    {
+      "text": "Why don't evergreen trees freeze and lose their needles in the snow?",
+      "caps": "Why don't evergreen trees *FREEZE | and lose their needles in the *SNOW?"
+    },
+    {
+      "text": "Pine needles are super skinny, so heavy snow slides right off without snapping branches!",
+      "caps": "Pine needles are super *SKINNY, | so heavy snow slides right *OFF | without snapping *BRANCHES!"
+    },
+    {
+      "text": "Each needle is coated in a thick, waterproof wax called cuticle that locks in water!",
+      "caps": "Each needle is coated in a *THICK, | waterproof wax called *CUTICLE | that locks in *WATER!"
+    },
+    {
+      "text": "Inside their cells, evergreen trees produce natural sugar antifreeze!",
+      "caps": "Inside their *CELLS, | evergreen trees produce natural *SUGAR | *ANTIFREEZE!"
+    },
+    {
+      "text": "This stops winter ice crystals from puncturing delicate plant cells!",
+      "caps": "This stops winter ice *CRYSTALS | from puncturing delicate plant *CELLS!"
+    },
+    {
+      "text": "Now you know the botanical secret behind O Christmas Tree!",
+      "caps": "Now you *KNOW | the botanical *SECRET | behind O Christmas *TREE!"
+    },
+    {
+      "text": "Celebrate nature's wonders and subscribe to BabyBeats Rhymo!",
+      "caps": "*CELEBRATE nature's | wonders and *SUBSCRIBE | to *BABYBEATS | *RHYMO!"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "topic_id": "29_12_26",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Snow Clouds: How Fluffy Clouds Turn Into Soft Snowflakes!",
+      "chars": 57,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Snow Clouds: How Fluffy Clouds Turn...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on snow - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Snow Clouds: How Fluffy Clouds Turn Into Soft Snowflakes!",
+  "selected_title_lint": {
+    "title": "Snow Clouds: How Fluffy Clouds Turn Into Soft Snowflakes!",
+    "chars": 57,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Snow Clouds: How Fluffy Clouds Turn...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on snow - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "57 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "CLOUD TO SNOW!",
+  "hook_lint": {
+    "hook": "Rain, rain go away... wait, it's too cold for rain! How do fluffy gray clouds turn water vapor into soft, fluffy white snow?",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 38,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "how does snow form for kids",
+  "supporting_keywords": [
+    "rain rain go away snow edition",
+    "snow clouds science cartoon",
+    "preschool weather science rhyme"
+  ],
+  "target_search_queries": [
+    "how does snow form for kids",
+    "rain rain go away snow edition",
+    "snow clouds science cartoon",
+    "preschool weather science rhyme"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Snow Clouds: How Fluffy Clouds Turn Into Soft Snowflakes! — Rain, rain go away... wait, it's too cold for rain! How do fluffy gray clouds turn water vapor into soft, fluffy white snow?\nKids science answer for \"how does snow form for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nWhen the upper atmosphere drops below 32 degrees Fahrenheit, water vapor bypasses liquid form through deposition, directly crystalizing into ice on microscopic pollen or mineral dust particles.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "how does snow form for kids",
+    "rain rain go away snow edition",
+    "snow clouds science cartoon",
+    "preschool weather science rhyme",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

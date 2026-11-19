@@ -1,0 +1,111 @@
+{
+  "topic_id": "21_12_26",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Winter Solstice: Why Winter Nights Are the Longest of the Ye",
+      "chars": 60,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Winter Solstice: Why Winter Nights Are...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on longest - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Winter Solstice: Why Winter Nights Are the Longest of the Ye",
+  "selected_title_lint": {
+    "title": "Winter Solstice: Why Winter Nights Are the Longest of the Ye",
+    "chars": 60,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Winter Solstice: Why Winter Nights Are...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on longest - the thumbnail should say what the title does not"
+      ]
+    ]
+  },
+  "thumb_text": "LONGEST NIGHT?!",
+  "hook_lint": {
+    "hook": "Welcome to the Winter Solstice! Today is the shortest day and longest night of the entire year! Why does that happen?",
+    "properties": {
+      "SPECIFICITY": 42,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 39,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "winter solstice for kids cartoon",
+  "supporting_keywords": [
+    "shortest day of the year preschool",
+    "why are winter nights long",
+    "earth tilt science song"
+  ],
+  "target_search_queries": [
+    "winter solstice for kids cartoon",
+    "shortest day of the year preschool",
+    "why are winter nights long",
+    "earth tilt science song"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Winter Solstice: Why Winter Nights Are the Longest of the Ye — Welcome to the Winter Solstice! Today is the shortest day and longest night of the entire year! Why does that happen?\nKids science answer for \"winter solstice for kids cartoon\" with fun 2D animation by BabyBeats Rhymo!\n\nEarth spins at a 23.5-degree tilt. During December, the Northern Hemisphere tilts furthest away from the sun, making the sun's path across the sky short and low, giving us the longest night of the year.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "winter solstice for kids cartoon",
+    "shortest day of the year preschool",
+    "why are winter nights long",
+    "earth tilt science song",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

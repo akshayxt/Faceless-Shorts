@@ -1,0 +1,52 @@
+{
+  "title": "Pease Porridge Hot: Why Hot Cocoa Forms a Secret Skin on Top!",
+  "thumb_text": "HOT COCOA SKIN?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.nasa.gov/kidsclub"
+  ],
+  "lines": [
+    {
+      "text": "Pease porridge hot, pease porridge cold, in the pot nine days old!",
+      "caps": "Pease porridge *HOT, | pease porridge *COLD, | in the pot *NINE | days *OLD!"
+    },
+    {
+      "text": "Have you ever seen that strange thin skin sitting on top of your warm hot cocoa?",
+      "caps": "Have you ever seen that strange *THIN | skin sitting on top of your *WARM | hot *COCOA?"
+    },
+    {
+      "text": "Don't worry, it's not plastic—it's pure kitchen science!",
+      "caps": "Don't worry, it's not *PLASTIC— | it's pure *KITCHEN | *SCIENCE!"
+    },
+    {
+      "text": "Warm milk is packed with friendly proteins and tiny drops of healthy fat!",
+      "caps": "Warm milk is *PACKED | with friendly *PROTEINS | and tiny drops of *HEALTHY | *FAT!"
+    },
+    {
+      "text": "As steam rises, water evaporates quickly from the very top surface!",
+      "caps": "As steam *RISES, | water evaporates *QUICKLY | from the very *TOP | surface!"
+    },
+    {
+      "text": "The milk proteins dry out and tangle together, forming a delicate edible blanket!",
+      "caps": "The milk proteins *DRY | out and tangle together, *FORMING | a delicate edible *BLANKET!"
+    },
+    {
+      "text": "Just stir it with a spoon or whisk, and it melts right back into chocolatey goodness!",
+      "caps": "Just stir it with a *SPOON | or whisk, and it *MELTS | right back into chocolatey *GOODNESS!"
+    },
+    {
+      "text": "Now you know the delicious food chemistry behind Pease Porridge Hot!",
+      "caps": "Now you *KNOW | the delicious food *CHEMISTRY | behind Pease *PORRIDGE | *HOT!"
+    },
+    {
+      "text": "Sip into more fun discoveries and subscribe to BabyBeats Rhymo!",
+      "caps": "*SIP into more | fun *DISCOVERIES and | *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

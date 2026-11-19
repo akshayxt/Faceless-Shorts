@@ -1,0 +1,61 @@
+{
+ "duration": 39.943,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Jack and Jill went up the hill to fetch a pail of water!",
+   "start": 0.35,
+   "end": 3.099
+  },
+  {
+   "i": 1,
+   "text": "Jack fell down and broke his crown, slipping on the slick winter ice!",
+   "start": 3.349,
+   "end": 7.195
+  },
+  {
+   "i": 2,
+   "text": "Why is smooth ice so much more slippery than hard wooden floors?",
+   "start": 7.445,
+   "end": 11.223
+  },
+  {
+   "i": 3,
+   "text": "At the very surface of ice, water molecules cannot hold onto each other tightly!",
+   "start": 11.473,
+   "end": 16.329
+  },
+  {
+   "i": 4,
+   "text": "They form an ultra-thin layer of loose, slushy liquid water molecules!",
+   "start": 16.579,
+   "end": 21.015
+  },
+  {
+   "i": 5,
+   "text": "When your warm boot steps down, that microscopic water layer acts like ball bearings!",
+   "start": 21.265,
+   "end": 26.502
+  },
+  {
+   "i": 6,
+   "text": "There's almost zero friction, which lets your feet glide—or tumble down the hill!",
+   "start": 26.752,
+   "end": 31.479
+  },
+  {
+   "i": 7,
+   "text": "Now you know the slippery physics behind Jack and Jill!",
+   "start": 31.729,
+   "end": 34.572
+  },
+  {
+   "i": 8,
+   "text": "Tread carefully and subscribe to BabyBeats Rhymo for daily facts!",
+   "start": 34.822,
+   "end": 38.843
+  }
+ ]
+}

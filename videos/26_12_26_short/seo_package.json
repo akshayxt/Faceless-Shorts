@@ -1,0 +1,115 @@
+{
+  "topic_id": "26_12_26",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Brrr It's Cold: Why Do We Shiver and Chattering Teeth?",
+      "chars": 54,
+      "score": 66,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Brrr It's Cold: Why Do We Shiver and...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on shiver, we - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Brrr It's Cold: Why Do We Shiver and Chattering Teeth?",
+  "selected_title_lint": {
+    "title": "Brrr It's Cold: Why Do We Shiver and Chattering Teeth?",
+    "chars": 54,
+    "score": 66,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Brrr It's Cold: Why Do We Shiver and...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on shiver, we - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "54 characters, inside the 60-character desktop cut",
+      "open question in the title"
+    ]
+  },
+  "thumb_text": "WHY WE SHIVER!",
+  "hook_lint": {
+    "hook": "Brrr, it's freezing outside! Your teeth start chattering and your body shakes! Why does your body start shivering on purpose?",
+    "properties": {
+      "SPECIFICITY": 46,
+      "ADDRESS": 100,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 48,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "why do we shiver science for kids",
+  "supporting_keywords": [
+    "chattering teeth cold kids cartoon",
+    "human body winter science",
+    "preschool shivering rhyme"
+  ],
+  "target_search_queries": [
+    "why do we shiver science for kids",
+    "chattering teeth cold kids cartoon",
+    "human body winter science",
+    "preschool shivering rhyme"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Brrr It's Cold: Why Do We Shiver and Chattering Teeth? — Brrr, it's freezing outside! Your teeth start chattering and your body shakes! Why does your body start shivering on purpose?\nKids science answer for \"why do we shiver science for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nWhen your skin sensors detect freezing temperatures, your brain's hypothalamus triggers rapid involuntary muscle spasms—shivering—which burns energy and generates internal emergency heat to warm you up!\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "why do we shiver science for kids",
+    "chattering teeth cold kids cartoon",
+    "human body winter science",
+    "preschool shivering rhyme",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

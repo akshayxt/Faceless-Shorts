@@ -1,0 +1,61 @@
+{
+ "duration": 43.759,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Brrr, brrr, blow the winter wind, wrap your scarf up to your chin!",
+   "start": 0.35,
+   "end": 5.473
+  },
+  {
+   "i": 1,
+   "text": "Why do our muscles shake and our teeth go clack-clack-clack when we feel chilly?",
+   "start": 5.723,
+   "end": 10.213
+  },
+  {
+   "i": 2,
+   "text": "Shivering is your body's built-in emergency heating furnace!",
+   "start": 10.463,
+   "end": 13.824
+  },
+  {
+   "i": 3,
+   "text": "When tiny thermometers in your skin feel the cold, your brain sends an instant alert!",
+   "start": 14.074,
+   "end": 19.351
+  },
+  {
+   "i": 4,
+   "text": "Your brain commands skeletal muscles to twitch and tighten up to thirty times a second!",
+   "start": 19.601,
+   "end": 24.428
+  },
+  {
+   "i": 5,
+   "text": "Rapid muscle movement burns stored glucose energy and releases warm thermal heat!",
+   "start": 24.678,
+   "end": 30.076
+  },
+  {
+   "i": 6,
+   "text": "Your jaw muscles contract too, making your teeth chatter together!",
+   "start": 30.326,
+   "end": 34.318
+  },
+  {
+   "i": 7,
+   "text": "Shivering quickly warms your core back up to a toasty ninety-eight degrees!",
+   "start": 34.568,
+   "end": 38.716
+  },
+  {
+   "i": 8,
+   "text": "Warm up with smart science—subscribe to BabyBeats Rhymo!",
+   "start": 38.966,
+   "end": 42.659
+  }
+ ]
+}

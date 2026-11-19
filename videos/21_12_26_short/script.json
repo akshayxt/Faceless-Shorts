@@ -1,0 +1,52 @@
+{
+  "title": "Winter Solstice: Why Winter Nights Are the Longest of the Year!",
+  "thumb_text": "LONGEST NIGHT?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.nasa.gov/kidsclub"
+  ],
+  "lines": [
+    {
+      "text": "Star light, star bright, first star I see tonight!",
+      "caps": "Star light, star *BRIGHT, | first star I *SEE | *TONIGHT!"
+    },
+    {
+      "text": "Today is the Winter Solstice—the shortest day and longest night of the whole year!",
+      "caps": "Today is the Winter *SOLSTICE— | the shortest day and longest *NIGHT | of the *WHOLE | *YEAR!"
+    },
+    {
+      "text": "But did the sun take a nap? No, it's all about Earth's secret tilt!",
+      "caps": "But did the sun take a *NAP? | No, it's all about *EARTH'S | secret *TILT!"
+    },
+    {
+      "text": "Planet Earth spins tilted like a spinning top at twenty-three degrees!",
+      "caps": "Planet Earth spins *TILTED | like a spinning top at *TWENTY-THREE | *DEGREES!"
+    },
+    {
+      "text": "In December, the top half of Earth leans furthest away from the sun's warm rays!",
+      "caps": "In December, the top *HALF | of Earth leans furthest *AWAY | from the sun's warm *RAYS!"
+    },
+    {
+      "text": "Because of that tilt, the sun takes a very low, quick shortcut across the winter sky!",
+      "caps": "Because of that *TILT, | the sun takes a very *LOW, | quick shortcut across the winter *SKY!"
+    },
+    {
+      "text": "Less daytime sunlight means long, cozy nights for stargazing and dreaming!",
+      "caps": "Less daytime *SUNLIGHT | means long, cozy *NIGHTS | for stargazing and *DREAMING!"
+    },
+    {
+      "text": "And starting tomorrow, the days start getting brighter and longer again!",
+      "caps": "And starting *TOMORROW, | the days start getting *BRIGHTER | and longer *AGAIN!"
+    },
+    {
+      "text": "Celebrate the solstice with us and subscribe to BabyBeats Rhymo!",
+      "caps": "*CELEBRATE the solstice | with us and *SUBSCRIBE | to *BABYBEATS | *RHYMO!"
+    }
+  ]
+}

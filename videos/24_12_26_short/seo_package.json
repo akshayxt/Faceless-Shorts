@@ -1,0 +1,114 @@
+{
+  "topic_id": "24_12_26",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Jingle Bells: How Sleigh Runners Glide Across Packed Snow!",
+      "chars": 58,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Jingle Bells: How Sleigh Runners Glide...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on glide, sleigh - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Jingle Bells: How Sleigh Runners Glide Across Packed Snow!",
+  "selected_title_lint": {
+    "title": "Jingle Bells: How Sleigh Runners Glide Across Packed Snow!",
+    "chars": 58,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Jingle Bells: How Sleigh Runners Glide...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on glide, sleigh - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "58 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "SLEIGH GLIDE TRICK!",
+  "hook_lint": {
+    "hook": "Jingle bells, jingle bells, jingle all the way! Oh what fun it is to ride in a one-horse open sleigh! But how do heavy sleighs glide over deep snow without sinking?",
+    "properties": {
+      "SPECIFICITY": 46,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 93,
+      "BREVITY": 44
+    },
+    "verdict": 37,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "jingle bells song for kids",
+  "supporting_keywords": [
+    "how sleds work physics kids",
+    "jingle bells cartoon rhyme",
+    "winter sleigh science preschool"
+  ],
+  "target_search_queries": [
+    "jingle bells song for kids",
+    "how sleds work physics kids",
+    "jingle bells cartoon rhyme",
+    "winter sleigh science preschool"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Jingle Bells: How Sleigh Runners Glide Across Packed Snow! — Jingle bells, jingle bells, jingle all the way! Oh what fun it is to ride in a one-horse open sleigh! But how do heavy sleighs glide over deep snow without sinking?\nKids science answer for \"jingle bells song for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nInstead of narrow wheels that dig into powdery snow, sleighs have long, polished curved runners that spread weight over a large surface area and glide on a melted water film created by friction.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "jingle bells song for kids",
+    "how sleds work physics kids",
+    "jingle bells cartoon rhyme",
+    "winter sleigh science preschool",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

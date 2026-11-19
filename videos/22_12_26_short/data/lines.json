@@ -1,0 +1,61 @@
+{
+ "duration": 38.354,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Rudolph the red-nosed reindeer had a very shiny nose!",
+   "start": 0.35,
+   "end": 3.589
+  },
+  {
+   "i": 1,
+   "text": "But reindeer have an even wilder superpower in their eyes!",
+   "start": 3.839,
+   "end": 7.041
+  },
+  {
+   "i": 2,
+   "text": "In bright summer, reindeer eyes shine with a sparkling golden color!",
+   "start": 7.291,
+   "end": 11.457
+  },
+  {
+   "i": 3,
+   "text": "But during dark arctic winters, their eyes turn deep, ocean blue!",
+   "start": 11.707,
+   "end": 15.85
+  },
+  {
+   "i": 4,
+   "text": "The constant winter darkness makes their pupils stretch wide open day and night!",
+   "start": 16.1,
+   "end": 20.456
+  },
+  {
+   "i": 5,
+   "text": "This pressure tightens the reflective mirror behind their retinas!",
+   "start": 20.706,
+   "end": 24.065
+  },
+  {
+   "i": 6,
+   "text": "Blue eyes scatter moonlight, letting reindeer spot hidden lichen beneath the snow!",
+   "start": 24.315,
+   "end": 28.897
+  },
+  {
+   "i": 7,
+   "text": "Now you know the real arctic magic behind Santa's reindeer!",
+   "start": 29.147,
+   "end": 32.762
+  },
+  {
+   "i": 8,
+   "text": "Fly into more animal mysteries and subscribe to BabyBeats Rhymo!",
+   "start": 33.012,
+   "end": 37.254
+  }
+ ]
+}

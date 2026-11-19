@@ -1,0 +1,61 @@
+{
+ "duration": 42.957,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Dance, dance, little snowflake, tumbling gently from the sky!",
+   "start": 0.35,
+   "end": 4.209
+  },
+  {
+   "i": 1,
+   "text": "Is it really true that no two snowflakes on Earth are ever identical?",
+   "start": 4.459,
+   "end": 8.363
+  },
+  {
+   "i": 2,
+   "text": "Yes! High in the frosty clouds, water freezes around a tiny speck of dust!",
+   "start": 8.613,
+   "end": 13.207
+  },
+  {
+   "i": 3,
+   "text": "Water molecules always link up into a six-sided hexagonal crystal shape!",
+   "start": 13.457,
+   "end": 18.138
+  },
+  {
+   "i": 4,
+   "text": "As the snowflake drifts down, wind, temperature, and humidity change every second!",
+   "start": 18.388,
+   "end": 23.756
+  },
+  {
+   "i": 5,
+   "text": "Each branch grows differently based on the exact path it travels through the air!",
+   "start": 24.006,
+   "end": 28.698
+  },
+  {
+   "i": 6,
+   "text": "With trillions of possibilities, every single flake is a one-of-a-kind frozen artwork!",
+   "start": 28.948,
+   "end": 34.35
+  },
+  {
+   "i": 7,
+   "text": "Now you know the winter magic behind every falling snowflake!",
+   "start": 34.6,
+   "end": 38.121
+  },
+  {
+   "i": 8,
+   "text": "Catch more cool science and subscribe to BabyBeats Rhymo!",
+   "start": 38.371,
+   "end": 41.857
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+  "topic_id": "22_12_26",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Arctic Reindeer: Why Reindeer Eyes Turn Deep Blue in Winter!",
+      "chars": 60,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Arctic Reindeer: Why Reindeer Eyes Turn...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on blue - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Arctic Reindeer: Why Reindeer Eyes Turn Deep Blue in Winter!",
+  "selected_title_lint": {
+    "title": "Arctic Reindeer: Why Reindeer Eyes Turn Deep Blue in Winter!",
+    "chars": 60,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Arctic Reindeer: Why Reindeer Eyes Turn...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on blue - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "60 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "BLUE EYE SECRET!",
+  "hook_lint": {
+    "hook": "Rudolph the red-nosed reindeer had a shiny nose! But did you know arctic reindeer have eyes that literally CHANGE COLOR from golden to deep blue?",
+    "properties": {
+      "SPECIFICITY": 47,
+      "ADDRESS": 46,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 86
+    },
+    "verdict": 40,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "reindeer science facts for kids",
+  "supporting_keywords": [
+    "rudolph reindeer cartoon for toddlers",
+    "arctic animal adaptations preschool",
+    "reindeer eye color shift"
+  ],
+  "target_search_queries": [
+    "reindeer science facts for kids",
+    "rudolph reindeer cartoon for toddlers",
+    "arctic animal adaptations preschool",
+    "reindeer eye color shift"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Arctic Reindeer: Why Reindeer Eyes Turn Deep Blue in Winter! — Rudolph the red-nosed reindeer had a shiny nose! But did you know arctic reindeer have eyes that literally CHANGE COLOR from golden to deep blue?\nKids science answer for \"reindeer science facts for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nIn bright arctic summer, reindeer eyes have golden reflective layers. But in dark winter, pupil pressure compacts the eye's tapetum lucidum collagen fibers, turning them deep blue to scatter light and see in the dark!\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "reindeer science facts for kids",
+    "rudolph reindeer cartoon for toddlers",
+    "arctic animal adaptations preschool",
+    "reindeer eye color shift",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}
