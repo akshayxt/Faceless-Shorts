@@ -1,0 +1,306 @@
+{
+  "topic_id": "21_12_26",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Winter Solstice Band!",
+      "chars": 21,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Winter Solstice Love!",
+      "chars": 21,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Winter Solstice Song!",
+      "chars": 21,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Winter Solstice Music!",
+      "chars": 22,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Winter Solstice Phoenix!",
+      "chars": 24,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Winter Solstice Ambience!",
+      "chars": 25,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Winter Solstice Orchestra!",
+      "chars": 26,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Winter Solstice Band! #Shorts",
+      "chars": 29,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Winter Solstice Love! #Shorts",
+      "chars": 29,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Winter Solstice Windham Hill!",
+      "chars": 29,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Winter Solstice Song! #Shorts",
+      "chars": 29,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Winter Solstice Music! #Shorts",
+      "chars": 30,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Winter Solstice Phoenix! #Shorts",
+      "chars": 32,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Winter Solstice Ambience! #Shorts",
+      "chars": 33,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Winter Solstice the Fall of Rome!",
+      "chars": 33,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Winter Solstice Orchestra! #Shorts",
+      "chars": 34,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Winter Solstice Windham Hill! #Shorts",
+      "chars": 37,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Winter Solstice the Fall of Rome! #Shorts",
+      "chars": 41,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Winter Solstice the Fall of Rome!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Winter Solstice Band!",
+  "selected_title_lint": {
+    "title": "Winter Solstice Band!",
+    "chars": 21,
+    "score": 94,
+    "issues": [
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ]
+    ]
+  },
+  "thumb_text": "LONGEST NIGHT?!",
+  "hook_lint": {
+    "hook": "Welcome to the Winter Solstice! Today is the shortest day and longest night of the entire year! Why does that happen?",
+    "properties": {
+      "SPECIFICITY": 42,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 39,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "winter solstice for kids cartoon",
+  "supporting_keywords": [
+    "shortest day of the year preschool",
+    "why are winter nights long",
+    "earth tilt science song"
+  ],
+  "target_search_queries": [
+    "winter solstice for kids cartoon",
+    "winter solstice",
+    "winter solstice music",
+    "winter solstice orchestra"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-19T21:40:25.330118+05:30",
+    "live_yt_suggest_queries": [
+      "winter solstice",
+      "winter solstice music",
+      "winter solstice orchestra",
+      "winter solstice ambience",
+      "winter solstice phoenix",
+      "winter solstice band",
+      "winter solstice love",
+      "winter solstice windham hill"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "Winter Solstice Band! — Welcome to the Winter Solstice! Today is the shortest day and longest night of the entire year! Why does that happen?\nKids science answer for \"winter solstice for kids cartoon\" with fun 2D animation by BabyBeats Rhymo!\n\nEarth spins at a 23.5-degree tilt. During December, the Northern Hemisphere tilts furthest away from the sun, making the sun's path across the sky short and low, giving us the longest night of the year.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- winter solstice\n- winter solstice music\n- winter solstice orchestra\n- winter solstice ambience\n- winter solstice phoenix\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "winter solstice",
+    "winter solstice music",
+    "winter solstice orchestra",
+    "winter solstice ambience",
+    "winter solstice phoenix",
+    "winter solstice band",
+    "winter solstice for kids cartoon",
+    "shortest day of the year preschool",
+    "why are winter nights long",
+    "earth tilt science song",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}
