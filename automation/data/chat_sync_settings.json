@@ -2,7 +2,7 @@
   "enabled": true,
   "interval_minutes": 5,
   "last_sync_ist": "2026-11-19 16:08:59 IST",
-  "total_messages_recorded": 264,
+  "total_messages_recorded": 265,
   "groups_tracked": {
     "-1001997761568": {
       "id": -1001997761568,
@@ -17,6 +17,13 @@
       "file": "𝗠𝚯𝚵𝐁𝗜𝗨𝗦_𝗖𝗢𝗠𝗠𝗔𝗡𝗗_𝗖𝗘𝗡𝗧𝗘𝗥_𒆜_1003968526041.json",
       "last_message_at": "2026-11-19 11:16:46 IST",
       "message_count": 8
+    },
+    "-1002061774551": {
+      "id": -1002061774551,
+      "title": "𝑿𝑻 𝑴𝒆𝒔𝒔𝒂𝒈𝒆 𝑯𝒂𝒄𝒌𝒆𝒓",
+      "file": "𝑿𝑻_𝑴𝒆𝒔𝒔𝒂𝒈𝒆_𝑯𝒂𝒄𝒌𝒆𝒓_1002061774551.json",
+      "last_message_at": "2026-11-19 18:56:12 IST",
+      "message_count": 1
     }
   }
 }
