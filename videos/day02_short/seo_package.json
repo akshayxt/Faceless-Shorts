@@ -1,0 +1,127 @@
+{
+  "topic_id": "day02",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Swallowed Watermelon Seeds? The 5-Second Belly Truth!",
+      "chars": 53,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Swallowed Watermelon Seeds? The...\" - check the subject survives"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on belly - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Swallowed Watermelon Seeds? The 5-Second Belly Truth!",
+  "selected_title_lint": {
+    "title": "Swallowed Watermelon Seeds? The 5-Second Belly Truth!",
+    "chars": 53,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Swallowed Watermelon Seeds? The...\" - check the subject survives"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on belly - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "53 characters, inside the 60-character desktop cut",
+      "carries a concrete figure (5)"
+    ]
+  },
+  "thumb_text": "BELLY TREE MYTH",
+  "hook_lint": {
+    "hook": "You ate 1 watermelon seed by accident—could a vine sprout inside your belly?",
+    "properties": {
+      "SPECIFICITY": 56,
+      "ADDRESS": 96,
+      "STAKES": 36,
+      "CURIOSITY": 42,
+      "BREVITY": 100
+    },
+    "verdict": 54,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "swallowing watermelon seeds myth for kids",
+  "supporting_keywords": [
+    "stomach acid facts for kids",
+    "digestive system cartoon",
+    "childhood myths busted"
+  ],
+  "target_search_queries": [
+    "swallowing watermelon seeds myth for kids",
+    "digestive system cartoon",
+    "digestive system cartoon animation",
+    "digestive system animation"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-11T13:14:58.387856+05:30",
+    "live_yt_suggest_queries": [
+      "digestive system cartoon",
+      "digestive system cartoon animation",
+      "digestive system animation",
+      "digestive system animation explanation",
+      "digestive system comic strip",
+      "digestive system animation class 10",
+      "science facts for kids",
+      "interesting science facts for kids"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "Swallowed Watermelon Seeds? The 5-Second Belly Truth! — You ate 1 watermelon seed by accident—could a vine sprout inside your belly?\nKids science answer for \"swallowing watermelon seeds myth for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nStomach gastric acid breaks down food while seed shells pass safely through digestion; seeds need soil, water, and sunlight — not tummy acid — to sprout.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- digestive system cartoon\n- digestive system cartoon animation\n- digestive system animation\n- digestive system animation explanation\n- digestive system comic strip\n\nSources & Fact Check:\n- https://www.britannica.com/science/human-digestive-system\n- https://kidshealth.org/en/kids/digestive-system.html\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "digestive system cartoon",
+    "digestive system cartoon animation",
+    "digestive system animation",
+    "digestive system animation explanation",
+    "digestive system comic strip",
+    "digestive system animation class 10",
+    "swallowing watermelon seeds myth for kids",
+    "stomach acid facts for kids",
+    "childhood myths busted",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

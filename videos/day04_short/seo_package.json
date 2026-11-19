@@ -1,0 +1,186 @@
+{
+  "topic_id": "day04",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Why Cutting 1 Onion Makes Your Eyes Cry in 10 Seconds!",
+      "chars": 54,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why Cutting 1 Onion Makes Your Eyes Cry...\" - check the subject survives"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on onion - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Onion Makes You Cry Race!",
+      "chars": 25,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on onion - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Onion Makes You Cry Treadmill!",
+      "chars": 30,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on onion - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Onion Makes You Cry Race! #Shorts",
+      "chars": 33,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on onion - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Onion Makes You Cry Treadmill! #Shorts",
+      "chars": 38,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on onion - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Why Cutting 1 Onion Makes Your Eyes Cry in 10 Seconds!",
+  "selected_title_lint": {
+    "title": "Why Cutting 1 Onion Makes Your Eyes Cry in 10 Seconds!",
+    "chars": 54,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Why Cutting 1 Onion Makes Your Eyes Cry...\" - check the subject survives"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on onion - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "54 characters, inside the 60-character desktop cut",
+      "carries a concrete figure (1, 10)"
+    ]
+  },
+  "thumb_text": "ONION TEARS!",
+  "hook_lint": {
+    "hook": "You are not sad at all—yet 1 tiny onion makes you cry in 10 seconds!",
+    "properties": {
+      "SPECIFICITY": 78,
+      "ADDRESS": 96,
+      "STAKES": 36,
+      "CURIOSITY": 24,
+      "BREVITY": 100
+    },
+    "verdict": 50,
+    "band": "WEAK",
+    "formula": "The Clock",
+    "matched": 1
+  },
+  "primary_keyword": "why onions make you cry for kids",
+  "supporting_keywords": [
+    "kitchen science for kids",
+    "onion gas tears explanation",
+    "funny eye science cartoon"
+  ],
+  "target_search_queries": [
+    "why onions make you cry for kids",
+    "why onions make you cry",
+    "why onions make you cry animation",
+    "why do onions make you cry muppets"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-11T13:14:58.387856+05:30",
+    "live_yt_suggest_queries": [
+      "why onions make you cry",
+      "why onions make you cry animation",
+      "why do onions make you cry muppets",
+      "why do onions make us cry",
+      "onion makes you cry race",
+      "onion makes you cry treadmill",
+      "human body facts for kids"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "Why Cutting 1 Onion Makes Your Eyes Cry in 10 Seconds! — You are not sad at all—yet 1 tiny onion makes you cry in 10 seconds!\nKids science answer for \"why onions make you cry for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nSlicing onion cells mixes enzymes and sulfur compounds into an invisible gas that floats to your eyes and triggers tears to wash the eyes clean.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- why onions make you cry\n- why onions make you cry animation\n- why do onions make you cry muppets\n- why do onions make us cry\n- onion makes you cry race\n\nSources & Fact Check:\n- https://www.loc.gov/everyday-mysteries/food-and-nutrition/item/why-do-onions-make-you-cry/\n- https://www.britannica.com/story/why-do-onions-make-you-cry\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "why onions make you cry",
+    "why onions make you cry animation",
+    "why do onions make you cry muppets",
+    "why do onions make us cry",
+    "onion makes you cry race",
+    "onion makes you cry treadmill",
+    "why onions make you cry for kids",
+    "kitchen science for kids",
+    "onion gas tears explanation",
+    "funny eye science cartoon",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

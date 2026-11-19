@@ -1,0 +1,163 @@
+{
+  "topic_id": "day01",
+  "format": "long",
+  "title_options": [
+    {
+      "title": "Inside Your Brain at 2 AM: Why We Dream",
+      "chars": 39,
+      "score": 100,
+      "issues": []
+    },
+    {
+      "title": "Inside Your Brain at 2 AM: Why We Dream | Cartoon Science",
+      "chars": 57,
+      "score": 100,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Inside Your Brain at 2 AM: Why We Dream...\" - check the subject survives"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Inside Your Brain at 2 AM: Why We Dream",
+  "selected_title_lint": {
+    "title": "Inside Your Brain at 2 AM: Why We Dream",
+    "chars": 39,
+    "score": 100,
+    "issues": [],
+    "good": [
+      "39 characters, inside the 60-character desktop cut",
+      "1 all-caps word for emphasis",
+      "carries a concrete figure (2)",
+      "thumbnail and title carry different words"
+    ]
+  },
+  "thumb_text": "NIGHT MOVIE?",
+  "hook_lint": {
+    "hook": "At 2 AM while your eyes stay shut, why does a movie theater switch ON inside your brain?",
+    "properties": {
+      "SPECIFICITY": 68,
+      "ADDRESS": 96,
+      "STAKES": 36,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 57,
+    "band": "WORKABLE",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "why do we dream for kids",
+  "supporting_keywords": [
+    "sleep science for kids",
+    "rem sleep cartoon explained",
+    "brain facts at night for kids"
+  ],
+  "target_search_queries": [
+    "why do we dream for kids",
+    "why do we dream",
+    "why do we dream documentary",
+    "why do we dream when we sleep"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-11T13:14:58.387856+05:30",
+    "live_yt_suggest_queries": [
+      "why do we dream",
+      "why do we dream documentary",
+      "why do we dream when we sleep",
+      "why do we dream about someone",
+      "why do we dream vsauce",
+      "why do we dream explained",
+      "why do we dream of dead loved ones",
+      "why do we dream of people"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "Inside Your Brain at 2 AM: Why We Dream — At 2 AM while your eyes stay shut, why does a movie theater switch ON inside your brain?\nKids science answer for \"why do we dream for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nDuring REM sleep, your brainstem pauses body muscles while visual and emotion centers replay memories like a creative night movie, and fluid washes away daytime brain clutter.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nChapters:\n00:00 - 01 Hook - Secret Night Cinema\n00:32 - 02 Does Your Brain Ever Sleep?\n00:59 - 03 The 4-Stage Sleep Rollercoaster\n01:46 - 04 The Secret Safety Pause Shield (REM Lock)\n02:18 - 05 Brain Cleanup Crew & Memory Shelves\n02:57 - 06 Why Dreams Are So Silly & Mixed Up!\n03:43 - 07 Kids Brain Quiz! Test Yourself\n04:35 - 08 Sleep Superpower Tips & Outro\n\nPopular Kids Science Searches (US):\n- why do we dream\n- why do we dream documentary\n- why do we dream when we sleep\n- why do we dream about someone\n- why do we dream vsauce\n\nSources & Fact Check:\n- https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep\n- https://kidshealth.org/en/kids/not-tired.html\n- https://www.sleepfoundation.org/dreams\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #KidsLearning #shorts",
+  "tags": [
+    "why do we dream",
+    "why do we dream documentary",
+    "why do we dream when we sleep",
+    "why do we dream about someone",
+    "why do we dream vsauce",
+    "why do we dream explained",
+    "why do we dream for kids",
+    "sleep science for kids",
+    "rem sleep cartoon explained",
+    "brain facts at night for kids",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#KidsLearning",
+    "#shorts"
+  ],
+  "chapters": [
+    {
+      "time": "00:00",
+      "label": "01 Hook - Secret Night Cinema",
+      "sec": 0.4
+    },
+    {
+      "time": "00:32",
+      "label": "02 Does Your Brain Ever Sleep?",
+      "sec": 32.046
+    },
+    {
+      "time": "00:59",
+      "label": "03 The 4-Stage Sleep Rollercoaster",
+      "sec": 59.867
+    },
+    {
+      "time": "01:46",
+      "label": "04 The Secret Safety Pause Shield (REM Lock)",
+      "sec": 106.489
+    },
+    {
+      "time": "02:18",
+      "label": "05 Brain Cleanup Crew & Memory Shelves",
+      "sec": 138.354
+    },
+    {
+      "time": "02:57",
+      "label": "06 Why Dreams Are So Silly & Mixed Up!",
+      "sec": 177.365
+    },
+    {
+      "time": "03:43",
+      "label": "07 Kids Brain Quiz! Test Yourself",
+      "sec": 223.004
+    },
+    {
+      "time": "04:35",
+      "label": "08 Sleep Superpower Tips & Outro",
+      "sec": 275.485
+    }
+  ],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "topic_id": "12_12_26",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Wheels on the Bus Rhyme!",
+      "chars": 24,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Wheels on the Bus Rhymezone!",
+      "chars": 28,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Wheels on the Bus Rhymecast!",
+      "chars": 28,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Wheels on the Bus Rhyme Song!",
+      "chars": 29,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Wheels on the Bus Rhymes Hero!",
+      "chars": 30,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Wheels on the Bus Rhyme! #Shorts",
+      "chars": 32,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Wheels on the Bus Rhymes Shorts!",
+      "chars": 32,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Wheels on the Bus Rhymes Lyrics!",
+      "chars": 32,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Wheels on the Bus Rhymes Writing!",
+      "chars": 33,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Wheels on the Bus Rhymezone! #Shorts",
+      "chars": 36,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Wheels on the Bus Rhymecast! #Shorts",
+      "chars": 36,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Wheels on the Bus Rhyme Song! #Shorts",
+      "chars": 37,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Wheels on the Bus Rhymes Hero! #Shorts",
+      "chars": 38,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Wheels on the Bus Rhymes Shorts! #Shorts",
+      "chars": 40,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Wheels on the Bus Rhymes Lyrics! #Shorts",
+      "chars": 40,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Wheels on the Bus Rhymes Writing! #Shorts",
+      "chars": 41,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Wheels on the Bus Rhymes Writing!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "The Wheels on the Bus Song #kids #sing #school!",
+      "chars": 47,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"The Wheels on the Bus Song #kids #sing...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "The Wheels on the Bus Song #kids #sing #school! #Shorts",
+      "chars": 55,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"The Wheels on the Bus Song #kids #sing...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "The Wheels on the Bus: How Heavy Giant Wheels Spin So Fast!",
+      "chars": 59,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"The Wheels on the Bus: How Heavy Giant...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Wheels on the Bus Rhyme!",
+  "selected_title_lint": {
+    "title": "Wheels on the Bus Rhyme!",
+    "chars": 24,
+    "score": 76,
+    "issues": [
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on bus - the thumbnail should say what the title does not"
+      ]
+    ]
+  },
+  "thumb_text": "BUS WHEEL SECRET!",
+  "hook_lint": {
+    "hook": "The wheels on the bus go round and round! But how do heavy steel wheels roll so smooth without getting stuck?",
+    "properties": {
+      "SPECIFICITY": 35,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 76,
+      "BREVITY": 100
+    },
+    "verdict": 40,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "wheels on the bus rhyme for kids",
+  "supporting_keywords": [
+    "how wheels roll science for kids",
+    "wheels on the bus cartoon",
+    "preschool bus song"
+  ],
+  "target_search_queries": [
+    "wheels on the bus rhyme for kids",
+    "the wheels on the bus song #kids #sing #school",
+    "wheels on the bus 🚌lep 199ᅵsong for kidsᅵbebefinn nursery rhymes bebefinn",
+    "wheels on the bus rhyme"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-17T05:33:16.293450+05:30",
+    "live_yt_suggest_queries": [
+      "the wheels on the bus song #kids #sing #school",
+      "wheels on the bus 🚌lep 199ᅵsong for kidsᅵbebefinn nursery rhymes bebefinn",
+      "wheels on the bus rhyme",
+      "wheels on the bus rhymezone",
+      "wheels on the bus rhymes hero",
+      "wheels on the bus rhymes shorts",
+      "wheels on the bus rhymes lyrics",
+      "wheels on the bus rhymecast"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "Wheels on the Bus Rhyme! — The wheels on the bus go round and round! But how do heavy steel wheels roll so smooth without getting stuck?\nKids science answer for \"wheels on the bus rhyme for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nInside every giant bus wheel, tiny steel ball bearings roll smoothly around a central axle, beating friction so heavy buses glide easily down the street.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- the wheels on the bus song #kids #sing #school\n- wheels on the bus 🚌lep 199ᅵsong for kidsᅵbebefinn nursery rhymes bebefinn\n- wheels on the bus rhyme\n- wheels on the bus rhymezone\n- wheels on the bus rhymes hero\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "wheels on the bus rhyme",
+    "wheels on the bus rhymezone",
+    "wheels on the bus rhymes hero",
+    "wheels on the bus rhymes shorts",
+    "wheels on the bus rhyme for kids",
+    "how wheels roll science for kids",
+    "wheels on the bus cartoon",
+    "preschool bus song",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

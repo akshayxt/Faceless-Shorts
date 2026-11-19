@@ -1,0 +1,129 @@
+{
+  "topic_id": "day01",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Why 1 Mosquito Bite Itches in 3 Seconds!",
+      "chars": 40,
+      "score": 100,
+      "issues": []
+    },
+    {
+      "title": "Why 1 Mosquito Bite Itches in 3 Seconds! #Shorts",
+      "chars": 48,
+      "score": 98,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why 1 Mosquito Bite Itches in 3...\" - check the subject survives"
+        ]
+      ]
+    },
+    {
+      "title": "Why 1 Mosquito Bite Itches in 3 Seconds! | Kids Science",
+      "chars": 55,
+      "score": 98,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why 1 Mosquito Bite Itches in 3...\" - check the subject survives"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Why 1 Mosquito Bite Itches in 3 Seconds!",
+  "selected_title_lint": {
+    "title": "Why 1 Mosquito Bite Itches in 3 Seconds!",
+    "chars": 40,
+    "score": 100,
+    "issues": [],
+    "good": [
+      "40 characters, inside the 60-character desktop cut",
+      "carries a concrete figure (1, 3)",
+      "thumbnail and title carry different words"
+    ]
+  },
+  "thumb_text": "TINY STRAW!",
+  "hook_lint": {
+    "hook": "You lose 3 seconds before 1 tiny mosquito spits saliva inside your skin!",
+    "properties": {
+      "SPECIFICITY": 78,
+      "ADDRESS": 96,
+      "STAKES": 88,
+      "CURIOSITY": 41,
+      "BREVITY": 100
+    },
+    "verdict": 65,
+    "band": "WORKABLE",
+    "formula": "Unclassified",
+    "matched": 0
+  },
+  "primary_keyword": "why mosquito bites itch for kids",
+  "supporting_keywords": [
+    "mosquito bite science for kids",
+    "human body facts cartoon",
+    "why do mosquito bites itch"
+  ],
+  "target_search_queries": [
+    "why mosquito bites itch for kids",
+    "why mosquito bites itch",
+    "why mosquito bites itchy",
+    "why do mosquito bites itch so much"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-11T13:14:58.387856+05:30",
+    "live_yt_suggest_queries": [
+      "why mosquito bites itch",
+      "why mosquito bites itchy",
+      "why do mosquito bites itch so much",
+      "human body facts animation",
+      "human body facts for kids"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "Why 1 Mosquito Bite Itches in 3 Seconds! — You lose 3 seconds before 1 tiny mosquito spits saliva inside your skin!\nKids science answer for \"why mosquito bites itch for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nOnly female mosquitoes bite for egg protein. Their saliva keeps blood flowing without clotting; your immune system releases histamine, causing the red itchy bump.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- why mosquito bites itch\n- why mosquito bites itchy\n- why do mosquito bites itch so much\n- human body facts animation\n- human body facts for kids\n\nSources & Fact Check:\n- https://www.cdc.gov/mosquitoes/about/what-is-a-mosquito.html\n- https://kidshealth.org/en/kids/bug-bites.html\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "why mosquito bites itch",
+    "why mosquito bites itchy",
+    "why do mosquito bites itch so much",
+    "human body facts animation",
+    "human body facts for kids",
+    "why mosquito bites itch for kids",
+    "mosquito bite science for kids",
+    "human body facts cartoon",
+    "why do mosquito bites itch",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

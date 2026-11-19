@@ -1,0 +1,418 @@
+{
+  "topic_id": "11_12_26",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Twinkle Twinkle Little Star!",
+      "chars": 28,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on star - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Twinkle Twinkle Little Star Song!",
+      "chars": 33,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on star - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Twinkle Twinkle Little Star Piano!",
+      "chars": 34,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on star - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Twinkle Twinkle Little Star Lyrics!",
+      "chars": 35,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on star - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Twinkle Twinkle Little Star! #Shorts",
+      "chars": 36,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on star - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Twinkle Twinkle Little Star Karaoke!",
+      "chars": 36,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on star - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Twinkle Twinkle Little Star Spanish!",
+      "chars": 36,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on star - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Twinkle Twinkle Little Star for Kids!",
+      "chars": 37,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on star - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Twinkle Twinkle Little Star Song! #Shorts",
+      "chars": 41,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Twinkle Twinkle Little Star Song!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on star - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Twinkle Twinkle Little Star Instrumental!",
+      "chars": 41,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Twinkle Twinkle Little Star...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on star - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Twinkle Twinkle Little Star Piano! #Shorts",
+      "chars": 42,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Twinkle Twinkle Little Star Piano!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on star - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Twinkle Twinkle Little Star Lyrics! #Shorts",
+      "chars": 43,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Twinkle Twinkle Little Star Lyrics!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on star - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Twinkle Twinkle Little Star Karaoke! #Shorts",
+      "chars": 44,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Twinkle Twinkle Little Star Karaoke!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on star - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Twinkle Twinkle Little Star Spanish! #Shorts",
+      "chars": 44,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Twinkle Twinkle Little Star Spanish!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on star - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Twinkle Twinkle Little Star for Kids! #Shorts",
+      "chars": 45,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Twinkle Twinkle Little Star for Kids!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on star - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Twinkle Twinkle Little Star Super Simple Songs!",
+      "chars": 47,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Twinkle Twinkle Little Star Super...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on star - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Twinkle Twinkle Little Star Instrumental! #Shorts",
+      "chars": 49,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Twinkle Twinkle Little Star...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on star - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Twinkle Twinkle Little Star Super Simple Songs! #Shorts",
+      "chars": 55,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Twinkle Twinkle Little Star Super...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on star - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Twinkle Twinkle Little Star!",
+  "selected_title_lint": {
+    "title": "Twinkle Twinkle Little Star!",
+    "chars": 28,
+    "score": 76,
+    "issues": [
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on star - the thumbnail should say what the title does not"
+      ]
+    ]
+  },
+  "thumb_text": "REAL STAR TRUTH!",
+  "hook_lint": {
+    "hook": "Twinkle twinkle little star... wait, did you know real stars are NOT pointy at all?",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 46,
+      "STAKES": 22,
+      "CURIOSITY": 42,
+      "BREVITY": 100
+    },
+    "verdict": 39,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "twinkle twinkle little star for kids",
+  "supporting_keywords": [
+    "what are stars made of for kids",
+    "stars science cartoon rhyme",
+    "preschool astronomy song"
+  ],
+  "target_search_queries": [
+    "twinkle twinkle little star for kids",
+    "twinkle twinkle little star",
+    "twinkle twinkle little star piano",
+    "what are stars made of for kids"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-17T05:33:16.293450+05:30",
+    "live_yt_suggest_queries": [
+      "twinkle twinkle little star for kids",
+      "twinkle twinkle little star",
+      "twinkle twinkle little star piano",
+      "twinkle twinkle little star song",
+      "twinkle twinkle little star instrumental",
+      "twinkle twinkle little star karaoke",
+      "twinkle twinkle little star super simple songs",
+      "twinkle twinkle little star lyrics"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "Twinkle Twinkle Little Star! — Twinkle twinkle little star... wait, did you know real stars are NOT pointy at all?\nKids science answer for \"twinkle twinkle little star for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nStars look tiny and pointy because they are trillions of miles away, but each star is actually a giant glowing ball of super hot gas, just like our sun. When starlight passes through Earth's atmosphere, the moving air bends the light, making it twinkle.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- twinkle twinkle little star for kids\n- twinkle twinkle little star\n- twinkle twinkle little star piano\n- twinkle twinkle little star song\n- twinkle twinkle little star instrumental\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "twinkle twinkle little star for kids",
+    "twinkle twinkle little star",
+    "twinkle twinkle little star piano",
+    "twinkle twinkle little star song",
+    "twinkle twinkle little star instrumental",
+    "twinkle twinkle little star karaoke",
+    "what are stars made of for kids",
+    "stars science cartoon rhyme",
+    "preschool astronomy song",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

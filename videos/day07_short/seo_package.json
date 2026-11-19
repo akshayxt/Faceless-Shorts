@@ -1,0 +1,363 @@
+{
+  "topic_id": "day07",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "How Do Cats Always Land on Their Feet?",
+      "chars": 38,
+      "score": 98,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "How Cats Always Land on Their Feet!",
+      "chars": 35,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Cats Don't Always Land on Their Feet!",
+      "chars": 37,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Do Cats Always Land on Their Feet Planet Dolan?",
+      "chars": 47,
+      "score": 84,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Do Cats Always Land on Their Feet...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Small vs Tall Fall: Why Cats ALWAYS Land on Their Feet!",
+      "chars": 55,
+      "score": 84,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Small vs Tall Fall: Why Cats ALWAYS...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "How Cats Always Land on Their Feet! #Shorts",
+      "chars": 43,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"How Cats Always Land on Their Feet!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Cats Don't Always Land on Their Feet! #Shorts",
+      "chars": 45,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Cats Don't Always Land on Their Feet!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "How Do Cats Always Land on Their Feet? #Shorts",
+      "chars": 46,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"How Do Cats Always Land on Their Feet?...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Do Cats Always Land on Their Feet Planet Dolan? #Shorts",
+      "chars": 55,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Do Cats Always Land on Their Feet...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Cat Always Fall on Their Feet!",
+      "chars": 30,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on cat - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Cat Always Lands on Its Feet Meme!",
+      "chars": 34,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on cat - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "How a Cat Always Lands on Its Feet!",
+      "chars": 35,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on cat - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Cat Always Fall on Their Feet! #Shorts",
+      "chars": 38,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on cat - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Cat Always Lands on Its Feet Meme! #Shorts",
+      "chars": 42,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Cat Always Lands on Its Feet Meme!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on cat - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "How a Cat Always Lands on Its Feet! #Shorts",
+      "chars": 43,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"How a Cat Always Lands on Its Feet!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on cat - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "A Cat Always Lands on Its Feet Puss in Boots!",
+      "chars": 45,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"A Cat Always Lands on Its Feet Puss in...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on cat - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "A Cat Always Lands on Its Feet Puss in Boots! #Shorts",
+      "chars": 53,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"A Cat Always Lands on Its Feet Puss in...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on cat - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "How Do Cats Always Land on Their Feet?",
+  "selected_title_lint": {
+    "title": "How Do Cats Always Land on Their Feet?",
+    "chars": 38,
+    "score": 98,
+    "issues": [
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ]
+    ]
+  },
+  "thumb_text": "CAT FLIP SECRET!",
+  "hook_lint": {
+    "hook": "Drop 1 pillow—it flops. Yet how does a cat pull off a ninja flip mid-air?",
+    "properties": {
+      "SPECIFICITY": 62,
+      "ADDRESS": 26,
+      "STAKES": 36,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 44,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "how cats always land on their feet for kids",
+  "supporting_keywords": [
+    "cat righting reflex kids",
+    "animal physics cartoon",
+    "fun cat facts for kids"
+  ],
+  "target_search_queries": [
+    "how cats always land on their feet for kids",
+    "how cats always land on their feet",
+    "how do cats always land on their feet",
+    "how a cat always lands on its feet"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-12T09:55:40.659361+05:30",
+    "live_yt_suggest_queries": [
+      "how cats always land on their feet",
+      "how do cats always land on their feet",
+      "how a cat always lands on its feet",
+      "do cats always land on their feet planet dolan",
+      "cat always fall on their feet",
+      "cat always lands on its feet meme",
+      "cats don't always land on their feet",
+      "a cat always lands on its feet puss in boots"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "How Do Cats Always Land on Their Feet? — Drop 1 pillow—it flops. Yet how does a cat pull off a ninja flip mid-air?\nKids science answer for \"how cats always land on their feet for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nCats use a flexible spine, missing rigid collarbones, and inner-ear balance to twist their front paws first and back paws second mid-air.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- how cats always land on their feet\n- how do cats always land on their feet\n- how a cat always lands on its feet\n- do cats always land on their feet planet dolan\n- cat always fall on their feet\n\nSources & Fact Check:\n- https://www.britannica.com/story/how-do-cats-always-land-on-their-feet\n- https://kids.nationalgeographic.com/animals/mammals/facts/domestic-cat\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "how cats always land on their feet",
+    "how do cats always land on their feet",
+    "how a cat always lands on its feet",
+    "cat always fall on their feet",
+    "cat always lands on its feet meme",
+    "how cats always land on their feet for kids",
+    "cat righting reflex kids",
+    "animal physics cartoon",
+    "fun cat facts for kids",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

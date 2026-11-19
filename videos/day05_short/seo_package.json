@@ -1,0 +1,153 @@
+{
+  "topic_id": "day05",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Why the Daytime Sky Turns Blue (Not Purple)!",
+      "chars": 44,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why the Daytime Sky Turns Blue (Not...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on blue, sky - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Why the Daytime Sky Turns Blue (Not Purple)! | Space Kids",
+      "chars": 57,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why the Daytime Sky Turns Blue (Not...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on blue, sky - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Why the Daytime Sky Turns Blue (Not Purple)!",
+  "selected_title_lint": {
+    "title": "Why the Daytime Sky Turns Blue (Not Purple)!",
+    "chars": 44,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Why the Daytime Sky Turns Blue (Not...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on blue, sky - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "44 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "WHY BLUE SKY?",
+  "hook_lint": {
+    "hook": "Sunlight looks white—so why does the sky paint itself giant blue every morning?",
+    "properties": {
+      "SPECIFICITY": 29,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 37,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "why is the sky blue for kids",
+  "supporting_keywords": [
+    "rayleigh scattering kids cartoon",
+    "sunlight colors science",
+    "nasa sky facts for kids"
+  ],
+  "target_search_queries": [
+    "why is the sky blue for kids",
+    "why is the sky blue for toddlers",
+    "why is the sky blue",
+    "rayleigh scattering kids cartoon"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-12T09:55:40.659361+05:30",
+    "live_yt_suggest_queries": [
+      "why is the sky blue for kids",
+      "why is the sky blue for toddlers",
+      "why is the sky blue",
+      "why is the sky blue storybots",
+      "why is the sky blue according to quantum physics",
+      "why is the sky blue commercial",
+      "why is the sky blue joe dirt",
+      "why is the sky blue mystery doug"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "Why the Daytime Sky Turns Blue (Not Purple)! — Sunlight looks white—so why does the sky paint itself giant blue every morning?\nKids science answer for \"why is the sky blue for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nSunlight carries every rainbow color; shorter blue light waves bounce off tiny air molecules across the sky far more than red waves.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- why is the sky blue for kids\n- why is the sky blue for toddlers\n- why is the sky blue\n- why is the sky blue storybots\n- why is the sky blue according to quantum physics\n\nSources & Fact Check:\n- https://spaceplace.nasa.gov/blue-sky/en/\n- https://www.britannica.com/science/Rayleigh-scattering\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "why is the sky blue for kids",
+    "why is the sky blue for toddlers",
+    "why is the sky blue",
+    "why is the sky blue storybots",
+    "why is the sky blue commercial",
+    "rayleigh scattering kids cartoon",
+    "sunlight colors science",
+    "nasa sky facts for kids",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Kids Science & Body Mysteries (Cartoons)",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}
