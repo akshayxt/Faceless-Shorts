@@ -2,7 +2,7 @@
   "chat_id": -1001997761568,
   "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
   "created_at_ist": "2026-11-17 11:31:28 IST",
-  "updated_at_ist": "2026-11-19 14:42:22 IST",
+  "updated_at_ist": "2026-11-19 14:51:33 IST",
   "messages": [
     {
       "msg_id": 27049,
@@ -2173,6 +2173,26 @@
       "sender_name": "Aᴋsʜᴀᴛ ࿐●",
       "text": "/addplaylist",
       "date_ist": "2026-11-19 14:42:22 IST"
+    },
+    {
+      "msg_id": 27579,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 6753468481,
+      "sender_username": "Akshat_xt",
+      "sender_name": "Aᴋsʜᴀᴛ ࿐●",
+      "text": "/end",
+      "date_ist": "2026-11-19 14:42:46 IST"
+    },
+    {
+      "msg_id": 27584,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8151147843,
+      "sender_username": null,
+      "sender_name": "Arushi",
+      "text": "https://youtu.be/coUiZdzLgGs?si=5WJQqtwTYFny2W_b",
+      "date_ist": "2026-11-19 14:51:33 IST"
     }
   ]
 }
