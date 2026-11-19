@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-19 11:33:18 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-19 17:30:00 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -18,7 +18,7 @@
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `20` days / **`250.0` subs/day** |
 | Videos Rendered & Verified | **`38`** (`38` uploaded/scheduled, `0` remaining) |
-| Real-Time US SEO Sync | `2026-11-19T11:33:15.262415+05:30` |
+| Real-Time US SEO Sync | `2026-11-19T17:29:53.903253+05:30` |
 | Topic Backlog Remaining | `0` pending out of `37` scored |
 
 ## 2. Production & Upload Queue Status
