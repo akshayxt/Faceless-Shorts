@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-20 23:36:15 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-20 23:41:49 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -17,8 +17,8 @@
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `19` days / **`263.2` subs/day** |
-| Videos Rendered & Verified | **`83`** (`43` uploaded/scheduled, `40` remaining) |
-| Real-Time US SEO Sync | `2026-11-20T17:33:23.002890+05:30` |
+| Videos Rendered & Verified | **`83`** (`48` uploaded/scheduled, `35` remaining) |
+| Real-Time US SEO Sync | `2026-11-20T23:33:21.816849+05:30` |
 | Topic Backlog Remaining | `1` pending out of `82` scored |
 
 ## 2. Production & Upload Queue Status
@@ -68,11 +68,11 @@
 | `20_12_26_short` | short | Pease Porridge Hot: Why Hot Cocoa Forms a Secret Skin on Top | 48/100 | 2026-12-20 15:30:00 EST | 1080x1920, 41.86s | `SCHEDULED` | [20_12_26_short.mp4](videos/20_12_26_short/renders/20_12_26_short.mp4) |
 | `21_12_26_short` | short | Winter Solstice Band! | 94/100 | 2026-12-21 15:30:00 EST | 1080x1920, 42.09s | `SCHEDULED` | [21_12_26_short.mp4](videos/21_12_26_short/renders/21_12_26_short.mp4) |
 | `22_12_26_short` | short | Arctic Reindeer: Why Reindeer Eyes Turn Deep Blue in Winter! | 62/100 | 2026-12-22 15:30:00 EST | 1080x1920, 38.35s | `SCHEDULED` | [22_12_26_short.mp4](videos/22_12_26_short/renders/22_12_26_short.mp4) |
-| `23_12_26_short` | short | Jack and Jill: Why Is Winter Ice So Slippery? | 66/100 | 2026-12-23 15:30:00 EST | 1080x1920, 39.93s | `READY_FOR_UPLOAD` | [23_12_26_short.mp4](videos/23_12_26_short/renders/23_12_26_short.mp4) |
-| `24_12_26_short` | short | Jingle Bells Song! | 94/100 | 2026-12-24 15:30:00 EST | 1080x1920, 43.13s | `READY_FOR_UPLOAD` | [24_12_26_short.mp4](videos/24_12_26_short/renders/24_12_26_short.mp4) |
-| `25_12_26_short` | short | O Christmas Tree Cartoon! | 94/100 | 2026-12-25 15:30:00 EST | 1080x1920, 41.48s | `READY_FOR_UPLOAD` | [25_12_26_short.mp4](videos/25_12_26_short/renders/25_12_26_short.mp4) |
-| `26_12_26_short` | short | Brrr It's Cold: Why Do We Shiver and Chattering Teeth? | 66/100 | 2026-12-26 15:30:00 EST | 1080x1920, 43.76s | `READY_FOR_UPLOAD` | [26_12_26_short.mp4](videos/26_12_26_short/renders/26_12_26_short.mp4) |
-| `27_12_26_short` | short | Cozy Fire Relaxing Music! | 94/100 | 2026-12-27 15:30:00 EST | 1080x1920, 43.9s | `READY_FOR_UPLOAD` | [27_12_26_short.mp4](videos/27_12_26_short/renders/27_12_26_short.mp4) |
+| `23_12_26_short` | short | Jack and Jill: Why Is Winter Ice So Slippery? | 66/100 | 2026-12-23 15:30:00 EST | 1080x1920, 39.93s | `SCHEDULED` | [23_12_26_short.mp4](videos/23_12_26_short/renders/23_12_26_short.mp4) |
+| `24_12_26_short` | short | Jingle Bells Song! | 94/100 | 2026-12-24 15:30:00 EST | 1080x1920, 43.13s | `SCHEDULED` | [24_12_26_short.mp4](videos/24_12_26_short/renders/24_12_26_short.mp4) |
+| `25_12_26_short` | short | O Christmas Tree Cartoon! | 94/100 | 2026-12-25 15:30:00 EST | 1080x1920, 41.48s | `SCHEDULED` | [25_12_26_short.mp4](videos/25_12_26_short/renders/25_12_26_short.mp4) |
+| `26_12_26_short` | short | Brrr It's Cold: Why Do We Shiver and Chattering Teeth? | 66/100 | 2026-12-26 15:30:00 EST | 1080x1920, 43.76s | `SCHEDULED` | [26_12_26_short.mp4](videos/26_12_26_short/renders/26_12_26_short.mp4) |
+| `27_12_26_short` | short | Cozy Fire Relaxing Music! | 94/100 | 2026-12-27 15:30:00 EST | 1080x1920, 43.9s | `SCHEDULED` | [27_12_26_short.mp4](videos/27_12_26_short/renders/27_12_26_short.mp4) |
 | `28_12_26_short` | short | Why Do Animals Hibernate? | 98/100 | 2026-12-28 15:30:00 EST | 1080x1920, 43.93s | `READY_FOR_UPLOAD` | [28_12_26_short.mp4](videos/28_12_26_short/renders/28_12_26_short.mp4) |
 | `29_12_26_short` | short | How Does Snow Form in Clouds? | 80/100 | 2026-12-29 15:30:00 EST | 1080x1920, 43.66s | `READY_FOR_UPLOAD` | [29_12_26_short.mp4](videos/29_12_26_short/renders/29_12_26_short.mp4) |
 | `30_12_26_short` | short | Hickory Dickory Dock S! | 94/100 | 2026-12-30 15:30:00 EST | 1080x1920, 42.69s | `READY_FOR_UPLOAD` | [30_12_26_short.mp4](videos/30_12_26_short/renders/30_12_26_short.mp4) |
