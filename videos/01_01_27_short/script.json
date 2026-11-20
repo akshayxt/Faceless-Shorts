@@ -1,0 +1,52 @@
+{
+  "title": "Leo's Big New Year Goal: Small Steps Make Big Dreams!",
+  "thumb_text": "BIG DREAM SECRET!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Happy New Year, little explorers! Time for a brand new adventure!",
+      "caps": "*HAPPY New Year, | little *EXPLORERS! | Time for a brand *NEW | *ADVENTURE!"
+    },
+    {
+      "text": "Leo made a giant list of one hundred huge New Year goals!",
+      "caps": "Leo made a giant *LIST | of one hundred huge *NEW | Year *GOALS!"
+    },
+    {
+      "text": "Learn to juggle, read fifty books, and build a giant treehouse!",
+      "caps": "Learn to *JUGGLE, | read fifty books, and *BUILD | a giant *TREEHOUSE!"
+    },
+    {
+      "text": "Looking at the giant list made Leo feel nervous and completely stuck!",
+      "caps": "Looking at the giant *LIST | made Leo feel *NERVOUS | and completely *STUCK!"
+    },
+    {
+      "text": "Then his wise teacher said, You don't have to climb the whole mountain today!",
+      "caps": "Then his wise teacher *SAID, | You don't have to climb the *WHOLE | mountain *TODAY!"
+    },
+    {
+      "text": "Just take one tiny, joyful step every single morning!",
+      "caps": "Just take one *TINY, | joyful step every *SINGLE | *MORNING!"
+    },
+    {
+      "text": "Read one page, practice one throw, and hammer one wooden board!",
+      "caps": "Read one *PAGE, | practice one throw, and *HAMMER | one wooden *BOARD!"
+    },
+    {
+      "text": "Tiny daily steps add up to giant superhero dreams!",
+      "caps": "Tiny daily *STEPS | add up to *GIANT | superhero *DREAMS!"
+    },
+    {
+      "text": "Start your journey today and subscribe to BabyBeats Rhymo!",
+      "caps": "*START your journey | today and *SUBSCRIBE | to *BABYBEATS | *RHYMO!"
+    }
+  ]
+}

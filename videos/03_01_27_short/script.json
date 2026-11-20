@@ -1,0 +1,52 @@
+{
+  "title": "Pippin the Bunny Learns to Share: The Big Carrot Picnic!",
+  "thumb_text": "SHARING SECRET!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Hop, hop, hooray! Pippin the bunny found the biggest golden carrot in the forest!",
+      "caps": "Hop, hop, *HOORAY! | Pippin the bunny found the *BIGGEST | golden carrot in the *FOREST!"
+    },
+    {
+      "text": "It was sweet, crunchy, and bright orange! Mine, all mine, he cheered!",
+      "caps": "It was sweet, *CRUNCHY, | and bright orange! Mine, *ALL | mine, he *CHEERED!"
+    },
+    {
+      "text": "He hid behind a bush so none of his woodland friends could have a bite!",
+      "caps": "He hid behind a *BUSH | so none of his woodland *FRIENDS | could have a *BITE!"
+    },
+    {
+      "text": "He took one bite, then two bites... but eating in secret felt strangely quiet!",
+      "caps": "He took one *BITE, | then two bites... but eating in secret felt *STRANGELY | *QUIET!"
+    },
+    {
+      "text": "He looked across the meadow and saw his friends laughing and playing tag!",
+      "caps": "He looked across the *MEADOW | and saw his friends *LAUGHING | and playing *TAG!"
+    },
+    {
+      "text": "Pippin carried the big carrot over and snapped it into four juicy slices!",
+      "caps": "Pippin carried the big *CARROT | over and snapped it into four *JUICY | *SLICES!"
+    },
+    {
+      "text": "One for squirrel, one for hedgehog, one for puppy, and one for Pippin!",
+      "caps": "One for *SQUIRREL, | one for hedgehog, one for *PUPPY, | and one for *PIPPIN!"
+    },
+    {
+      "text": "Sharing treats turned a lonely snack into the best picnic ever!",
+      "caps": "Sharing treats turned a lonely *SNACK | into the *BEST | picnic *EVER!"
+    },
+    {
+      "text": "Share the joy and subscribe to BabyBeats Rhymo for daily tales!",
+      "caps": "*SHARE the joy | and *SUBSCRIBE to | *BABYBEATS Rhymo | for daily *TALES!"
+    }
+  ]
+}

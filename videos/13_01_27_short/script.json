@@ -1,0 +1,52 @@
+{
+  "title": "The Night Leo Met Bedroom Shadows: Night Bravery!",
+  "thumb_text": "SHADOW MONSTER?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "The bedroom lights clicked off, and Leo pulled the cozy blankets up to his chin!",
+      "caps": "The bedroom lights clicked *OFF, | and Leo pulled the cozy blankets up *TO | his *CHIN!"
+    },
+    {
+      "text": "Creak! A giant spiky silhouette stretched across his bedroom closet door!",
+      "caps": "*CREAK! A giant spiky silhouette *STRETCHED | across his bedroom closet *DOOR!"
+    },
+    {
+      "text": "Is that a secret clawed monster lurking in the shadows? Leo's heart beat fast!",
+      "caps": "Is that a secret clawed monster *LURKING | in the shadows? Leo's heart *BEAT | *FAST!"
+    },
+    {
+      "text": "He reached out his trembling hand and clicked on his little superhero flashlight!",
+      "caps": "He reached out his trembling *HAND | and clicked on his little superhero *FLASHLIGHT!"
+    },
+    {
+      "text": "Click! Warm golden light filled the corner, showing his winter jacket and baseball cap!",
+      "caps": "*CLICK! Warm golden light filled the *CORNER, | showing his winter jacket and *BASEBALL | *CAP!"
+    },
+    {
+      "text": "The coat rack had cast a funny shadow because the nightlight was low on the floor!",
+      "caps": "The coat rack had cast a funny *SHADOW | because the nightlight was low on the *FLOOR!"
+    },
+    {
+      "text": "Shadows look spooky because your imagination tries to fill in the dark spaces!",
+      "caps": "Shadows look spooky because your *IMAGINATION | tries to fill in the dark *SPACES!"
+    },
+    {
+      "text": "Whenever you feel scared of shadows, just shine your light and meet the silly truth!",
+      "caps": "Whenever you feel scared of *SHADOWS, | just shine your light and meet the silly *TRUTH!"
+    },
+    {
+      "text": "Be brave at bedtime and subscribe to BabyBeats Rhymo!",
+      "caps": "*BE brave at | bedtime and *SUBSCRIBE | to *BABYBEATS | *RHYMO!"
+    }
+  ]
+}

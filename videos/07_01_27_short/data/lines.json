@@ -1,0 +1,61 @@
+{
+ "duration": 42.031,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Sammy the snail crawled along the mossy path, inch by steady inch!",
+   "start": 0.35,
+   "end": 4.714
+  },
+  {
+   "i": 1,
+   "text": "He watched hummingbirds zip and bunnies sprint across the garden grass!",
+   "start": 4.964,
+   "end": 8.925
+  },
+  {
+   "i": 2,
+   "text": "I want to be fast right now! Sammy grumbled, trying to slide at super speed!",
+   "start": 9.175,
+   "end": 13.78
+  },
+  {
+   "i": 3,
+   "text": "Zoom! Speedy rabbit dashed past like a whirlwind, not looking where he was going!",
+   "start": 14.03,
+   "end": 18.867
+  },
+  {
+   "i": 4,
+   "text": "Whoosh—CRASH! Rabbit tripped over a garden hose and lost his strawberry basket!",
+   "start": 19.117,
+   "end": 24.024
+  },
+  {
+   "i": 5,
+   "text": "Sammy steadily glided forward, picking up each strawberry with careful care!",
+   "start": 24.274,
+   "end": 28.752
+  },
+  {
+   "i": 6,
+   "text": "He delivered the basket safely without bruising a single delicious fruit!",
+   "start": 29.002,
+   "end": 33.131
+  },
+  {
+   "i": 7,
+   "text": "Slow and steady finishes the race with patience and excellence!",
+   "start": 33.381,
+   "end": 36.873
+  },
+  {
+   "i": 8,
+   "text": "Take your time and subscribe to BabyBeats Rhymo for fun learning!",
+   "start": 37.123,
+   "end": 40.931
+  }
+ ]
+}

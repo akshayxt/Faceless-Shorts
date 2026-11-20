@@ -1,0 +1,52 @@
+{
+  "title": "Toby the Puppy & The Broken Flowerpot: Why Truth Wins!",
+  "thumb_text": "WHO BROKE IT?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Toby the puppy was chasing his bouncy tennis ball through the sunny kitchen!",
+      "caps": "Toby the puppy was *CHASING | his bouncy tennis ball through the *SUNNY | *KITCHEN!"
+    },
+    {
+      "text": "Crash! His tail knocked Grandma's favorite yellow flowerpot right off the table!",
+      "caps": "*CRASH! His tail knocked Grandma's | favorite yellow flowerpot *RIGHT | off the *TABLE!"
+    },
+    {
+      "text": "When Grandma rushed in, Toby panicked and said, A giant monster did it!",
+      "caps": "When Grandma rushed *IN, | Toby panicked and said, *A | giant monster *DID IT!"
+    },
+    {
+      "text": "Grandma looked worried, but Toby's tummy felt tied in an uncomfortable knot!",
+      "caps": "Grandma looked *WORRIED, | but Toby's tummy felt tied in an *UNCOMFORTABLE | *KNOT!"
+    },
+    {
+      "text": "Lies feel heavy, like carrying a sharp stone in your shoe all day long!",
+      "caps": "Lies feel *HEAVY, | like carrying a sharp stone in your *SHOE | all day *LONG!"
+    },
+    {
+      "text": "Toby walked up, looked Grandma in the eye, and whispered, It was my bouncy ball!",
+      "caps": "Toby walked *UP, | looked Grandma in the eye, and whispered, *IT | was my bouncy *BALL!"
+    },
+    {
+      "text": "Grandma gave him a warm hug and said, Accidents happen, but your honesty is golden!",
+      "caps": "Grandma gave him a warm *HUG | and said, Accidents happen, but your *HONESTY | is *GOLDEN!"
+    },
+    {
+      "text": "Telling the truth takes courage, but it heals hearts every single time!",
+      "caps": "Telling the truth takes *COURAGE, | but it heals hearts every *SINGLE | *TIME!"
+    },
+    {
+      "text": "Stand strong with honesty—subscribe to BabyBeats Rhymo!",
+      "caps": "*STAND strong with | *HONESTY— | *SUBSCRIBE to | *BABYBEATS Rhymo!"
+    }
+  ]
+}

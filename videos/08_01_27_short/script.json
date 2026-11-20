@@ -1,0 +1,52 @@
+{
+  "title": "Leo's Sticky Monster Hands: Why Washing Hands Is Fun!",
+  "thumb_text": "GERM MONSTERS?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Leo spent the afternoon digging in sandbox castles and painting rainbow posters!",
+      "caps": "Leo spent the afternoon *DIGGING | in sandbox castles and painting *RAINBOW | *POSTERS!"
+    },
+    {
+      "text": "Time for lunch! shouted Mom. Leo ran straight to the table to grab a sandwich!",
+      "caps": "Time for *LUNCH! | shouted Mom. Leo ran straight to the *TABLE | to grab a *SANDWICH!"
+    },
+    {
+      "text": "Hold on! Look through the magic science magnifying glass at your fingers!",
+      "caps": "Hold *ON! | Look through the magic science magnifying *GLASS | at your *FINGERS!"
+    },
+    {
+      "text": "Millions of microscopic germ monsters were doing silly dances on his palms!",
+      "caps": "Millions of microscopic germ *MONSTERS | were doing silly dances on his *PALMS!"
+    },
+    {
+      "text": "Leo turned on the warm water tap and pumped out silky, strawberry soap!",
+      "caps": "Leo turned on the warm water *TAP | and pumped out silky, *STRAWBERRY | *SOAP!"
+    },
+    {
+      "text": "Scrub the fronts! Scrub the backs! Scrub between the fingers for twenty seconds!",
+      "caps": "Scrub the *FRONTS! | Scrub the backs! Scrub between the *FINGERS | for twenty *SECONDS!"
+    },
+    {
+      "text": "Whoosh! The soap bubbles lifted the germ monsters and flushed them away!",
+      "caps": "*WHOOSH! The soap bubbles *LIFTED | the germ monsters and flushed them *AWAY!"
+    },
+    {
+      "text": "Clean hands keep your tummy happy, healthy, and ready for delicious meals!",
+      "caps": "Clean hands keep your tummy *HAPPY, | healthy, and ready for *DELICIOUS | *MEALS!"
+    },
+    {
+      "text": "Wash up and subscribe to BabyBeats Rhymo for daily health facts!",
+      "caps": "*WASH up and | *SUBSCRIBE to | *BABYBEATS Rhymo | for daily health *FACTS!"
+    }
+  ]
+}

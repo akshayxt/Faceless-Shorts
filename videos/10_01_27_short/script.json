@@ -1,0 +1,52 @@
+{
+  "title": "The Angry Little Dragon: How Deep Breaths Cool the Fire!",
+  "thumb_text": "DRAGON BREATH!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Sparky the little dragon was building the tallest marble run in Dragon Valley!",
+      "caps": "Sparky the little *DRAGON | was building the tallest marble *RUN | in Dragon *VALLEY!"
+    },
+    {
+      "text": "A sudden gust of wind blew the whole tower down with a loud CLATTER!",
+      "caps": "A sudden gust of *WIND | blew the whole tower down with a loud *CLATTER!"
+    },
+    {
+      "text": "Sparky's cheeks puffed up, smoke puffed from his nose, and his temper boiled!",
+      "caps": "Sparky's cheeks puffed *UP, | smoke puffed from his nose, and his *TEMPER | *BOILED!"
+    },
+    {
+      "text": "He stomped his feet and was about to roar fire and scorch the grass!",
+      "caps": "He stomped his *FEET | and was about to roar *FIRE | and scorch the *GRASS!"
+    },
+    {
+      "text": "His mama gently placed her paw on his shoulder and said, Smell the flowers!",
+      "caps": "His mama gently placed her *PAW | on his shoulder and said, *SMELL | the *FLOWERS!"
+    },
+    {
+      "text": "Sparky breathed in through his nose like smelling roses... one, two, three!",
+      "caps": "Sparky breathed in through his *NOSE | like smelling roses... *ONE, | two, *THREE!"
+    },
+    {
+      "text": "Then he blew out through his mouth like cooling birthday candles... whooooosh!",
+      "caps": "Then he blew out through his *MOUTH | like cooling birthday candles... *WHOOOOOSH!"
+    },
+    {
+      "text": "Three deep breaths cooled the lava in his chest and brought back his bright smile!",
+      "caps": "Three deep breaths cooled the *LAVA | in his chest and brought back his bright *SMILE!"
+    },
+    {
+      "text": "Breathe easy and subscribe to BabyBeats Rhymo for daily emotional skills!",
+      "caps": "*BREATHE easy and | *SUBSCRIBE to | *BABYBEATS Rhymo | for daily emotional *SKILLS!"
+    }
+  ]
+}

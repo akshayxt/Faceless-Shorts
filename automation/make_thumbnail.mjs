@@ -281,8 +281,8 @@ await sendNodeTelegram('THUMBNAIL', `Thumbnail written: ${outFile} (1280x720 ${f
 
 try { ws.close(); } catch {}
 try { proc.kill(); } catch {}
-try { server.closeAllConnections?.(); server.close(); } catch {}
+try { server.close(); } catch {}
 setTimeout(() => {
   try { fs.rmSync(userData, { recursive: true, force: true }); } catch {}
-  process.exit(0);
-}, 300);
+}, 500);
+process.exit(0);

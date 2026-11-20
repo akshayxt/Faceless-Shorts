@@ -1,0 +1,133 @@
+{
+  "topic_id": "25_01_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "The Little Fawn Who Wandered: Always Stay in Sight!",
+      "chars": 51,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"The Little Fawn Who Wandered: Always...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on stay - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "The Little Fawn Who Wandered: Always Stay in Sight! #Shorts",
+      "chars": 59,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"The Little Fawn Who Wandered: Always...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on stay - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "The Little Fawn Who Wandered: Always Stay in Sight!",
+  "selected_title_lint": {
+    "title": "The Little Fawn Who Wandered: Always Stay in Sight!",
+    "chars": 51,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"The Little Fawn Who Wandered: Always...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on stay - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "51 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "STAY CLOSE!",
+  "hook_lint": {
+    "hook": "Daisy the fawn chased a sparkly blue butterfly away from the herd! What should you do if you look up and can't see mom?",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 66,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 43,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "safety awareness staying with parents kids",
+  "supporting_keywords": [
+    "staying safe in public places cartoon",
+    "fawn getting lost moral story",
+    "holding hands safety toddlers"
+  ],
+  "target_search_queries": [
+    "safety awareness staying with parents kids",
+    "staying safe in public places cartoon",
+    "fawn getting lost moral story",
+    "holding hands safety toddlers"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "The Little Fawn Who Wandered: Always Stay in Sight! — Daisy the fawn chased a sparkly blue butterfly away from the herd! What should you do if you look up and can't see mom?\nKids science answer for \"safety awareness staying with parents kids\" with fun 2D animation by BabyBeats Rhymo!\n\nThe big grocery store or park is exciting, but holding hands or staying where parents can see you keeps you safe from getting lost.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "safety awareness staying with parents kids",
+    "staying safe in public places cartoon",
+    "fawn getting lost moral story",
+    "holding hands safety toddlers",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

@@ -1,0 +1,61 @@
+{
+ "duration": 40.952,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Hop, hop, hooray! Pippin the bunny found the biggest golden carrot in the forest!",
+   "start": 0.35,
+   "end": 5.047
+  },
+  {
+   "i": 1,
+   "text": "It was sweet, crunchy, and bright orange! Mine, all mine, he cheered!",
+   "start": 5.297,
+   "end": 9.491
+  },
+  {
+   "i": 2,
+   "text": "He hid behind a bush so none of his woodland friends could have a bite!",
+   "start": 9.741,
+   "end": 13.568
+  },
+  {
+   "i": 3,
+   "text": "He took one bite, then two bites... but eating in secret felt strangely quiet!",
+   "start": 13.818,
+   "end": 18.832
+  },
+  {
+   "i": 4,
+   "text": "He looked across the meadow and saw his friends laughing and playing tag!",
+   "start": 19.082,
+   "end": 22.989
+  },
+  {
+   "i": 5,
+   "text": "Pippin carried the big carrot over and snapped it into four juicy slices!",
+   "start": 23.239,
+   "end": 27.666
+  },
+  {
+   "i": 6,
+   "text": "One for squirrel, one for hedgehog, one for puppy, and one for Pippin!",
+   "start": 27.916,
+   "end": 31.742
+  },
+  {
+   "i": 7,
+   "text": "Sharing treats turned a lonely snack into the best picnic ever!",
+   "start": 31.992,
+   "end": 35.565
+  },
+  {
+   "i": 8,
+   "text": "Share the joy and subscribe to BabyBeats Rhymo for daily tales!",
+   "start": 35.815,
+   "end": 39.852
+  }
+ ]
+}

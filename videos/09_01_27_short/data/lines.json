@@ -1,0 +1,61 @@
+{
+ "duration": 42.883,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Dinner was served, and Bella the bluebird stared down at her plate with big eyes!",
+   "start": 0.35,
+   "end": 4.989
+  },
+  {
+   "i": 1,
+   "text": "Eww! Little green broccoli trees! I don't like green foods! she squawked!",
+   "start": 5.239,
+   "end": 9.564
+  },
+  {
+   "i": 2,
+   "text": "Have you ever tasted one? asked her papa. No, but it looks weird! Bella replied!",
+   "start": 9.814,
+   "end": 15.143
+  },
+  {
+   "i": 3,
+   "text": "Papa smiled and said, How do you know if a playground is fun before you slide?",
+   "start": 15.393,
+   "end": 19.99
+  },
+  {
+   "i": 4,
+   "text": "Bella took a tiny fork, dipped the broccoli tree in melted cheese, and took a bite!",
+   "start": 20.24,
+   "end": 25.014
+  },
+  {
+   "i": 5,
+   "text": "CRUNCH! It was warm, savory, and super delicious like a crispy party!",
+   "start": 25.264,
+   "end": 29.78
+  },
+  {
+   "i": 6,
+   "text": "Broccoli gives your wings super flying power and strengthens your bones!",
+   "start": 30.03,
+   "end": 34.068
+  },
+  {
+   "i": 7,
+   "text": "Taking one brave bite can unlock your brand new favorite food!",
+   "start": 34.318,
+   "end": 38.044
+  },
+  {
+   "i": 8,
+   "text": "Taste new adventures and subscribe to BabyBeats Rhymo!",
+   "start": 38.294,
+   "end": 41.783
+  }
+ ]
+}

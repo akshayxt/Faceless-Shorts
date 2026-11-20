@@ -1,0 +1,114 @@
+{
+  "topic_id": "26_01_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "The Loud Little Parrot: Learning Your Inside Voice!",
+      "chars": 51,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"The Loud Little Parrot: Learning Your...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on inside, voice - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "The Loud Little Parrot: Learning Your Inside Voice!",
+  "selected_title_lint": {
+    "title": "The Loud Little Parrot: Learning Your Inside Voice!",
+    "chars": 51,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"The Loud Little Parrot: Learning Your...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on inside, voice - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "51 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "INSIDE VOICE!",
+  "hook_lint": {
+    "hook": "Polly squawked like a megaphone inside the quiet library! Why was everyone holding their ears, and how did she learn whisper power?",
+    "properties": {
+      "SPECIFICITY": 35,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 76,
+      "BREVITY": 100
+    },
+    "verdict": 40,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "inside voices manners for toddlers",
+  "supporting_keywords": [
+    "library manners cartoon children",
+    "loud parrot quiet voice story",
+    "situational awareness kids"
+  ],
+  "target_search_queries": [
+    "inside voices manners for toddlers",
+    "library manners cartoon children",
+    "loud parrot quiet voice story",
+    "situational awareness kids"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "The Loud Little Parrot: Learning Your Inside Voice! — Polly squawked like a megaphone inside the quiet library! Why was everyone holding their ears, and how did she learn whisper power?\nKids science answer for \"inside voices manners for toddlers\" with fun 2D animation by BabyBeats Rhymo!\n\nOutside is for shouting, racing, and cheering, but inside cozy rooms, gentle voices protect ears and let everyone think and read peacefully.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "inside voices manners for toddlers",
+    "library manners cartoon children",
+    "loud parrot quiet voice story",
+    "situational awareness kids",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "topic_id": "27_01_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Leo's Collapsing Wooden Castle: Mistakes Help Us Grow!",
+      "chars": 54,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Leo's Collapsing Wooden Castle:...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Leo's Collapsing Wooden Castle: Mistakes Help Us Grow!",
+  "selected_title_lint": {
+    "title": "Leo's Collapsing Wooden Castle: Mistakes Help Us Grow!",
+    "chars": 54,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Leo's Collapsing Wooden Castle:...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ]
+    ],
+    "good": [
+      "54 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  "thumb_text": "TOWER CRASH!",
+  "hook_lint": {
+    "hook": "CRASH! Leo's 10-story block tower collapsed into a heap of pieces! Did he kick the blocks away in tears, or discover an architect secret?",
+    "properties": {
+      "SPECIFICITY": 52,
+      "ADDRESS": 26,
+      "STAKES": 36,
+      "CURIOSITY": 42,
+      "BREVITY": 93
+    },
+    "verdict": 40,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "learning from mistakes cartoon for kids",
+  "supporting_keywords": [
+    "building blocks castle collapse moral",
+    "growth mindset architecture story kids",
+    "resilience after failure toddlers"
+  ],
+  "target_search_queries": [
+    "learning from mistakes cartoon for kids",
+    "building blocks castle collapse moral",
+    "growth mindset architecture story kids",
+    "resilience after failure toddlers"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Leo's Collapsing Wooden Castle: Mistakes Help Us Grow! — CRASH! Leo's 10-story block tower collapsed into a heap of pieces! Did he kick the blocks away in tears, or discover an architect secret?\nKids science answer for \"learning from mistakes cartoon for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nWhen your building blocks tumble down, it's not a failure—it's gravity showing you that castles need a wide, solid base first.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "learning from mistakes cartoon for kids",
+    "building blocks castle collapse moral",
+    "growth mindset architecture story kids",
+    "resilience after failure toddlers",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "The Sad Puppy Who Got a Warm Hug: Comforting a Friend!",
+  "thumb_text": "HUG POWER!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Buster the little puppy was tossing his favorite red bouncy ball in the park!",
+      "caps": "Buster the little puppy was tossing his favorite red bouncy *BALL | in the *PARK!"
+    },
+    {
+      "text": "Plop! The ball rolled straight into a murky mud puddle and sank out of reach!",
+      "caps": "*PLOP! The ball rolled straight into a murky mud puddle and sank out of *REACH!"
+    },
+    {
+      "text": "Buster sat on the grass, whimpered softly, and let his floppy ears droop down in sadness!",
+      "caps": "Buster sat on the grass, whimpered softly, and let his floppy ears droop down in *SADNESS!"
+    },
+    {
+      "text": "Leo noticed his friend's tears from across the playground and hurried over!",
+      "caps": "Leo noticed his friend's tears from across the playground and hurried *OVER!"
+    },
+    {
+      "text": "He didn't say Stop crying or It's just a toy! He simply sat beside Buster on the grass!",
+      "caps": "He didn't say Stop crying or It's just a toy! He simply sat beside Buster on the *GRASS!"
+    },
+    {
+      "text": "Leo wrapped his arms around Buster in a warm, gentle, reassuring hug!",
+      "caps": "Leo wrapped his arms around Buster in a warm, gentle, reassuring *HUG!"
+    },
+    {
+      "text": "A warm hug releases calming happy hormones that soothe racing hearts and bring peace!",
+      "caps": "A warm hug releases calming happy hormones that soothe racing hearts and bring *PEACE!"
+    },
+    {
+      "text": "Buster licked Leo's cheek, wagged his tail, and together they fished the muddy ball out!",
+      "caps": "Buster licked Leo's cheek, wagged his tail, and together they fished the muddy *BALL | *OUT!"
+    },
+    {
+      "text": "Comfort your friends and subscribe to BabyBeats Rhymo for daily kindness!",
+      "caps": "*COMFORT your friends | and *SUBSCRIBE to | *BABYBEATS Rhymo | for daily *KINDNESS!"
+    }
+  ]
+}

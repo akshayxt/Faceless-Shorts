@@ -1,0 +1,107 @@
+{
+  "topic_id": "03_01_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Pippin the Bunny Learns to Share: The Big Carrot Picnic!",
+      "chars": 56,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Pippin the Bunny Learns to Share: The...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Pippin the Bunny Learns to Share: The Big Carrot Picnic!",
+  "selected_title_lint": {
+    "title": "Pippin the Bunny Learns to Share: The Big Carrot Picnic!",
+    "chars": 56,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Pippin the Bunny Learns to Share: The...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ]
+    ],
+    "good": [
+      "56 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  "thumb_text": "SHARING SECRET!",
+  "hook_lint": {
+    "hook": "Pippin found the biggest golden carrot in the forest and hid it! Why was eating it all alone so boring?",
+    "properties": {
+      "SPECIFICITY": 35,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 38,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "learning to share story for toddlers",
+  "supporting_keywords": [
+    "sharing is caring cartoon kids",
+    "bunny sharing carrots moral",
+    "preschool friendship story"
+  ],
+  "target_search_queries": [
+    "learning to share story for toddlers",
+    "sharing is caring cartoon kids",
+    "bunny sharing carrots moral",
+    "preschool friendship story"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Pippin the Bunny Learns to Share: The Big Carrot Picnic! — Pippin found the biggest golden carrot in the forest and hid it! Why was eating it all alone so boring?\nKids science answer for \"learning to share story for toddlers\" with fun 2D animation by BabyBeats Rhymo!\n\nHoarding treats all to yourself feels lonely in the end, but sharing with friends doubles the smiles and creates friendships that last forever.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "learning to share story for toddlers",
+    "sharing is caring cartoon kids",
+    "bunny sharing carrots moral",
+    "preschool friendship story",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

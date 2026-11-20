@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-20 17:33:29 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-20 18:08:34 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -17,9 +17,9 @@
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `19` days / **`263.2` subs/day** |
-| Videos Rendered & Verified | **`51`** (`43` uploaded/scheduled, `8` remaining) |
+| Videos Rendered & Verified | **`82`** (`43` uploaded/scheduled, `39` remaining) |
 | Real-Time US SEO Sync | `2026-11-20T17:33:23.002890+05:30` |
-| Topic Backlog Remaining | `0` pending out of `50` scored |
+| Topic Backlog Remaining | `0` pending out of `81` scored |
 
 ## 2. Production & Upload Queue Status
 
@@ -76,6 +76,37 @@
 | `28_12_26_short` | short | Why Do Animals Hibernate? | 98/100 | 2026-12-28 15:30:00 EST | 1080x1920, 43.93s | `READY_FOR_UPLOAD` | [28_12_26_short.mp4](videos/28_12_26_short/renders/28_12_26_short.mp4) |
 | `29_12_26_short` | short | How Does Snow Form in Clouds? | 80/100 | 2026-12-29 15:30:00 EST | 1080x1920, 43.66s | `READY_FOR_UPLOAD` | [29_12_26_short.mp4](videos/29_12_26_short/renders/29_12_26_short.mp4) |
 | `30_12_26_short` | short | Hickory Dickory Dock S! | 94/100 | 2026-12-30 15:30:00 EST | 1080x1920, 42.69s | `READY_FOR_UPLOAD` | [30_12_26_short.mp4](videos/30_12_26_short/renders/30_12_26_short.mp4) |
+| `01_01_27_short` | short | Leo's Big New Year Goal: Small Steps Make Big Dreams! | —/100 | 2027-01-01 15:30:00 EST | 1080x1920, 36.89s | `READY_FOR_UPLOAD` | [01_01_27_short.mp4](videos/01_01_27_short/renders/01_01_27_short.mp4) |
+| `02_01_27_short` | short | The Boy Who Never Cleaned His Room: The Missing Teddy! | —/100 | 2027-01-02 15:30:00 EST | 1080x1920, 40.33s | `READY_FOR_UPLOAD` | [02_01_27_short.mp4](videos/02_01_27_short/renders/02_01_27_short.mp4) |
+| `03_01_27_short` | short | Pippin the Bunny Learns to Share: The Big Carrot Picnic! | —/100 | 2027-01-03 15:30:00 EST | 1080x1920, 40.95s | `READY_FOR_UPLOAD` | [03_01_27_short.mp4](videos/03_01_27_short/renders/03_01_27_short.mp4) |
+| `04_01_27_short` | short | The Little Cloud Afraid of Thunder: Finding Inner Bravery! | —/100 | 2027-01-04 15:30:00 EST | 1080x1920, 42.47s | `READY_FOR_UPLOAD` | [04_01_27_short.mp4](videos/04_01_27_short/renders/04_01_27_short.mp4) |
+| `05_01_27_short` | short | Toby the Puppy & The Broken Flowerpot: Why Truth Wins! | —/100 | 2027-01-05 15:30:00 EST | 1080x1920, 42.93s | `READY_FOR_UPLOAD` | [05_01_27_short.mp4](videos/05_01_27_short/renders/05_01_27_short.mp4) |
+| `06_01_27_short` | short | Milo the Bear Learns to Say Thank You: The Magic Word! | —/100 | 2027-01-06 15:30:00 EST | 1080x1920, 42.83s | `READY_FOR_UPLOAD` | [06_01_27_short.mp4](videos/06_01_27_short/renders/06_01_27_short.mp4) |
+| `07_01_27_short` | short | The Impatient Little Snail: Slow and Steady Always Wins! | —/100 | 2027-01-07 15:30:00 EST | 1080x1920, 42.03s | `READY_FOR_UPLOAD` | [07_01_27_short.mp4](videos/07_01_27_short/renders/07_01_27_short.mp4) |
+| `08_01_27_short` | short | Leo's Sticky Monster Hands: Why Washing Hands Is Fun! | —/100 | 2027-01-08 15:30:00 EST | 1080x1920, 44.37s | `READY_FOR_UPLOAD` | [08_01_27_short.mp4](videos/08_01_27_short/renders/08_01_27_short.mp4) |
+| `09_01_27_short` | short | Bella the Bird Who Wouldn't Try Broccoli: The Green Tree! | —/100 | 2027-01-09 15:30:00 EST | 1080x1920, 42.87s | `READY_FOR_UPLOAD` | [09_01_27_short.mp4](videos/09_01_27_short/renders/09_01_27_short.mp4) |
+| `10_01_27_short` | short | The Angry Little Dragon: How Deep Breaths Cool the Fire! | —/100 | 2027-01-10 15:30:00 EST | 1080x1920, 42.56s | `READY_FOR_UPLOAD` | [10_01_27_short.mp4](videos/10_01_27_short/renders/10_01_27_short.mp4) |
+| `11_01_27_short` | short | Sammy the Squirrel's Lost Acorn: Why Listening Matters! | —/100 | 2027-01-11 15:30:00 EST | 1080x1920, 45.03s | `READY_FOR_UPLOAD` | [11_01_27_short.mp4](videos/11_01_27_short/renders/11_01_27_short.mp4) |
+| `12_01_27_short` | short | The Kind Elephant & The Tiny Ant: No One Is Too Small! | —/100 | 2027-01-12 15:30:00 EST | 1080x1920, 44.77s | `READY_FOR_UPLOAD` | [12_01_27_short.mp4](videos/12_01_27_short/renders/12_01_27_short.mp4) |
+| `13_01_27_short` | short | The Night Leo Met Bedroom Shadows: Night Bravery! | —/100 | 2027-01-13 15:30:00 EST | 1080x1920, 44.27s | `READY_FOR_UPLOAD` | [13_01_27_short.mp4](videos/13_01_27_short/renders/13_01_27_short.mp4) |
+| `14_01_27_short` | short | The Grumpy Badger Who Found a Smile: Joy Is Contagious! | —/100 | 2027-01-14 15:30:00 EST | 1080x1920, 43.15s | `READY_FOR_UPLOAD` | [14_01_27_short.mp4](videos/14_01_27_short/renders/14_01_27_short.mp4) |
+| `15_01_27_short` | short | Barnaby Beaver Who Refused to Sleep: Why Bodies Need Rest! | —/100 | 2027-01-15 15:30:00 EST | 1080x1920, 45.63s | `READY_FOR_UPLOAD` | [15_01_27_short.mp4](videos/15_01_27_short/renders/15_01_27_short.mp4) |
+| `16_01_27_short` | short | The Little Hedgehog's Prickly Hug: You Are Special! | —/100 | 2027-01-16 15:30:00 EST | 1080x1920, 44.45s | `READY_FOR_UPLOAD` | [16_01_27_short.mp4](videos/16_01_27_short/renders/16_01_27_short.mp4) |
+| `17_01_27_short` | short | Two Little Monkeys & The Golden Swing: Taking Turns! | —/100 | 2027-01-17 15:30:00 EST | 1080x1920, 45.6s | `READY_FOR_UPLOAD` | [17_01_27_short.mp4](videos/17_01_27_short/renders/17_01_27_short.mp4) |
+| `18_01_27_short` | short | The Boastful Rooster: Why True Champions Are Humble! | —/100 | 2027-01-18 15:30:00 EST | 1080x1920, 44.02s | `READY_FOR_UPLOAD` | [18_01_27_short.mp4](videos/18_01_27_short/renders/18_01_27_short.mp4) |
+| `19_01_27_short` | short | Leo & The Lost Library Book: Keeping Promises! | —/100 | 2027-01-19 15:30:00 EST | 1080x1920, 48.87s | `READY_FOR_UPLOAD` | [19_01_27_short.mp4](videos/19_01_27_short/renders/19_01_27_short.mp4) |
+| `20_01_27_short` | short | Penny Penguin's First Day at Preschool: Making Friends! | —/100 | 2027-01-20 15:30:00 EST | 1080x1920, 45.73s | `READY_FOR_UPLOAD` | [20_01_27_short.mp4](videos/20_01_27_short/renders/20_01_27_short.mp4) |
+| `21_01_27_short` | short | Felix Fox & The Glowing Tablet: Nature Is Fun! | —/100 | 2027-01-21 15:30:00 EST | 1080x1920, 49.03s | `READY_FOR_UPLOAD` | [21_01_27_short.mp4](videos/21_01_27_short/renders/21_01_27_short.mp4) |
+| `22_01_27_short` | short | Tommy Turtle Who Kept Falling: Practice Makes Perfect! | —/100 | 2027-01-22 15:30:00 EST | 1080x1920, 48.19s | `READY_FOR_UPLOAD` | [22_01_27_short.mp4](videos/22_01_27_short/renders/22_01_27_short.mp4) |
+| `23_01_27_short` | short | The Greedy Hamster's Stash: Giving Feels Better! | —/100 | 2027-01-23 15:30:00 EST | 1080x1920, 47.4s | `READY_FOR_UPLOAD` | [23_01_27_short.mp4](videos/23_01_27_short/renders/23_01_27_short.mp4) |
+| `24_01_27_short` | short | Charlie Cat Forgot to Say Please: The Courtesy Key! | —/100 | 2027-01-24 15:30:00 EST | 1080x1920, 44.73s | `READY_FOR_UPLOAD` | [24_01_27_short.mp4](videos/24_01_27_short/renders/24_01_27_short.mp4) |
+| `25_01_27_short` | short | The Little Fawn Who Wandered: Always Stay in Sight! | —/100 | 2027-01-25 15:30:00 EST | 1080x1920, 47.23s | `READY_FOR_UPLOAD` | [25_01_27_short.mp4](videos/25_01_27_short/renders/25_01_27_short.mp4) |
+| `26_01_27_short` | short | The Loud Little Parrot: Learning Your Inside Voice! | —/100 | 2027-01-26 15:30:00 EST | 1080x1920, 47.3s | `READY_FOR_UPLOAD` | [26_01_27_short.mp4](videos/26_01_27_short/renders/26_01_27_short.mp4) |
+| `27_01_27_short` | short | Leo's Collapsing Wooden Castle: Mistakes Help Us Grow! | —/100 | 2027-01-27 15:30:00 EST | 1080x1920, 48.9s | `READY_FOR_UPLOAD` | [27_01_27_short.mp4](videos/27_01_27_short/renders/27_01_27_short.mp4) |
+| `28_01_27_short` | short | The Interrupting Owl: How Good Listeners Win Hearts! | —/100 | 2027-01-28 15:30:00 EST | 1080x1920, 49.59s | `READY_FOR_UPLOAD` | [28_01_27_short.mp4](videos/28_01_27_short/renders/28_01_27_short.mp4) |
+| `29_01_27_short` | short | The Sad Puppy Who Got a Warm Hug: Comforting a Friend! | —/100 | 2027-01-29 15:30:00 EST | 1080x1920, 46.49s | `READY_FOR_UPLOAD` | [29_01_27_short.mp4](videos/29_01_27_short/renders/29_01_27_short.mp4) |
+| `30_01_27_short` | short | The Little Bear Who Brushed Like a Champion: Clean Teeth! | —/100 | 2027-01-30 15:30:00 EST | 1080x1920, 48.57s | `READY_FOR_UPLOAD` | [30_01_27_short.mp4](videos/30_01_27_short/renders/30_01_27_short.mp4) |
+| `31_01_27_short` | short | Leo's Cozy Bedtime Routine: Sweet Dreams Every Night! | —/100 | 2027-01-31 15:30:00 EST | 1080x1920, 48.95s | `READY_FOR_UPLOAD` | [31_01_27_short.mp4](videos/31_01_27_short/renders/31_01_27_short.mp4) |
 
 ### Publishing Status Note
 - Automated unattended publishing runs via [`youtube_direct_upload.py`](file:///G:/Faceless-Shorts/automation/youtube_direct_upload.py) once Google OAuth credentials (`client_secrets.json`) are placed in `G:/Faceless-Shorts/automation/creds/`, **or** by opening a fresh chat session where `zapier_zapier` MCP tools are loaded and triggering upload from `upload_queue.json`.
@@ -98,5 +129,19 @@
 
 ## 4. Automation Loop Heartbeat (Latest Entries)
 ```text
-No log lines recorded yet.
+[2026-11-12 11:09:51 IST] [DASHBOARD]   File "G:\Faceless-Shorts\automation\refresh_dashboard.py", line 25, in read_json
+[2026-11-12 11:09:51 IST] [DASHBOARD]     return json.loads(p.read_text(encoding="utf-8"))
+[2026-11-12 11:09:51 IST] [DASHBOARD]            ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-11-12 11:09:51 IST] [DASHBOARD]   File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\json\__init__.py", line 352, in loads
+[2026-11-12 11:09:51 IST] [DASHBOARD]     return _default_decoder.decode(s)
+[2026-11-12 11:09:51 IST] [DASHBOARD]            ~~~~~~~~~~~~~~~~~~~~~~~^^^
+[2026-11-12 11:09:51 IST] [DASHBOARD]   File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\json\decoder.py", line 345, in decode
+[2026-11-12 11:09:51 IST] [DASHBOARD]     obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+[2026-11-12 11:09:51 IST] [DASHBOARD]                ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+[2026-11-12 11:09:51 IST] [DASHBOARD]   File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\json\decoder.py", line 361, in raw_decode
+[2026-11-12 11:09:51 IST] [DASHBOARD]     obj, end = self.scan_once(s, idx)
+[2026-11-12 11:09:51 IST] [DASHBOARD]                ~~~~~~~~~~~~~~^^^^^^^^
+[2026-11-12 11:09:51 IST] [DASHBOARD] json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 355 column 1 (char 15107)
+[2026-11-12 11:09:51 IST] [DASHBOARD] EXIT CODE=1: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\refresh_dashboard.py
+[2026-11-12 11:10:52 IST] STOP_AUTOPILOT sentinel detected. Exiting cleanly.
 ```

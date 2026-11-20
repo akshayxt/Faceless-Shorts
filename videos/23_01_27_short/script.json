@@ -1,0 +1,52 @@
+{
+  "title": "The Greedy Hamster's Stash: Giving Feels Better!",
+  "thumb_text": "ALL FOR ME?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Harry the hamster discovered a secret meadow bursting with thousands of sunflower seeds!",
+      "caps": "Harry the hamster discovered a secret meadow bursting with thousands of *SUNFLOWER | *SEEDS!"
+    },
+    {
+      "text": "He stuffed his cheeks until they were round balloons and carted all five hundred seeds home!",
+      "caps": "He stuffed his cheeks until they were round balloons and carted all five hundred *SEEDS | *HOME!"
+    },
+    {
+      "text": "He piled them in his underground vault and locked the door with a sturdy wooden twig!",
+      "caps": "He piled them in his underground vault and locked the door with a *STURDY | wooden *TWIG!"
+    },
+    {
+      "text": "Sitting on a giant mountain of seeds in the dark, his tummy felt full but his heart felt empty!",
+      "caps": "Sitting on a giant mountain of seeds in the dark, his tummy felt full but his heart felt *EMPTY!"
+    },
+    {
+      "text": "Outside, winter winds were blowing cold and his forest friends had very little to eat!",
+      "caps": "Outside, winter winds were blowing cold and his forest friends had *VERY | little to *EAT!"
+    },
+    {
+      "text": "Harry loaded a wooden wheelbarrow and delivered baskets of roasted seeds to every den!",
+      "caps": "Harry loaded a wooden wheelbarrow and delivered baskets of roasted seeds to *EVERY | *DEN!"
+    },
+    {
+      "text": "The forest erupted in cheerful songs, and they invited Harry to a warm winter feast!",
+      "caps": "The forest erupted in cheerful songs, and they invited Harry to a warm *WINTER | *FEAST!"
+    },
+    {
+      "text": "Hoarding things brings worry, but sharing your abundance fills your life with true warmth!",
+      "caps": "Hoarding things brings worry, but sharing your abundance fills your life with *TRUE | *WARMTH!"
+    },
+    {
+      "text": "Give generously and subscribe to BabyBeats Rhymo!",
+      "caps": "*GIVE generously and | *SUBSCRIBE to | *BABYBEATS | *RHYMO!"
+    }
+  ]
+}

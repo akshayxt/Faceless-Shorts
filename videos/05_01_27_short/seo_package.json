@@ -1,0 +1,107 @@
+{
+  "topic_id": "05_01_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Toby the Puppy & The Broken Flowerpot: Why Truth Wins!",
+      "chars": 54,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Toby the Puppy & The Broken Flowerpot:...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Toby the Puppy & The Broken Flowerpot: Why Truth Wins!",
+  "selected_title_lint": {
+    "title": "Toby the Puppy & The Broken Flowerpot: Why Truth Wins!",
+    "chars": 54,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Toby the Puppy & The Broken Flowerpot:...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ]
+    ],
+    "good": [
+      "54 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  "thumb_text": "WHO BROKE IT?!",
+  "hook_lint": {
+    "hook": "Crash! Grandma's favorite flowerpot shattered on the kitchen floor! Toby blamed a pretend monster—until this happened!",
+    "properties": {
+      "SPECIFICITY": 46,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 41,
+      "BREVITY": 100
+    },
+    "verdict": 37,
+    "band": "WEAK",
+    "formula": "Unclassified",
+    "matched": 0
+  },
+  "primary_keyword": "telling the truth story for kids",
+  "supporting_keywords": [
+    "honesty moral story for children",
+    "broken vase truth cartoon",
+    "preschool honesty lesson"
+  ],
+  "target_search_queries": [
+    "telling the truth story for kids",
+    "honesty moral story for children",
+    "broken vase truth cartoon",
+    "preschool honesty lesson"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Toby the Puppy & The Broken Flowerpot: Why Truth Wins! — Crash! Grandma's favorite flowerpot shattered on the kitchen floor! Toby blamed a pretend monster—until this happened!\nKids science answer for \"telling the truth story for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nLies grow like prickly vines that make you feel guilty inside, but telling the truth instantly lifts the heavy rock off your chest and rebuilds trust.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "telling the truth story for kids",
+    "honesty moral story for children",
+    "broken vase truth cartoon",
+    "preschool honesty lesson",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

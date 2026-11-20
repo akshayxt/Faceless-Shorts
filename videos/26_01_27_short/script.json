@@ -1,0 +1,52 @@
+{
+  "title": "The Loud Little Parrot: Learning Your Inside Voice!",
+  "thumb_text": "INSIDE VOICE!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Polly the colorful parrot loved exercising her vocal cords at maximum volume!",
+      "caps": "Polly the colorful parrot loved exercising her vocal cords at *MAXIMUM | *VOLUME!"
+    },
+    {
+      "text": "She flew into the cozy public library and squawked, HELLO EVERYONE, LOOK AT MY FEATHERS!",
+      "caps": "She flew into the cozy public library and squawked, HELLO EVERYONE, *LOOK | AT MY *FEATHERS!"
+    },
+    {
+      "text": "Ears hurt, books rattled, and sleeping baby squirrels woke up crying in fright!",
+      "caps": "Ears hurt, books rattled, and sleeping baby squirrels woke up crying in *FRIGHT!"
+    },
+    {
+      "text": "Librarian Owl held up a gentle wing and explained the difference between voice spaces!",
+      "caps": "Librarian Owl held up a gentle wing and explained the difference between *VOICE | *SPACES!"
+    },
+    {
+      "text": "The wide open playground is for booming cheering, shouting goals, and loud laughter!",
+      "caps": "The wide open playground is for booming cheering, shouting goals, and *LOUD | *LAUGHTER!"
+    },
+    {
+      "text": "Inside cozy rooms, gentle voices protect people's focus and create peaceful spaces!",
+      "caps": "Inside cozy rooms, gentle voices protect people's focus and create *PEACEFUL | *SPACES!"
+    },
+    {
+      "text": "Polly leaned in and practiced her warm, gentle whisper voice: Want to read together?",
+      "caps": "Polly leaned in and practiced her warm, gentle whisper *VOICE: | Want to read *TOGETHER?"
+    },
+    {
+      "text": "Knowing when to be quiet and when to be loud shows respect for everyone around you!",
+      "caps": "Knowing when to be quiet and when to be loud shows respect for *EVERYONE | around *YOU!"
+    },
+    {
+      "text": "Use your gentle voice and subscribe to BabyBeats Rhymo!",
+      "caps": "*USE your gentle | voice and *SUBSCRIBE | to *BABYBEATS | *RHYMO!"
+    }
+  ]
+}

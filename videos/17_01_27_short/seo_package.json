@@ -1,0 +1,122 @@
+{
+  "topic_id": "17_01_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Two Little Monkeys & The Golden Swing: Taking Turns!",
+      "chars": 52,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Two Little Monkeys & The Golden Swing:...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Two Little Monkeys & The Golden Swing: Taking Turns! #Shorts",
+      "chars": 60,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Two Little Monkeys & The Golden Swing:...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Two Little Monkeys & The Golden Swing: Taking Turns!",
+  "selected_title_lint": {
+    "title": "Two Little Monkeys & The Golden Swing: Taking Turns!",
+    "chars": 52,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Two Little Monkeys & The Golden Swing:...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ]
+    ],
+    "good": [
+      "52 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  "thumb_text": "MY TURN NOW!",
+  "hook_lint": {
+    "hook": "Pip and Pop tugged on the playground swing until the rope creaked! Why was nobody swinging, and how did a simple timer fix it?",
+    "properties": {
+      "SPECIFICITY": 46,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 100,
+      "BREVITY": 100
+    },
+    "verdict": 44,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "taking turns and sharing for kids",
+  "supporting_keywords": [
+    "playground manners cartoon toddlers",
+    "fighting over toys moral story",
+    "timer turn taking children"
+  ],
+  "target_search_queries": [
+    "taking turns and sharing for kids",
+    "playground manners cartoon toddlers",
+    "fighting over toys moral story",
+    "timer turn taking children"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Two Little Monkeys & The Golden Swing: Taking Turns! — Pip and Pop tugged on the playground swing until the rope creaked! Why was nobody swinging, and how did a simple timer fix it?\nKids science answer for \"taking turns and sharing for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nFighting over toys ruins playtime for everyone. Setting a friendly countdown timer to take turns makes games twice as thrilling.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "taking turns and sharing for kids",
+    "playground manners cartoon toddlers",
+    "fighting over toys moral story",
+    "timer turn taking children",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

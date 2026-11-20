@@ -1,0 +1,61 @@
+{
+ "duration": 44.365,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Leo spent the afternoon digging in sandbox castles and painting rainbow posters!",
+   "start": 0.35,
+   "end": 5.316
+  },
+  {
+   "i": 1,
+   "text": "Time for lunch! shouted Mom. Leo ran straight to the table to grab a sandwich!",
+   "start": 5.566,
+   "end": 11.001
+  },
+  {
+   "i": 2,
+   "text": "Hold on! Look through the magic science magnifying glass at your fingers!",
+   "start": 11.251,
+   "end": 15.559
+  },
+  {
+   "i": 3,
+   "text": "Millions of microscopic germ monsters were doing silly dances on his palms!",
+   "start": 15.809,
+   "end": 20.634
+  },
+  {
+   "i": 4,
+   "text": "Leo turned on the warm water tap and pumped out silky, strawberry soap!",
+   "start": 20.884,
+   "end": 25.23
+  },
+  {
+   "i": 5,
+   "text": "Scrub the fronts! Scrub the backs! Scrub between the fingers for twenty seconds!",
+   "start": 25.48,
+   "end": 30.171
+  },
+  {
+   "i": 6,
+   "text": "Whoosh! The soap bubbles lifted the germ monsters and flushed them away!",
+   "start": 30.421,
+   "end": 34.583
+  },
+  {
+   "i": 7,
+   "text": "Clean hands keep your tummy happy, healthy, and ready for delicious meals!",
+   "start": 34.833,
+   "end": 39.147
+  },
+  {
+   "i": 8,
+   "text": "Wash up and subscribe to BabyBeats Rhymo for daily health facts!",
+   "start": 39.397,
+   "end": 43.265
+  }
+ ]
+}

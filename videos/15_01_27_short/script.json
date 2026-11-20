@@ -1,0 +1,52 @@
+{
+  "title": "Barnaby Beaver Who Refused to Sleep: Why Bodies Need Rest!",
+  "thumb_text": "NO SLEEP TODAY?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Barnaby the busy beaver wanted to build the tallest wooden dam on the river!",
+      "caps": "Barnaby the busy *BEAVER | wanted to build the tallest wooden dam on the *RIVER!"
+    },
+    {
+      "text": "Bedtime! called his parents. But Barnaby insisted, Sleeping is a waste of time!",
+      "caps": "Bedtime! called his *PARENTS. | But Barnaby insisted, Sleeping is a waste of *TIME!"
+    },
+    {
+      "text": "He gnawed on birch logs under the moonlight, refusing to close his drooping eyes!",
+      "caps": "He gnawed on birch logs under the *MOONLIGHT, | refusing to close his drooping *EYES!"
+    },
+    {
+      "text": "By sunrise, his head felt heavy as a boulder and his paws turned to wobbly jelly!",
+      "caps": "By sunrise, his head felt heavy as a *BOULDER | and his paws turned to wobbly *JELLY!"
+    },
+    {
+      "text": "He missed a branch, dropped his favorite chisel, and tumbled splash into the river!",
+      "caps": "He missed a branch, dropped his favorite *CHISEL, | and tumbled splash into the *RIVER!"
+    },
+    {
+      "text": "Doctor Owl pulled him ashore and explained, Sleep is your body's charging station!",
+      "caps": "Doctor Owl pulled him *ASHORE | and explained, Sleep is your body's charging *STATION!"
+    },
+    {
+      "text": "While you snooze, your brain sorts memories and your muscles rebuild superhero strength!",
+      "caps": "While you snooze, your brain sorts *MEMORIES | and your muscles rebuild superhero *STRENGTH!"
+    },
+    {
+      "text": "Barnaby curled up for a cozy eight-hour nap and woke up ready to build world wonders!",
+      "caps": "Barnaby curled up for a cozy eight-hour *NAP | and woke up ready to build world *WONDERS!"
+    },
+    {
+      "text": "Recharge your superpower sleep and subscribe to BabyBeats Rhymo!",
+      "caps": "*RECHARGE your superpower | sleep and *SUBSCRIBE | to *BABYBEATS | *RHYMO!"
+    }
+  ]
+}
