@@ -1,6 +1,6 @@
 {
-  "last_updated_ist": "2026-11-20 23:17:51 IST",
-  "total_archived": 43,
+  "last_updated_ist": "2026-11-20 23:33:56 IST",
+  "total_archived": 48,
   "videos": [
     {
       "id": "day01_short",
@@ -431,6 +431,56 @@
       "publish_date": "2026-12-22T20:30:00Z",
       "format": "short",
       "archived_at_ist": "2026-11-20 23:17:51 IST"
+    },
+    {
+      "id": "23_12_26_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\23_12_26_short\\renders\\23_12_26_short.mp4",
+      "title": "Jack and Jill: Why Is Winter Ice So Slippery?",
+      "youtube_video_id": "wUj8-kk077k",
+      "uploaded_date": "2026-11-20T23:33:31.493882+05:30",
+      "publish_date": "2026-12-23T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-20 23:33:31 IST"
+    },
+    {
+      "id": "24_12_26_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\24_12_26_short\\renders\\24_12_26_short.mp4",
+      "title": "Jingle Bells Song!",
+      "youtube_video_id": "SPwfkyJrSec",
+      "uploaded_date": "2026-11-20T23:33:38.404454+05:30",
+      "publish_date": "2026-12-24T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-20 23:33:38 IST"
+    },
+    {
+      "id": "25_12_26_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\25_12_26_short\\renders\\25_12_26_short.mp4",
+      "title": "O Christmas Tree Cartoon!",
+      "youtube_video_id": "TuWuq3ikUB8",
+      "uploaded_date": "2026-11-20T23:33:44.657583+05:30",
+      "publish_date": "2026-12-25T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-20 23:33:44 IST"
+    },
+    {
+      "id": "26_12_26_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\26_12_26_short\\renders\\26_12_26_short.mp4",
+      "title": "Brrr It's Cold: Why Do We Shiver and Chattering Teeth?",
+      "youtube_video_id": "VcWdple_iGA",
+      "uploaded_date": "2026-11-20T23:33:50.937550+05:30",
+      "publish_date": "2026-12-26T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-20 23:33:50 IST"
+    },
+    {
+      "id": "27_12_26_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\27_12_26_short\\renders\\27_12_26_short.mp4",
+      "title": "Cozy Fire Relaxing Music!",
+      "youtube_video_id": "ldqXxlYPuVw",
+      "uploaded_date": "2026-11-20T23:33:56.552028+05:30",
+      "publish_date": "2026-12-27T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-20 23:33:56 IST"
     }
   ]
 }

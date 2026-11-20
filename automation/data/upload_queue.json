@@ -1595,9 +1595,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\23_12_26_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "wUj8-kk077k",
+      "youtube_url": "https://www.youtube.com/watch?v=wUj8-kk077k",
       "scheduled_publish_est": "2026-12-23T15:30:00-05:00",
       "publish_at": "2026-12-23T20:30:00Z",
       "video_specs": {
@@ -1608,14 +1608,17 @@
       },
       "updated_at_ist": "2026-11-19T21:14:26.607496+05:30",
       "seo_txt_path": "videos/23_12_26_short/renders/23_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-20T17:33:20.274819+05:30",
+      "seo_updated_at_ist": "2026-11-20T23:33:19.066997+05:30",
       "realtime_seo_score": 66,
       "realtime_seo_queries": [
         "why is ice slippery science for kids",
         "why is ice slippery",
         "friction lesson for kids-physics",
         "science facts for kids"
-      ]
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-20T23:33:31.493882+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "24_12_26_short",
@@ -1628,9 +1631,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\24_12_26_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "SPwfkyJrSec",
+      "youtube_url": "https://www.youtube.com/watch?v=SPwfkyJrSec",
       "scheduled_publish_est": "2026-12-24T15:30:00-05:00",
       "publish_at": "2026-12-24T20:30:00Z",
       "video_specs": {
@@ -1641,14 +1644,17 @@
       },
       "updated_at_ist": "2026-11-19T21:17:35.093091+05:30",
       "seo_txt_path": "videos/24_12_26_short/renders/24_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-20T17:33:20.638703+05:30",
+      "seo_updated_at_ist": "2026-11-20T23:33:19.431355+05:30",
       "realtime_seo_score": 94,
       "realtime_seo_queries": [
         "jingle bells song for kids",
         "jingle bells song for kids🦌🎅",
         "jingle bells song for kids🦌🎅 with lyrics",
         "how sleds work physics kids"
-      ]
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-20T23:33:38.404454+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "25_12_26_short",
@@ -1661,9 +1667,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\25_12_26_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "TuWuq3ikUB8",
+      "youtube_url": "https://www.youtube.com/watch?v=TuWuq3ikUB8",
       "scheduled_publish_est": "2026-12-25T15:30:00-05:00",
       "publish_at": "2026-12-25T20:30:00Z",
       "video_specs": {
@@ -1674,14 +1680,17 @@
       },
       "updated_at_ist": "2026-11-19T21:20:27.575258+05:30",
       "seo_txt_path": "videos/25_12_26_short/renders/25_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-20T17:33:21.089266+05:30",
+      "seo_updated_at_ist": "2026-11-20T23:33:19.941701+05:30",
       "realtime_seo_score": 94,
       "realtime_seo_queries": [
         "evergreen trees for kids science",
         "evergreen trees for kindergarten",
         "evergreen trees",
         "o christmas tree cartoon"
-      ]
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-20T23:33:44.657583+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "26_12_26_short",
@@ -1694,9 +1703,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\26_12_26_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "VcWdple_iGA",
+      "youtube_url": "https://www.youtube.com/watch?v=VcWdple_iGA",
       "scheduled_publish_est": "2026-12-26T15:30:00-05:00",
       "publish_at": "2026-12-26T20:30:00Z",
       "video_specs": {
@@ -1707,14 +1716,17 @@
       },
       "updated_at_ist": "2026-11-19T21:22:53.545412+05:30",
       "seo_txt_path": "videos/26_12_26_short/renders/26_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-20T17:33:21.481998+05:30",
+      "seo_updated_at_ist": "2026-11-20T23:33:20.347381+05:30",
       "realtime_seo_score": 66,
       "realtime_seo_queries": [
         "why do we shiver science for kids",
         "why do we shiver",
         "why we shiver",
         "human body facts for kids"
-      ]
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-20T23:33:50.937550+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "27_12_26_short",
@@ -1727,9 +1739,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\27_12_26_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "ldqXxlYPuVw",
+      "youtube_url": "https://www.youtube.com/watch?v=ldqXxlYPuVw",
       "scheduled_publish_est": "2026-12-27T15:30:00-05:00",
       "publish_at": "2026-12-27T20:30:00Z",
       "video_specs": {
@@ -1740,14 +1752,17 @@
       },
       "updated_at_ist": "2026-11-19T21:25:15.244098+05:30",
       "seo_txt_path": "videos/27_12_26_short/renders/27_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-20T17:33:21.895708+05:30",
+      "seo_updated_at_ist": "2026-11-20T23:33:20.811625+05:30",
       "realtime_seo_score": 94,
       "realtime_seo_queries": [
         "why does wood crackle in fire kids",
         "why does wood burn",
         "fireplace campfire",
         "fireplace cartoon"
-      ]
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-20T23:33:56.552028+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "28_12_26_short",
@@ -1773,7 +1788,7 @@
       },
       "updated_at_ist": "2026-11-19T21:27:34.839346+05:30",
       "seo_txt_path": "videos/28_12_26_short/renders/28_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-20T17:33:22.268035+05:30",
+      "seo_updated_at_ist": "2026-11-20T23:33:21.160713+05:30",
       "realtime_seo_score": 98,
       "realtime_seo_queries": [
         "why do animals hibernate for kids",
@@ -1806,7 +1821,7 @@
       },
       "updated_at_ist": "2026-11-19T21:29:38.780291+05:30",
       "seo_txt_path": "videos/29_12_26_short/renders/29_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-20T17:33:22.617540+05:30",
+      "seo_updated_at_ist": "2026-11-20T23:33:21.474634+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "how does snow form for kids",
@@ -1839,7 +1854,7 @@
       },
       "updated_at_ist": "2026-11-19T21:32:10.497117+05:30",
       "seo_txt_path": "videos/30_12_26_short/renders/30_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-20T17:33:22.999726+05:30",
+      "seo_updated_at_ist": "2026-11-20T23:33:21.816787+05:30",
       "realtime_seo_score": 94,
       "realtime_seo_queries": [
         "hickory dickory dock rhyme for kids",
@@ -1849,6 +1864,6 @@
       ]
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-20T17:33:23.002890+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-20T23:33:21.816849+05:30",
   "realtime_seo_us_trends_checked": 10
 }
