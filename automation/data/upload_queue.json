@@ -1608,7 +1608,7 @@
       },
       "updated_at_ist": "2026-11-19T21:14:26.607496+05:30",
       "seo_txt_path": "videos/23_12_26_short/renders/23_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-20T15:51:46.748572+05:30",
+      "seo_updated_at_ist": "2026-11-20T17:33:20.274819+05:30",
       "realtime_seo_score": 66,
       "realtime_seo_queries": [
         "why is ice slippery science for kids",
@@ -1641,7 +1641,7 @@
       },
       "updated_at_ist": "2026-11-19T21:17:35.093091+05:30",
       "seo_txt_path": "videos/24_12_26_short/renders/24_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-20T15:51:47.184302+05:30",
+      "seo_updated_at_ist": "2026-11-20T17:33:20.638703+05:30",
       "realtime_seo_score": 94,
       "realtime_seo_queries": [
         "jingle bells song for kids",
@@ -1674,7 +1674,7 @@
       },
       "updated_at_ist": "2026-11-19T21:20:27.575258+05:30",
       "seo_txt_path": "videos/25_12_26_short/renders/25_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-20T15:51:47.689258+05:30",
+      "seo_updated_at_ist": "2026-11-20T17:33:21.089266+05:30",
       "realtime_seo_score": 94,
       "realtime_seo_queries": [
         "evergreen trees for kids science",
@@ -1707,7 +1707,7 @@
       },
       "updated_at_ist": "2026-11-19T21:22:53.545412+05:30",
       "seo_txt_path": "videos/26_12_26_short/renders/26_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-20T15:51:48.238003+05:30",
+      "seo_updated_at_ist": "2026-11-20T17:33:21.481998+05:30",
       "realtime_seo_score": 66,
       "realtime_seo_queries": [
         "why do we shiver science for kids",
@@ -1721,7 +1721,7 @@
       "topic_id": "27_12_26",
       "format": "short",
       "scheduled_slot_est": "15:30 EST",
-      "title": "Cozy Fireplace Music!",
+      "title": "Cozy Fire Relaxing Music!",
       "video_path": "G:\\Faceless-Shorts\\videos\\27_12_26_short\\renders\\27_12_26_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\27_12_26_short\\renders\\27_12_26_thumb.jpg",
       "seo_path": "G:\\Faceless-Shorts\\videos\\27_12_26_short\\seo_package.json",
@@ -1740,13 +1740,13 @@
       },
       "updated_at_ist": "2026-11-19T21:25:15.244098+05:30",
       "seo_txt_path": "videos/27_12_26_short/renders/27_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-20T15:51:48.768380+05:30",
-      "realtime_seo_score": 76,
+      "seo_updated_at_ist": "2026-11-20T17:33:21.895708+05:30",
+      "realtime_seo_score": 94,
       "realtime_seo_queries": [
         "why does wood crackle in fire kids",
         "why does wood burn",
-        "fireplace cave",
-        "fireplace in the woods"
+        "fireplace campfire",
+        "fireplace cartoon"
       ]
     },
     {
@@ -1773,7 +1773,7 @@
       },
       "updated_at_ist": "2026-11-19T21:27:34.839346+05:30",
       "seo_txt_path": "videos/28_12_26_short/renders/28_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-20T15:51:49.158032+05:30",
+      "seo_updated_at_ist": "2026-11-20T17:33:22.268035+05:30",
       "realtime_seo_score": 98,
       "realtime_seo_queries": [
         "why do animals hibernate for kids",
@@ -1806,7 +1806,7 @@
       },
       "updated_at_ist": "2026-11-19T21:29:38.780291+05:30",
       "seo_txt_path": "videos/29_12_26_short/renders/29_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-20T15:51:49.512437+05:30",
+      "seo_updated_at_ist": "2026-11-20T17:33:22.617540+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "how does snow form for kids",
@@ -1839,7 +1839,7 @@
       },
       "updated_at_ist": "2026-11-19T21:32:10.497117+05:30",
       "seo_txt_path": "videos/30_12_26_short/renders/30_12_26_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-20T15:51:49.881900+05:30",
+      "seo_updated_at_ist": "2026-11-20T17:33:22.999726+05:30",
       "realtime_seo_score": 94,
       "realtime_seo_queries": [
         "hickory dickory dock rhyme for kids",
@@ -1849,6 +1849,6 @@
       ]
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-20T15:51:49.881949+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-20T17:33:23.002890+05:30",
   "realtime_seo_us_trends_checked": 10
 }
