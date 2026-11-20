@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-20 18:08:34 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-20 23:26:00 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -17,9 +17,9 @@
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `19` days / **`263.2` subs/day** |
-| Videos Rendered & Verified | **`82`** (`43` uploaded/scheduled, `39` remaining) |
+| Videos Rendered & Verified | **`83`** (`43` uploaded/scheduled, `40` remaining) |
 | Real-Time US SEO Sync | `2026-11-20T17:33:23.002890+05:30` |
-| Topic Backlog Remaining | `0` pending out of `81` scored |
+| Topic Backlog Remaining | `1` pending out of `82` scored |
 
 ## 2. Production & Upload Queue Status
 
@@ -107,6 +107,7 @@
 | `29_01_27_short` | short | The Sad Puppy Who Got a Warm Hug: Comforting a Friend! | —/100 | 2027-01-29 15:30:00 EST | 1080x1920, 46.49s | `READY_FOR_UPLOAD` | [29_01_27_short.mp4](videos/29_01_27_short/renders/29_01_27_short.mp4) |
 | `30_01_27_short` | short | The Little Bear Who Brushed Like a Champion: Clean Teeth! | —/100 | 2027-01-30 15:30:00 EST | 1080x1920, 48.57s | `READY_FOR_UPLOAD` | [30_01_27_short.mp4](videos/30_01_27_short/renders/30_01_27_short.mp4) |
 | `31_01_27_short` | short | Leo's Cozy Bedtime Routine: Sweet Dreams Every Night! | —/100 | 2027-01-31 15:30:00 EST | 1080x1920, 48.95s | `READY_FOR_UPLOAD` | [31_01_27_short.mp4](videos/31_01_27_short/renders/31_01_27_short.mp4) |
+| `01_02_27_short` | short | What If You Never Took A Bath? The 7-Day Cartoon Experiment! | —/100 | 2027-02-01 15:30:00 EST | 1080x1920, 38.27s | `READY_FOR_UPLOAD` | [01_02_27_short.mp4](videos/01_02_27_short/renders/01_02_27_short.mp4) |
 
 ### Publishing Status Note
 - Automated unattended publishing runs via [`youtube_direct_upload.py`](file:///G:/Faceless-Shorts/automation/youtube_direct_upload.py) once Google OAuth credentials (`client_secrets.json`) are placed in `G:/Faceless-Shorts/automation/creds/`, **or** by opening a fresh chat session where `zapier_zapier` MCP tools are loaded and triggering upload from `upload_queue.json`.

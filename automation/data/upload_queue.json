@@ -2591,6 +2591,30 @@
         "height": 1920
       },
       "updated_at_ist": "2026-11-20T18:05:24.091715+05:30"
+    },
+    {
+      "id": "01_02_27_short",
+      "topic_id": "01_02_27",
+      "format": "short",
+      "scheduled_slot_est": "15:30 EST",
+      "title": "What If You Never Took A Bath? The 7-Day Cartoon Experiment!",
+      "video_path": "G:\\Faceless-Shorts\\videos\\01_02_27_short\\renders\\01_02_27_short.mp4",
+      "thumb_path": "G:\\Faceless-Shorts\\videos\\01_02_27_short\\renders\\01_02_27_thumb.jpg",
+      "seo_path": "G:\\Faceless-Shorts\\videos\\01_02_27_short\\seo_package.json",
+      "made_for_kids": true,
+      "category_id": "27",
+      "status": "READY_FOR_UPLOAD",
+      "youtube_video_id": null,
+      "youtube_url": null,
+      "scheduled_publish_est": "2027-02-01T15:30:00-05:00",
+      "publish_at": "2027-02-01T20:30:00Z",
+      "video_specs": {
+        "duration_sec": 38.27,
+        "size_bytes": 5457149,
+        "width": 1080,
+        "height": 1920
+      },
+      "updated_at_ist": "2026-11-20T23:25:05.266973+05:30"
     }
   ],
   "realtime_seo_last_sync_ist": "2026-11-20T17:33:23.002890+05:30",

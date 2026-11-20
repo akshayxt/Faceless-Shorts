@@ -1,0 +1,61 @@
+{
+ "duration": 38.273,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "What if you decided to NEVER take a bath again?",
+   "start": 0.35,
+   "end": 2.713
+  },
+  {
+   "i": 1,
+   "text": "On Day One, you just smell a tiny bit like peanut butter!",
+   "start": 2.963,
+   "end": 6.344
+  },
+  {
+   "i": 2,
+   "text": "By Day Three, sticky sweat traps dust from your soccer shoes!",
+   "start": 6.594,
+   "end": 10.222
+  },
+  {
+   "i": 3,
+   "text": "Your head begins to itch like ten playful fleas are jumping around!",
+   "start": 10.472,
+   "end": 14.196
+  },
+  {
+   "i": 4,
+   "text": "On Day Seven, microscopic germ monsters throw a wild party on your elbows!",
+   "start": 14.446,
+   "end": 19.586
+  },
+  {
+   "i": 5,
+   "text": "They munch on dead skin cells and build smelly stink forts!",
+   "start": 19.836,
+   "end": 23.183
+  },
+  {
+   "i": 6,
+   "text": "Soap is your superhero shield! It washes away bad germs in seconds!",
+   "start": 23.433,
+   "end": 28.13
+  },
+  {
+   "i": 7,
+   "text": "Warm bubbly water makes you fresh, clean, and ready to conquer the world!",
+   "start": 28.38,
+   "end": 32.76
+  },
+  {
+   "i": 8,
+   "text": "Stay fresh and subscribe to BabyBeats Rhymo for daily science fun!",
+   "start": 33.01,
+   "end": 37.173
+  }
+ ]
+}

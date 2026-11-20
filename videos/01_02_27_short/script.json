@@ -1,0 +1,57 @@
+{
+  "title": "What If You Never Took A Bath? The 7-Day Cartoon Experiment!",
+  "thumb_text": "NEVER TAKE A BATH?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "category": "science-curiosity",
+  "primary_keyword": "what if you never bathed kids science cartoon",
+  "supporting_keywords": [
+    "why hygiene matters animation",
+    "kids bath time science story",
+    "funny cartoon germs experiment"
+  ],
+  "fact_summary": "Your skin sheds billions of microscopic cells and sweats every day; without soap and warm water, harmless micro-bugs multiply into itchy, stinky grease armies!",
+  "hook": "On Day 1, you smell like peanut butter! But on Day 7, tiny tickly germ monsters start throwing a wild dance party on your elbows! What really happens?",
+  "lines": [
+    {
+      "text": "What if you decided to NEVER take a bath again?",
+      "caps": "What if you decided to *NEVER | take a bath *AGAIN?!"
+    },
+    {
+      "text": "On Day One, you just smell a tiny bit like peanut butter!",
+      "caps": "On Day One, you just smell | a tiny bit like *PEANUT *BUTTER!"
+    },
+    {
+      "text": "By Day Three, sticky sweat traps dust from your soccer shoes!",
+      "caps": "By Day Three, *STICKY sweat traps | dust from your *SOCCER *SHOES!"
+    },
+    {
+      "text": "Your head begins to itch like ten playful fleas are jumping around!",
+      "caps": "Your head begins to *ITCH | like ten playful *FLEAS | are jumping *AROUND!"
+    },
+    {
+      "text": "On Day Seven, microscopic germ monsters throw a wild party on your elbows!",
+      "caps": "On Day Seven, microscopic *GERM | monsters throw a wild *PARTY | on your *ELBOWS!"
+    },
+    {
+      "text": "They munch on dead skin cells and build smelly stink forts!",
+      "caps": "They munch on *DEAD skin cells | and build smelly *STINK *FORTS!"
+    },
+    {
+      "text": "Soap is your superhero shield! It washes away bad germs in seconds!",
+      "caps": "*SOAP is your superhero *SHIELD! | It washes away bad *GERMS | in *SECONDS!"
+    },
+    {
+      "text": "Warm bubbly water makes you fresh, clean, and ready to conquer the world!",
+      "caps": "Warm bubbly water makes you *FRESH, | clean, and ready to *CONQUER | the *WORLD!"
+    },
+    {
+      "text": "Stay fresh and subscribe to BabyBeats Rhymo for daily science fun!",
+      "caps": "*STAY FRESH and *SUBSCRIBE | to *BABYBEATS Rhymo | for daily science *FUN!"
+    }
+  ]
+}
