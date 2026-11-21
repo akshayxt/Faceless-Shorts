@@ -71,6 +71,14 @@
       "target": "8151147843",
       "chat_id": "-1001997761568",
       "details": "Promoted with rights: ['can_manage_chat', 'can_delete_messages', 'can_restrict_members', 'can_invite_users', 'can_pin_messages', 'can_promote_members', 'can_change_info', 'can_manage_video_chats']"
+    },
+    {
+      "timestamp_ist": "2026-11-21 12:54:43 IST",
+      "action": "PROMOTE",
+      "actor": "@AkshayGangwar",
+      "target": "@MissRose_bot",
+      "chat_id": "-1001997761568",
+      "details": "Promoted with rights: ['can_manage_chat', 'can_delete_messages', 'can_restrict_members', 'can_invite_users', 'can_pin_messages', 'can_promote_members', 'can_change_info', 'can_manage_video_chats']"
     }
   ]
 }

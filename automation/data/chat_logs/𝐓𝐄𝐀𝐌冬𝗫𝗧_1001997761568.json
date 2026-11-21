@@ -2,7 +2,7 @@
   "chat_id": -1001997761568,
   "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
   "created_at_ist": "2026-11-17 11:31:28 IST",
-  "updated_at_ist": "2026-11-21 12:54:09 IST",
+  "updated_at_ist": "2026-11-21 12:59:26 IST",
   "messages": [
     {
       "msg_id": 27049,
@@ -4953,6 +4953,96 @@
       "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
       "text": "/start",
       "date_ist": "2026-11-21 12:54:09 IST"
+    },
+    {
+      "msg_id": 29322,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 7118065044,
+      "sender_username": "AkshayGangwar",
+      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
+      "text": "/promote@MessageXTRobot",
+      "date_ist": "2026-11-21 12:54:41 IST"
+    },
+    {
+      "msg_id": 29324,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 7118065044,
+      "sender_username": "AkshayGangwar",
+      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
+      "text": "..",
+      "date_ist": "2026-11-21 12:54:57 IST"
+    },
+    {
+      "msg_id": 29325,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8151147843,
+      "sender_username": null,
+      "sender_name": "Arushi",
+      "text": "/ban",
+      "date_ist": "2026-11-21 12:55:23 IST"
+    },
+    {
+      "msg_id": 29328,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 7118065044,
+      "sender_username": "AkshayGangwar",
+      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
+      "text": "1",
+      "date_ist": "2026-11-21 12:55:41 IST"
+    },
+    {
+      "msg_id": 29329,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8151147843,
+      "sender_username": null,
+      "sender_name": "Arushi",
+      "text": "/ban",
+      "date_ist": "2026-11-21 12:55:55 IST"
+    },
+    {
+      "msg_id": 29332,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 7118065044,
+      "sender_username": "AkshayGangwar",
+      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
+      "text": "2",
+      "date_ist": "2026-11-21 12:56:04 IST"
+    },
+    {
+      "msg_id": 29333,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8151147843,
+      "sender_username": null,
+      "sender_name": "Arushi",
+      "text": "/ban",
+      "date_ist": "2026-11-21 12:58:01 IST"
+    },
+    {
+      "msg_id": 29336,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 7118065044,
+      "sender_username": "AkshayGangwar",
+      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
+      "text": "@Zero_696",
+      "date_ist": "2026-11-21 12:59:09 IST"
+    },
+    {
+      "msg_id": 29337,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8151147843,
+      "sender_username": null,
+      "sender_name": "Arushi",
+      "text": "/ban @Zero_696",
+      "date_ist": "2026-11-21 12:59:26 IST"
     }
   ]
 }
