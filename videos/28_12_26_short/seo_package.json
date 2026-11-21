@@ -36,41 +36,8 @@
       ]
     },
     {
-      "title": "What Happens When Animals Hibernate?",
-      "chars": 36,
-      "score": 98,
-      "issues": [
-        [
-          "no-number",
-          "no number, date or name - the most reliable single fix"
-        ]
-      ]
-    },
-    {
-      "title": "Rock a Bye Baby Poem!",
-      "chars": 21,
-      "score": 94,
-      "issues": [
-        [
-          "no-number",
-          "no number, date or name - the most reliable single fix"
-        ]
-      ]
-    },
-    {
       "title": "Rock a Bye Baby Rhyme!",
       "chars": 22,
-      "score": 94,
-      "issues": [
-        [
-          "no-number",
-          "no number, date or name - the most reliable single fix"
-        ]
-      ]
-    },
-    {
-      "title": "Rock a Bye Baby Poem! #Shorts",
-      "chars": 29,
       "score": 94,
       "issues": [
         [
@@ -135,21 +102,6 @@
         [
           "mobile",
           "a mobile feed shows about \"Why Do Animals Hibernate Read Aloud?...\" - check the subject survives"
-        ],
-        [
-          "no-number",
-          "no number, date or name - the most reliable single fix"
-        ]
-      ]
-    },
-    {
-      "title": "What Happens When Animals Hibernate? #Shorts",
-      "chars": 44,
-      "score": 80,
-      "issues": [
-        [
-          "mobile",
-          "a mobile feed shows about \"What Happens When Animals Hibernate?...\" - check the subject survives"
         ],
         [
           "no-number",
@@ -229,16 +181,16 @@
   ],
   "realtime_seo": {
     "mode": "live_us_autocomplete_and_trends",
-    "fetched_at_ist": "2026-11-21T11:48:52.575842+05:30",
+    "fetched_at_ist": "2026-11-21T17:33:18.427925+05:30",
     "live_yt_suggest_queries": [
       "why do animals hibernate",
       "why do animals hibernate read aloud",
       "why do animals hibernate book",
       "why do some animals migrate or hibernate",
-      "what happens when animals hibernate",
       "bear hibernation cartoon",
       "bear hibernation preschool",
-      "rock a bye baby rhyme"
+      "rock a bye baby rhyme",
+      "science facts for kids"
     ],
     "matched_safe_us_trends": [],
     "observed_us_hashtags": [
@@ -249,14 +201,14 @@
       "#sciencefacts"
     ]
   },
-  "description": "Why Do Animals Hibernate? — Rock-a-bye baby on the tree top! When winter comes, why do bears, bats, and frogs go to sleep for months and months?\nKids science answer for \"why do animals hibernate for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nWinter brings scarce food and freezing temperatures. Hibernating animals drastically slow down their heartbeat, body temperature, and metabolism to live off stored fat until spring flowers bloom.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- why do animals hibernate\n- why do animals hibernate read aloud\n- why do animals hibernate book\n- why do some animals migrate or hibernate\n- what happens when animals hibernate\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "description": "Why Do Animals Hibernate? — Rock-a-bye baby on the tree top! When winter comes, why do bears, bats, and frogs go to sleep for months and months?\nKids science answer for \"why do animals hibernate for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nWinter brings scarce food and freezing temperatures. Hibernating animals drastically slow down their heartbeat, body temperature, and metabolism to live off stored fat until spring flowers bloom.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- why do animals hibernate\n- why do animals hibernate read aloud\n- why do animals hibernate book\n- why do some animals migrate or hibernate\n- bear hibernation cartoon\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.nasa.gov/kidsclub\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
     "why do animals hibernate",
     "why do animals hibernate read aloud",
     "why do animals hibernate book",
     "why do some animals migrate or hibernate",
-    "what happens when animals hibernate",
     "bear hibernation cartoon",
+    "bear hibernation preschool",
     "why do animals hibernate for kids",
     "bear hibernation science cartoon",
     "rock a bye baby animal rhyme",

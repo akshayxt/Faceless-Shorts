@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-21 17:02:45 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-21 17:33:47 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -18,7 +18,7 @@
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `18` days / **`277.8` subs/day** |
 | Videos Rendered & Verified | **`83`** (`48` uploaded/scheduled, `35` remaining) |
-| Real-Time US SEO Sync | `2026-11-21T11:49:04.108686+05:30` |
+| Real-Time US SEO Sync | `2026-11-21T17:33:34.903334+05:30` |
 | Topic Backlog Remaining | `1` pending out of `82` scored |
 
 ## 2. Production & Upload Queue Status
@@ -78,7 +78,7 @@
 | `30_12_26_short` | short | Hickory Dickory Dock S! | 94/100 | 2026-12-30 15:30:00 EST | 1080x1920, 42.69s | `READY_FOR_UPLOAD` | [30_12_26_short.mp4](videos/30_12_26_short/renders/30_12_26_short.mp4) |
 | `01_01_27_short` | short | Leo's Big New Year Goal: Small Steps Make Big Dreams! | 62/100 | 2027-01-01 15:30:00 EST | 1080x1920, 36.89s | `READY_FOR_UPLOAD` | [01_01_27_short.mp4](videos/01_01_27_short/renders/01_01_27_short.mp4) |
 | `02_01_27_short` | short | The Boy Who Never Cleaned His Room: The Missing Teddy! | 62/100 | 2027-01-02 15:30:00 EST | 1080x1920, 40.33s | `READY_FOR_UPLOAD` | [02_01_27_short.mp4](videos/02_01_27_short/renders/02_01_27_short.mp4) |
-| `03_01_27_short` | short | Bunny Chewing Carrot! | 94/100 | 2027-01-03 15:30:00 EST | 1080x1920, 40.95s | `READY_FOR_UPLOAD` | [03_01_27_short.mp4](videos/03_01_27_short/renders/03_01_27_short.mp4) |
+| `03_01_27_short` | short | Bunny with a Carrot! | 94/100 | 2027-01-03 15:30:00 EST | 1080x1920, 40.95s | `READY_FOR_UPLOAD` | [03_01_27_short.mp4](videos/03_01_27_short/renders/03_01_27_short.mp4) |
 | `04_01_27_short` | short | The Little Cloud Afraid of Thunder: Finding Inner Bravery! | 62/100 | 2027-01-04 15:30:00 EST | 1080x1920, 42.47s | `READY_FOR_UPLOAD` | [04_01_27_short.mp4](videos/04_01_27_short/renders/04_01_27_short.mp4) |
 | `05_01_27_short` | short | Toby the Puppy & The Broken Flowerpot: Why Truth Wins! | 80/100 | 2027-01-05 15:30:00 EST | 1080x1920, 42.93s | `READY_FOR_UPLOAD` | [05_01_27_short.mp4](videos/05_01_27_short/renders/05_01_27_short.mp4) |
 | `06_01_27_short` | short | Good Manners Rhymes We Say Thank You! | 94/100 | 2027-01-06 15:30:00 EST | 1080x1920, 42.83s | `READY_FOR_UPLOAD` | [06_01_27_short.mp4](videos/06_01_27_short/renders/06_01_27_short.mp4) |
