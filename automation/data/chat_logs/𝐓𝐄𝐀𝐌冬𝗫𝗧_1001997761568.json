@@ -2,7 +2,7 @@
   "chat_id": -1001997761568,
   "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
   "created_at_ist": "2026-11-17 11:31:28 IST",
-  "updated_at_ist": "2026-11-21 12:44:26 IST",
+  "updated_at_ist": "2026-11-21 12:49:05 IST",
   "messages": [
     {
       "msg_id": 27049,
@@ -4833,6 +4833,56 @@
       "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
       "text": "A = 5\nB = 7",
       "date_ist": "2026-11-21 12:44:26 IST"
+    },
+    {
+      "msg_id": 29305,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 7118065044,
+      "sender_username": "AkshayGangwar",
+      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
+      "text": "/rax num1 = float(input(\"Enter first number: \"))\nnum2 = float(input(\"Enter second number: \"))\n\noperator = input(\"Choose operator (+, -, *, /): \")\n\nif operator == \"+\":\n    # Addition\n    pass\n\nelif operator == \"-\":\n    # Subtraction\n    pass\n\nelif operator == \"*\":\n    # Multiplication\n    pass\n\nelif operator == \"/\":\n    # Division\n    pass\n\nelse:\n    print(\"Invalid Operator\")",
+      "date_ist": "2026-11-21 12:45:36 IST"
+    },
+    {
+      "msg_id": 29307,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 7118065044,
+      "sender_username": "AkshayGangwar",
+      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
+      "text": "/rax num1 = 10\nnum2 = 5\n\noperator = \"+\"\n\nif operator == \"+\":\n    print(\"Result:\", num1 + num2)\n\nelif operator == \"-\":\n    print(\"Result:\", num1 - num2)\n\nelif operator == \"*\":\n    print(\"Result:\", num1 * num2)\n\nelif operator == \"/\":\n    if num2 != 0:\n        print(\"Result:\", num1 / num2)\n    else:\n        print(\"Cannot divide by zero\")\n\nelse:\n    print(\"Invalid Operator\")",
+      "date_ist": "2026-11-21 12:45:58 IST"
+    },
+    {
+      "msg_id": 29309,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 7118065044,
+      "sender_username": "AkshayGangwar",
+      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
+      "text": "6565+6",
+      "date_ist": "2026-11-21 12:47:25 IST"
+    },
+    {
+      "msg_id": 29310,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 7118065044,
+      "sender_username": "AkshayGangwar",
+      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
+      "text": "kkkkkkkkbjhn",
+      "date_ist": "2026-11-21 12:47:31 IST"
+    },
+    {
+      "msg_id": 29311,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 7118065044,
+      "sender_username": "AkshayGangwar",
+      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
+      "text": "https://www.w3schools.com/python/python_syntax.asp",
+      "date_ist": "2026-11-21 12:49:05 IST"
     }
   ]
 }
