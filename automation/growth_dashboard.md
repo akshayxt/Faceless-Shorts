@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-21 17:49:49 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-21 23:34:10 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -17,8 +17,8 @@
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `18` days / **`277.8` subs/day** |
-| Videos Rendered & Verified | **`83`** (`48` uploaded/scheduled, `35` remaining) |
-| Real-Time US SEO Sync | `2026-11-21T17:49:45.001803+05:30` |
+| Videos Rendered & Verified | **`83`** (`53` uploaded/scheduled, `30` remaining) |
+| Real-Time US SEO Sync | `2026-11-21T23:33:33.206040+05:30` |
 | Topic Backlog Remaining | `1` pending out of `82` scored |
 
 ## 2. Production & Upload Queue Status
@@ -73,11 +73,11 @@
 | `25_12_26_short` | short | O Christmas Tree Cartoon! | 94/100 | 2026-12-25 15:30:00 EST | 1080x1920, 41.48s | `SCHEDULED` | [25_12_26_short.mp4](videos/25_12_26_short/renders/25_12_26_short.mp4) |
 | `26_12_26_short` | short | Brrr It's Cold: Why Do We Shiver and Chattering Teeth? | 66/100 | 2026-12-26 15:30:00 EST | 1080x1920, 43.76s | `SCHEDULED` | [26_12_26_short.mp4](videos/26_12_26_short/renders/26_12_26_short.mp4) |
 | `27_12_26_short` | short | Cozy Fire Relaxing Music! | 94/100 | 2026-12-27 15:30:00 EST | 1080x1920, 43.9s | `SCHEDULED` | [27_12_26_short.mp4](videos/27_12_26_short/renders/27_12_26_short.mp4) |
-| `28_12_26_short` | short | Why Do Animals Hibernate? | 98/100 | 2026-12-28 15:30:00 EST | 1080x1920, 43.93s | `READY_FOR_UPLOAD` | [28_12_26_short.mp4](videos/28_12_26_short/renders/28_12_26_short.mp4) |
-| `29_12_26_short` | short | How Does Snow Form in Clouds? | 80/100 | 2026-12-29 15:30:00 EST | 1080x1920, 43.66s | `READY_FOR_UPLOAD` | [29_12_26_short.mp4](videos/29_12_26_short/renders/29_12_26_short.mp4) |
-| `30_12_26_short` | short | Hickory Dickory Dock S! | 94/100 | 2026-12-30 15:30:00 EST | 1080x1920, 42.69s | `READY_FOR_UPLOAD` | [30_12_26_short.mp4](videos/30_12_26_short/renders/30_12_26_short.mp4) |
-| `01_01_27_short` | short | Leo's Big New Year Goal: Small Steps Make Big Dreams! | 62/100 | 2027-01-01 15:30:00 EST | 1080x1920, 36.89s | `READY_FOR_UPLOAD` | [01_01_27_short.mp4](videos/01_01_27_short/renders/01_01_27_short.mp4) |
-| `02_01_27_short` | short | The Boy Who Never Cleaned His Room: The Missing Teddy! | 62/100 | 2027-01-02 15:30:00 EST | 1080x1920, 40.33s | `READY_FOR_UPLOAD` | [02_01_27_short.mp4](videos/02_01_27_short/renders/02_01_27_short.mp4) |
+| `28_12_26_short` | short | Why Do Animals Hibernate? | 98/100 | 2026-12-28 15:30:00 EST | 1080x1920, 43.93s | `SCHEDULED` | [28_12_26_short.mp4](videos/28_12_26_short/renders/28_12_26_short.mp4) |
+| `29_12_26_short` | short | How Does Snow Form in Clouds? | 80/100 | 2026-12-29 15:30:00 EST | 1080x1920, 43.66s | `SCHEDULED` | [29_12_26_short.mp4](videos/29_12_26_short/renders/29_12_26_short.mp4) |
+| `30_12_26_short` | short | Hickory Dickory Dock S! | 94/100 | 2026-12-30 15:30:00 EST | 1080x1920, 42.69s | `SCHEDULED` | [30_12_26_short.mp4](videos/30_12_26_short/renders/30_12_26_short.mp4) |
+| `01_01_27_short` | short | Leo's Big New Year Goal: Small Steps Make Big Dreams! | 62/100 | 2027-01-01 15:30:00 EST | 1080x1920, 36.89s | `SCHEDULED` | [01_01_27_short.mp4](videos/01_01_27_short/renders/01_01_27_short.mp4) |
+| `02_01_27_short` | short | The Boy Who Never Cleaned His Room: The Missing Teddy! | 62/100 | 2027-01-02 15:30:00 EST | 1080x1920, 40.33s | `SCHEDULED` | [02_01_27_short.mp4](videos/02_01_27_short/renders/02_01_27_short.mp4) |
 | `03_01_27_short` | short | Bunny with a Carrot! | 94/100 | 2027-01-03 15:30:00 EST | 1080x1920, 40.95s | `READY_FOR_UPLOAD` | [03_01_27_short.mp4](videos/03_01_27_short/renders/03_01_27_short.mp4) |
 | `04_01_27_short` | short | The Little Cloud Afraid of Thunder: Finding Inner Bravery! | 62/100 | 2027-01-04 15:30:00 EST | 1080x1920, 42.47s | `READY_FOR_UPLOAD` | [04_01_27_short.mp4](videos/04_01_27_short/renders/04_01_27_short.mp4) |
 | `05_01_27_short` | short | Toby the Puppy & The Broken Flowerpot: Why Truth Wins! | 80/100 | 2027-01-05 15:30:00 EST | 1080x1920, 42.93s | `READY_FOR_UPLOAD` | [05_01_27_short.mp4](videos/05_01_27_short/renders/05_01_27_short.mp4) |

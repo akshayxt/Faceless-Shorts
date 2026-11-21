@@ -1,6 +1,6 @@
 {
-  "last_updated_ist": "2026-11-21 21:36:55 IST",
-  "total_archived": 48,
+  "last_updated_ist": "2026-11-21 23:34:07 IST",
+  "total_archived": 53,
   "videos": [
     {
       "id": "day01_short",
@@ -481,6 +481,56 @@
       "publish_date": "2026-12-27T20:30:00Z",
       "format": "short",
       "archived_at_ist": "2026-11-21 21:36:55 IST"
+    },
+    {
+      "id": "28_12_26_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\28_12_26_short\\renders\\28_12_26_short.mp4",
+      "title": "Why Do Animals Hibernate?",
+      "youtube_video_id": "6zqoADdCuAU",
+      "uploaded_date": "2026-11-21T23:33:41.429389+05:30",
+      "publish_date": "2026-12-28T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-21 23:33:41 IST"
+    },
+    {
+      "id": "29_12_26_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\29_12_26_short\\renders\\29_12_26_short.mp4",
+      "title": "How Does Snow Form in Clouds?",
+      "youtube_video_id": "yqxdlZPInEs",
+      "uploaded_date": "2026-11-21T23:33:46.999037+05:30",
+      "publish_date": "2026-12-29T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-21 23:33:47 IST"
+    },
+    {
+      "id": "30_12_26_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\30_12_26_short\\renders\\30_12_26_short.mp4",
+      "title": "Hickory Dickory Dock S!",
+      "youtube_video_id": "CdyHQXM3E_8",
+      "uploaded_date": "2026-11-21T23:33:54.204326+05:30",
+      "publish_date": "2026-12-30T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-21 23:33:54 IST"
+    },
+    {
+      "id": "01_01_27_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\01_01_27_short\\renders\\01_01_27_short.mp4",
+      "title": "Leo's Big New Year Goal: Small Steps Make Big Dreams!",
+      "youtube_video_id": "1ppuYqmiy2I",
+      "uploaded_date": "2026-11-21T23:34:02.133225+05:30",
+      "publish_date": "2027-01-01T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-21 23:34:02 IST"
+    },
+    {
+      "id": "02_01_27_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\02_01_27_short\\renders\\02_01_27_short.mp4",
+      "title": "The Boy Who Never Cleaned His Room: The Missing Teddy!",
+      "youtube_video_id": "rGAT0GweMk8",
+      "uploaded_date": "2026-11-21T23:34:07.816503+05:30",
+      "publish_date": "2027-01-02T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-21 23:34:07 IST"
     }
   ]
 }
