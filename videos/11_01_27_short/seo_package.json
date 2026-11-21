@@ -61,19 +61,40 @@
   ],
   "target_search_queries": [
     "listening to parents story for kids",
-    "following directions cartoon kids",
-    "listening manners preschool",
-    "squirrel danger story moral"
+    "listening to parents story",
+    "listening to parents social story",
+    "listen to your parents story"
   ],
   "realtime_seo": {
-    "mode": "local_curated",
-    "fetched_at_ist": null,
-    "live_yt_suggest_queries": [],
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-21T05:33:20.893863+05:30",
+    "live_yt_suggest_queries": [
+      "listening to parents story",
+      "listening to parents social story",
+      "listen to your parents story",
+      "bedtime story about listening to parents",
+      "story about not listening to parents",
+      "listening to my parents",
+      "listening ears social story",
+      "science facts for kids"
+    ],
     "matched_safe_us_trends": [],
-    "observed_us_hashtags": []
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
   },
-  "description": "Sammy the Squirrel's Lost Acorn: Why Listening Matters! — Mama Squirrel said Don't cross the windy bridge! But Sammy ignored her warning... and look what happened!\nKids science answer for \"listening to parents story for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nParents give instructions to protect you from dangers you can't see yet. Good listening keeps you safe and happy.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "description": "Sammy the Squirrel's Lost Acorn: Why Listening Matters! — Mama Squirrel said Don't cross the windy bridge! But Sammy ignored her warning... and look what happened!\nKids science answer for \"listening to parents story for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nParents give instructions to protect you from dangers you can't see yet. Good listening keeps you safe and happy.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- listening to parents story\n- listening to parents social story\n- listen to your parents story\n- bedtime story about listening to parents\n- story about not listening to parents\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
+    "listening to parents story",
+    "listening to parents social story",
+    "listen to your parents story",
+    "bedtime story about listening to parents",
+    "story about not listening to parents",
+    "listening to my parents",
     "listening to parents story for kids",
     "following directions cartoon kids",
     "listening manners preschool",
@@ -82,16 +103,15 @@
     "kids science cartoon",
     "science for kids",
     "educational cartoons for kids",
-    "fun facts for kids",
-    "youtube shorts",
-    "shorts"
+    "fun facts for kids"
   ],
   "hashtags": [
     "#BabyBeatsRhymo",
     "#KidsScience",
     "#ScienceForKids",
     "#EducationalCartoons",
-    "#Shorts"
+    "#Shorts",
+    "#facts"
   ],
   "chapters": [],
   "pinned_comment": "Did you know this before today? Drop your next curious science question below!",

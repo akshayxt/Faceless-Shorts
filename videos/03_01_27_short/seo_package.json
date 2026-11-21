@@ -3,6 +3,28 @@
   "format": "short",
   "title_options": [
     {
+      "title": "Bunny with a Carrot!",
+      "chars": 20,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Bunny with a Carrot! #Shorts",
+      "chars": 28,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
       "title": "Pippin the Bunny Learns to Share: The Big Carrot Picnic!",
       "chars": 56,
       "score": 80,
@@ -18,24 +40,16 @@
       ]
     }
   ],
-  "selected_title": "Pippin the Bunny Learns to Share: The Big Carrot Picnic!",
+  "selected_title": "Bunny with a Carrot!",
   "selected_title_lint": {
-    "title": "Pippin the Bunny Learns to Share: The Big Carrot Picnic!",
-    "chars": 56,
-    "score": 80,
+    "title": "Bunny with a Carrot!",
+    "chars": 20,
+    "score": 94,
     "issues": [
-      [
-        "mobile",
-        "a mobile feed shows about \"Pippin the Bunny Learns to Share: The...\" - check the subject survives"
-      ],
       [
         "no-number",
         "no number, date or name - the most reliable single fix"
       ]
-    ],
-    "good": [
-      "56 characters, inside the 60-character desktop cut",
-      "thumbnail and title carry different words"
     ]
   },
   "thumb_text": "SHARING SECRET!",
@@ -61,19 +75,38 @@
   ],
   "target_search_queries": [
     "learning to share story for toddlers",
-    "sharing is caring cartoon kids",
-    "bunny sharing carrots moral",
-    "preschool friendship story"
+    "bunny with a carrot",
+    "science facts for kids",
+    "science fun facts for kids"
   ],
   "realtime_seo": {
-    "mode": "local_curated",
-    "fetched_at_ist": null,
-    "live_yt_suggest_queries": [],
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-21T05:33:20.893863+05:30",
+    "live_yt_suggest_queries": [
+      "bunny with a carrot",
+      "science facts for kids",
+      "science fun facts for kids",
+      "cool science facts for kids",
+      "science facts for toddlers",
+      "titanic facts for kids-science facts"
+    ],
     "matched_safe_us_trends": [],
-    "observed_us_hashtags": []
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
   },
-  "description": "Pippin the Bunny Learns to Share: The Big Carrot Picnic! — Pippin found the biggest golden carrot in the forest and hid it! Why was eating it all alone so boring?\nKids science answer for \"learning to share story for toddlers\" with fun 2D animation by BabyBeats Rhymo!\n\nHoarding treats all to yourself feels lonely in the end, but sharing with friends doubles the smiles and creates friendships that last forever.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "description": "Bunny with a Carrot! — Pippin found the biggest golden carrot in the forest and hid it! Why was eating it all alone so boring?\nKids science answer for \"learning to share story for toddlers\" with fun 2D animation by BabyBeats Rhymo!\n\nHoarding treats all to yourself feels lonely in the end, but sharing with friends doubles the smiles and creates friendships that last forever.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- bunny with a carrot\n- science facts for kids\n- science fun facts for kids\n- cool science facts for kids\n- science facts for toddlers\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
+    "bunny with a carrot",
+    "science facts for kids",
+    "science fun facts for kids",
+    "cool science facts for kids",
+    "science facts for toddlers",
+    "titanic facts for kids-science facts",
     "learning to share story for toddlers",
     "sharing is caring cartoon kids",
     "bunny sharing carrots moral",
@@ -82,16 +115,15 @@
     "kids science cartoon",
     "science for kids",
     "educational cartoons for kids",
-    "fun facts for kids",
-    "youtube shorts",
-    "shorts"
+    "fun facts for kids"
   ],
   "hashtags": [
     "#BabyBeatsRhymo",
     "#KidsScience",
     "#ScienceForKids",
     "#EducationalCartoons",
-    "#Shorts"
+    "#Shorts",
+    "#facts"
   ],
   "chapters": [],
   "pinned_comment": "Did you know this before today? Drop your next curious science question below!",

@@ -87,19 +87,32 @@
   ],
   "target_search_queries": [
     "safety awareness staying with parents kids",
-    "staying safe in public places cartoon",
-    "fawn getting lost moral story",
-    "holding hands safety toddlers"
+    "fawn helps gruff",
+    "fawn meets gruff",
+    "fawn abandoned by mother"
   ],
   "realtime_seo": {
-    "mode": "local_curated",
-    "fetched_at_ist": null,
-    "live_yt_suggest_queries": [],
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-21T05:33:20.893863+05:30",
+    "live_yt_suggest_queries": [
+      "fawn helps gruff",
+      "fawn meets gruff",
+      "fawn abandoned by mother"
+    ],
     "matched_safe_us_trends": [],
-    "observed_us_hashtags": []
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
   },
-  "description": "The Little Fawn Who Wandered: Always Stay in Sight! — Daisy the fawn chased a sparkly blue butterfly away from the herd! What should you do if you look up and can't see mom?\nKids science answer for \"safety awareness staying with parents kids\" with fun 2D animation by BabyBeats Rhymo!\n\nThe big grocery store or park is exciting, but holding hands or staying where parents can see you keeps you safe from getting lost.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "description": "The Little Fawn Who Wandered: Always Stay in Sight! — Daisy the fawn chased a sparkly blue butterfly away from the herd! What should you do if you look up and can't see mom?\nKids science answer for \"safety awareness staying with parents kids\" with fun 2D animation by BabyBeats Rhymo!\n\nThe big grocery store or park is exciting, but holding hands or staying where parents can see you keeps you safe from getting lost.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- fawn helps gruff\n- fawn meets gruff\n- fawn abandoned by mother\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
+    "fawn helps gruff",
+    "fawn meets gruff",
+    "fawn abandoned by mother",
     "safety awareness staying with parents kids",
     "staying safe in public places cartoon",
     "fawn getting lost moral story",
@@ -117,7 +130,8 @@
     "#KidsScience",
     "#ScienceForKids",
     "#EducationalCartoons",
-    "#Shorts"
+    "#Shorts",
+    "#facts"
   ],
   "chapters": [],
   "pinned_comment": "Did you know this before today? Drop your next curious science question below!",

@@ -3,6 +3,28 @@
   "format": "short",
   "title_options": [
     {
+      "title": "How to Help Sad Friend!",
+      "chars": 23,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "How to Help Sad Friend! #Shorts",
+      "chars": 31,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
       "title": "The Sad Puppy Who Got a Warm Hug: Comforting a Friend!",
       "chars": 54,
       "score": 62,
@@ -22,27 +44,16 @@
       ]
     }
   ],
-  "selected_title": "The Sad Puppy Who Got a Warm Hug: Comforting a Friend!",
+  "selected_title": "How to Help Sad Friend!",
   "selected_title_lint": {
-    "title": "The Sad Puppy Who Got a Warm Hug: Comforting a Friend!",
-    "chars": 54,
-    "score": 62,
+    "title": "How to Help Sad Friend!",
+    "chars": 23,
+    "score": 94,
     "issues": [
-      [
-        "mobile",
-        "a mobile feed shows about \"The Sad Puppy Who Got a Warm Hug:...\" - check the subject survives"
-      ],
       [
         "no-number",
         "no number, date or name - the most reliable single fix"
-      ],
-      [
-        "duplicate",
-        "thumbnail repeats the title on hug - the thumbnail should say what the title does not"
       ]
-    ],
-    "good": [
-      "54 characters, inside the 60-character desktop cut"
     ]
   },
   "thumb_text": "HUG POWER!",
@@ -68,19 +79,40 @@
   ],
   "target_search_queries": [
     "empathy and comforting friends for kids",
-    "puppy lost ball comforting story",
-    "how to help sad friends cartoon",
-    "power of hugs empathy preschoolers"
+    "empathy and kindness",
+    "empathy and compassion video",
+    "empathy and kindness video"
   ],
   "realtime_seo": {
-    "mode": "local_curated",
-    "fetched_at_ist": null,
-    "live_yt_suggest_queries": [],
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-21T05:33:20.893863+05:30",
+    "live_yt_suggest_queries": [
+      "empathy and kindness",
+      "empathy and compassion video",
+      "empathy and kindness video",
+      "empathy and friendship",
+      "puppy stuck crying",
+      "puppy lost his mother",
+      "how to help sad friend",
+      "science facts for kids"
+    ],
     "matched_safe_us_trends": [],
-    "observed_us_hashtags": []
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
   },
-  "description": "The Sad Puppy Who Got a Warm Hug: Comforting a Friend! — Buster dropped his shiny red ball in the deep mud and whined sadly! What did Leo do to make Buster's tail wag again?\nKids science answer for \"empathy and comforting friends for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nWhen someone drops their ice cream or feels sad, sitting beside them and offering a gentle hug releases calming hormones that heal their heart.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "description": "How to Help Sad Friend! — Buster dropped his shiny red ball in the deep mud and whined sadly! What did Leo do to make Buster's tail wag again?\nKids science answer for \"empathy and comforting friends for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nWhen someone drops their ice cream or feels sad, sitting beside them and offering a gentle hug releases calming hormones that heal their heart.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- empathy and kindness\n- empathy and compassion video\n- empathy and kindness video\n- empathy and friendship\n- puppy stuck crying\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
+    "empathy and kindness",
+    "empathy and compassion video",
+    "empathy and kindness video",
+    "empathy and friendship",
+    "puppy stuck crying",
+    "puppy lost his mother",
     "empathy and comforting friends for kids",
     "puppy lost ball comforting story",
     "how to help sad friends cartoon",
@@ -89,16 +121,15 @@
     "kids science cartoon",
     "science for kids",
     "educational cartoons for kids",
-    "fun facts for kids",
-    "youtube shorts",
-    "shorts"
+    "fun facts for kids"
   ],
   "hashtags": [
     "#BabyBeatsRhymo",
     "#KidsScience",
     "#ScienceForKids",
     "#EducationalCartoons",
-    "#Shorts"
+    "#Shorts",
+    "#facts"
   ],
   "chapters": [],
   "pinned_comment": "Did you know this before today? Drop your next curious science question below!",

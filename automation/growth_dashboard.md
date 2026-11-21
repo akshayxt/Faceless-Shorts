@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-20 23:48:09 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-21 05:33:44 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -16,9 +16,9 @@
 | Campaign Target (`2026-11-09` -> `2026-12-09`) | **+5,000 net new subscribers** |
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
-| Remaining Days / Required Daily Rate | `19` days / **`263.2` subs/day** |
+| Remaining Days / Required Daily Rate | `18` days / **`277.8` subs/day** |
 | Videos Rendered & Verified | **`83`** (`48` uploaded/scheduled, `35` remaining) |
-| Real-Time US SEO Sync | `2026-11-20T23:33:21.816849+05:30` |
+| Real-Time US SEO Sync | `2026-11-21T05:33:35.682500+05:30` |
 | Topic Backlog Remaining | `1` pending out of `82` scored |
 
 ## 2. Production & Upload Queue Status
@@ -35,7 +35,7 @@
 | `day07_short` | short | How Do Cats Always Land on Their Feet? | 98/100 | 2026-11-17 15:30:00 EST | 1080x1920, 37.49s | `UPLOADED` | [day07_short.mp4](videos/day07_short/renders/day07_short.mp4) |
 | `day08_short` | short | Why Cold Ice Cream Gives You Instant Brain Freeze! | 62/100 | 2026-11-18 15:30:00 EST | 1080x1920, 35.3s | `UPLOADED` | [day08_short.mp4](videos/day08_short/renders/day08_short.mp4) |
 | `day09_short` | short | Can Holding 1 Sneeze Really Pop Your Eyes Out?! | 98/100 | 2026-11-19 15:30:00 EST | 1080x1920, 34.5s | `UPLOADED` | [day09_short.mp4](videos/day09_short/renders/day09_short.mp4) |
-| `day10_short` | short | Why Brush Teeth at Night? | 98/100 | 2026-11-20 15:30:00 EST | 1080x1920, 35.89s | `SCHEDULED` | [day10_short.mp4](videos/day10_short/renders/day10_short.mp4) |
+| `day10_short` | short | Why Brush Teeth at Night? | 98/100 | 2026-11-20 15:30:00 EST | 1080x1920, 35.89s | `UPLOADED` | [day10_short.mp4](videos/day10_short/renders/day10_short.mp4) |
 | `day11_short` | short | How Dogs Can Literally Smell Time Passing! | 62/100 | 2026-11-21 15:30:00 EST | 1080x1920, 35.67s | `SCHEDULED` | [day11_short.mp4](videos/day11_short/renders/day11_short.mp4) |
 | `day12_short` | short | What Happens If You Step on Jupiter? (No Floor!) | 62/100 | 2026-11-22 15:30:00 EST | 1080x1920, 32.02s | `SCHEDULED` | [day12_short.mp4](videos/day12_short/renders/day12_short.mp4) |
 | `day13_short` | short | Why Fingers Prune in Water? | 80/100 | 2026-11-23 15:30:00 EST | 1080x1920, 36.03s | `SCHEDULED` | [day13_short.mp4](videos/day13_short/renders/day13_short.mp4) |
@@ -76,38 +76,38 @@
 | `28_12_26_short` | short | Why Do Animals Hibernate? | 98/100 | 2026-12-28 15:30:00 EST | 1080x1920, 43.93s | `READY_FOR_UPLOAD` | [28_12_26_short.mp4](videos/28_12_26_short/renders/28_12_26_short.mp4) |
 | `29_12_26_short` | short | How Does Snow Form in Clouds? | 80/100 | 2026-12-29 15:30:00 EST | 1080x1920, 43.66s | `READY_FOR_UPLOAD` | [29_12_26_short.mp4](videos/29_12_26_short/renders/29_12_26_short.mp4) |
 | `30_12_26_short` | short | Hickory Dickory Dock S! | 94/100 | 2026-12-30 15:30:00 EST | 1080x1920, 42.69s | `READY_FOR_UPLOAD` | [30_12_26_short.mp4](videos/30_12_26_short/renders/30_12_26_short.mp4) |
-| `01_01_27_short` | short | Leo's Big New Year Goal: Small Steps Make Big Dreams! | —/100 | 2027-01-01 15:30:00 EST | 1080x1920, 36.89s | `READY_FOR_UPLOAD` | [01_01_27_short.mp4](videos/01_01_27_short/renders/01_01_27_short.mp4) |
-| `02_01_27_short` | short | The Boy Who Never Cleaned His Room: The Missing Teddy! | —/100 | 2027-01-02 15:30:00 EST | 1080x1920, 40.33s | `READY_FOR_UPLOAD` | [02_01_27_short.mp4](videos/02_01_27_short/renders/02_01_27_short.mp4) |
-| `03_01_27_short` | short | Pippin the Bunny Learns to Share: The Big Carrot Picnic! | —/100 | 2027-01-03 15:30:00 EST | 1080x1920, 40.95s | `READY_FOR_UPLOAD` | [03_01_27_short.mp4](videos/03_01_27_short/renders/03_01_27_short.mp4) |
-| `04_01_27_short` | short | The Little Cloud Afraid of Thunder: Finding Inner Bravery! | —/100 | 2027-01-04 15:30:00 EST | 1080x1920, 42.47s | `READY_FOR_UPLOAD` | [04_01_27_short.mp4](videos/04_01_27_short/renders/04_01_27_short.mp4) |
-| `05_01_27_short` | short | Toby the Puppy & The Broken Flowerpot: Why Truth Wins! | —/100 | 2027-01-05 15:30:00 EST | 1080x1920, 42.93s | `READY_FOR_UPLOAD` | [05_01_27_short.mp4](videos/05_01_27_short/renders/05_01_27_short.mp4) |
-| `06_01_27_short` | short | Milo the Bear Learns to Say Thank You: The Magic Word! | —/100 | 2027-01-06 15:30:00 EST | 1080x1920, 42.83s | `READY_FOR_UPLOAD` | [06_01_27_short.mp4](videos/06_01_27_short/renders/06_01_27_short.mp4) |
-| `07_01_27_short` | short | The Impatient Little Snail: Slow and Steady Always Wins! | —/100 | 2027-01-07 15:30:00 EST | 1080x1920, 42.03s | `READY_FOR_UPLOAD` | [07_01_27_short.mp4](videos/07_01_27_short/renders/07_01_27_short.mp4) |
-| `08_01_27_short` | short | Leo's Sticky Monster Hands: Why Washing Hands Is Fun! | —/100 | 2027-01-08 15:30:00 EST | 1080x1920, 44.37s | `READY_FOR_UPLOAD` | [08_01_27_short.mp4](videos/08_01_27_short/renders/08_01_27_short.mp4) |
-| `09_01_27_short` | short | Bella the Bird Who Wouldn't Try Broccoli: The Green Tree! | —/100 | 2027-01-09 15:30:00 EST | 1080x1920, 42.87s | `READY_FOR_UPLOAD` | [09_01_27_short.mp4](videos/09_01_27_short/renders/09_01_27_short.mp4) |
-| `10_01_27_short` | short | The Angry Little Dragon: How Deep Breaths Cool the Fire! | —/100 | 2027-01-10 15:30:00 EST | 1080x1920, 42.56s | `READY_FOR_UPLOAD` | [10_01_27_short.mp4](videos/10_01_27_short/renders/10_01_27_short.mp4) |
-| `11_01_27_short` | short | Sammy the Squirrel's Lost Acorn: Why Listening Matters! | —/100 | 2027-01-11 15:30:00 EST | 1080x1920, 45.03s | `READY_FOR_UPLOAD` | [11_01_27_short.mp4](videos/11_01_27_short/renders/11_01_27_short.mp4) |
-| `12_01_27_short` | short | The Kind Elephant & The Tiny Ant: No One Is Too Small! | —/100 | 2027-01-12 15:30:00 EST | 1080x1920, 44.77s | `READY_FOR_UPLOAD` | [12_01_27_short.mp4](videos/12_01_27_short/renders/12_01_27_short.mp4) |
-| `13_01_27_short` | short | The Night Leo Met Bedroom Shadows: Night Bravery! | —/100 | 2027-01-13 15:30:00 EST | 1080x1920, 44.27s | `READY_FOR_UPLOAD` | [13_01_27_short.mp4](videos/13_01_27_short/renders/13_01_27_short.mp4) |
-| `14_01_27_short` | short | The Grumpy Badger Who Found a Smile: Joy Is Contagious! | —/100 | 2027-01-14 15:30:00 EST | 1080x1920, 43.15s | `READY_FOR_UPLOAD` | [14_01_27_short.mp4](videos/14_01_27_short/renders/14_01_27_short.mp4) |
-| `15_01_27_short` | short | Barnaby Beaver Who Refused to Sleep: Why Bodies Need Rest! | —/100 | 2027-01-15 15:30:00 EST | 1080x1920, 45.63s | `READY_FOR_UPLOAD` | [15_01_27_short.mp4](videos/15_01_27_short/renders/15_01_27_short.mp4) |
-| `16_01_27_short` | short | The Little Hedgehog's Prickly Hug: You Are Special! | —/100 | 2027-01-16 15:30:00 EST | 1080x1920, 44.45s | `READY_FOR_UPLOAD` | [16_01_27_short.mp4](videos/16_01_27_short/renders/16_01_27_short.mp4) |
-| `17_01_27_short` | short | Two Little Monkeys & The Golden Swing: Taking Turns! | —/100 | 2027-01-17 15:30:00 EST | 1080x1920, 45.6s | `READY_FOR_UPLOAD` | [17_01_27_short.mp4](videos/17_01_27_short/renders/17_01_27_short.mp4) |
-| `18_01_27_short` | short | The Boastful Rooster: Why True Champions Are Humble! | —/100 | 2027-01-18 15:30:00 EST | 1080x1920, 44.02s | `READY_FOR_UPLOAD` | [18_01_27_short.mp4](videos/18_01_27_short/renders/18_01_27_short.mp4) |
-| `19_01_27_short` | short | Leo & The Lost Library Book: Keeping Promises! | —/100 | 2027-01-19 15:30:00 EST | 1080x1920, 48.87s | `READY_FOR_UPLOAD` | [19_01_27_short.mp4](videos/19_01_27_short/renders/19_01_27_short.mp4) |
-| `20_01_27_short` | short | Penny Penguin's First Day at Preschool: Making Friends! | —/100 | 2027-01-20 15:30:00 EST | 1080x1920, 45.73s | `READY_FOR_UPLOAD` | [20_01_27_short.mp4](videos/20_01_27_short/renders/20_01_27_short.mp4) |
-| `21_01_27_short` | short | Felix Fox & The Glowing Tablet: Nature Is Fun! | —/100 | 2027-01-21 15:30:00 EST | 1080x1920, 49.03s | `READY_FOR_UPLOAD` | [21_01_27_short.mp4](videos/21_01_27_short/renders/21_01_27_short.mp4) |
-| `22_01_27_short` | short | Tommy Turtle Who Kept Falling: Practice Makes Perfect! | —/100 | 2027-01-22 15:30:00 EST | 1080x1920, 48.19s | `READY_FOR_UPLOAD` | [22_01_27_short.mp4](videos/22_01_27_short/renders/22_01_27_short.mp4) |
-| `23_01_27_short` | short | The Greedy Hamster's Stash: Giving Feels Better! | —/100 | 2027-01-23 15:30:00 EST | 1080x1920, 47.4s | `READY_FOR_UPLOAD` | [23_01_27_short.mp4](videos/23_01_27_short/renders/23_01_27_short.mp4) |
-| `24_01_27_short` | short | Charlie Cat Forgot to Say Please: The Courtesy Key! | —/100 | 2027-01-24 15:30:00 EST | 1080x1920, 44.73s | `READY_FOR_UPLOAD` | [24_01_27_short.mp4](videos/24_01_27_short/renders/24_01_27_short.mp4) |
-| `25_01_27_short` | short | The Little Fawn Who Wandered: Always Stay in Sight! | —/100 | 2027-01-25 15:30:00 EST | 1080x1920, 47.23s | `READY_FOR_UPLOAD` | [25_01_27_short.mp4](videos/25_01_27_short/renders/25_01_27_short.mp4) |
-| `26_01_27_short` | short | The Loud Little Parrot: Learning Your Inside Voice! | —/100 | 2027-01-26 15:30:00 EST | 1080x1920, 47.3s | `READY_FOR_UPLOAD` | [26_01_27_short.mp4](videos/26_01_27_short/renders/26_01_27_short.mp4) |
-| `27_01_27_short` | short | Leo's Collapsing Wooden Castle: Mistakes Help Us Grow! | —/100 | 2027-01-27 15:30:00 EST | 1080x1920, 48.9s | `READY_FOR_UPLOAD` | [27_01_27_short.mp4](videos/27_01_27_short/renders/27_01_27_short.mp4) |
-| `28_01_27_short` | short | The Interrupting Owl: How Good Listeners Win Hearts! | —/100 | 2027-01-28 15:30:00 EST | 1080x1920, 49.59s | `READY_FOR_UPLOAD` | [28_01_27_short.mp4](videos/28_01_27_short/renders/28_01_27_short.mp4) |
-| `29_01_27_short` | short | The Sad Puppy Who Got a Warm Hug: Comforting a Friend! | —/100 | 2027-01-29 15:30:00 EST | 1080x1920, 46.49s | `READY_FOR_UPLOAD` | [29_01_27_short.mp4](videos/29_01_27_short/renders/29_01_27_short.mp4) |
-| `30_01_27_short` | short | The Little Bear Who Brushed Like a Champion: Clean Teeth! | —/100 | 2027-01-30 15:30:00 EST | 1080x1920, 48.57s | `READY_FOR_UPLOAD` | [30_01_27_short.mp4](videos/30_01_27_short/renders/30_01_27_short.mp4) |
-| `31_01_27_short` | short | Leo's Cozy Bedtime Routine: Sweet Dreams Every Night! | —/100 | 2027-01-31 15:30:00 EST | 1080x1920, 48.95s | `READY_FOR_UPLOAD` | [31_01_27_short.mp4](videos/31_01_27_short/renders/31_01_27_short.mp4) |
-| `01_02_27_short` | short | What If You Never Took A Bath? The 7-Day Cartoon Experiment! | —/100 | 2027-02-01 15:30:00 EST | 1080x1920, 38.27s | `READY_FOR_UPLOAD` | [01_02_27_short.mp4](videos/01_02_27_short/renders/01_02_27_short.mp4) |
+| `01_01_27_short` | short | Leo's Big New Year Goal: Small Steps Make Big Dreams! | 62/100 | 2027-01-01 15:30:00 EST | 1080x1920, 36.89s | `READY_FOR_UPLOAD` | [01_01_27_short.mp4](videos/01_01_27_short/renders/01_01_27_short.mp4) |
+| `02_01_27_short` | short | The Boy Who Never Cleaned His Room: The Missing Teddy! | 62/100 | 2027-01-02 15:30:00 EST | 1080x1920, 40.33s | `READY_FOR_UPLOAD` | [02_01_27_short.mp4](videos/02_01_27_short/renders/02_01_27_short.mp4) |
+| `03_01_27_short` | short | Bunny with a Carrot! | 94/100 | 2027-01-03 15:30:00 EST | 1080x1920, 40.95s | `READY_FOR_UPLOAD` | [03_01_27_short.mp4](videos/03_01_27_short/renders/03_01_27_short.mp4) |
+| `04_01_27_short` | short | The Little Cloud Afraid of Thunder: Finding Inner Bravery! | 62/100 | 2027-01-04 15:30:00 EST | 1080x1920, 42.47s | `READY_FOR_UPLOAD` | [04_01_27_short.mp4](videos/04_01_27_short/renders/04_01_27_short.mp4) |
+| `05_01_27_short` | short | Toby the Puppy & The Broken Flowerpot: Why Truth Wins! | 80/100 | 2027-01-05 15:30:00 EST | 1080x1920, 42.93s | `READY_FOR_UPLOAD` | [05_01_27_short.mp4](videos/05_01_27_short/renders/05_01_27_short.mp4) |
+| `06_01_27_short` | short | Good Manners Rhymes We Say Thank You! | 94/100 | 2027-01-06 15:30:00 EST | 1080x1920, 42.83s | `READY_FOR_UPLOAD` | [06_01_27_short.mp4](videos/06_01_27_short/renders/06_01_27_short.mp4) |
+| `07_01_27_short` | short | The Impatient Little Snail: Slow and Steady Always Wins! | 80/100 | 2027-01-07 15:30:00 EST | 1080x1920, 42.03s | `READY_FOR_UPLOAD` | [07_01_27_short.mp4](videos/07_01_27_short/renders/07_01_27_short.mp4) |
+| `08_01_27_short` | short | Leo's Sticky Monster Hands: Why Washing Hands Is Fun! | 80/100 | 2027-01-08 15:30:00 EST | 1080x1920, 44.37s | `READY_FOR_UPLOAD` | [08_01_27_short.mp4](videos/08_01_27_short/renders/08_01_27_short.mp4) |
+| `09_01_27_short` | short | Bella the Bird Who Wouldn't Try Broccoli: The Green Tree! | 80/100 | 2027-01-09 15:30:00 EST | 1080x1920, 42.87s | `READY_FOR_UPLOAD` | [09_01_27_short.mp4](videos/09_01_27_short/renders/09_01_27_short.mp4) |
+| `10_01_27_short` | short | The Angry Little Dragon: How Deep Breaths Cool the Fire! | 62/100 | 2027-01-10 15:30:00 EST | 1080x1920, 42.56s | `READY_FOR_UPLOAD` | [10_01_27_short.mp4](videos/10_01_27_short/renders/10_01_27_short.mp4) |
+| `11_01_27_short` | short | Sammy the Squirrel's Lost Acorn: Why Listening Matters! | 80/100 | 2027-01-11 15:30:00 EST | 1080x1920, 45.03s | `READY_FOR_UPLOAD` | [11_01_27_short.mp4](videos/11_01_27_short/renders/11_01_27_short.mp4) |
+| `12_01_27_short` | short | Tiny Ant to the Elephant! | 76/100 | 2027-01-12 15:30:00 EST | 1080x1920, 44.77s | `READY_FOR_UPLOAD` | [12_01_27_short.mp4](videos/12_01_27_short/renders/12_01_27_short.mp4) |
+| `13_01_27_short` | short | The Night Leo Met Bedroom Shadows: Night Bravery! | 80/100 | 2027-01-13 15:30:00 EST | 1080x1920, 44.27s | `READY_FOR_UPLOAD` | [13_01_27_short.mp4](videos/13_01_27_short/renders/13_01_27_short.mp4) |
+| `14_01_27_short` | short | The Grumpy Badger Who Found a Smile: Joy Is Contagious! | 62/100 | 2027-01-14 15:30:00 EST | 1080x1920, 43.15s | `READY_FOR_UPLOAD` | [14_01_27_short.mp4](videos/14_01_27_short/renders/14_01_27_short.mp4) |
+| `15_01_27_short` | short | Barnaby Beaver Who Refused to Sleep: Why Bodies Need Rest! | 62/100 | 2027-01-15 15:30:00 EST | 1080x1920, 45.63s | `READY_FOR_UPLOAD` | [15_01_27_short.mp4](videos/15_01_27_short/renders/15_01_27_short.mp4) |
+| `16_01_27_short` | short | The Little Hedgehog's Prickly Hug: You Are Special! | 62/100 | 2027-01-16 15:30:00 EST | 1080x1920, 44.45s | `READY_FOR_UPLOAD` | [16_01_27_short.mp4](videos/16_01_27_short/renders/16_01_27_short.mp4) |
+| `17_01_27_short` | short | Taking Turns and Sharing! | 94/100 | 2027-01-17 15:30:00 EST | 1080x1920, 45.6s | `READY_FOR_UPLOAD` | [17_01_27_short.mp4](videos/17_01_27_short/renders/17_01_27_short.mp4) |
+| `18_01_27_short` | short | The Boastful Rooster: Why True Champions Are Humble! | 80/100 | 2027-01-18 15:30:00 EST | 1080x1920, 44.02s | `READY_FOR_UPLOAD` | [18_01_27_short.mp4](videos/18_01_27_short/renders/18_01_27_short.mp4) |
+| `19_01_27_short` | short | Keeping Promises to Yourself! | 94/100 | 2027-01-19 15:30:00 EST | 1080x1920, 48.87s | `READY_FOR_UPLOAD` | [19_01_27_short.mp4](videos/19_01_27_short/renders/19_01_27_short.mp4) |
+| `20_01_27_short` | short | First Day of School Getting Bullied! | 94/100 | 2027-01-20 15:30:00 EST | 1080x1920, 45.73s | `READY_FOR_UPLOAD` | [20_01_27_short.mp4](videos/20_01_27_short/renders/20_01_27_short.mp4) |
+| `21_01_27_short` | short | Felix Fox & The Glowing Tablet: Nature Is Fun! | 80/100 | 2027-01-21 15:30:00 EST | 1080x1920, 49.03s | `READY_FOR_UPLOAD` | [21_01_27_short.mp4](videos/21_01_27_short/renders/21_01_27_short.mp4) |
+| `22_01_27_short` | short | Tommy Turtle Who Kept Falling: Practice Makes Perfect! | 66/100 | 2027-01-22 15:30:00 EST | 1080x1920, 48.19s | `READY_FOR_UPLOAD` | [22_01_27_short.mp4](videos/22_01_27_short/renders/22_01_27_short.mp4) |
+| `23_01_27_short` | short | The Greedy Hamster's Stash: Giving Feels Better! | 80/100 | 2027-01-23 15:30:00 EST | 1080x1920, 47.4s | `READY_FOR_UPLOAD` | [23_01_27_short.mp4](videos/23_01_27_short/renders/23_01_27_short.mp4) |
+| `24_01_27_short` | short | Charlie Cat Forgot to Say Please: The Courtesy Key! | 62/100 | 2027-01-24 15:30:00 EST | 1080x1920, 44.73s | `READY_FOR_UPLOAD` | [24_01_27_short.mp4](videos/24_01_27_short/renders/24_01_27_short.mp4) |
+| `25_01_27_short` | short | The Little Fawn Who Wandered: Always Stay in Sight! | 62/100 | 2027-01-25 15:30:00 EST | 1080x1920, 47.23s | `READY_FOR_UPLOAD` | [25_01_27_short.mp4](videos/25_01_27_short/renders/25_01_27_short.mp4) |
+| `26_01_27_short` | short | The Loud Little Parrot: Learning Your Inside Voice! | 62/100 | 2027-01-26 15:30:00 EST | 1080x1920, 47.3s | `READY_FOR_UPLOAD` | [26_01_27_short.mp4](videos/26_01_27_short/renders/26_01_27_short.mp4) |
+| `27_01_27_short` | short | Leo's Collapsing Wooden Castle: Mistakes Help Us Grow! | 80/100 | 2027-01-27 15:30:00 EST | 1080x1920, 48.9s | `READY_FOR_UPLOAD` | [27_01_27_short.mp4](videos/27_01_27_short/renders/27_01_27_short.mp4) |
+| `28_01_27_short` | short | The Interrupting Owl: How Good Listeners Win Hearts! | 80/100 | 2027-01-28 15:30:00 EST | 1080x1920, 49.59s | `READY_FOR_UPLOAD` | [28_01_27_short.mp4](videos/28_01_27_short/renders/28_01_27_short.mp4) |
+| `29_01_27_short` | short | How to Help Sad Friend! | 94/100 | 2027-01-29 15:30:00 EST | 1080x1920, 46.49s | `READY_FOR_UPLOAD` | [29_01_27_short.mp4](videos/29_01_27_short/renders/29_01_27_short.mp4) |
+| `30_01_27_short` | short | The Little Bear Who Brushed Like a Champion: Clean Teeth! | 80/100 | 2027-01-30 15:30:00 EST | 1080x1920, 48.57s | `READY_FOR_UPLOAD` | [30_01_27_short.mp4](videos/30_01_27_short/renders/30_01_27_short.mp4) |
+| `31_01_27_short` | short | Leo's Cozy Bedtime Routine: Sweet Dreams Every Night! | 62/100 | 2027-01-31 15:30:00 EST | 1080x1920, 48.95s | `READY_FOR_UPLOAD` | [31_01_27_short.mp4](videos/31_01_27_short/renders/31_01_27_short.mp4) |
+| `01_02_27_short` | short | What If You Never Took A Bath? The 7-Day Cartoon Experiment! | 80/100 | 2027-02-01 15:30:00 EST | 1080x1920, 38.27s | `READY_FOR_UPLOAD` | [01_02_27_short.mp4](videos/01_02_27_short/renders/01_02_27_short.mp4) |
 
 ### Publishing Status Note
 - Automated unattended publishing runs via [`youtube_direct_upload.py`](file:///G:/Faceless-Shorts/automation/youtube_direct_upload.py) once Google OAuth credentials (`client_secrets.json`) are placed in `G:/Faceless-Shorts/automation/creds/`, **or** by opening a fresh chat session where `zapier_zapier` MCP tools are loaded and triggering upload from `upload_queue.json`.
@@ -126,7 +126,7 @@
 | Day 07 | animal-vs | Small vs Tall Fall: Why Cats ALWAYS Land on Their Feet! | **87/100** | `uploaded` |
 | Day 08 | body-science | Why Cold Ice Cream Gives You Instant Brain Freeze! | **87/100** | `uploaded` |
 | Day 09 | myth-bust | Can Holding 1 Sneeze Really Pop Your Eyes Out?! \| Myth | **86/100** | `uploaded` |
-| Day 10 | moral-story | The Night Leo Skipped Brushing His Teeth (Cartoon!) | **86/100** | `scheduled` |
+| Day 10 | moral-story | The Night Leo Skipped Brushing His Teeth (Cartoon!) | **86/100** | `uploaded` |
 
 ## 4. Automation Loop Heartbeat (Latest Entries)
 ```text

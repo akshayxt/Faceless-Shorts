@@ -3,6 +3,28 @@
   "format": "short",
   "title_options": [
     {
+      "title": "Keeping Promises to Yourself!",
+      "chars": 29,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Keeping Promises to Yourself! #Shorts",
+      "chars": 37,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
       "title": "Leo & The Lost Library Book: Keeping Promises!",
       "chars": 46,
       "score": 80,
@@ -33,24 +55,16 @@
       ]
     }
   ],
-  "selected_title": "Leo & The Lost Library Book: Keeping Promises!",
+  "selected_title": "Keeping Promises to Yourself!",
   "selected_title_lint": {
-    "title": "Leo & The Lost Library Book: Keeping Promises!",
-    "chars": 46,
-    "score": 80,
+    "title": "Keeping Promises to Yourself!",
+    "chars": 29,
+    "score": 94,
     "issues": [
-      [
-        "mobile",
-        "a mobile feed shows about \"Leo & The Lost Library Book: Keeping...\" - check the subject survives"
-      ],
       [
         "no-number",
         "no number, date or name - the most reliable single fix"
       ]
-    ],
-    "good": [
-      "46 characters, inside the 60-character desktop cut",
-      "thumbnail and title carry different words"
     ]
   },
   "thumb_text": "PROMISE SECRET!",
@@ -76,19 +90,28 @@
   ],
   "target_search_queries": [
     "keeping promises and responsibility kids",
+    "keeping promises to yourself",
     "library book care cartoon kids",
-    "trustworthiness moral story children",
-    "keeping your word toddlers"
+    "trustworthiness moral story children"
   ],
   "realtime_seo": {
-    "mode": "local_curated",
-    "fetched_at_ist": null,
-    "live_yt_suggest_queries": [],
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-21T05:33:20.893863+05:30",
+    "live_yt_suggest_queries": [
+      "keeping promises to yourself"
+    ],
     "matched_safe_us_trends": [],
-    "observed_us_hashtags": []
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
   },
-  "description": "Leo & The Lost Library Book: Keeping Promises! — Leo promised Ms. Maple he would protect the shiny dinosaur book! But where did he leave it when playtime started?\nKids science answer for \"keeping promises and responsibility kids\" with fun 2D animation by BabyBeats Rhymo!\n\nYour word is your bond. When you promise to care for borrowed books or toys, returning them safe builds ironclad trust with everyone.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "description": "Keeping Promises to Yourself! — Leo promised Ms. Maple he would protect the shiny dinosaur book! But where did he leave it when playtime started?\nKids science answer for \"keeping promises and responsibility kids\" with fun 2D animation by BabyBeats Rhymo!\n\nYour word is your bond. When you promise to care for borrowed books or toys, returning them safe builds ironclad trust with everyone.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- keeping promises to yourself\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
+    "keeping promises to yourself",
     "keeping promises and responsibility kids",
     "library book care cartoon kids",
     "trustworthiness moral story children",
@@ -106,7 +129,8 @@
     "#KidsScience",
     "#ScienceForKids",
     "#EducationalCartoons",
-    "#Shorts"
+    "#Shorts",
+    "#facts"
   ],
   "chapters": [],
   "pinned_comment": "Did you know this before today? Drop your next curious science question below!",

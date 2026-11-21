@@ -3,6 +3,32 @@
   "format": "short",
   "title_options": [
     {
+      "title": "Good Manners Rhymes We Say Thank You!",
+      "chars": 37,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Good Manners Rhymes We Say Thank You! #Shorts",
+      "chars": 45,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Good Manners Rhymes We Say Thank You!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
       "title": "Milo the Bear Learns to Say Thank You: The Magic Word!",
       "chars": 54,
       "score": 62,
@@ -22,27 +48,16 @@
       ]
     }
   ],
-  "selected_title": "Milo the Bear Learns to Say Thank You: The Magic Word!",
+  "selected_title": "Good Manners Rhymes We Say Thank You!",
   "selected_title_lint": {
-    "title": "Milo the Bear Learns to Say Thank You: The Magic Word!",
-    "chars": 54,
-    "score": 62,
+    "title": "Good Manners Rhymes We Say Thank You!",
+    "chars": 37,
+    "score": 94,
     "issues": [
-      [
-        "mobile",
-        "a mobile feed shows about \"Milo the Bear Learns to Say Thank You:...\" - check the subject survives"
-      ],
       [
         "no-number",
         "no number, date or name - the most reliable single fix"
-      ],
-      [
-        "duplicate",
-        "thumbnail repeats the title on magic, word - the thumbnail should say what the title does not"
       ]
-    ],
-    "good": [
-      "54 characters, inside the 60-character desktop cut"
     ]
   },
   "thumb_text": "MAGIC WORD!",
@@ -68,19 +83,40 @@
   ],
   "target_search_queries": [
     "saying thank you manners for toddlers",
-    "gratitude cartoon for kids",
-    "polite manners moral story",
-    "magic words thank you preschoolers"
+    "good manners rhymes we say thank you",
+    "good manners moral story",
+    "polite story in english"
   ],
   "realtime_seo": {
-    "mode": "local_curated",
-    "fetched_at_ist": null,
-    "live_yt_suggest_queries": [],
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-21T05:33:20.893863+05:30",
+    "live_yt_suggest_queries": [
+      "good manners rhymes we say thank you",
+      "good manners moral story",
+      "polite story in english",
+      "science facts for kids",
+      "science fun facts for kids",
+      "cool science facts for kids",
+      "science facts for toddlers",
+      "titanic facts for kids-science facts"
+    ],
     "matched_safe_us_trends": [],
-    "observed_us_hashtags": []
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
   },
-  "description": "Milo the Bear Learns to Say Thank You: The Magic Word! — Milo grabbed sweet honey and ran without a word! Why did everyone stop smiling until he said the magic word?\nKids science answer for \"saying thank you manners for toddlers\" with fun 2D animation by BabyBeats Rhymo!\n\nSaying Thank You is like handing someone a warm emotional hug. It shows you appreciate their kindness and makes everyone feel valued.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "description": "Good Manners Rhymes We Say Thank You! — Milo grabbed sweet honey and ran without a word! Why did everyone stop smiling until he said the magic word?\nKids science answer for \"saying thank you manners for toddlers\" with fun 2D animation by BabyBeats Rhymo!\n\nSaying Thank You is like handing someone a warm emotional hug. It shows you appreciate their kindness and makes everyone feel valued.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- good manners rhymes we say thank you\n- good manners moral story\n- polite story in english\n- science facts for kids\n- science fun facts for kids\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
+    "good manners rhymes we say thank you",
+    "good manners moral story",
+    "polite story in english",
+    "science facts for kids",
+    "science fun facts for kids",
+    "cool science facts for kids",
     "saying thank you manners for toddlers",
     "gratitude cartoon for kids",
     "polite manners moral story",
@@ -89,16 +125,15 @@
     "kids science cartoon",
     "science for kids",
     "educational cartoons for kids",
-    "fun facts for kids",
-    "youtube shorts",
-    "shorts"
+    "fun facts for kids"
   ],
   "hashtags": [
     "#BabyBeatsRhymo",
     "#KidsScience",
     "#ScienceForKids",
     "#EducationalCartoons",
-    "#Shorts"
+    "#Shorts",
+    "#facts"
   ],
   "chapters": [],
   "pinned_comment": "Did you know this before today? Drop your next curious science question below!",

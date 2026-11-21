@@ -73,13 +73,19 @@
     "preschool new year habits"
   ],
   "realtime_seo": {
-    "mode": "local_curated",
-    "fetched_at_ist": null,
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-21T05:33:20.893863+05:30",
     "live_yt_suggest_queries": [],
     "matched_safe_us_trends": [],
-    "observed_us_hashtags": []
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
   },
-  "description": "Leo's Big New Year Goal: Small Steps Make Big Dreams! — Happy New Year! Leo made a huge list of 100 goals, but felt completely stuck! How did 1 tiny step change everything?\nKids science answer for \"new year moral stories for kids cartoon\" with fun 2D animation by BabyBeats Rhymo!\n\nBig dreams feel overwhelming when you look at the whole mountain, but taking one tiny positive action every single morning turns small habits into giant achievements.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "description": "Leo's Big New Year Goal: Small Steps Make Big Dreams! — Happy New Year! Leo made a huge list of 100 goals, but felt completely stuck! How did 1 tiny step change everything?\nKids science answer for \"new year moral stories for kids cartoon\" with fun 2D animation by BabyBeats Rhymo!\n\nBig dreams feel overwhelming when you look at the whole mountain, but taking one tiny positive action every single morning turns small habits into giant achievements.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
     "new year moral stories for kids cartoon",
     "goal setting for children cartoon",
@@ -98,7 +104,8 @@
     "#KidsScience",
     "#ScienceForKids",
     "#EducationalCartoons",
-    "#Shorts"
+    "#Shorts",
+    "#facts"
   ],
   "chapters": [],
   "pinned_comment": "Did you know this before today? Drop your next curious science question below!",

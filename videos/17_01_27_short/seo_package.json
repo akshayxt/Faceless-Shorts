@@ -3,6 +3,102 @@
   "format": "short",
   "title_options": [
     {
+      "title": "Taking Turns and Sharing!",
+      "chars": 25,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Taking Turns and Sharing Song!",
+      "chars": 30,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Taking Turns and Sharing! #Shorts",
+      "chars": 33,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Taking Turns and Sharing Social Story!",
+      "chars": 38,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Taking Turns and Sharing Song! #Shorts",
+      "chars": 38,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Sharing and Taking Turns Kindergarten!",
+      "chars": 38,
+      "score": 94,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Taking Turns and Sharing Social Story! #Shorts",
+      "chars": 46,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Taking Turns and Sharing Social Story!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "Sharing and Taking Turns Kindergarten! #Shorts",
+      "chars": 46,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Sharing and Taking Turns Kindergarten!...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
       "title": "Two Little Monkeys & The Golden Swing: Taking Turns!",
       "chars": 52,
       "score": 80,
@@ -33,24 +129,16 @@
       ]
     }
   ],
-  "selected_title": "Two Little Monkeys & The Golden Swing: Taking Turns!",
+  "selected_title": "Taking Turns and Sharing!",
   "selected_title_lint": {
-    "title": "Two Little Monkeys & The Golden Swing: Taking Turns!",
-    "chars": 52,
-    "score": 80,
+    "title": "Taking Turns and Sharing!",
+    "chars": 25,
+    "score": 94,
     "issues": [
-      [
-        "mobile",
-        "a mobile feed shows about \"Two Little Monkeys & The Golden Swing:...\" - check the subject survives"
-      ],
       [
         "no-number",
         "no number, date or name - the most reliable single fix"
       ]
-    ],
-    "good": [
-      "52 characters, inside the 60-character desktop cut",
-      "thumbnail and title carry different words"
     ]
   },
   "thumb_text": "MY TURN NOW!",
@@ -76,19 +164,40 @@
   ],
   "target_search_queries": [
     "taking turns and sharing for kids",
-    "playground manners cartoon toddlers",
-    "fighting over toys moral story",
-    "timer turn taking children"
+    "taking turns and sharing",
+    "taking turns and sharing social story",
+    "taking turns and sharing song"
   ],
   "realtime_seo": {
-    "mode": "local_curated",
-    "fetched_at_ist": null,
-    "live_yt_suggest_queries": [],
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-21T05:33:20.893863+05:30",
+    "live_yt_suggest_queries": [
+      "taking turns and sharing",
+      "taking turns and sharing social story",
+      "taking turns and sharing song",
+      "sharing and taking turns kindergarten",
+      "playground toddlers",
+      "science facts for kids",
+      "science fun facts for kids",
+      "cool science facts for kids"
+    ],
     "matched_safe_us_trends": [],
-    "observed_us_hashtags": []
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
   },
-  "description": "Two Little Monkeys & The Golden Swing: Taking Turns! — Pip and Pop tugged on the playground swing until the rope creaked! Why was nobody swinging, and how did a simple timer fix it?\nKids science answer for \"taking turns and sharing for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nFighting over toys ruins playtime for everyone. Setting a friendly countdown timer to take turns makes games twice as thrilling.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "description": "Taking Turns and Sharing! — Pip and Pop tugged on the playground swing until the rope creaked! Why was nobody swinging, and how did a simple timer fix it?\nKids science answer for \"taking turns and sharing for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nFighting over toys ruins playtime for everyone. Setting a friendly countdown timer to take turns makes games twice as thrilling.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- taking turns and sharing\n- taking turns and sharing social story\n- taking turns and sharing song\n- sharing and taking turns kindergarten\n- playground toddlers\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
+    "taking turns and sharing",
+    "taking turns and sharing social story",
+    "taking turns and sharing song",
+    "sharing and taking turns kindergarten",
+    "playground toddlers",
+    "science facts for kids",
     "taking turns and sharing for kids",
     "playground manners cartoon toddlers",
     "fighting over toys moral story",
@@ -97,16 +206,15 @@
     "kids science cartoon",
     "science for kids",
     "educational cartoons for kids",
-    "fun facts for kids",
-    "youtube shorts",
-    "shorts"
+    "fun facts for kids"
   ],
   "hashtags": [
     "#BabyBeatsRhymo",
     "#KidsScience",
     "#ScienceForKids",
     "#EducationalCartoons",
-    "#Shorts"
+    "#Shorts",
+    "#facts"
   ],
   "chapters": [],
   "pinned_comment": "Did you know this before today? Drop your next curious science question below!",

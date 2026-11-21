@@ -61,19 +61,34 @@
   ],
   "target_search_queries": [
     "picky eater cartoon story for kids",
-    "trying new foods story toddlers",
-    "healthy vegetable cartoon children",
-    "broccoli superpower kids story"
+    "picky eater story",
+    "fussy eater story",
+    "picky eater social story"
   ],
   "realtime_seo": {
-    "mode": "local_curated",
-    "fetched_at_ist": null,
-    "live_yt_suggest_queries": [],
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-21T05:33:20.893863+05:30",
+    "live_yt_suggest_queries": [
+      "picky eater story",
+      "fussy eater story",
+      "picky eater social story",
+      "trying new foods social story"
+    ],
     "matched_safe_us_trends": [],
-    "observed_us_hashtags": []
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
   },
-  "description": "Bella the Bird Who Wouldn't Try Broccoli: The Green Tree! — Bella squawked and refused to eat the little green trees on her plate! What happened when she took just ONE brave little bite?\nKids science answer for \"picky eater cartoon story for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nYour tongue has thousands of taste buds that need a few tries to discover new favorites. Crunchy veggies are packed with vitamins that give your muscles jumping power.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "description": "Bella the Bird Who Wouldn't Try Broccoli: The Green Tree! — Bella squawked and refused to eat the little green trees on her plate! What happened when she took just ONE brave little bite?\nKids science answer for \"picky eater cartoon story for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nYour tongue has thousands of taste buds that need a few tries to discover new favorites. Crunchy veggies are packed with vitamins that give your muscles jumping power.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- picky eater story\n- fussy eater story\n- picky eater social story\n- trying new foods social story\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
+    "picky eater story",
+    "fussy eater story",
+    "picky eater social story",
+    "trying new foods social story",
     "picky eater cartoon story for kids",
     "trying new foods story toddlers",
     "healthy vegetable cartoon children",
@@ -91,7 +106,8 @@
     "#KidsScience",
     "#ScienceForKids",
     "#EducationalCartoons",
-    "#Shorts"
+    "#Shorts",
+    "#facts"
   ],
   "chapters": [],
   "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
