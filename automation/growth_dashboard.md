@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-22 17:52:41 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-22 23:34:15 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -17,8 +17,8 @@
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `17` days / **`294.1` subs/day** |
-| Videos Rendered & Verified | **`83`** (`53` uploaded/scheduled, `30` remaining) |
-| Real-Time US SEO Sync | `2026-11-22T17:52:33.393759+05:30` |
+| Videos Rendered & Verified | **`83`** (`58` uploaded/scheduled, `25` remaining) |
+| Real-Time US SEO Sync | `2026-11-22T23:33:32.060821+05:30` |
 | Topic Backlog Remaining | `1` pending out of `82` scored |
 
 ## 2. Production & Upload Queue Status
@@ -78,11 +78,11 @@
 | `30_12_26_short` | short | Hickory Dickory Dock S! | 94/100 | 2026-12-30 15:30:00 EST | 1080x1920, 42.69s | `SCHEDULED` | [30_12_26_short.mp4](videos/30_12_26_short/renders/30_12_26_short.mp4) |
 | `01_01_27_short` | short | Leo's Big New Year Goal: Small Steps Make Big Dreams! | 62/100 | 2027-01-01 15:30:00 EST | 1080x1920, 36.89s | `SCHEDULED` | [01_01_27_short.mp4](videos/01_01_27_short/renders/01_01_27_short.mp4) |
 | `02_01_27_short` | short | The Boy Who Never Cleaned His Room: The Missing Teddy! | 62/100 | 2027-01-02 15:30:00 EST | 1080x1920, 40.33s | `SCHEDULED` | [02_01_27_short.mp4](videos/02_01_27_short/renders/02_01_27_short.mp4) |
-| `03_01_27_short` | short | Bunny with a Carrot! | 94/100 | 2027-01-03 15:30:00 EST | 1080x1920, 40.95s | `READY_FOR_UPLOAD` | [03_01_27_short.mp4](videos/03_01_27_short/renders/03_01_27_short.mp4) |
-| `04_01_27_short` | short | The Little Cloud Afraid of Thunder: Finding Inner Bravery! | 62/100 | 2027-01-04 15:30:00 EST | 1080x1920, 42.47s | `READY_FOR_UPLOAD` | [04_01_27_short.mp4](videos/04_01_27_short/renders/04_01_27_short.mp4) |
-| `05_01_27_short` | short | Toby the Puppy & The Broken Flowerpot: Why Truth Wins! | 80/100 | 2027-01-05 15:30:00 EST | 1080x1920, 42.93s | `READY_FOR_UPLOAD` | [05_01_27_short.mp4](videos/05_01_27_short/renders/05_01_27_short.mp4) |
-| `06_01_27_short` | short | Good Manners Rhymes We Say Thank You! | 94/100 | 2027-01-06 15:30:00 EST | 1080x1920, 42.83s | `READY_FOR_UPLOAD` | [06_01_27_short.mp4](videos/06_01_27_short/renders/06_01_27_short.mp4) |
-| `07_01_27_short` | short | The Impatient Little Snail: Slow and Steady Always Wins! | 80/100 | 2027-01-07 15:30:00 EST | 1080x1920, 42.03s | `READY_FOR_UPLOAD` | [07_01_27_short.mp4](videos/07_01_27_short/renders/07_01_27_short.mp4) |
+| `03_01_27_short` | short | Bunny with a Carrot! | 94/100 | 2027-01-03 15:30:00 EST | 1080x1920, 40.95s | `SCHEDULED` | [03_01_27_short.mp4](videos/03_01_27_short/renders/03_01_27_short.mp4) |
+| `04_01_27_short` | short | The Little Cloud Afraid of Thunder: Finding Inner Bravery! | 62/100 | 2027-01-04 15:30:00 EST | 1080x1920, 42.47s | `SCHEDULED` | [04_01_27_short.mp4](videos/04_01_27_short/renders/04_01_27_short.mp4) |
+| `05_01_27_short` | short | Toby the Puppy & The Broken Flowerpot: Why Truth Wins! | 80/100 | 2027-01-05 15:30:00 EST | 1080x1920, 42.93s | `SCHEDULED` | [05_01_27_short.mp4](videos/05_01_27_short/renders/05_01_27_short.mp4) |
+| `06_01_27_short` | short | Good Manners Rhymes We Say Thank You! | 94/100 | 2027-01-06 15:30:00 EST | 1080x1920, 42.83s | `SCHEDULED` | [06_01_27_short.mp4](videos/06_01_27_short/renders/06_01_27_short.mp4) |
+| `07_01_27_short` | short | The Impatient Little Snail: Slow and Steady Always Wins! | 80/100 | 2027-01-07 15:30:00 EST | 1080x1920, 42.03s | `SCHEDULED` | [07_01_27_short.mp4](videos/07_01_27_short/renders/07_01_27_short.mp4) |
 | `08_01_27_short` | short | Leo's Sticky Monster Hands: Why Washing Hands Is Fun! | 80/100 | 2027-01-08 15:30:00 EST | 1080x1920, 44.37s | `READY_FOR_UPLOAD` | [08_01_27_short.mp4](videos/08_01_27_short/renders/08_01_27_short.mp4) |
 | `09_01_27_short` | short | Bella the Bird Who Wouldn't Try Broccoli: The Green Tree! | 80/100 | 2027-01-09 15:30:00 EST | 1080x1920, 42.87s | `READY_FOR_UPLOAD` | [09_01_27_short.mp4](videos/09_01_27_short/renders/09_01_27_short.mp4) |
 | `10_01_27_short` | short | The Angry Little Dragon: How Deep Breaths Cool the Fire! | 62/100 | 2027-01-10 15:30:00 EST | 1080x1920, 42.56s | `READY_FOR_UPLOAD` | [10_01_27_short.mp4](videos/10_01_27_short/renders/10_01_27_short.mp4) |
@@ -95,7 +95,7 @@
 | `17_01_27_short` | short | Taking Turns and Sharing! | 94/100 | 2027-01-17 15:30:00 EST | 1080x1920, 45.6s | `READY_FOR_UPLOAD` | [17_01_27_short.mp4](videos/17_01_27_short/renders/17_01_27_short.mp4) |
 | `18_01_27_short` | short | The Boastful Rooster: Why True Champions Are Humble! | 80/100 | 2027-01-18 15:30:00 EST | 1080x1920, 44.02s | `READY_FOR_UPLOAD` | [18_01_27_short.mp4](videos/18_01_27_short/renders/18_01_27_short.mp4) |
 | `19_01_27_short` | short | Keeping Promises to Yourself! | 94/100 | 2027-01-19 15:30:00 EST | 1080x1920, 48.87s | `READY_FOR_UPLOAD` | [19_01_27_short.mp4](videos/19_01_27_short/renders/19_01_27_short.mp4) |
-| `20_01_27_short` | short | First Day of School Getting Bullied! | 94/100 | 2027-01-20 15:30:00 EST | 1080x1920, 45.73s | `READY_FOR_UPLOAD` | [20_01_27_short.mp4](videos/20_01_27_short/renders/20_01_27_short.mp4) |
+| `20_01_27_short` | short | First Day of School Shs! | 94/100 | 2027-01-20 15:30:00 EST | 1080x1920, 45.73s | `READY_FOR_UPLOAD` | [20_01_27_short.mp4](videos/20_01_27_short/renders/20_01_27_short.mp4) |
 | `21_01_27_short` | short | Felix Fox & The Glowing Tablet: Nature Is Fun! | 80/100 | 2027-01-21 15:30:00 EST | 1080x1920, 49.03s | `READY_FOR_UPLOAD` | [21_01_27_short.mp4](videos/21_01_27_short/renders/21_01_27_short.mp4) |
 | `22_01_27_short` | short | Tommy Turtle Who Kept Falling: Practice Makes Perfect! | 66/100 | 2027-01-22 15:30:00 EST | 1080x1920, 48.19s | `READY_FOR_UPLOAD` | [22_01_27_short.mp4](videos/22_01_27_short/renders/22_01_27_short.mp4) |
 | `23_01_27_short` | short | The Greedy Hamster's Stash: Giving Feels Better! | 80/100 | 2027-01-23 15:30:00 EST | 1080x1920, 47.4s | `READY_FOR_UPLOAD` | [23_01_27_short.mp4](videos/23_01_27_short/renders/23_01_27_short.mp4) |
