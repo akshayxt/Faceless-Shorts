@@ -3,30 +3,8 @@
   "format": "short",
   "title_options": [
     {
-      "title": "Taking Turns Video!",
-      "chars": 19,
-      "score": 94,
-      "issues": [
-        [
-          "no-number",
-          "no number, date or name - the most reliable single fix"
-        ]
-      ]
-    },
-    {
       "title": "Taking Turns and Sharing!",
       "chars": 25,
-      "score": 94,
-      "issues": [
-        [
-          "no-number",
-          "no number, date or name - the most reliable single fix"
-        ]
-      ]
-    },
-    {
-      "title": "Taking Turns Video! #Shorts",
-      "chars": 27,
       "score": 94,
       "issues": [
         [
@@ -151,10 +129,10 @@
       ]
     }
   ],
-  "selected_title": "Taking Turns Video!",
+  "selected_title": "Taking Turns and Sharing!",
   "selected_title_lint": {
-    "title": "Taking Turns Video!",
-    "chars": 19,
+    "title": "Taking Turns and Sharing!",
+    "chars": 25,
     "score": 94,
     "issues": [
       [
@@ -192,16 +170,16 @@
   ],
   "realtime_seo": {
     "mode": "live_us_autocomplete_and_trends",
-    "fetched_at_ist": "2026-11-22T16:16:45.883552+05:30",
+    "fetched_at_ist": "2026-11-22T17:33:15.703704+05:30",
     "live_yt_suggest_queries": [
       "taking turns and sharing",
       "taking turns and sharing social story",
       "taking turns and sharing song",
       "sharing and taking turns kindergarten",
-      "taking turns video",
       "playground toddlers",
       "science facts for kids",
-      "interesting science facts for kids"
+      "interesting science facts for kids",
+      "science facts for toddlers"
     ],
     "matched_safe_us_trends": [],
     "observed_us_hashtags": [
@@ -212,14 +190,14 @@
       "#sciencefacts"
     ]
   },
-  "description": "Taking Turns Video! — Pip and Pop tugged on the playground swing until the rope creaked! Why was nobody swinging, and how did a simple timer fix it?\nKids science answer for \"taking turns and sharing for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nFighting over toys ruins playtime for everyone. Setting a friendly countdown timer to take turns makes games twice as thrilling.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- taking turns and sharing\n- taking turns and sharing social story\n- taking turns and sharing song\n- sharing and taking turns kindergarten\n- taking turns video\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "description": "Taking Turns and Sharing! — Pip and Pop tugged on the playground swing until the rope creaked! Why was nobody swinging, and how did a simple timer fix it?\nKids science answer for \"taking turns and sharing for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nFighting over toys ruins playtime for everyone. Setting a friendly countdown timer to take turns makes games twice as thrilling.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- taking turns and sharing\n- taking turns and sharing social story\n- taking turns and sharing song\n- sharing and taking turns kindergarten\n- playground toddlers\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
     "taking turns and sharing",
     "taking turns and sharing social story",
     "taking turns and sharing song",
     "sharing and taking turns kindergarten",
-    "taking turns video",
     "playground toddlers",
+    "science facts for kids",
     "taking turns and sharing for kids",
     "playground manners cartoon toddlers",
     "fighting over toys moral story",
