@@ -93,14 +93,13 @@
   ],
   "realtime_seo": {
     "mode": "live_us_autocomplete_and_trends",
-    "fetched_at_ist": "2026-11-22T05:50:59.416522+05:30",
+    "fetched_at_ist": "2026-11-22T11:33:18.129666+05:30",
     "live_yt_suggest_queries": [
       "staying safe in public",
       "staying safe from strangers",
       "fawn helps gruff",
       "fawn meets gruff",
-      "fawn abandoned by mother",
-      "fawn asks for help"
+      "fawn abandoned by mother"
     ],
     "matched_safe_us_trends": [],
     "observed_us_hashtags": [
@@ -118,7 +117,6 @@
     "fawn helps gruff",
     "fawn meets gruff",
     "fawn abandoned by mother",
-    "fawn asks for help",
     "safety awareness staying with parents kids",
     "staying safe in public places cartoon",
     "fawn getting lost moral story",
@@ -127,7 +125,8 @@
     "kids science cartoon",
     "science for kids",
     "educational cartoons for kids",
-    "fun facts for kids"
+    "fun facts for kids",
+    "youtube shorts"
   ],
   "hashtags": [
     "#BabyBeatsRhymo",
