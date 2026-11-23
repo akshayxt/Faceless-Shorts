@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-22 23:53:22 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-23 05:33:44 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -16,9 +16,9 @@
 | Campaign Target (`2026-11-09` -> `2026-12-09`) | **+5,000 net new subscribers** |
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
-| Remaining Days / Required Daily Rate | `17` days / **`294.1` subs/day** |
+| Remaining Days / Required Daily Rate | `16` days / **`312.5` subs/day** |
 | Videos Rendered & Verified | **`83`** (`58` uploaded/scheduled, `25` remaining) |
-| Real-Time US SEO Sync | `2026-11-22T23:53:15.306083+05:30` |
+| Real-Time US SEO Sync | `2026-11-23T05:33:29.443514+05:30` |
 | Topic Backlog Remaining | `1` pending out of `82` scored |
 
 ## 2. Production & Upload Queue Status
@@ -37,7 +37,7 @@
 | `day09_short` | short | Can Holding 1 Sneeze Really Pop Your Eyes Out?! | 98/100 | 2026-11-19 15:30:00 EST | 1080x1920, 34.5s | `UPLOADED` | [day09_short.mp4](videos/day09_short/renders/day09_short.mp4) |
 | `day10_short` | short | Why Brush Teeth at Night? | 98/100 | 2026-11-20 15:30:00 EST | 1080x1920, 35.89s | `UPLOADED` | [day10_short.mp4](videos/day10_short/renders/day10_short.mp4) |
 | `day11_short` | short | How Dogs Can Literally Smell Time Passing! | 62/100 | 2026-11-21 15:30:00 EST | 1080x1920, 35.67s | `UPLOADED` | [day11_short.mp4](videos/day11_short/renders/day11_short.mp4) |
-| `day12_short` | short | What Happens If You Step on Jupiter? (No Floor!) | 62/100 | 2026-11-22 15:30:00 EST | 1080x1920, 32.02s | `SCHEDULED` | [day12_short.mp4](videos/day12_short/renders/day12_short.mp4) |
+| `day12_short` | short | What Happens If You Step on Jupiter? (No Floor!) | 62/100 | 2026-11-22 15:30:00 EST | 1080x1920, 32.02s | `UPLOADED` | [day12_short.mp4](videos/day12_short/renders/day12_short.mp4) |
 | `day13_short` | short | Why Fingers Prune in Water? | 80/100 | 2026-11-23 15:30:00 EST | 1080x1920, 36.03s | `SCHEDULED` | [day13_short.mp4](videos/day13_short/renders/day13_short.mp4) |
 | `day14_short` | short | Does Sitting Close to the TV Permanently Hurt Eyes? | 66/100 | 2026-11-24 15:30:00 EST | 1080x1920, 36.97s | `SCHEDULED` | [day14_short.mp4](videos/day14_short/renders/day14_short.mp4) |
 | `day15_short` | short | Why Chameleons Change Color? | 98/100 | 2026-11-25 15:30:00 EST | 1080x1920, 35.69s | `SCHEDULED` | [day15_short.mp4](videos/day15_short/renders/day15_short.mp4) |
