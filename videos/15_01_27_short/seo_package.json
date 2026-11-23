@@ -74,7 +74,7 @@
   ],
   "realtime_seo": {
     "mode": "live_us_autocomplete_and_trends",
-    "fetched_at_ist": "2026-11-23T17:55:02.314222+05:30",
+    "fetched_at_ist": "2026-11-23T23:33:16.862198+05:30",
     "live_yt_suggest_queries": [
       "importance of sleep podcast",
       "bedtime stories good habits",
@@ -82,8 +82,8 @@
       "bedtime stories moral values",
       "science facts for kids",
       "interesting science facts for kids",
-      "science facts for toddlers",
-      "titanic facts for kids-science facts"
+      "science fun facts for kids",
+      "science facts for toddlers"
     ],
     "matched_safe_us_trends": [],
     "observed_us_hashtags": [

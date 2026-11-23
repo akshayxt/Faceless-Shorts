@@ -1,6 +1,6 @@
 {
-  "last_updated_ist": "2026-11-23 19:55:48 IST",
-  "total_archived": 58,
+  "last_updated_ist": "2026-11-23 23:34:05 IST",
+  "total_archived": 63,
   "videos": [
     {
       "id": "day01_short",
@@ -581,6 +581,56 @@
       "publish_date": "2027-01-07T20:30:00Z",
       "format": "short",
       "archived_at_ist": "2026-11-23 19:55:48 IST"
+    },
+    {
+      "id": "08_01_27_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\08_01_27_short\\renders\\08_01_27_short.mp4",
+      "title": "Leo's Sticky Monster Hands: Why Washing Hands Is Fun!",
+      "youtube_video_id": "P1cRIs45WFc",
+      "uploaded_date": "2026-11-23T23:33:39.891582+05:30",
+      "publish_date": "2027-01-08T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-23 23:33:39 IST"
+    },
+    {
+      "id": "09_01_27_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\09_01_27_short\\renders\\09_01_27_short.mp4",
+      "title": "Bella the Bird Who Wouldn't Try Broccoli: The Green Tree!",
+      "youtube_video_id": "HOa3ySvvZ3o",
+      "uploaded_date": "2026-11-23T23:33:45.377396+05:30",
+      "publish_date": "2027-01-09T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-23 23:33:45 IST"
+    },
+    {
+      "id": "10_01_27_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\10_01_27_short\\renders\\10_01_27_short.mp4",
+      "title": "The Angry Little Dragon: How Deep Breaths Cool the Fire!",
+      "youtube_video_id": "8M2CcjTdYlk",
+      "uploaded_date": "2026-11-23T23:33:50.472656+05:30",
+      "publish_date": "2027-01-10T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-23 23:33:50 IST"
+    },
+    {
+      "id": "11_01_27_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\11_01_27_short\\renders\\11_01_27_short.mp4",
+      "title": "Sammy the Squirrel's Lost Acorn: Why Listening Matters!",
+      "youtube_video_id": "XWOAYICPITc",
+      "uploaded_date": "2026-11-23T23:33:59.271194+05:30",
+      "publish_date": "2027-01-11T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-23 23:33:59 IST"
+    },
+    {
+      "id": "12_01_27_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\12_01_27_short\\renders\\12_01_27_short.mp4",
+      "title": "Tiny Ant to the Elephant!",
+      "youtube_video_id": "iyqgobAf2C4",
+      "uploaded_date": "2026-11-23T23:34:05.453986+05:30",
+      "publish_date": "2027-01-12T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-23 23:34:05 IST"
     }
   ]
 }

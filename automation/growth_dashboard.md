@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-23 17:55:12 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-23 23:34:08 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -17,8 +17,8 @@
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `16` days / **`312.5` subs/day** |
-| Videos Rendered & Verified | **`83`** (`58` uploaded/scheduled, `25` remaining) |
-| Real-Time US SEO Sync | `2026-11-23T17:55:08.649410+05:30` |
+| Videos Rendered & Verified | **`83`** (`63` uploaded/scheduled, `20` remaining) |
+| Real-Time US SEO Sync | `2026-11-23T23:33:29.328980+05:30` |
 | Topic Backlog Remaining | `1` pending out of `82` scored |
 
 ## 2. Production & Upload Queue Status
@@ -83,11 +83,11 @@
 | `05_01_27_short` | short | Toby the Puppy & The Broken Flowerpot: Why Truth Wins! | 80/100 | 2027-01-05 15:30:00 EST | 1080x1920, 42.93s | `SCHEDULED` | [05_01_27_short.mp4](videos/05_01_27_short/renders/05_01_27_short.mp4) |
 | `06_01_27_short` | short | Good Manners Rhymes We Say Thank You! | 94/100 | 2027-01-06 15:30:00 EST | 1080x1920, 42.83s | `SCHEDULED` | [06_01_27_short.mp4](videos/06_01_27_short/renders/06_01_27_short.mp4) |
 | `07_01_27_short` | short | The Impatient Little Snail: Slow and Steady Always Wins! | 80/100 | 2027-01-07 15:30:00 EST | 1080x1920, 42.03s | `SCHEDULED` | [07_01_27_short.mp4](videos/07_01_27_short/renders/07_01_27_short.mp4) |
-| `08_01_27_short` | short | Leo's Sticky Monster Hands: Why Washing Hands Is Fun! | 80/100 | 2027-01-08 15:30:00 EST | 1080x1920, 44.37s | `READY_FOR_UPLOAD` | [08_01_27_short.mp4](videos/08_01_27_short/renders/08_01_27_short.mp4) |
-| `09_01_27_short` | short | Bella the Bird Who Wouldn't Try Broccoli: The Green Tree! | 80/100 | 2027-01-09 15:30:00 EST | 1080x1920, 42.87s | `READY_FOR_UPLOAD` | [09_01_27_short.mp4](videos/09_01_27_short/renders/09_01_27_short.mp4) |
-| `10_01_27_short` | short | The Angry Little Dragon: How Deep Breaths Cool the Fire! | 62/100 | 2027-01-10 15:30:00 EST | 1080x1920, 42.56s | `READY_FOR_UPLOAD` | [10_01_27_short.mp4](videos/10_01_27_short/renders/10_01_27_short.mp4) |
-| `11_01_27_short` | short | Sammy the Squirrel's Lost Acorn: Why Listening Matters! | 80/100 | 2027-01-11 15:30:00 EST | 1080x1920, 45.03s | `READY_FOR_UPLOAD` | [11_01_27_short.mp4](videos/11_01_27_short/renders/11_01_27_short.mp4) |
-| `12_01_27_short` | short | Tiny Ant to the Elephant! | 76/100 | 2027-01-12 15:30:00 EST | 1080x1920, 44.77s | `READY_FOR_UPLOAD` | [12_01_27_short.mp4](videos/12_01_27_short/renders/12_01_27_short.mp4) |
+| `08_01_27_short` | short | Leo's Sticky Monster Hands: Why Washing Hands Is Fun! | 80/100 | 2027-01-08 15:30:00 EST | 1080x1920, 44.37s | `SCHEDULED` | [08_01_27_short.mp4](videos/08_01_27_short/renders/08_01_27_short.mp4) |
+| `09_01_27_short` | short | Bella the Bird Who Wouldn't Try Broccoli: The Green Tree! | 80/100 | 2027-01-09 15:30:00 EST | 1080x1920, 42.87s | `SCHEDULED` | [09_01_27_short.mp4](videos/09_01_27_short/renders/09_01_27_short.mp4) |
+| `10_01_27_short` | short | The Angry Little Dragon: How Deep Breaths Cool the Fire! | 62/100 | 2027-01-10 15:30:00 EST | 1080x1920, 42.56s | `SCHEDULED` | [10_01_27_short.mp4](videos/10_01_27_short/renders/10_01_27_short.mp4) |
+| `11_01_27_short` | short | Sammy the Squirrel's Lost Acorn: Why Listening Matters! | 80/100 | 2027-01-11 15:30:00 EST | 1080x1920, 45.03s | `SCHEDULED` | [11_01_27_short.mp4](videos/11_01_27_short/renders/11_01_27_short.mp4) |
+| `12_01_27_short` | short | Tiny Ant to the Elephant! | 76/100 | 2027-01-12 15:30:00 EST | 1080x1920, 44.77s | `SCHEDULED` | [12_01_27_short.mp4](videos/12_01_27_short/renders/12_01_27_short.mp4) |
 | `13_01_27_short` | short | The Night Leo Met Bedroom Shadows: Night Bravery! | 80/100 | 2027-01-13 15:30:00 EST | 1080x1920, 44.27s | `READY_FOR_UPLOAD` | [13_01_27_short.mp4](videos/13_01_27_short/renders/13_01_27_short.mp4) |
 | `14_01_27_short` | short | The Grumpy Badger Who Found a Smile: Joy Is Contagious! | 62/100 | 2027-01-14 15:30:00 EST | 1080x1920, 43.15s | `READY_FOR_UPLOAD` | [14_01_27_short.mp4](videos/14_01_27_short/renders/14_01_27_short.mp4) |
 | `15_01_27_short` | short | Barnaby Beaver Who Refused to Sleep: Why Bodies Need Rest! | 62/100 | 2027-01-15 15:30:00 EST | 1080x1920, 45.63s | `READY_FOR_UPLOAD` | [15_01_27_short.mp4](videos/15_01_27_short/renders/15_01_27_short.mp4) |
