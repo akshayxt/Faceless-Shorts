@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-23 08:30:31 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-23 11:33:37 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -18,7 +18,7 @@
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `16` days / **`312.5` subs/day** |
 | Videos Rendered & Verified | **`83`** (`58` uploaded/scheduled, `25` remaining) |
-| Real-Time US SEO Sync | `2026-11-23T08:30:19.899853+05:30` |
+| Real-Time US SEO Sync | `2026-11-23T11:33:30.261452+05:30` |
 | Topic Backlog Remaining | `1` pending out of `82` scored |
 
 ## 2. Production & Upload Queue Status
@@ -95,7 +95,7 @@
 | `17_01_27_short` | short | Taking Turns and Sharing! | 94/100 | 2027-01-17 15:30:00 EST | 1080x1920, 45.6s | `READY_FOR_UPLOAD` | [17_01_27_short.mp4](videos/17_01_27_short/renders/17_01_27_short.mp4) |
 | `18_01_27_short` | short | The Boastful Rooster: Why True Champions Are Humble! | 80/100 | 2027-01-18 15:30:00 EST | 1080x1920, 44.02s | `READY_FOR_UPLOAD` | [18_01_27_short.mp4](videos/18_01_27_short/renders/18_01_27_short.mp4) |
 | `19_01_27_short` | short | Keeping Promises to Yourself! | 94/100 | 2027-01-19 15:30:00 EST | 1080x1920, 48.87s | `READY_FOR_UPLOAD` | [19_01_27_short.mp4](videos/19_01_27_short/renders/19_01_27_short.mp4) |
-| `20_01_27_short` | short | First Day of School Shs! | 94/100 | 2027-01-20 15:30:00 EST | 1080x1920, 45.73s | `READY_FOR_UPLOAD` | [20_01_27_short.mp4](videos/20_01_27_short/renders/20_01_27_short.mp4) |
+| `20_01_27_short` | short | First Day of School Getting Bullied! | 94/100 | 2027-01-20 15:30:00 EST | 1080x1920, 45.73s | `READY_FOR_UPLOAD` | [20_01_27_short.mp4](videos/20_01_27_short/renders/20_01_27_short.mp4) |
 | `21_01_27_short` | short | Felix Fox & The Glowing Tablet: Nature Is Fun! | 80/100 | 2027-01-21 15:30:00 EST | 1080x1920, 49.03s | `READY_FOR_UPLOAD` | [21_01_27_short.mp4](videos/21_01_27_short/renders/21_01_27_short.mp4) |
 | `22_01_27_short` | short | Tommy Turtle Who Kept Falling: Practice Makes Perfect! | 66/100 | 2027-01-22 15:30:00 EST | 1080x1920, 48.19s | `READY_FOR_UPLOAD` | [22_01_27_short.mp4](videos/22_01_27_short/renders/22_01_27_short.mp4) |
 | `23_01_27_short` | short | The Greedy Hamster's Stash: Giving Feels Better! | 80/100 | 2027-01-23 15:30:00 EST | 1080x1920, 47.4s | `READY_FOR_UPLOAD` | [23_01_27_short.mp4](videos/23_01_27_short/renders/23_01_27_short.mp4) |

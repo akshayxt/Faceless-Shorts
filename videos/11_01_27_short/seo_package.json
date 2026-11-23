@@ -67,16 +67,16 @@
   ],
   "realtime_seo": {
     "mode": "live_us_autocomplete_and_trends",
-    "fetched_at_ist": "2026-11-23T08:30:07.290954+05:30",
+    "fetched_at_ist": "2026-11-23T11:33:17.955537+05:30",
     "live_yt_suggest_queries": [
       "listening to parents story",
       "listening to parents social story",
       "listen to your parents story",
       "bedtime story about listening to parents",
       "story about not listening to parents",
-      "listening to my parents",
       "listening ears social story",
-      "science facts for kids"
+      "science facts for kids",
+      "interesting science facts for kids"
     ],
     "matched_safe_us_trends": [],
     "observed_us_hashtags": [
@@ -94,7 +94,7 @@
     "listen to your parents story",
     "bedtime story about listening to parents",
     "story about not listening to parents",
-    "listening to my parents",
+    "listening ears social story",
     "listening to parents story for kids",
     "following directions cartoon kids",
     "listening manners preschool",
