@@ -82,7 +82,7 @@
   ],
   "realtime_seo": {
     "mode": "live_us_autocomplete_and_trends",
-    "fetched_at_ist": "2026-11-23T23:33:16.862198+05:30",
+    "fetched_at_ist": "2026-11-23T23:55:34.191852+05:30",
     "live_yt_suggest_queries": [
       "science facts for kids",
       "interesting science facts for kids",
@@ -90,7 +90,9 @@
       "science facts for toddlers",
       "titanic facts for kids-science facts"
     ],
-    "matched_safe_us_trends": [],
+    "matched_safe_us_trends": [
+      "the heart in winter"
+    ],
     "observed_us_hashtags": [
       "#shorts",
       "#facts",
@@ -99,7 +101,7 @@
       "#sciencefacts"
     ]
   },
-  "description": "The Interrupting Owl: How Good Listeners Win Hearts! — Ollie the owl hooted over everyone's stories before they could finish! Why did his animal friends stop sharing secrets with him?\nKids science answer for \"active listening manners for children\" with fun 2D animation by BabyBeats Rhymo!\n\nWaiting for friends to finish speaking shows you care about their thoughts. Being a good listener makes people love talking with you.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- science facts for kids\n- interesting science facts for kids\n- science fun facts for kids\n- science facts for toddlers\n- titanic facts for kids-science facts\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "description": "The Interrupting Owl: How Good Listeners Win Hearts! — Ollie the owl hooted over everyone's stories before they could finish! Why did his animal friends stop sharing secrets with him?\nKids science answer for \"active listening manners for children\" with fun 2D animation by BabyBeats Rhymo!\n\nWaiting for friends to finish speaking shows you care about their thoughts. Being a good listener makes people love talking with you.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- science facts for kids\n- interesting science facts for kids\n- science fun facts for kids\n- science facts for toddlers\n- titanic facts for kids-science facts\n- the heart in winter\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
     "science facts for kids",
     "interesting science facts for kids",
@@ -110,12 +112,12 @@
     "interrupting conversations cartoon kids",
     "good listener owl story",
     "respectful talking manners toddlers",
+    "the heart in winter",
     "BabyBeats Rhymo",
     "kids science cartoon",
     "science for kids",
     "educational cartoons for kids",
-    "fun facts for kids",
-    "youtube shorts"
+    "fun facts for kids"
   ],
   "hashtags": [
     "#BabyBeatsRhymo",
