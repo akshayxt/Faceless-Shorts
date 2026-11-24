@@ -74,10 +74,44 @@
       ]
     },
     {
+      "title": "Baby Penguin Tries to Make Friends!",
+      "chars": 35,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on friends - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
       "title": "Making Friends Preschool Story! #Shorts",
       "chars": 39,
       "score": 76,
       "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on friends - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Baby Penguin Tries to Make Friends! #Shorts",
+      "chars": 43,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Baby Penguin Tries to Make Friends!...\" - check the subject survives"
+        ],
         [
           "no-number",
           "no number, date or name - the most reliable single fix"
@@ -149,13 +183,14 @@
   ],
   "realtime_seo": {
     "mode": "live_us_autocomplete_and_trends",
-    "fetched_at_ist": "2026-11-24T17:57:20.004494+05:30",
+    "fetched_at_ist": "2026-11-24T23:33:18.238836+05:30",
     "live_yt_suggest_queries": [
       "first day of school getting bullied",
       "making friends preschool story",
       "making friends read aloud",
       "penguins don't wear sweaters read aloud",
-      "sharing is caring read aloud"
+      "sharing is caring read aloud",
+      "baby penguin tries to make friends"
     ],
     "matched_safe_us_trends": [],
     "observed_us_hashtags": [
@@ -173,6 +208,7 @@
     "making friends read aloud",
     "penguins don't wear sweaters read aloud",
     "sharing is caring read aloud",
+    "baby penguin tries to make friends",
     "first day of school bravery cartoon kids",
     "making friends at preschool story",
     "shy penguin first day cartoon",
@@ -181,8 +217,7 @@
     "kids science cartoon",
     "science for kids",
     "educational cartoons for kids",
-    "fun facts for kids",
-    "youtube shorts"
+    "shorts"
   ],
   "hashtags": [
     "#BabyBeatsRhymo",
