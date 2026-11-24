@@ -1,15 +1,15 @@
 {
   "enabled": true,
   "interval_minutes": 5,
-  "last_sync_ist": "2026-11-24 20:27:50 IST",
-  "total_messages_recorded": 815,
+  "last_sync_ist": "2026-11-24 20:52:59 IST",
+  "total_messages_recorded": 822,
   "groups_tracked": {
     "-1001997761568": {
       "id": -1001997761568,
       "title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
       "file": "𝐓𝐄𝐀𝐌冬𝗫𝗧_1001997761568.json",
-      "last_message_at": "2026-11-24 20:50:16 IST",
-      "message_count": 816
+      "last_message_at": "2026-11-24 20:57:56 IST",
+      "message_count": 823
     },
     "-1003968526041": {
       "id": -1003968526041,
