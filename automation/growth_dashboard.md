@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-23 23:55:51 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-24 05:33:38 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -16,9 +16,9 @@
 | Campaign Target (`2026-11-09` -> `2026-12-09`) | **+5,000 net new subscribers** |
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
-| Remaining Days / Required Daily Rate | `16` days / **`312.5` subs/day** |
+| Remaining Days / Required Daily Rate | `15` days / **`333.3` subs/day** |
 | Videos Rendered & Verified | **`83`** (`63` uploaded/scheduled, `20` remaining) |
-| Real-Time US SEO Sync | `2026-11-23T23:55:42.899928+05:30` |
+| Real-Time US SEO Sync | `2026-11-24T05:33:26.768817+05:30` |
 | Topic Backlog Remaining | `1` pending out of `82` scored |
 
 ## 2. Production & Upload Queue Status
@@ -38,7 +38,7 @@
 | `day10_short` | short | Why Brush Teeth at Night? | 98/100 | 2026-11-20 15:30:00 EST | 1080x1920, 35.89s | `UPLOADED` | [day10_short.mp4](videos/day10_short/renders/day10_short.mp4) |
 | `day11_short` | short | How Dogs Can Literally Smell Time Passing! | 62/100 | 2026-11-21 15:30:00 EST | 1080x1920, 35.67s | `UPLOADED` | [day11_short.mp4](videos/day11_short/renders/day11_short.mp4) |
 | `day12_short` | short | What Happens If You Step on Jupiter? (No Floor!) | 62/100 | 2026-11-22 15:30:00 EST | 1080x1920, 32.02s | `UPLOADED` | [day12_short.mp4](videos/day12_short/renders/day12_short.mp4) |
-| `day13_short` | short | Why Fingers Prune in Water? | 80/100 | 2026-11-23 15:30:00 EST | 1080x1920, 36.03s | `SCHEDULED` | [day13_short.mp4](videos/day13_short/renders/day13_short.mp4) |
+| `day13_short` | short | Why Fingers Prune in Water? | 80/100 | 2026-11-23 15:30:00 EST | 1080x1920, 36.03s | `UPLOADED` | [day13_short.mp4](videos/day13_short/renders/day13_short.mp4) |
 | `day14_short` | short | Does Sitting Close to the TV Permanently Hurt Eyes? | 66/100 | 2026-11-24 15:30:00 EST | 1080x1920, 36.97s | `SCHEDULED` | [day14_short.mp4](videos/day14_short/renders/day14_short.mp4) |
 | `day15_short` | short | Why Chameleons Change Color? | 98/100 | 2026-11-25 15:30:00 EST | 1080x1920, 35.69s | `SCHEDULED` | [day15_short.mp4](videos/day15_short/renders/day15_short.mp4) |
 | `day16_short` | short | Why You Hear ZERO Sound Inside Outer Space! | 66/100 | 2026-11-26 15:30:00 EST | 1080x1920, 31.86s | `SCHEDULED` | [day16_short.mp4](videos/day16_short/renders/day16_short.mp4) |
