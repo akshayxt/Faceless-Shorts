@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-25 16:40:15 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-25 16:07:23 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -17,9 +17,9 @@
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `14` days / **`357.1` subs/day** |
-| Videos Rendered & Verified | **`110`** (`63` uploaded/scheduled, `47` remaining) |
+| Videos Rendered & Verified | **`83`** (`63` uploaded/scheduled, `20` remaining) |
 | Real-Time US SEO Sync | `2026-11-25T16:07:15.979125+05:30` |
-| Topic Backlog Remaining | `1` pending out of `109` scored |
+| Topic Backlog Remaining | `1` pending out of `82` scored |
 
 ## 2. Production & Upload Queue Status
 
@@ -108,33 +108,6 @@
 | `30_01_27_short` | short | The Little Bear Who Brushed Like a Champion: Clean Teeth! | 80/100 | 2027-01-30 15:30:00 EST | 1080x1920, 48.57s | `READY_FOR_UPLOAD` | [30_01_27_short.mp4](videos/30_01_27_short/renders/30_01_27_short.mp4) |
 | `31_01_27_short` | short | Leo's Cozy Bedtime Routine: Sweet Dreams Every Night! | 62/100 | 2027-01-31 15:30:00 EST | 1080x1920, 48.95s | `READY_FOR_UPLOAD` | [31_01_27_short.mp4](videos/31_01_27_short/renders/31_01_27_short.mp4) |
 | `01_02_27_short` | short | What If You Never Took A Bath? The 7-Day Cartoon Experiment! | 80/100 | 2027-02-01 15:30:00 EST | 1080x1920, 38.27s | `READY_FOR_UPLOAD` | [01_02_27_short.mp4](videos/01_02_27_short/renders/01_02_27_short.mp4) |
-| `02_02_27_short` | short | The Boy Who Lost His Temper: Cooling Down the Volcano! | —/100 | 2027-02-02 15:30:00 EST | 1080x1920, 41.37s | `READY_FOR_UPLOAD` | [02_02_27_short.mp4](videos/02_02_27_short/renders/02_02_27_short.mp4) |
-| `03_02_27_short` | short | Why Do We Yawn? The Brain-Cooling Mystery! | —/100 | 2027-02-03 15:30:00 EST | 1080x1920, 38.87s | `READY_FOR_UPLOAD` | [03_02_27_short.mp4](videos/03_02_27_short/renders/03_02_27_short.mp4) |
-| `04_02_27_short` | short | Pip the Mouse Who Kept His Word: A Promise is Golden! | —/100 | 2027-02-04 15:30:00 EST | 1080x1920, 42.62s | `READY_FOR_UPLOAD` | [04_02_27_short.mp4](videos/04_02_27_short/renders/04_02_27_short.mp4) |
-| `05_02_27_short` | short | Why Do Cuts Heal? Your Body's Tiny Super Bandage! | —/100 | 2027-02-05 15:30:00 EST | 1080x1920, 39.57s | `READY_FOR_UPLOAD` | [05_02_27_short.mp4](videos/05_02_27_short/renders/05_02_27_short.mp4) |
-| `06_02_27_short` | short | The Selfish Squirrel Who Hid All The Acorns: True Friendship | —/100 | 2027-02-06 15:30:00 EST | 1080x1920, 43.5s | `READY_FOR_UPLOAD` | [06_02_27_short.mp4](videos/06_02_27_short/renders/06_02_27_short.mp4) |
-| `07_02_27_short` | short | Why Do Onions Make Us Cry? The Sneaky Tear Gas Trick! | —/100 | 2027-02-07 15:30:00 EST | 1080x1920, 43.2s | `READY_FOR_UPLOAD` | [07_02_27_short.mp4](videos/07_02_27_short/renders/07_02_27_short.mp4) |
-| `08_02_27_short` | short | Leo Learns Table Manners: The No-Slurp Adventure! | —/100 | 2027-02-08 15:30:00 EST | 1080x1920, 44.33s | `READY_FOR_UPLOAD` | [08_02_27_short.mp4](videos/08_02_27_short/renders/08_02_27_short.mp4) |
-| `09_02_27_short` | short | Why Do We Get Goosebumps? The Animal Fur Secret! | —/100 | 2027-02-09 15:30:00 EST | 1080x1920, 42.83s | `READY_FOR_UPLOAD` | [09_02_27_short.mp4](videos/09_02_27_short/renders/09_02_27_short.mp4) |
-| `10_02_27_short` | short | The Kitten Who Was Afraid of the Dark: Nightlight Courage! | —/100 | 2027-02-10 15:30:00 EST | 1080x1920, 41.42s | `READY_FOR_UPLOAD` | [10_02_27_short.mp4](videos/10_02_27_short/renders/10_02_27_short.mp4) |
-| `11_02_27_short` | short | Why Does Ice Float? Water's Superpower Mystery! | —/100 | 2027-02-11 15:30:00 EST | 1080x1920, 43.93s | `READY_FOR_UPLOAD` | [11_02_27_short.mp4](videos/11_02_27_short/renders/11_02_27_short.mp4) |
-| `12_02_27_short` | short | The Boy Who Blamed His Little Sister: Owning Your Mistakes! | —/100 | 2027-02-12 15:30:00 EST | 1080x1920, 45.17s | `READY_FOR_UPLOAD` | [12_02_27_short.mp4](videos/12_02_27_short/renders/12_02_27_short.mp4) |
-| `13_02_27_short` | short | Why Do Fireflies Glow In The Dark? Nature's Flashlight! | —/100 | 2027-02-13 15:30:00 EST | 1080x1920, 45.67s | `READY_FOR_UPLOAD` | [13_02_27_short.mp4](videos/13_02_27_short/renders/13_02_27_short.mp4) |
-| `14_02_27_short` | short | Valentine Kindness: Making a Homemade Card for Everyone! | —/100 | 2027-02-14 15:30:00 EST | 1080x1920, 45.6s | `READY_FOR_UPLOAD` | [14_02_27_short.mp4](videos/14_02_27_short/renders/14_02_27_short.mp4) |
-| `15_02_27_short` | short | Why Do We Shiver When We're Cold? The Muscle Engine! | —/100 | 2027-02-15 15:30:00 EST | 1080x1920, 42.59s | `READY_FOR_UPLOAD` | [15_02_27_short.mp4](videos/15_02_27_short/renders/15_02_27_short.mp4) |
-| `16_02_27_short` | short | The Bear Who Wouldn't Say Please: The Key That Opens Every D | —/100 | 2027-02-16 15:30:00 EST | 1080x1920, 43.63s | `READY_FOR_UPLOAD` | [16_02_27_short.mp4](videos/16_02_27_short/renders/16_02_27_short.mp4) |
-| `18_02_27_short` | short | The 100th Day of School: What Teamwork Can Build! | —/100 | 2027-02-18 15:30:00 EST | 1080x1920, 46.62s | `READY_FOR_UPLOAD` | [18_02_27_short.mp4](videos/18_02_27_short/renders/18_02_27_short.mp4) |
-| `19_02_27_short` | short | Why Do Rainbows Appear After Rain? The Sun's Magic Mirror! | —/100 | 2027-02-19 15:30:00 EST | 1080x1920, 43.76s | `READY_FOR_UPLOAD` | [19_02_27_short.mp4](videos/19_02_27_short/renders/19_02_27_short.mp4) |
-| `20_02_27_short` | short | The Little Pup Who Raced Ahead: Waiting Your Turn! | —/100 | 2027-02-20 15:30:00 EST | 1080x1920, 45.7s | `READY_FOR_UPLOAD` | [20_02_27_short.mp4](videos/20_02_27_short/renders/20_02_27_short.mp4) |
-| `21_02_27_short` | short | Why Do We Dream? The Brain's Midnight Movie Theater! | —/100 | 2027-02-21 15:30:00 EST | 1080x1920, 44.52s | `READY_FOR_UPLOAD` | [21_02_27_short.mp4](videos/21_02_27_short/renders/21_02_27_short.mp4) |
-| `22_02_27_short` | short | Leo & The Lost Library Book: Returning What You Borrow! | —/100 | 2027-02-22 15:30:00 EST | 1080x1920, 45.53s | `READY_FOR_UPLOAD` | [22_02_27_short.mp4](videos/22_02_27_short/renders/22_02_27_short.mp4) |
-| `23_02_27_short` | short | Why Is Poop Brown? The Digestion Journey! | —/100 | 2027-02-23 15:30:00 EST | 1080x1920, 44.6s | `READY_FOR_UPLOAD` | [23_02_27_short.mp4](videos/23_02_27_short/renders/23_02_27_short.mp4) |
-| `24_02_27_short` | short | The Greedy Frog Who Wanted All The Flies: Being Satisfied! | —/100 | 2027-02-24 15:30:00 EST | 1080x1920, 44.6s | `READY_FOR_UPLOAD` | [24_02_27_short.mp4](videos/24_02_27_short/renders/24_02_27_short.mp4) |
-| `25_02_27_short` | short | Why Do We Sneeze? The 100 MPH Nose Cleaner! | —/100 | 2027-02-25 15:30:00 EST | 1080x1920, 45.87s | `READY_FOR_UPLOAD` | [25_02_27_short.mp4](videos/25_02_27_short/renders/25_02_27_short.mp4) |
-| `26_02_27_short` | short | The Bunny Who Never Shared His Crayons: The Colorful Masterp | —/100 | 2027-02-26 15:30:00 EST | 1080x1920, 45.39s | `READY_FOR_UPLOAD` | [26_02_27_short.mp4](videos/26_02_27_short/renders/26_02_27_short.mp4) |
-| `27_02_27_short` | short | Why Do We Sweat? Your Built-In Air Conditioner! | —/100 | 2027-02-27 15:30:00 EST | 1080x1920, 43.38s | `READY_FOR_UPLOAD` | [27_02_27_short.mp4](videos/27_02_27_short/renders/27_02_27_short.mp4) |
-| `28_02_27_short` | short | Leo's Morning Routine Victory: Five Minutes Ahead of Time! | —/100 | 2027-02-28 15:30:00 EST | 1080x1920, 43.46s | `READY_FOR_UPLOAD` | [28_02_27_short.mp4](videos/28_02_27_short/renders/28_02_27_short.mp4) |
-| `17_02_27_short` | short | None | —/100 | 2027-02-17 15:30:00 EST | ?x?, ?s | `READY_FOR_UPLOAD` | [17_02_27_short.mp4](videos/17_02_27_short/renders/17_02_27_short.mp4) |
 
 ### Publishing Status Note
 - Automated unattended publishing runs via [`youtube_direct_upload.py`](file:///G:/Faceless-Shorts/automation/youtube_direct_upload.py) once Google OAuth credentials (`client_secrets.json`) are placed in `G:/Faceless-Shorts/automation/creds/`, **or** by opening a fresh chat session where `zapier_zapier` MCP tools are loaded and triggering upload from `upload_queue.json`.
@@ -157,19 +130,5 @@
 
 ## 4. Automation Loop Heartbeat (Latest Entries)
 ```text
-[2026-11-12 11:09:51 IST] [DASHBOARD]   File "G:\Faceless-Shorts\automation\refresh_dashboard.py", line 25, in read_json
-[2026-11-12 11:09:51 IST] [DASHBOARD]     return json.loads(p.read_text(encoding="utf-8"))
-[2026-11-12 11:09:51 IST] [DASHBOARD]            ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-[2026-11-12 11:09:51 IST] [DASHBOARD]   File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\json\__init__.py", line 352, in loads
-[2026-11-12 11:09:51 IST] [DASHBOARD]     return _default_decoder.decode(s)
-[2026-11-12 11:09:51 IST] [DASHBOARD]            ~~~~~~~~~~~~~~~~~~~~~~~^^^
-[2026-11-12 11:09:51 IST] [DASHBOARD]   File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\json\decoder.py", line 345, in decode
-[2026-11-12 11:09:51 IST] [DASHBOARD]     obj, end = self.raw_decode(s, idx=_w(s, 0).end())
-[2026-11-12 11:09:51 IST] [DASHBOARD]                ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
-[2026-11-12 11:09:51 IST] [DASHBOARD]   File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\json\decoder.py", line 361, in raw_decode
-[2026-11-12 11:09:51 IST] [DASHBOARD]     obj, end = self.scan_once(s, idx)
-[2026-11-12 11:09:51 IST] [DASHBOARD]                ~~~~~~~~~~~~~~^^^^^^^^
-[2026-11-12 11:09:51 IST] [DASHBOARD] json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 355 column 1 (char 15107)
-[2026-11-12 11:09:51 IST] [DASHBOARD] EXIT CODE=1: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\refresh_dashboard.py
-[2026-11-12 11:10:52 IST] STOP_AUTOPILOT sentinel detected. Exiting cleanly.
+No log lines recorded yet.
 ```
