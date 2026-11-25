@@ -95,6 +95,22 @@
       "target": "9096714928",
       "chat_id": "-1001997761568",
       "details": "Unbanned member"
+    },
+    {
+      "timestamp_ist": "2026-11-25 12:49:51 IST",
+      "action": "UNBAN",
+      "actor": "@Raxx_xt",
+      "target": "@AnyaXTRobot",
+      "chat_id": "-1001997761568",
+      "details": "Unbanned member"
+    },
+    {
+      "timestamp_ist": "2026-11-25 12:50:18 IST",
+      "action": "PROMOTE",
+      "actor": "@Raxx_xt",
+      "target": "@AnyaXTRobot",
+      "chat_id": "-1001997761568",
+      "details": "Promoted with rights: ['can_manage_chat', 'can_delete_messages', 'can_restrict_members', 'can_invite_users', 'can_pin_messages', 'can_promote_members', 'can_change_info', 'can_manage_video_chats']"
     }
   ]
 }
