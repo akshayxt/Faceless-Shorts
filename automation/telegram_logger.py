@@ -38,7 +38,16 @@ IST = timezone(timedelta(hours=5, minutes=30))
 
 
 def load_config() -> dict:
-    env_tok = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+    settings_file = AUTO / "data" / "bot_settings.json"
+    override_tok = ""
+    if settings_file.exists():
+        try:
+            bot_settings = json.loads(settings_file.read_text(encoding="utf-8"))
+            override_tok = str(bot_settings.get("bot_token") or "").strip()
+        except Exception:
+            pass
+
+    env_tok = override_tok or os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
     env_chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
     if env_tok and env_chat:
         return {
@@ -50,8 +59,18 @@ def load_config() -> dict:
             "timezone": "IST",
         }
     if not CFG_PATH.exists():
-        return {"enabled": False}
-    return json.loads(CFG_PATH.read_text(encoding="utf-8"))
+        return {
+            "enabled": bool(env_tok),
+            "bot_token": env_tok,
+            "chat_id": env_chat or "-1001997761568",
+            "max_chars_per_message": 3500,
+            "flush_interval_sec": 4.0,
+            "timezone": "IST",
+        }
+    cfg = json.loads(CFG_PATH.read_text(encoding="utf-8"))
+    if override_tok:
+        cfg["bot_token"] = override_tok
+    return cfg
 
 
 def _post_telegram(token: str, chat_id: str, html_text: str) -> dict:
