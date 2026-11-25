@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "webhook_url": "",
+  "api_key": "",
+  "scenario_id": "",
+  "last_trigger_ist": null,
+  "last_status": "READY_FOR_SETUP"
+}

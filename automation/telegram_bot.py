@@ -101,7 +101,9 @@ BOT_COMMANDS: list[dict[str, str]] = [
     {"command": "next", "description": "Spotlight next video in upload queue"},
     {"command": "seo", "description": "Show real-time US SEO package (/seo day09_short)"},
     {"command": "seotxt", "description": "Send downloadable *_seo.txt file (/seotxt day09_short)"},
-    {"command": "run", "description": "Start cloud SEO + YouTube upload cycle now"},
+    {"command": "run", "description": "Start cloud SEO + YouTube upload cycle now (Zapier)"},
+    {"command": "make", "description": "Trigger secondary video upload via Make.com scenario"},
+    {"command": "setmake", "description": "Configure Make.com scenario webhook URL (/setmake <url>)"},
     {"command": "sync", "description": "Reconcile live YouTube channel + refresh dashboards"},
     {"command": "refreshseo", "description": "Refresh real-time US trending SEO for pending items"},
     {"command": "pause", "description": "Pause automatic uploads cleanly"},
@@ -160,7 +162,7 @@ BOT_COMMANDS: list[dict[str, str]] = [
     {"command": "boostcommit", "description": "Group chat archiver & periodic GitHub sync (/boostcommit -on [t] | -off)"},
 ]
 _KNOWN_CMD_SET = {c["command"] for c in BOT_COMMANDS} | {
-    "dash", "do", "ai", "inbox", "logs", "setpublic", "setprivate", "chatsync"
+    "dash", "do", "ai", "inbox", "logs", "setpublic", "setprivate", "chatsync", "makeupload"
 }
 
 
@@ -456,7 +458,10 @@ def _dashboard_keyboard(paused: bool) -> dict:
                 {"text": "⏭ Next Video", "callback_data": "cb:next"},
             ],
             [
-                {"text": "▶ Run Cycle", "callback_data": "cb:run"},
+                {"text": "▶ Run (Zapier)", "callback_data": "cb:run"},
+                {"text": "🟣 Upload (Make.com)", "callback_data": "cb:make:upload"},
+            ],
+            [
                 {"text": "🔎 Sync YouTube", "callback_data": "cb:sync"},
                 {"text": "🔍 Refresh SEO", "callback_data": "cb:seo"},
             ],
@@ -1498,6 +1503,49 @@ def handle_webhook_update(
             tg_api("answerCallbackQuery", {"callback_query_id": cq_id, "text": pop})
             text, kb = build_dashboard_view(get_state())
             _edit_message_smart(msg, chat_id, msg_id, text, kb)
+        elif data == "cb:make:upload":
+            try:
+                import make_uploader
+                cfg = make_uploader.load_make_config()
+                if not cfg.get("webhook_url"):
+                    tg_api("answerCallbackQuery", {"callback_query_id": cq_id, "text": "Make.com Webhook not configured"})
+                    info_text = (
+                        "🟣 <b>Make.com Secondary Uploader Setup</b>\n\n"
+                        "Make.com Webhook URL abhi configured nahi hai.\n\n"
+                        "<b>3 Simple Setup Steps:</b>\n"
+                        "1️⃣ <a href=\"https://www.make.com\">Make.com</a> par free account banayein (1,000 tasks/mo free).\n"
+                        "2️⃣ Scenario banayein: <b>Custom Webhook</b> ➔ <b>YouTube (Upload a Video)</b>.\n"
+                        "3️⃣ Webhook link copy karke bot mein send karein:\n"
+                        "<code>/setmake https://hook.eu1.make.com/your-webhook-id</code>\n\n"
+                        "<i>Jab bhi Zapier limit reach ho, aap is button ko dabakar instant upload trigger kar sakte hain!</i>"
+                    )
+                    kb_info = {"inline_keyboard": [[{"text": "🔙 Back to Dashboard", "callback_data": "cb:dash"}]]}
+                    _dispatch_message(chat_id, info_text, kb_info, reply_to=msg_id)
+                else:
+                    tg_api("answerCallbackQuery", {"callback_query_id": cq_id, "text": "Dispatching to Make.com..."})
+                    res = make_uploader.execute_make_upload(max_uploads=1)
+                    if res.get("ok"):
+                        item = (res.get("uploaded_items") or [{}])[0]
+                        reply_txt = (
+                            f"🟣 <b>Make.com Upload Dispatched!</b>\n\n"
+                            f"• <b>Video:</b> <code>{item.get('id')}</code>\n"
+                            f"• <b>Title:</b> {html.escape(item.get('title', ''))}\n"
+                            f"• <b>Slot:</b> <code>{item.get('scheduled_publish_est', '—')}</code>\n"
+                            f"• <b>Status:</b> 🟢 <code>{item.get('status')}</code>\n\n"
+                            f"<i>Dispatched to Make.com scenario successfully.</i>"
+                        )
+                        threading.Thread(
+                            target=sync_github_fn,
+                            args=(f"chore(make-upload): dispatch {item.get('id')} via make.com [skip render] [skip ci]",),
+                            daemon=True,
+                        ).start()
+                    else:
+                        reply_txt = f"⚠️ <b>Make.com Upload Notice:</b>\n\n{html.escape(res.get('message', 'Failed'))}"
+                    _dispatch_message(chat_id, reply_txt, reply_to=msg_id)
+                    text, kb = build_dashboard_view(get_state())
+                    _edit_message_smart(msg, chat_id, msg_id, text, kb)
+            except Exception as exc:
+                tg_api("answerCallbackQuery", {"callback_query_id": cq_id, "text": f"Error: {exc}"})
         elif data in ("cb:pause", "cb:resume"):
             actor = from_u.get("username") or str(from_u.get("id"))
             paused = data == "cb:pause"
@@ -1863,6 +1911,50 @@ def handle_webhook_update(
             _dispatch_message(chat_id, f"🚀 <b>Started</b> cloud <code>/{cmd}</code> job on Render — completion update will post here.", reply_to=msg_id)
         else:
             _dispatch_message(chat_id, "⏳ A cloud cycle is already running; check /status shortly.", reply_to=msg_id)
+    elif cmd in ("make", "makeupload"):
+        import make_uploader
+        cfg = make_uploader.load_make_config()
+        if not cfg.get("webhook_url"):
+            info_text = (
+                "🟣 <b>Make.com Secondary Uploader Setup</b>\n\n"
+                "Make.com Webhook URL abhi set nahi hai.\n\n"
+                "Set karne ke liye send karein:\n"
+                "<code>/setmake https://hook.eu1.make.com/your-webhook-id</code>\n\n"
+                "<i>Iske baad button dabate hi ya /make likhte hi direct Make.com se upload hoga!</i>"
+            )
+            _dispatch_message(chat_id, info_text, reply_to=msg_id)
+        else:
+            res = make_uploader.execute_make_upload(max_uploads=1)
+            if res.get("ok"):
+                item = (res.get("uploaded_items") or [{}])[0]
+                reply_txt = (
+                    f"🟣 <b>Make.com Upload Dispatched!</b>\n\n"
+                    f"• <b>Video:</b> <code>{item.get('id')}</code>\n"
+                    f"• <b>Title:</b> {html.escape(item.get('title', ''))}\n"
+                    f"• <b>Status:</b> 🟢 <code>{item.get('status')}</code>\n\n"
+                    f"<i>Dispatched to Make.com scenario successfully.</i>"
+                )
+                threading.Thread(
+                    target=sync_github_fn,
+                    args=(f"chore(make-upload): dispatch {item.get('id')} via make.com [skip render] [skip ci]",),
+                    daemon=True,
+                ).start()
+            else:
+                reply_txt = f"⚠️ <b>Make.com Notice:</b>\n\n{html.escape(res.get('message', 'Failed'))}"
+            _dispatch_message(chat_id, reply_txt, reply_to=msg_id)
+    elif cmd == "setmake":
+        new_url = arg.strip()
+        if not new_url or not new_url.startswith("http"):
+            _dispatch_message(chat_id, "❌ <b>Invalid URL:</b>\n\nUsage: <code>/setmake https://hook.eu1.make.com/...</code>", reply_to=msg_id)
+        else:
+            import make_uploader
+            cfg = make_uploader.set_make_webhook_url(new_url)
+            _dispatch_message(chat_id, f"✅ <b>Make.com Webhook URL Saved!</b>\n\n<code>{html.escape(new_url)}</code>\n\nAb aap <b>[🟣 Upload (Make.com)]</b> button ya <code>/make</code> se anytime upload trigger kar sakte hain.", reply_to=msg_id)
+            threading.Thread(
+                target=sync_github_fn,
+                args=("chore(config): update make_config.json webhook [skip render] [skip ci]",),
+                daemon=True,
+            ).start()
     elif cmd in ("pause", "resume"):
         actor = from_u.get("username") or str(from_u.get("id"))
         paused = cmd == "pause"

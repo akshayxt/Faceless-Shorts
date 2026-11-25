@@ -27,6 +27,7 @@ PULL_PATHS = (
     "automation/data/bot_audit_logs.json",
     "automation/data/chatdata.json",
     "automation/data/chat_sync_settings.json",
+    "automation/data/make_config.json",
     "automation/dashboard.html",
     "automation/growth_dashboard.md",
 )
@@ -139,6 +140,7 @@ def _candidate_sync_paths() -> list[Path]:
         AUTO_DIR / "data" / "bot_audit_logs.json",
         AUTO_DIR / "data" / "chatdata.json",
         AUTO_DIR / "data" / "chat_sync_settings.json",
+        AUTO_DIR / "data" / "make_config.json",
         AUTO_DIR / "dashboard.html",
         AUTO_DIR / "growth_dashboard.md",
     ]
