@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-25 16:49:27 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-25 16:53:52 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -130,5 +130,19 @@
 
 ## 4. Automation Loop Heartbeat (Latest Entries)
 ```text
-No log lines recorded yet.
+[2026-11-12 11:09:51 IST] [DASHBOARD]   File "G:\Faceless-Shorts\automation\refresh_dashboard.py", line 25, in read_json
+[2026-11-12 11:09:51 IST] [DASHBOARD]     return json.loads(p.read_text(encoding="utf-8"))
+[2026-11-12 11:09:51 IST] [DASHBOARD]            ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-11-12 11:09:51 IST] [DASHBOARD]   File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\json\__init__.py", line 352, in loads
+[2026-11-12 11:09:51 IST] [DASHBOARD]     return _default_decoder.decode(s)
+[2026-11-12 11:09:51 IST] [DASHBOARD]            ~~~~~~~~~~~~~~~~~~~~~~~^^^
+[2026-11-12 11:09:51 IST] [DASHBOARD]   File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\json\decoder.py", line 345, in decode
+[2026-11-12 11:09:51 IST] [DASHBOARD]     obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+[2026-11-12 11:09:51 IST] [DASHBOARD]                ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+[2026-11-12 11:09:51 IST] [DASHBOARD]   File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\json\decoder.py", line 361, in raw_decode
+[2026-11-12 11:09:51 IST] [DASHBOARD]     obj, end = self.scan_once(s, idx)
+[2026-11-12 11:09:51 IST] [DASHBOARD]                ~~~~~~~~~~~~~~^^^^^^^^
+[2026-11-12 11:09:51 IST] [DASHBOARD] json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 355 column 1 (char 15107)
+[2026-11-12 11:09:51 IST] [DASHBOARD] EXIT CODE=1: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\refresh_dashboard.py
+[2026-11-12 11:10:52 IST] STOP_AUTOPILOT sentinel detected. Exiting cleanly.
 ```
