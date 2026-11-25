@@ -1,0 +1,52 @@
+{
+  "title": "Why Do We Sneeze? The 100 MPH Nose Cleaner!",
+  "thumb_text": "WHY WE SNEEZE?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Tickle, tickle in your nose! Your eyes squeeze shut, you take a sharp breath, and...",
+      "caps": "Tickle, tickle in your *NOSE! | Your eyes squeeze shut, and *THEN..."
+    },
+    {
+      "text": "ACHOOO! A giant explosive sneeze blasts out into your elbow tissue!",
+      "caps": "*ACHOOO! A giant explosive *SNEEZE | blasts out into your *ELBOW!"
+    },
+    {
+      "text": "Did you know a sneeze can launch droplets at up to one hundred miles per hour?",
+      "caps": "A sneeze can launch air at up to *ONE HUNDRED | miles per *HOUR!"
+    },
+    {
+      "text": "Your nose is lined with millions of microscopic cilia hairs acting as security guards!",
+      "caps": "Your nose is lined with *CILIA | hairs acting as security *GUARDS!"
+    },
+    {
+      "text": "When dust, pollen, or pepper touches the trigeminal nerve inside your nasal lining...",
+      "caps": "When dust or pollen touches the *NERVE | inside your nasal *LINING..."
+    },
+    {
+      "text": "A red alert flashes to the sneeze center in your lower brainstem!",
+      "caps": "A red alert *FLASHES | to the sneeze center in your *BRAIN!"
+    },
+    {
+      "text": "Your chest muscles tighten, vocal cords snap shut, and air pressure builds like a cannon!",
+      "caps": "Your chest *TIGHTENS, | building air pressure like a *CANNON!"
+    },
+    {
+      "text": "POW! It ejects unwanted germs and dust so your airways stay clean and safe!",
+      "caps": "*POW! It ejects unwanted *GERMS | so your airways stay clean and *SAFE!"
+    },
+    {
+      "text": "Celebrate your body's built-in defenses—subscribe to BabyBeats Rhymo!",
+      "caps": "Celebrate your body's *DEFENSES— | *SUBSCRIBE to | *BABYBEATS *RHYMO!"
+    }
+  ]
+}

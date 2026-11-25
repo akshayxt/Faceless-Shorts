@@ -1,0 +1,111 @@
+{
+  "topic_id": "16_02_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "The Bear Who Wouldn't Say Please: The Key That Opens Every D",
+      "chars": 60,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"The Bear Who Wouldn't Say Please: The...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on please, say - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "The Bear Who Wouldn't Say Please: The Key That Opens Every D",
+  "selected_title_lint": {
+    "title": "The Bear Who Wouldn't Say Please: The Key That Opens Every D",
+    "chars": 60,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"The Bear Who Wouldn't Say Please: The...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on please, say - the thumbnail should say what the title does not"
+      ]
+    ]
+  },
+  "thumb_text": "SAY MAGIC PLEASE!",
+  "hook_lint": {
+    "hook": "Barnaby the big bear growled, Give me that honey pot NOW! But the pantry door stayed locked tight. What was the secret key?",
+    "properties": {
+      "SPECIFICITY": 36,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 76,
+      "BREVITY": 100
+    },
+    "verdict": 40,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "saying please and thank you moral story kids",
+  "supporting_keywords": [
+    "politeness magic words cartoon",
+    "preschool manners animated story",
+    "courtesy lessons for children"
+  ],
+  "target_search_queries": [
+    "saying please and thank you moral story kids",
+    "politeness magic words cartoon",
+    "preschool manners animated story",
+    "courtesy lessons for children"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "The Bear Who Wouldn't Say Please: The Key That Opens Every D — Barnaby the big bear growled, Give me that honey pot NOW! But the pantry door stayed locked tight. What was the secret key?\nKids science answer for \"saying please and thank you moral story kids\" with fun 2D animation by BabyBeats Rhymo!\n\nDemanding things makes people feel bossed around; saying 'please' and 'thank you' turns requests into cheerful teamwork.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "saying please and thank you moral story kids",
+    "politeness magic words cartoon",
+    "preschool manners animated story",
+    "courtesy lessons for children",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

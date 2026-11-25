@@ -1,0 +1,61 @@
+{
+ "duration": 43.762,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "The dark rainstorm stops, the golden sun peeks out, and look high up in the blue sky!",
+   "start": 0.35,
+   "end": 5.456
+  },
+  {
+   "i": 1,
+   "text": "A glowing ribbon of red, orange, yellow, green, blue, indigo, and violet!",
+   "start": 5.706,
+   "end": 10.832
+  },
+  {
+   "i": 2,
+   "text": "Where did those brilliant colors come from? Sunlight looks completely white!",
+   "start": 11.082,
+   "end": 15.366
+  },
+  {
+   "i": 3,
+   "text": "White light is actually a team of all seven colors traveling together!",
+   "start": 15.616,
+   "end": 19.682
+  },
+  {
+   "i": 4,
+   "text": "Millions of floating raindrops act like tiny glass prism mirrors!",
+   "start": 19.932,
+   "end": 23.819
+  },
+  {
+   "i": 5,
+   "text": "When sunlight enters a raindrop, it slows down and bends—a trick called refraction!",
+   "start": 24.069,
+   "end": 29.399
+  },
+  {
+   "i": 6,
+   "text": "Red light bends the least, while violet light bends the most!",
+   "start": 29.649,
+   "end": 33.185
+  },
+  {
+   "i": 7,
+   "text": "The colors separate and bounce back into your eyes as a majestic circular arch!",
+   "start": 33.435,
+   "end": 38.359
+  },
+  {
+   "i": 8,
+   "text": "Discover nature's brilliant art—subscribe to BabyBeats Rhymo!",
+   "start": 38.609,
+   "end": 42.662
+  }
+ ]
+}

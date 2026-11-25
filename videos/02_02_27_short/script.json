@@ -1,0 +1,52 @@
+{
+  "title": "The Boy Who Lost His Temper: Cooling Down the Volcano!",
+  "thumb_text": "ANGRY VOLCANO?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Have you ever felt so angry your cheeks burned like fiery red lava?",
+      "caps": "Have you ever felt so *ANGRY | your cheeks burned like *FIERY | red *LAVA?"
+    },
+    {
+      "text": "Leo lost his favorite blue toy car and felt an explosive volcano rumble inside!",
+      "caps": "Leo lost his favorite *CAR | and felt an explosive *VOLCANO | rumble *INSIDE!"
+    },
+    {
+      "text": "He wanted to stomp, scream, and throw his pillow across the bedroom!",
+      "caps": "He wanted to *STOMP, | scream, and *THROW | his pillow *ACROSS the room!"
+    },
+    {
+      "text": "Then Rhymo whispered, When the volcano bubbles, freeze and breathe!",
+      "caps": "Then Rhymo *WHISPERED, | When the volcano bubbles, | *FREEZE and *BREATHE!"
+    },
+    {
+      "text": "Inhale through your nose like smelling sweet roses for four slow seconds!",
+      "caps": "*INHALE through your nose | like smelling sweet *ROSES | for four slow *SECONDS!"
+    },
+    {
+      "text": "Blow out gently through your lips like blowing out birthday candles!",
+      "caps": "*BLOW out gently | through your lips like *BLOWING | birthday *CANDLES!"
+    },
+    {
+      "text": "One, two, three! The fiery red heat vanished into gentle cool air!",
+      "caps": "One, two, *THREE! | The fiery red heat *VANISHED | into cool *AIR!"
+    },
+    {
+      "text": "You are the boss of your feelings, not the fiery volcano!",
+      "caps": "You are the *BOSS | of your feelings, *NOT | the fiery *VOLCANO!"
+    },
+    {
+      "text": "Stay calm, cool, and subscribe to BabyBeats Rhymo for daily stories!",
+      "caps": "Stay *CALM, cool, | and *SUBSCRIBE to | *BABYBEATS Rhymo | for daily *STORIES!"
+    }
+  ]
+}

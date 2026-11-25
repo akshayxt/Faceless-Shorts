@@ -1,0 +1,52 @@
+{
+  "title": "Why Do We Shiver When We're Cold? The Muscle Engine!",
+  "thumb_text": "WHY DO WE SHIVER?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "CHATTER! Your teeth knock together and your shoulders shake like a dance machine!",
+      "caps": "*CHATTER! Your teeth knock, | and your shoulders shake like a *DANCE | *MACHINE!"
+    },
+    {
+      "text": "Why does your body vibrate uncontrollably when you step into the cold?",
+      "caps": "Why does your body *VIBRATE | uncontrollably when you step into the *COLD?"
+    },
+    {
+      "text": "Your brain has a built-in thermostat called the hypothalamus!",
+      "caps": "Your brain has a built-in *THERMOSTAT | called the *HYPOTHALAMUS!"
+    },
+    {
+      "text": "It keeps your internal body temperature at a cozy ninety-eight point six degrees!",
+      "caps": "It keeps your body *TEMP | at a cozy ninety-eight point six *DEGREES!"
+    },
+    {
+      "text": "If cold wind drops your skin temperature even by one little degree...",
+      "caps": "If cold wind drops your *TEMP | even by one little *DEGREE..."
+    },
+    {
+      "text": "Emergency alarms trigger! Your brain orders your skeletal muscles to twitch!",
+      "caps": "Emergency alarms *TRIGGER! | Your brain orders your muscles to *TWITCH!"
+    },
+    {
+      "text": "Muscles contract and relax up to thirty times every single second!",
+      "caps": "Muscles contract up to *THIRTY | times every single *SECOND!"
+    },
+    {
+      "text": "This rapid muscle workout generates instant heat to protect your vital organs!",
+      "caps": "This muscle workout generates *INSTANT | heat to protect your vital *ORGANS!"
+    },
+    {
+      "text": "Your body's automatic defenses are genius—subscribe to BabyBeats Rhymo!",
+      "caps": "Your body's defenses are *GENIUS— | *SUBSCRIBE to | *BABYBEATS *RHYMO!"
+    }
+  ]
+}

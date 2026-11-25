@@ -1,0 +1,61 @@
+{
+ "duration": 44.522,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Tonight while you sleep peacefully, your brain will open a magical 3D movie theater!",
+   "start": 0.35,
+   "end": 5.319
+  },
+  {
+   "i": 1,
+   "text": "You might fly over skyscrapers or chat with talking purple puppies!",
+   "start": 5.569,
+   "end": 9.635
+  },
+  {
+   "i": 2,
+   "text": "Why does your brain create wild, colorful stories while your body is completely asleep?",
+   "start": 9.885,
+   "end": 15.334
+  },
+  {
+   "i": 3,
+   "text": "Deep in sleep, you enter a special stage called REM—Rapid Eye Movement!",
+   "start": 15.584,
+   "end": 20.358
+  },
+  {
+   "i": 4,
+   "text": "Your brain acts like a busy librarian, sorting through every memory from your day!",
+   "start": 20.608,
+   "end": 25.421
+  },
+  {
+   "i": 5,
+   "text": "It files away the math you learned and the funny joke your friend told!",
+   "start": 25.671,
+   "end": 29.722
+  },
+  {
+   "i": 6,
+   "text": "As memories weave together, your imagination sparks, painting dreams across your mind!",
+   "start": 29.972,
+   "end": 35.033
+  },
+  {
+   "i": 7,
+   "text": "Good sleep organizes your brain so you wake up sharp, happy, and energized!",
+   "start": 35.283,
+   "end": 39.779
+  },
+  {
+   "i": 8,
+   "text": "Dream big every night—subscribe to BabyBeats Rhymo!",
+   "start": 40.029,
+   "end": 43.422
+  }
+ ]
+}

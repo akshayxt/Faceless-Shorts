@@ -1,0 +1,52 @@
+{
+  "title": "Why Is Poop Brown? The Digestion Journey!",
+  "thumb_text": "WHY IS POOP BROWN?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Time for the number one funny mystery every kid wonders about in secret!",
+      "caps": "Time for the funny *MYSTERY | every kid wonders about in *SECRET!"
+    },
+    {
+      "text": "You eat colorful food: red apples, yellow corn, orange carrots, and purple grapes!",
+      "caps": "You eat *COLORFUL food: | red apples, yellow corn, and purple *GRAPES!"
+    },
+    {
+      "text": "So why does your body waste always end up looking brown?",
+      "caps": "So why does your body *WASTE | always end up looking *BROWN?"
+    },
+    {
+      "text": "Your liver produces a special dark green digestive fluid called bile!",
+      "caps": "Your liver produces a *FLUID | called *BILE to break down *FATS!"
+    },
+    {
+      "text": "Meanwhile, your body recycles millions of old red blood cells every single day!",
+      "caps": "Meanwhile, your body *RECYCLES | millions of old red blood *CELLS!"
+    },
+    {
+      "text": "As food journeys through twenty feet of intestines, friendly gut bacteria go to work!",
+      "caps": "Friendly gut bacteria *GO TO WORK | breaking down the *LEFTOVERS!"
+    },
+    {
+      "text": "They break down the bile and blood pigments into a compound called stercobilin!",
+      "caps": "They transform the pigments into a compound | called *STERCOBILIN!"
+    },
+    {
+      "text": "This compound is naturally chocolate-brown—proving your digestive system is working perfectly!",
+      "caps": "This compound is naturally *BROWN— | proving your digestion is *PERFECT!"
+    },
+    {
+      "text": "Laugh and learn body secrets—subscribe to BabyBeats Rhymo!",
+      "caps": "Laugh and learn body *SECRETS— | *SUBSCRIBE to | *BABYBEATS *RHYMO!"
+    }
+  ]
+}

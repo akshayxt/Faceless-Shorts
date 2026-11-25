@@ -1,0 +1,52 @@
+{
+  "title": "Why Do We Dream? The Brain's Midnight Movie Theater!",
+  "thumb_text": "WHY DO WE DREAM?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Tonight while you sleep peacefully, your brain will open a magical 3D movie theater!",
+      "caps": "Tonight while you sleep *PEACEFULLY, | your brain will open a *MAGICAL | movie *THEATER!"
+    },
+    {
+      "text": "You might fly over skyscrapers or chat with talking purple puppies!",
+      "caps": "You might fly over *SKYSCRAPERS | or chat with talking purple *PUPPIES!"
+    },
+    {
+      "text": "Why does your brain create wild, colorful stories while your body is completely asleep?",
+      "caps": "Why does your brain create *WILD | stories while your body is *ASLEEP?"
+    },
+    {
+      "text": "Deep in sleep, you enter a special stage called REM—Rapid Eye Movement!",
+      "caps": "Deep in sleep, you enter *REM— | Rapid Eye *MOVEMENT!"
+    },
+    {
+      "text": "Your brain acts like a busy librarian, sorting through every memory from your day!",
+      "caps": "Your brain acts like a *LIBRARIAN, | sorting through every *MEMORY | from your *DAY!"
+    },
+    {
+      "text": "It files away the math you learned and the funny joke your friend told!",
+      "caps": "It files away the *MATH you learned | and the funny *JOKE | your friend *TOLD!"
+    },
+    {
+      "text": "As memories weave together, your imagination sparks, painting dreams across your mind!",
+      "caps": "As memories weave *TOGETHER, | your imagination paints *DREAMS | across your *MIND!"
+    },
+    {
+      "text": "Good sleep organizes your brain so you wake up sharp, happy, and energized!",
+      "caps": "Good sleep organizes your *BRAIN | so you wake up *SHARP | and *HAPPY!"
+    },
+    {
+      "text": "Dream big every night—subscribe to BabyBeats Rhymo!",
+      "caps": "Dream big every *NIGHT— | *SUBSCRIBE to | *BABYBEATS *RHYMO!"
+    }
+  ]
+}

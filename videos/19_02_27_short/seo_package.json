@@ -1,0 +1,114 @@
+{
+  "topic_id": "19_02_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Why Do Rainbows Appear After Rain? The Sun's Magic Mirror!",
+      "chars": 58,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why Do Rainbows Appear After Rain? The...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on rainbows - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Why Do Rainbows Appear After Rain? The Sun's Magic Mirror!",
+  "selected_title_lint": {
+    "title": "Why Do Rainbows Appear After Rain? The Sun's Magic Mirror!",
+    "chars": 58,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Why Do Rainbows Appear After Rain? The...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on rainbows - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "58 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "HOW RAINBOWS WORK?!",
+  "hook_lint": {
+    "hook": "The storm clears, sunlight streams through wet trees, and BAM—a giant seven-color arch paints the sky! How does it work?",
+    "properties": {
+      "SPECIFICITY": 46,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 39,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "why do rainbows appear kids science cartoon",
+  "supporting_keywords": [
+    "refraction light prism explanation children",
+    "rain and sunlight weather science",
+    "seven colors of rainbow cartoon"
+  ],
+  "target_search_queries": [
+    "why do rainbows appear kids science cartoon",
+    "refraction light prism explanation children",
+    "rain and sunlight weather science",
+    "seven colors of rainbow cartoon"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Why Do Rainbows Appear After Rain? The Sun's Magic Mirror! — The storm clears, sunlight streams through wet trees, and BAM—a giant seven-color arch paints the sky! How does it work?\nKids science answer for \"why do rainbows appear kids science cartoon\" with fun 2D animation by BabyBeats Rhymo!\n\nSunlight looks white, but it's made of 7 colors; raindrops act as tiny glass prisms that bend and reflect colors at different angles into a glorious rainbow.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "why do rainbows appear kids science cartoon",
+    "refraction light prism explanation children",
+    "rain and sunlight weather science",
+    "seven colors of rainbow cartoon",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "The Selfish Squirrel Who Hid All The Acorns: True Friendship!",
+  "thumb_text": "ACORN HOARDER?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Sammy the squirrel collected five hundred crunchy acorns in his secret hollow oak!",
+      "caps": "Sammy the squirrel *COLLECTED | five hundred acorns in his *SECRET | hollow *OAK!"
+    },
+    {
+      "text": "Mine, all mine! Sammy cheered, sitting on his giant mountain of nuts!",
+      "caps": "*MINE, all mine! Sammy *CHEERED, | sitting on his giant *MOUNTAIN | of *NUTS!"
+    },
+    {
+      "text": "Outside his tree, the winter wind whistled cold, and tiny birds searched for food!",
+      "caps": "Outside his *TREE, | the winter wind whistled *COLD, | and tiny birds *SEARCHED!"
+    },
+    {
+      "text": "Sammy ate ten acorns alone in the dark, but his heart felt cold and hollow!",
+      "caps": "Sammy ate ten acorns *ALONE, | but his heart felt cold and *HOLLOW!"
+    },
+    {
+      "text": "Having all the treasure in the forest is boring when you have zero friends to play with!",
+      "caps": "Having all the treasure is *BORING | when you have *ZERO | friends to play *WITH!"
+    },
+    {
+      "text": "Sammy pushed his door open and shouted, Acorn picnic at my tree, everyone!",
+      "caps": "Sammy pushed his door *OPEN | and shouted, *ACORN PICNIC | at my tree, *EVERYONE!"
+    },
+    {
+      "text": "Rabbits, bluebirds, and mice gathered round, singing cheerful songs together!",
+      "caps": "Rabbits, bluebirds, and *MICE | gathered round, singing *CHEERFUL | songs *TOGETHER!"
+    },
+    {
+      "text": "Joy multiplies when you share it with open paws and a warm heart!",
+      "caps": "Joy multiplies when you *SHARE IT | with open paws and a *WARM | *HEART!"
+    },
+    {
+      "text": "Open your heart and subscribe to BabyBeats Rhymo for daily stories!",
+      "caps": "Open your *HEART | and *SUBSCRIBE to | *BABYBEATS Rhymo | for daily *STORIES!"
+    }
+  ]
+}

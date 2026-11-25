@@ -1,0 +1,114 @@
+{
+  "topic_id": "22_02_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Leo & The Lost Library Book: Returning What You Borrow!",
+      "chars": 55,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Leo & The Lost Library Book: Returning...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on borrow - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Leo & The Lost Library Book: Returning What You Borrow!",
+  "selected_title_lint": {
+    "title": "Leo & The Lost Library Book: Returning What You Borrow!",
+    "chars": 55,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Leo & The Lost Library Book: Returning...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on borrow - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "55 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "BORROW WITH CARE!",
+  "hook_lint": {
+    "hook": "Leo borrowed the school's rarest dinosaur pop-up book, but accidentally left it outside near the garden sprinklers!",
+    "properties": {
+      "SPECIFICITY": 34,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 41,
+      "BREVITY": 100
+    },
+    "verdict": 36,
+    "band": "WEAK",
+    "formula": "Unclassified",
+    "matched": 0
+  },
+  "primary_keyword": "taking care of borrowed things kids cartoon",
+  "supporting_keywords": [
+    "library book responsibility children",
+    "respecting other people property story",
+    "honesty and responsibility cartoon"
+  ],
+  "target_search_queries": [
+    "taking care of borrowed things kids cartoon",
+    "library book responsibility children",
+    "respecting other people property story",
+    "honesty and responsibility cartoon"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Leo & The Lost Library Book: Returning What You Borrow! — Leo borrowed the school's rarest dinosaur pop-up book, but accidentally left it outside near the garden sprinklers!\nKids science answer for \"taking care of borrowed things kids cartoon\" with fun 2D animation by BabyBeats Rhymo!\n\nWhen someone lends you a book or toy, treating it with gentle care and returning it on time proves you are a trustworthy friend.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "taking care of borrowed things kids cartoon",
+    "library book responsibility children",
+    "respecting other people property story",
+    "honesty and responsibility cartoon",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

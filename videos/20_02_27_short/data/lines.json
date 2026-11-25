@@ -1,0 +1,61 @@
+{
+ "duration": 45.704,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Sunny Saturday at the playground! The giant curly red slide was the main attraction!",
+   "start": 0.35,
+   "end": 5.412
+  },
+  {
+   "i": 1,
+   "text": "A neat line of ducklings, kittens, and bunnies stood waiting patiently!",
+   "start": 5.662,
+   "end": 9.573
+  },
+  {
+   "i": 2,
+   "text": "ZOOM! Buster the puppy charged forward, pushed past the kittens, and raced up the ladder!",
+   "start": 9.823,
+   "end": 15.094
+  },
+  {
+   "i": 3,
+   "text": "Me first, me first! Buster barked, sliding down with a proud grin!",
+   "start": 15.344,
+   "end": 19.529
+  },
+  {
+   "i": 4,
+   "text": "When he reached the bottom, nobody was cheering. His friends folded their arms and walked away!",
+   "start": 19.779,
+   "end": 25.277
+  },
+  {
+   "i": 5,
+   "text": "Buster sat alone by the slide. Flying down is boring when no one is playing with you!",
+   "start": 25.527,
+   "end": 30.697
+  },
+  {
+   "i": 6,
+   "text": "Buster walked over and apologized: I'm sorry for cutting. I'll wait my turn!",
+   "start": 30.947,
+   "end": 35.835
+  },
+  {
+   "i": 7,
+   "text": "Patience and fair play turn simple playground slides into shared happiness!",
+   "start": 36.085,
+   "end": 40.592
+  },
+  {
+   "i": 8,
+   "text": "Play fair and stay kind—subscribe to BabyBeats Rhymo!",
+   "start": 40.842,
+   "end": 44.604
+  }
+ ]
+}

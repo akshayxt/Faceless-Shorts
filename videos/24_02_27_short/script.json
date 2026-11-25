@@ -1,0 +1,52 @@
+{
+  "title": "The Greedy Frog Who Wanted All The Flies: Being Satisfied!",
+  "thumb_text": "GREEDY FROG LESSON!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Barnaby the bullfrog sat on his giant lily pad, rubbing his plump green tummy!",
+      "caps": "Barnaby the frog sat on his *LILY PAD, | rubbing his plump green *TUMMY!"
+    },
+    {
+      "text": "He had already eaten twenty crunchy flies, but his eyes were bigger than his stomach!",
+      "caps": "He ate twenty crunchy *FLIES, | but his eyes were bigger than his *STOMACH!"
+    },
+    {
+      "text": "A golden swarm buzzed overhead, and Barnaby snapped: I want every single one!",
+      "caps": "A golden swarm buzzed *OVERHEAD, | and Barnaby snapped: I want *EVERY ONE!"
+    },
+    {
+      "text": "SLURP! He stuffed thirty more flies into his mouth until his cheeks bulged!",
+      "caps": "*SLURP! He stuffed thirty more *FLIES | until his green cheeks *BULGED!"
+    },
+    {
+      "text": "Groan! His tummy was so swollen and heavy, his lily pad began to sink under water!",
+      "caps": "*GROAN! His tummy was so heavy, | his lily pad began to *SINK | *UNDER!"
+    },
+    {
+      "text": "He couldn't leap, he couldn't sing, and he had a giant bellyache all afternoon!",
+      "caps": "He couldn't *LEAP, | he couldn't sing, with a giant *BELLYACHE | all day *LONG!"
+    },
+    {
+      "text": "Little Dragonfly fluttered by: Enough is a feast, Barnaby. Greed only sinks your pad!",
+      "caps": "Dragonfly buzzed by: *ENOUGH | is a feast! Greed only sinks your *PAD!"
+    },
+    {
+      "text": "Knowing when to stop and enjoying what you have brings genuine peace!",
+      "caps": "Knowing when to *STOP | and enjoying what you have brings real *PEACE!"
+    },
+    {
+      "text": "Learn life's golden lessons—subscribe to BabyBeats Rhymo!",
+      "caps": "Learn life's golden *LESSONS— | *SUBSCRIBE to | *BABYBEATS *RHYMO!"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+ "duration": 42.848,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "BRRR! A chilly breeze blows into the park, and look at your arms!",
+   "start": 0.35,
+   "end": 4.826
+  },
+  {
+   "i": 1,
+   "text": "Thousands of tiny bumpy dots pop up, making your skin look like a goose!",
+   "start": 5.076,
+   "end": 9.605
+  },
+  {
+   "i": 2,
+   "text": "Underneath every single hair on your arm sits a microscopic muscle!",
+   "start": 9.855,
+   "end": 13.981
+  },
+  {
+   "i": 3,
+   "text": "When your skin senses cold temperatures, these muscles yank upward!",
+   "start": 14.231,
+   "end": 18.423
+  },
+  {
+   "i": 4,
+   "text": "This pulls your arm hairs straight up like tiny radio antennas!",
+   "start": 18.673,
+   "end": 22.474
+  },
+  {
+   "i": 5,
+   "text": "For furry animals like bears and cats, puffed-up fur traps pockets of warm air!",
+   "start": 22.724,
+   "end": 27.856
+  },
+  {
+   "i": 6,
+   "text": "And when a cat is scared, puffed fur makes them look twice as big and scary!",
+   "start": 28.106,
+   "end": 32.543
+  },
+  {
+   "i": 7,
+   "text": "Humans don't have thick fur anymore, but our ancient body reflex still works!",
+   "start": 32.793,
+   "end": 37.306
+  },
+  {
+   "i": 8,
+   "text": "Discover your body's hidden codes—subscribe to BabyBeats Rhymo!",
+   "start": 37.556,
+   "end": 41.748
+  }
+ ]
+}

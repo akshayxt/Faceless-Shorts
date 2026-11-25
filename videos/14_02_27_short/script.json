@@ -1,0 +1,52 @@
+{
+  "title": "Valentine Kindness: Making a Homemade Card for Everyone!",
+  "thumb_text": "KINDNESS CARDS!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Valentine's Day at school! Red glitter, heart stickers, and pink paper everywhere!",
+      "caps": "Valentine's Day at *SCHOOL! | Red glitter, heart stickers, and *PINK | paper *EVERYWHERE!"
+    },
+    {
+      "text": "Leo made bright cards for all his soccer buddies, laughing and sharing candy!",
+      "caps": "Leo made cards for all his *BUDDIES, | laughing and sharing *SWEET | *CANDY!"
+    },
+    {
+      "text": "Then he noticed Toby, the shy new boy, quietly coloring alone by the window!",
+      "caps": "Then he noticed *TOBY, | the shy new boy, quietly coloring *ALONE | by the *WINDOW!"
+    },
+    {
+      "text": "Toby's Valentine mailbox was completely empty—not even a single sticker inside!",
+      "caps": "Toby's Valentine *MAILBOX | was completely empty—not a single *STICKER | *INSIDE!"
+    },
+    {
+      "text": "Leo stopped. True kindness means making sure no friend gets left behind!",
+      "caps": "Leo stopped. True *KINDNESS | means making sure no friend gets left *BEHIND!"
+    },
+    {
+      "text": "He grabbed his gold marker and drew a smiling rocket: To Toby, coolest builder in class!",
+      "caps": "He drew a smiling *ROCKET: | To Toby, coolest builder in our whole *CLASS!"
+    },
+    {
+      "text": "When Toby opened the card, his face lit up brighter than a million fireworks!",
+      "caps": "When Toby opened the *CARD, | his face lit up brighter than *FIREWORKS!"
+    },
+    {
+      "text": "A tiny act of kindness can turn someone's lonely day into pure magic!",
+      "caps": "A tiny act of *KINDNESS | can turn someone's lonely day into pure *MAGIC!"
+    },
+    {
+      "text": "Spread warmth everywhere—subscribe to BabyBeats Rhymo!",
+      "caps": "Spread warmth *EVERYWHERE— | *SUBSCRIBE to | *BABYBEATS *RHYMO!"
+    }
+  ]
+}

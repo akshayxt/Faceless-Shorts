@@ -1,0 +1,61 @@
+{
+ "duration": 45.881,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Tickle, tickle in your nose! Your eyes squeeze shut, you take a sharp breath, and...",
+   "start": 0.35,
+   "end": 5.077
+  },
+  {
+   "i": 1,
+   "text": "ACHOOO! A giant explosive sneeze blasts out into your elbow tissue!",
+   "start": 5.327,
+   "end": 10.01
+  },
+  {
+   "i": 2,
+   "text": "Did you know a sneeze can launch droplets at up to one hundred miles per hour?",
+   "start": 10.26,
+   "end": 14.144
+  },
+  {
+   "i": 3,
+   "text": "Your nose is lined with millions of microscopic cilia hairs acting as security guards!",
+   "start": 14.394,
+   "end": 19.812
+  },
+  {
+   "i": 4,
+   "text": "When dust, pollen, or pepper touches the trigeminal nerve inside your nasal lining...",
+   "start": 20.062,
+   "end": 25.353
+  },
+  {
+   "i": 5,
+   "text": "A red alert flashes to the sneeze center in your lower brainstem!",
+   "start": 25.603,
+   "end": 29.085
+  },
+  {
+   "i": 6,
+   "text": "Your chest muscles tighten, vocal cords snap shut, and air pressure builds like a cannon!",
+   "start": 29.335,
+   "end": 34.639
+  },
+  {
+   "i": 7,
+   "text": "POW! It ejects unwanted germs and dust so your airways stay clean and safe!",
+   "start": 34.889,
+   "end": 40.03
+  },
+  {
+   "i": 8,
+   "text": "Celebrate your body's built-in defenses—subscribe to BabyBeats Rhymo!",
+   "start": 40.28,
+   "end": 44.781
+  }
+ ]
+}

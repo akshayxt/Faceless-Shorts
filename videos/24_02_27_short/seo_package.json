@@ -1,0 +1,114 @@
+{
+  "topic_id": "24_02_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "The Greedy Frog Who Wanted All The Flies: Being Satisfied!",
+      "chars": 58,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"The Greedy Frog Who Wanted All The...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on frog, greedy - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "The Greedy Frog Who Wanted All The Flies: Being Satisfied!",
+  "selected_title_lint": {
+    "title": "The Greedy Frog Who Wanted All The Flies: Being Satisfied!",
+    "chars": 58,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"The Greedy Frog Who Wanted All The...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on frog, greedy - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "58 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "GREEDY FROG LESSON!",
+  "hook_lint": {
+    "hook": "Barnaby the bullfrog had already eaten 20 juicy flies, but tried to swallow 50 more in one giant gulp! What happened to his swollen tummy?",
+    "properties": {
+      "SPECIFICITY": 84,
+      "ADDRESS": 26,
+      "STAKES": 36,
+      "CURIOSITY": 76,
+      "BREVITY": 93
+    },
+    "verdict": 48,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "contentment and greed moral story for kids",
+  "supporting_keywords": [
+    "greedy frog cartoon fable",
+    "being satisfied with what you have",
+    "moderation lesson children"
+  ],
+  "target_search_queries": [
+    "contentment and greed moral story for kids",
+    "greedy frog cartoon fable",
+    "being satisfied with what you have",
+    "moderation lesson children"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "The Greedy Frog Who Wanted All The Flies: Being Satisfied! — Barnaby the bullfrog had already eaten 20 juicy flies, but tried to swallow 50 more in one giant gulp! What happened to his swollen tummy?\nKids science answer for \"contentment and greed moral story for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nWanting more and more without appreciating what you already have leads to discomfort; true contentment brings peace and full bellies.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "contentment and greed moral story for kids",
+    "greedy frog cartoon fable",
+    "being satisfied with what you have",
+    "moderation lesson children",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

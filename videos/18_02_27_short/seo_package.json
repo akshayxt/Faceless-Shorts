@@ -1,0 +1,107 @@
+{
+  "topic_id": "18_02_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "The 100th Day of School: What Teamwork Can Build!",
+      "chars": 49,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"The 100th Day of School: What Teamwork...\" - check the subject survives"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on 100th, day - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "The 100th Day of School: What Teamwork Can Build!",
+  "selected_title_lint": {
+    "title": "The 100th Day of School: What Teamwork Can Build!",
+    "chars": 49,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"The 100th Day of School: What Teamwork...\" - check the subject survives"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on 100th, day - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "49 characters, inside the 60-character desktop cut",
+      "carries a concrete figure (100)"
+    ]
+  },
+  "thumb_text": "100TH DAY TEAM!",
+  "hook_lint": {
+    "hook": "It's the 100th day of school! The classroom challenge is to build a tower of 100 giant foam blocks before the recess bell rings!",
+    "properties": {
+      "SPECIFICITY": 62,
+      "ADDRESS": 26,
+      "STAKES": 62,
+      "CURIOSITY": 41,
+      "BREVITY": 100
+    },
+    "verdict": 45,
+    "band": "WEAK",
+    "formula": "Unclassified",
+    "matched": 0
+  },
+  "primary_keyword": "100th day of school moral story cartoon",
+  "supporting_keywords": [
+    "teamwork building classroom challenge",
+    "100 days smarter celebration",
+    "kindergarten collaboration lesson"
+  ],
+  "target_search_queries": [
+    "100th day of school moral story cartoon",
+    "teamwork building classroom challenge",
+    "100 days smarter celebration",
+    "kindergarten collaboration lesson"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "The 100th Day of School: What Teamwork Can Build! — It's the 100th day of school! The classroom challenge is to build a tower of 100 giant foam blocks before the recess bell rings!\nKids science answer for \"100th day of school moral story cartoon\" with fun 2D animation by BabyBeats Rhymo!\n\nOne person stacking 100 blocks alone gets tired and frustrated; when teammates share tasks, colossal castles rise effortlessly.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "100th day of school moral story cartoon",
+    "teamwork building classroom challenge",
+    "100 days smarter celebration",
+    "kindergarten collaboration lesson",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

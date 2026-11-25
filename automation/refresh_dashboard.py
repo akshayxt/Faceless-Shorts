@@ -54,13 +54,16 @@ def main():
     # 1. Generate visual HTML cockpit
     rows_html = []
     for it in items:
-        vid_file = resolve_repo_path(it.get("video_path", "")).name
+        vid_file = resolve_repo_path(it.get("video_path", "")).name if it.get("video_path") else "?"
         specs = it.get("video_specs", {})
         res_str = f"{specs.get('width', '?')}x{specs.get('height', '?')} ({specs.get('duration_sec', '?')}s)"
         badge_cls = "ok" if (it.get("status") in ("UPLOADED", "SCHEDULED", "UPLOADED_PRIVATE") or it.get("youtube_video_id")) else "ready"
+        fmt = it.get("format", "short").upper()
+        title = it.get("title") or (it.get("metadata", {}).get("title") if isinstance(it.get("metadata"), dict) else it.get("id"))
+        status = it.get("status", "READY_FOR_UPLOAD")
         rows_html.append(
-            f"<tr><td>{it['id']}</td><td>{it['format'].upper()}</td><td>{it['title']}</td>"
-            f"<td>{res_str}</td><td><span class='badge {badge_cls}'>{it['status']}</span></td>"
+            f"<tr><td>{it.get('id', '?')}</td><td>{fmt}</td><td>{title}</td>"
+            f"<td>{res_str}</td><td><span class='badge {badge_cls}'>{status}</span></td>"
             f"<td><code>{vid_file}</code></td></tr>"
         )
 
@@ -107,12 +110,15 @@ def main():
     for it in items:
         sp = it.get("video_specs", {})
         dim = f"{sp.get('width', '?')}x{sp.get('height', '?')}, {sp.get('duration_sec', '?')}s"
-        sched = it.get("scheduled_publish_est", it.get("scheduled_slot_est", "—")).replace("T", " ").replace("-05:00", " EST")
+        sched = it.get("scheduled_publish_est", it.get("scheduled_slot_est", it.get("scheduled_time", "—"))).replace("T", " ").replace("-05:00", " EST")
         seo_sc = it.get("realtime_seo_score", "—")
         rel_vid = to_repo_posix(it.get("video_path", ""))
-        vid_name = resolve_repo_path(it.get("video_path", "")).name
+        vid_name = resolve_repo_path(it.get("video_path", "")).name if it.get("video_path") else "?"
+        fmt = it.get("format", "short")
+        title = it.get("title") or (it.get("metadata", {}).get("title") if isinstance(it.get("metadata"), dict) else it.get("id"))
+        status = it.get("status", "READY_FOR_UPLOAD")
         md_rows.append(
-            f"| `{it['id']}` | {it['format']} | {md_cell(it['title'])} | {seo_sc}/100 | {sched} | {dim} | `{it['status']}` | [{vid_name}]({rel_vid}) |"
+            f"| `{it.get('id', '?')}` | {fmt} | {md_cell(title)} | {seo_sc}/100 | {sched} | {dim} | `{status}` | [{vid_name}]({rel_vid}) |"
         )
 
     top10 = []

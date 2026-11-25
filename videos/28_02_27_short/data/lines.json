@@ -1,0 +1,61 @@
+{
+ "duration": 43.457,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "BEEP BEEP! Seven o'clock alarm, and Leo was rushing around like a whirlwind!",
+   "start": 0.35,
+   "end": 4.961
+  },
+  {
+   "i": 1,
+   "text": "Where is my left blue sneaker? Did anyone pack my homework notebook?",
+   "start": 5.211,
+   "end": 9.531
+  },
+  {
+   "i": 2,
+   "text": "Spilling cereal, untied shoelaces, and running frantically as the yellow bus honked!",
+   "start": 9.781,
+   "end": 15.323
+  },
+  {
+   "i": 3,
+   "text": "That night, Rhymo said, Let's win tomorrow before we even close our eyes!",
+   "start": 15.573,
+   "end": 19.841
+  },
+  {
+   "i": 4,
+   "text": "Step one: Backpack packed and zipped right by the front door!",
+   "start": 20.091,
+   "end": 23.777
+  },
+  {
+   "i": 5,
+   "text": "Step two: Blue sneakers placed side-by-side with socks inside!",
+   "start": 24.027,
+   "end": 28.1
+  },
+  {
+   "i": 6,
+   "text": "Next morning, Leo woke up, got dressed in three minutes, and ate pancakes calmly!",
+   "start": 28.35,
+   "end": 33.454
+  },
+  {
+   "i": 7,
+   "text": "He strolled to the bus stop five minutes early, smiling like a champion!",
+   "start": 33.704,
+   "end": 37.879
+  },
+  {
+   "i": 8,
+   "text": "Win your mornings and win your days—subscribe to BabyBeats Rhymo!",
+   "start": 38.129,
+   "end": 42.357
+  }
+ ]
+}

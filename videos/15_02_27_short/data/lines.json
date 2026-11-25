@@ -1,0 +1,61 @@
+{
+ "duration": 42.591,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "CHATTER! Your teeth knock together and your shoulders shake like a dance machine!",
+   "start": 0.35,
+   "end": 4.769
+  },
+  {
+   "i": 1,
+   "text": "Why does your body vibrate uncontrollably when you step into the cold?",
+   "start": 5.019,
+   "end": 8.821
+  },
+  {
+   "i": 2,
+   "text": "Your brain has a built-in thermostat called the hypothalamus!",
+   "start": 9.071,
+   "end": 12.469
+  },
+  {
+   "i": 3,
+   "text": "It keeps your internal body temperature at a cozy ninety-eight point six degrees!",
+   "start": 12.719,
+   "end": 17.246
+  },
+  {
+   "i": 4,
+   "text": "If cold wind drops your skin temperature even by one little degree...",
+   "start": 17.496,
+   "end": 21.733
+  },
+  {
+   "i": 5,
+   "text": "Emergency alarms trigger! Your brain orders your skeletal muscles to twitch!",
+   "start": 21.983,
+   "end": 26.826
+  },
+  {
+   "i": 6,
+   "text": "Muscles contract and relax up to thirty times every single second!",
+   "start": 27.076,
+   "end": 31.308
+  },
+  {
+   "i": 7,
+   "text": "This rapid muscle workout generates instant heat to protect your vital organs!",
+   "start": 31.558,
+   "end": 36.387
+  },
+  {
+   "i": 8,
+   "text": "Your body's automatic defenses are genius—subscribe to BabyBeats Rhymo!",
+   "start": 36.637,
+   "end": 41.491
+  }
+ ]
+}

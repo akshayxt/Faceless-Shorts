@@ -1,0 +1,114 @@
+{
+  "topic_id": "17_02_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Why Does Milk Make Bones Strong? The Calcium Fortress!",
+      "chars": 54,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why Does Milk Make Bones Strong? The...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on bones - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Why Does Milk Make Bones Strong? The Calcium Fortress!",
+  "selected_title_lint": {
+    "title": "Why Does Milk Make Bones Strong? The Calcium Fortress!",
+    "chars": 54,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Why Does Milk Make Bones Strong? The...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on bones - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "54 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "HOW BONES GROW?!",
+  "hook_lint": {
+    "hook": "You have 206 bones inside you right now! If you could zoom into your skeleton with an x-ray, what does calcium actually do?",
+    "properties": {
+      "SPECIFICITY": 57,
+      "ADDRESS": 100,
+      "STAKES": 36,
+      "CURIOSITY": 76,
+      "BREVITY": 100
+    },
+    "verdict": 59,
+    "band": "WORKABLE",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "why calcium makes bones strong kids science",
+  "supporting_keywords": [
+    "human skeleton building blocks cartoon",
+    "healthy habits drinking milk kids",
+    "bone density for children"
+  ],
+  "target_search_queries": [
+    "why calcium makes bones strong kids science",
+    "human skeleton building blocks cartoon",
+    "healthy habits drinking milk kids",
+    "bone density for children"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Why Does Milk Make Bones Strong? The Calcium Fortress! — You have 206 bones inside you right now! If you could zoom into your skeleton with an x-ray, what does calcium actually do?\nKids science answer for \"why calcium makes bones strong kids science\" with fun 2D animation by BabyBeats Rhymo!\n\nYour skeleton has 206 bones made of calcium phosphate crystals; drinking milk and playing outside deposits minerals to build an unbreakable fortress.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "why calcium makes bones strong kids science",
+    "human skeleton building blocks cartoon",
+    "healthy habits drinking milk kids",
+    "bone density for children",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

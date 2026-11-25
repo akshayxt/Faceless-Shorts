@@ -1,0 +1,108 @@
+{
+  "topic_id": "25_02_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Why Do We Sneeze? The 100 MPH Nose Cleaner!",
+      "chars": 43,
+      "score": 84,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why Do We Sneeze? The 100 MPH Nose...\" - check the subject survives"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on sneeze, we - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Why Do We Sneeze? The 100 MPH Nose Cleaner!",
+  "selected_title_lint": {
+    "title": "Why Do We Sneeze? The 100 MPH Nose Cleaner!",
+    "chars": 43,
+    "score": 84,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Why Do We Sneeze? The 100 MPH Nose...\" - check the subject survives"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on sneeze, we - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "43 characters, inside the 60-character desktop cut",
+      "1 all-caps word for emphasis",
+      "carries a concrete figure (100)"
+    ]
+  },
+  "thumb_text": "WHY WE SNEEZE?!",
+  "hook_lint": {
+    "hook": "A tiny grain of black pepper lands inside your nostril, and ACHOO! Why does your sneeze blast out faster than a racing car?",
+    "properties": {
+      "SPECIFICITY": 46,
+      "ADDRESS": 66,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 44,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "why do we sneeze kids science cartoon",
+  "supporting_keywords": [
+    "sneezing reflex speed children",
+    "nose defense mechanism animated",
+    "human body health facts kids"
+  ],
+  "target_search_queries": [
+    "why do we sneeze kids science cartoon",
+    "sneezing reflex speed children",
+    "nose defense mechanism animated",
+    "human body health facts kids"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Why Do We Sneeze? The 100 MPH Nose Cleaner! — A tiny grain of black pepper lands inside your nostril, and ACHOO! Why does your sneeze blast out faster than a racing car?\nKids science answer for \"why do we sneeze kids science cartoon\" with fun 2D animation by BabyBeats Rhymo!\n\nWhen dust or pepper tickles sensitive nerve endings in your nasal lining, your lungs compress and blast air out at up to 100 mph to clear the pipes.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "why do we sneeze kids science cartoon",
+    "sneezing reflex speed children",
+    "nose defense mechanism animated",
+    "human body health facts kids",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

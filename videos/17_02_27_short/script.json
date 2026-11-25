@@ -1,0 +1,52 @@
+{
+  "title": "Why Does Milk Make Bones Strong? The Calcium Fortress!",
+  "thumb_text": "HOW BONES GROW?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Inside your body stands a super-strong architectural frame: two hundred and six bones!",
+      "caps": "Inside your body stands a *FRAME: | two hundred and six strong *BONES!"
+    },
+    {
+      "text": "They protect your brain, shield your heart, and let you jump eight feet high!",
+      "caps": "They protect your *BRAIN, | shield your heart, and let you *JUMP | high!"
+    },
+    {
+      "text": "Every time you drink milk or eat yogurt, you swallow billions of calcium minerals!",
+      "caps": "When you drink *MILK, | you swallow billions of calcium *MINERALS!"
+    },
+    {
+      "text": "Special construction cells called osteoblasts grab calcium right out of your blood!",
+      "caps": "Special construction cells called *OSTEOBLASTS | grab calcium from your *BLOOD!"
+    },
+    {
+      "text": "They lay down tough collagen rebar, then cement it with hard mineral crystals!",
+      "caps": "They lay down tough *COLLAGEN, | then cement it with hard *MINERAL | *CRYSTALS!"
+    },
+    {
+      "text": "Running, jumping rope, and playing outside tells your bones, Make us stronger!",
+      "caps": "Running and jumping *ROPE | tells your bones, Make us *STRONGER!"
+    },
+    {
+      "text": "And sunshine gives you Vitamin D, the magic key that unlocks calcium absorption!",
+      "caps": "And sunshine gives you *VITAMIN D, | the key that unlocks calcium *POWER!"
+    },
+    {
+      "text": "Build your skeleton fortress today so you can run fast and jump high forever!",
+      "caps": "Build your skeleton *FORTRESS | so you can jump high *FOREVER!"
+    },
+    {
+      "text": "Fuel your growing body—subscribe to BabyBeats Rhymo!",
+      "caps": "Fuel your growing *BODY— | *SUBSCRIBE to | *BABYBEATS *RHYMO!"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "title": "The Little Pup Who Raced Ahead: Waiting Your Turn!",
+  "thumb_text": "WAIT YOUR TURN!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Sunny Saturday at the playground! The giant curly red slide was the main attraction!",
+      "caps": "Sunny day at the *PLAYGROUND! | The giant curly slide was the *MAIN | *ATTRACTION!"
+    },
+    {
+      "text": "A neat line of ducklings, kittens, and bunnies stood waiting patiently!",
+      "caps": "A neat line of *FRIENDS | stood waiting patiently for their *TURN!"
+    },
+    {
+      "text": "ZOOM! Buster the puppy charged forward, pushed past the kittens, and raced up the ladder!",
+      "caps": "*ZOOM! Buster charged forward, | pushed past the kittens, and climbed the *LADDER!"
+    },
+    {
+      "text": "Me first, me first! Buster barked, sliding down with a proud grin!",
+      "caps": "Me first, *ME FIRST! | Buster barked, sliding down with a *PROUD | *GRIN!"
+    },
+    {
+      "text": "When he reached the bottom, nobody was cheering. His friends folded their arms and walked away!",
+      "caps": "At the bottom, nobody *CHEERED. | His friends folded their arms and *WALKED | *AWAY!"
+    },
+    {
+      "text": "Buster sat alone by the slide. Flying down is boring when no one is playing with you!",
+      "caps": "Buster sat alone. *SLIDING | is boring when no one plays with *YOU!"
+    },
+    {
+      "text": "Buster walked over and apologized: I'm sorry for cutting. I'll wait my turn!",
+      "caps": "Buster apologized: I'm *SORRY | for cutting. I'll wait my *TURN!"
+    },
+    {
+      "text": "Patience and fair play turn simple playground slides into shared happiness!",
+      "caps": "Patience and fair *PLAY | turn playground slides into shared *HAPPINESS!"
+    },
+    {
+      "text": "Play fair and stay kind—subscribe to BabyBeats Rhymo!",
+      "caps": "Play fair and stay *KIND— | *SUBSCRIBE to | *BABYBEATS *RHYMO!"
+    }
+  ]
+}

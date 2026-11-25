@@ -1,0 +1,52 @@
+{
+  "title": "The Bear Who Wouldn't Say Please: The Key That Opens Every Door!",
+  "thumb_text": "SAY MAGIC PLEASE!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Barnaby the big brown bear stomped his giant paws into the forest bakery!",
+      "caps": "Barnaby the big *BEAR | stomped his giant paws into the *FOREST | *BAKERY!"
+    },
+    {
+      "text": "Hand over the warm cinnamon honey rolls right now! Barnaby bellowed loudly!",
+      "caps": "Hand over the warm *HONEY ROLLS | right now! Barnaby *BELLOWED | *LOUDLY!"
+    },
+    {
+      "text": "Mrs. Badger folded her apron and clicked the glass display counter shut!",
+      "caps": "Mrs. Badger folded her *APRON | and clicked the display counter *SHUT!"
+    },
+    {
+      "text": "Barnaby huffed and puffed, trying to push through, but the latch wouldn't budge!",
+      "caps": "Barnaby huffed and *PUFFED, | but the pantry latch wouldn't *BUDGE | at *ALL!"
+    },
+    {
+      "text": "Little Robin chirped from the counter, Roaring only builds walls, Barnaby!",
+      "caps": "Little Robin *CHIRPED, | Roaring only builds walls, *BARNABY!"
+    },
+    {
+      "text": "Barnaby looked down at his big clumsy paws. He took a breath and whispered...",
+      "caps": "Barnaby looked at his *PAWS. | He took a breath and softly *WHISPERED..."
+    },
+    {
+      "text": "May I please have a honey roll, Mrs. Badger? I appreciate your hard work!",
+      "caps": "May I *PLEASE have a roll? | I appreciate your hard *WORK!"
+    },
+    {
+      "text": "CLICK! The door swung wide open with a warm smile—magic words open every heart!",
+      "caps": "*CLICK! The door swung wide open— | magic words open every *HEART!"
+    },
+    {
+      "text": "Speak with kindness and respect—subscribe to BabyBeats Rhymo!",
+      "caps": "Speak with *KINDNESS | and respect—*SUBSCRIBE | to *BABYBEATS Rhymo!"
+    }
+  ]
+}

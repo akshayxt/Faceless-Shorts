@@ -1,0 +1,52 @@
+{
+  "title": "Leo's Morning Routine Victory: Five Minutes Ahead of Time!",
+  "thumb_text": "MORNING VICTORY!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "BEEP BEEP! Seven o'clock alarm, and Leo was rushing around like a whirlwind!",
+      "caps": "*BEEP BEEP! Seven o'clock, | and Leo was rushing around like a *WHIRLWIND!"
+    },
+    {
+      "text": "Where is my left blue sneaker? Did anyone pack my homework notebook?",
+      "caps": "Where is my left *SNEAKER? | Did anyone pack my homework *NOTEBOOK?"
+    },
+    {
+      "text": "Spilling cereal, untied shoelaces, and running frantically as the yellow bus honked!",
+      "caps": "Spilling cereal, untied *LACES, | and running as the yellow bus *HONKED!"
+    },
+    {
+      "text": "That night, Rhymo said, Let's win tomorrow before we even close our eyes!",
+      "caps": "That night, Rhymo *SAID, | Let's win tomorrow before we close our *EYES!"
+    },
+    {
+      "text": "Step one: Backpack packed and zipped right by the front door!",
+      "caps": "*STEP ONE: | Backpack packed and zipped right by the *FRONT DOOR!"
+    },
+    {
+      "text": "Step two: Blue sneakers placed side-by-side with socks inside!",
+      "caps": "*STEP TWO: | Sneakers placed side-by-side with *SOCKS | *INSIDE!"
+    },
+    {
+      "text": "Next morning, Leo woke up, got dressed in three minutes, and ate pancakes calmly!",
+      "caps": "Next morning, Leo dressed in three *MINUTES | and ate pancakes *CALMLY!"
+    },
+    {
+      "text": "He strolled to the bus stop five minutes early, smiling like a champion!",
+      "caps": "He strolled to the bus stop *EARLY, | smiling like a true *CHAMPION!"
+    },
+    {
+      "text": "Win your mornings and win your days—subscribe to BabyBeats Rhymo!",
+      "caps": "Win your *MORNINGS | and win your days—*SUBSCRIBE | to *BABYBEATS *RHYMO!"
+    }
+  ]
+}

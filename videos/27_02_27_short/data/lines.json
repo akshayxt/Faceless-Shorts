@@ -1,0 +1,61 @@
+{
+ "duration": 43.384,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "You're sprinting across the soccer pitch, kicking the ball, and dripping wet!",
+   "start": 0.35,
+   "end": 4.194
+  },
+  {
+   "i": 1,
+   "text": "Why does your body pump salty water out of your forehead when you run fast?",
+   "start": 4.444,
+   "end": 8.481
+  },
+  {
+   "i": 2,
+   "text": "Your muscles act like car engines; when they work hard, they burn energy and create heat!",
+   "start": 8.731,
+   "end": 14.085
+  },
+  {
+   "i": 3,
+   "text": "You have over three million microscopic sweat glands all across your skin!",
+   "start": 14.335,
+   "end": 18.65
+  },
+  {
+   "i": 4,
+   "text": "Your brain signals these glands to release a thin layer of ninety-nine percent water!",
+   "start": 18.9,
+   "end": 23.772
+  },
+  {
+   "i": 5,
+   "text": "Here comes the genius physics trick: evaporative cooling!",
+   "start": 24.022,
+   "end": 27.573
+  },
+  {
+   "i": 6,
+   "text": "As the outdoor breeze blows across your skin, water transforms into vapor!",
+   "start": 27.823,
+   "end": 32.707
+  },
+  {
+   "i": 7,
+   "text": "It steals heat energy directly off your skin, keeping your body safe from overheating!",
+   "start": 32.957,
+   "end": 38.139
+  },
+  {
+   "i": 8,
+   "text": "Stay hydrated and curious—subscribe to BabyBeats Rhymo!",
+   "start": 38.389,
+   "end": 42.284
+  }
+ ]
+}

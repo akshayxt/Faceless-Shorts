@@ -1,0 +1,82 @@
+{
+ "duration": 45.881,
+ "cues": [
+  {
+   "t": 0,
+   "type": "whoosh"
+  },
+  {
+   "t": 0.4,
+   "type": "pop"
+  },
+  {
+   "t": 5.247,
+   "type": "whoosh"
+  },
+  {
+   "t": 5.547,
+   "type": "alarm",
+   "dur": 0.6
+  },
+  {
+   "t": 10.18,
+   "type": "whoosh"
+  },
+  {
+   "t": 10.48,
+   "type": "alarm",
+   "dur": 0.8
+  },
+  {
+   "t": 14.314,
+   "type": "whoosh"
+  },
+  {
+   "t": 14.714,
+   "type": "pop"
+  },
+  {
+   "t": 19.982,
+   "type": "whoosh"
+  },
+  {
+   "t": 20.382,
+   "type": "pop"
+  },
+  {
+   "t": 25.523,
+   "type": "whoosh"
+  },
+  {
+   "t": 25.923,
+   "type": "sparkle",
+   "dur": 1
+  },
+  {
+   "t": 29.255,
+   "type": "whoosh"
+  },
+  {
+   "t": 29.655,
+   "type": "sparkle",
+   "dur": 1
+  },
+  {
+   "t": 34.809,
+   "type": "whoosh"
+  },
+  {
+   "t": 35.159,
+   "type": "pop"
+  },
+  {
+   "t": 40.2,
+   "type": "whoosh"
+  },
+  {
+   "t": 40.6,
+   "type": "sparkle",
+   "dur": 1.2
+  }
+ ]
+}

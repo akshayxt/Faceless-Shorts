@@ -1,0 +1,113 @@
+{
+  "topic_id": "20_02_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "The Little Pup Who Raced Ahead: Waiting Your Turn!",
+      "chars": 50,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"The Little Pup Who Raced Ahead: Waiting...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on turn - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "The Little Pup Who Raced Ahead: Waiting Your Turn!",
+  "selected_title_lint": {
+    "title": "The Little Pup Who Raced Ahead: Waiting Your Turn!",
+    "chars": 50,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"The Little Pup Who Raced Ahead: Waiting...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on turn - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "50 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "WAIT YOUR TURN!",
+  "hook_lint": {
+    "hook": "Buster the puppy shoved past everyone at the giant spiral playground slide! What happened when his friends stopped playing?",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 38,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "learning patience waiting your turn kids cartoon",
+  "supporting_keywords": [
+    "preschool line cutting lesson",
+    "patience at the playground story",
+    "fair play puppy cartoon"
+  ],
+  "target_search_queries": [
+    "learning patience waiting your turn kids cartoon",
+    "preschool line cutting lesson",
+    "patience at the playground story",
+    "fair play puppy cartoon"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "The Little Pup Who Raced Ahead: Waiting Your Turn! — Buster the puppy shoved past everyone at the giant spiral playground slide! What happened when his friends stopped playing?\nKids science answer for \"learning patience waiting your turn kids cartoon\" with fun 2D animation by BabyBeats Rhymo!\n\nPushing ahead in line ruins the fun for everyone; taking turns fairly ensures that every single friend enjoys the slide with joy.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "preschool line cutting lesson",
+    "patience at the playground story",
+    "fair play puppy cartoon",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

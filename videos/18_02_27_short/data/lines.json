@@ -1,0 +1,61 @@
+{
+ "duration": 46.62,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Celebration time! The whole elementary school is cheering for the one hundredth day!",
+   "start": 0.35,
+   "end": 5.34
+  },
+  {
+   "i": 1,
+   "text": "Teacher announces: Each table has five minutes to stack one hundred foam blocks!",
+   "start": 5.59,
+   "end": 10.555
+  },
+  {
+   "i": 2,
+   "text": "At first, everyone scrambled and grabbed blocks, knocking each other's towers over!",
+   "start": 10.805,
+   "end": 15.967
+  },
+  {
+   "i": 3,
+   "text": "Leo called a timeout: If we fight for blocks, nobody wins the trophy!",
+   "start": 16.217,
+   "end": 20.438
+  },
+  {
+   "i": 4,
+   "text": "Mia, you hand the blocks! Sam, steady the wide base! I will place the spire!",
+   "start": 20.688,
+   "end": 25.222
+  },
+  {
+   "i": 5,
+   "text": "Block by block, ten, twenty, fifty, eighty—rising taller than their teacher!",
+   "start": 25.472,
+   "end": 30.388
+  },
+  {
+   "i": 6,
+   "text": "Ninety-nine, ONE HUNDRED! Just as the bell chimed, the golden star crown sat on top!",
+   "start": 30.638,
+   "end": 36.139
+  },
+  {
+   "i": 7,
+   "text": "Teamwork divides the difficult task and multiplies the celebration ten times over!",
+   "start": 36.389,
+   "end": 41.732
+  },
+  {
+   "i": 8,
+   "text": "Celebrate winning together—subscribe to BabyBeats Rhymo!",
+   "start": 41.982,
+   "end": 45.52
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "duration": 45.529,
+ "voice": "am_puck",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Leo borrowed the library's coolest treasure: The Giant Pop-Up T-Rex Encyclopedia!",
+   "start": 0.35,
+   "end": 5.84
+  },
+  {
+   "i": 1,
+   "text": "Be gentle with this book, Leo, the librarian said. Others are waiting to read it!",
+   "start": 6.09,
+   "end": 10.768
+  },
+  {
+   "i": 2,
+   "text": "Leo read it under the oak tree, but when his dog barked, he ran off and forgot it!",
+   "start": 11.018,
+   "end": 15.634
+  },
+  {
+   "i": 3,
+   "text": "HISSS! The garden sprinkler clicked on, spraying water toward the paper pop-ups!",
+   "start": 15.884,
+   "end": 20.372
+  },
+  {
+   "i": 4,
+   "text": "Leo gasped, sprinted across the lawn, and slid to shield the book with his jacket!",
+   "start": 20.622,
+   "end": 25.289
+  },
+  {
+   "i": 5,
+   "text": "He brought it inside, dried every drop with a soft towel, and checked every dinosaur!",
+   "start": 25.539,
+   "end": 30.652
+  },
+  {
+   "i": 6,
+   "text": "The next morning, Leo returned it promptly with a polite thank you note!",
+   "start": 30.902,
+   "end": 35.048
+  },
+  {
+   "i": 7,
+   "text": "Treating borrowed things with great care builds a golden reputation that lasts!",
+   "start": 35.298,
+   "end": 40.204
+  },
+  {
+   "i": 8,
+   "text": "Be responsible and reliable—subscribe to BabyBeats Rhymo!",
+   "start": 40.454,
+   "end": 44.429
+  }
+ ]
+}

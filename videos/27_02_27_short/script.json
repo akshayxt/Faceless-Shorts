@@ -1,0 +1,52 @@
+{
+  "title": "Why Do We Sweat? Your Built-In Air Conditioner!",
+  "thumb_text": "HOW SWEAT WORKS?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "You're sprinting across the soccer pitch, kicking the ball, and dripping wet!",
+      "caps": "You're sprinting across the *FIELD, | kicking the ball, and dripping *WET!"
+    },
+    {
+      "text": "Why does your body pump salty water out of your forehead when you run fast?",
+      "caps": "Why does your body pump *WATER | out of your forehead when you *RUN?"
+    },
+    {
+      "text": "Your muscles act like car engines; when they work hard, they burn energy and create heat!",
+      "caps": "Your muscles are like *ENGINES; | when they work hard, they create *HEAT!"
+    },
+    {
+      "text": "You have over three million microscopic sweat glands all across your skin!",
+      "caps": "You have over three *MILLION | microscopic sweat glands across your *SKIN!"
+    },
+    {
+      "text": "Your brain signals these glands to release a thin layer of ninety-nine percent water!",
+      "caps": "Your brain signals these *GLANDS | to release a thin layer of *WATER!"
+    },
+    {
+      "text": "Here comes the genius physics trick: evaporative cooling!",
+      "caps": "Here comes the genius *PHYSICS | trick: evaporative *COOLING!"
+    },
+    {
+      "text": "As the outdoor breeze blows across your skin, water transforms into vapor!",
+      "caps": "As the outdoor breeze *BLOWS, | water transforms into *VAPOR!"
+    },
+    {
+      "text": "It steals heat energy directly off your skin, keeping your body safe from overheating!",
+      "caps": "It steals heat energy right off your *SKIN, | keeping you safe from *OVERHEATING!"
+    },
+    {
+      "text": "Stay hydrated and curious—subscribe to BabyBeats Rhymo!",
+      "caps": "Stay hydrated and *CURIOUS— | *SUBSCRIBE to | *BABYBEATS *RHYMO!"
+    }
+  ]
+}

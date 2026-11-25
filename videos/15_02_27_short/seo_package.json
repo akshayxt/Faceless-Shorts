@@ -1,0 +1,114 @@
+{
+  "topic_id": "15_02_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Why Do We Shiver When We're Cold? The Muscle Engine!",
+      "chars": 52,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why Do We Shiver When We're Cold? The...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on do, shiver, we - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Why Do We Shiver When We're Cold? The Muscle Engine!",
+  "selected_title_lint": {
+    "title": "Why Do We Shiver When We're Cold? The Muscle Engine!",
+    "chars": 52,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Why Do We Shiver When We're Cold? The...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on do, shiver, we - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "52 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "WHY DO WE SHIVER?!",
+  "hook_lint": {
+    "hook": "You step out of the warm shower on a winter morning, and your whole body starts chattering and vibrating like a drum!",
+    "properties": {
+      "SPECIFICITY": 29,
+      "ADDRESS": 96,
+      "STAKES": 22,
+      "CURIOSITY": 24,
+      "BREVITY": 100
+    },
+    "verdict": 41,
+    "band": "WEAK",
+    "formula": "Unclassified",
+    "matched": 0
+  },
+  "primary_keyword": "why do we shiver when cold kids science",
+  "supporting_keywords": [
+    "human body temperature regulation",
+    "how muscles produce heat cartoon",
+    "shivering reflex explained"
+  ],
+  "target_search_queries": [
+    "why do we shiver when cold kids science",
+    "human body temperature regulation",
+    "how muscles produce heat cartoon",
+    "shivering reflex explained"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Why Do We Shiver When We're Cold? The Muscle Engine! — You step out of the warm shower on a winter morning, and your whole body starts chattering and vibrating like a drum!\nKids science answer for \"why do we shiver when cold kids science\" with fun 2D animation by BabyBeats Rhymo!\n\nWhen your core body temperature dips, your brain commands muscles to twitch rapidly up to 30 times a second, turning movement into warming body heat.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "why do we shiver when cold kids science",
+    "human body temperature regulation",
+    "how muscles produce heat cartoon",
+    "shivering reflex explained",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

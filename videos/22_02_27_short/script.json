@@ -1,0 +1,52 @@
+{
+  "title": "Leo & The Lost Library Book: Returning What You Borrow!",
+  "thumb_text": "BORROW WITH CARE!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Leo borrowed the library's coolest treasure: The Giant Pop-Up T-Rex Encyclopedia!",
+      "caps": "Leo borrowed the library's *TREASURE: | The Giant Pop-Up *T-REX | *ENCYCLOPEDIA!"
+    },
+    {
+      "text": "Be gentle with this book, Leo, the librarian said. Others are waiting to read it!",
+      "caps": "Be gentle with this *BOOK, | the librarian said. Others are *WAITING | to read *IT!"
+    },
+    {
+      "text": "Leo read it under the oak tree, but when his dog barked, he ran off and forgot it!",
+      "caps": "Leo read it under the *TREE, | but ran off and *FORGOT | it on the *GRASS!"
+    },
+    {
+      "text": "HISSS! The garden sprinkler clicked on, spraying water toward the paper pop-ups!",
+      "caps": "*HISSS! The garden sprinkler clicked *ON, | spraying water toward the *PAPER | *PAGES!"
+    },
+    {
+      "text": "Leo gasped, sprinted across the lawn, and slid to shield the book with his jacket!",
+      "caps": "Leo gasped, *SPRINTED | across the lawn, and shielded the *BOOK | with his *JACKET!"
+    },
+    {
+      "text": "He brought it inside, dried every drop with a soft towel, and checked every dinosaur!",
+      "caps": "He brought it *INSIDE, | dried every drop, and checked every *DINOSAUR | *CAREFULLY!"
+    },
+    {
+      "text": "The next morning, Leo returned it promptly with a polite thank you note!",
+      "caps": "The next morning, Leo returned it *PROMPTLY | with a polite *THANK YOU | *NOTE!"
+    },
+    {
+      "text": "Treating borrowed things with great care builds a golden reputation that lasts!",
+      "caps": "Treating borrowed things with *CARE | builds a golden reputation that *LASTS!"
+    },
+    {
+      "text": "Be responsible and reliable—subscribe to BabyBeats Rhymo!",
+      "caps": "Be responsible and *RELIABLE— | *SUBSCRIBE to | *BABYBEATS *RHYMO!"
+    }
+  ]
+}

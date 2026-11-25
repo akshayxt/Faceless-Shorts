@@ -1,0 +1,52 @@
+{
+  "title": "The Boy Who Blamed His Little Sister: Owning Your Mistakes!",
+  "thumb_text": "NOT MY FAULT?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Oops! A big glass of dark red grape juice tipped over onto the cream carpet!",
+      "caps": "*OOPS! A big glass of grape *JUICE | tipped over onto the cream *CARPET!"
+    },
+    {
+      "text": "Leo looked around in panic and shouted, Mom, baby Maya bumped into the table!",
+      "caps": "Leo looked around in *PANIC | and shouted, *MAYA bumped | into the *TABLE!"
+    },
+    {
+      "text": "Little Maya tilted her head with big sad tears—she didn't understand why!",
+      "caps": "Little Maya tilted her *HEAD | with big sad tears—she didn't *UNDERSTAND | *WHY!"
+    },
+    {
+      "text": "Leo watched his little sister cry, and a heavy gray cloud rained over his thoughts!",
+      "caps": "Leo watched his sister *CRY, | and a heavy gray cloud rained over his *THOUGHTS!"
+    },
+    {
+      "text": "Blaming someone innocent makes an accident ten times worse than the spill itself!",
+      "caps": "Blaming someone *INNOCENT | makes an accident ten times *WORSE | than the *SPILL!"
+    },
+    {
+      "text": "Leo took a deep breath, walked to Mom, and said, I lied. It was my elbow!",
+      "caps": "Leo took a deep *BREATH, | walked to Mom, and said, *I LIED. | It was my *ELBOW!"
+    },
+    {
+      "text": "Mom hugged Leo and Maya tightly: Accidents happen, but owning up takes real strength!",
+      "caps": "Mom hugged them both *TIGHTLY: | Accidents happen, but owning up takes *REAL | *STRENGTH!"
+    },
+    {
+      "text": "Together they grabbed towels and cleaned the rug until it sparkled clean!",
+      "caps": "Together they grabbed *TOWELS | and cleaned the rug until it *SPARKLED | *CLEAN!"
+    },
+    {
+      "text": "Choose bravery and honesty—subscribe to BabyBeats Rhymo!",
+      "caps": "Choose bravery and *HONESTY— | *SUBSCRIBE to | *BABYBEATS *RHYMO!"
+    }
+  ]
+}

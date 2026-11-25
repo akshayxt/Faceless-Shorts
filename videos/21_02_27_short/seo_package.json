@@ -1,0 +1,114 @@
+{
+  "topic_id": "21_02_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Why Do We Dream? The Brain's Midnight Movie Theater!",
+      "chars": 52,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why Do We Dream? The Brain's Midnight...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on do, dream, we - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Why Do We Dream? The Brain's Midnight Movie Theater!",
+  "selected_title_lint": {
+    "title": "Why Do We Dream? The Brain's Midnight Movie Theater!",
+    "chars": 52,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Why Do We Dream? The Brain's Midnight...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on do, dream, we - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "52 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "WHY DO WE DREAM?!",
+  "hook_lint": {
+    "hook": "You close your eyes in your bed, and suddenly you're flying on a rainbow dragon eating giant pancakes! Where do dreams come from?",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 100,
+      "STAKES": 22,
+      "CURIOSITY": 42,
+      "BREVITY": 100
+    },
+    "verdict": 45,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "why do we dream kids science cartoon",
+  "supporting_keywords": [
+    "rem sleep memory consolidation cartoon",
+    "why do we have nightmares kids",
+    "brain science for children"
+  ],
+  "target_search_queries": [
+    "why do we dream kids science cartoon",
+    "rem sleep memory consolidation cartoon",
+    "why do we have nightmares kids",
+    "brain science for children"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Why Do We Dream? The Brain's Midnight Movie Theater! — You close your eyes in your bed, and suddenly you're flying on a rainbow dragon eating giant pancakes! Where do dreams come from?\nKids science answer for \"why do we dream kids science cartoon\" with fun 2D animation by BabyBeats Rhymo!\n\nDuring REM sleep, your brain organizes memories from the day, filing away important lessons and turning random thoughts into wild dream movies.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "why do we dream kids science cartoon",
+    "rem sleep memory consolidation cartoon",
+    "why do we have nightmares kids",
+    "brain science for children",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

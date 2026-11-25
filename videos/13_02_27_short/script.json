@@ -1,0 +1,52 @@
+{
+  "title": "Why Do Fireflies Glow In The Dark? Nature's Flashlight!",
+  "thumb_text": "WHY FIREFLIES GLOW?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Look out into the dark summer grass! Tiny yellow stars are blinking and dancing!",
+      "caps": "Look into the dark *GRASS! | Tiny yellow stars are *BLINKING | and *DANCING!"
+    },
+    {
+      "text": "Fireflies! But how do tiny bugs carry neon flashlights inside their tummy?",
+      "caps": "*FIREFLIES! But how do bugs | carry neon flashlights inside their *TUMMY?"
+    },
+    {
+      "text": "Inside the firefly's tail lantern sits a special chemical called luciferin!",
+      "caps": "Inside the firefly's *TAIL | sits a special chemical called *LUCIFERIN!"
+    },
+    {
+      "text": "When oxygen from the air mixes with this chemical and an enzyme called luciferase...",
+      "caps": "When oxygen from the *AIR | mixes with this chemical inside their *BODY..."
+    },
+    {
+      "text": "FLASH! A burst of bright, emerald-gold light shines out into the darkness!",
+      "caps": "*FLASH! A burst of bright | emerald-gold light shines into the *DARKNESS!"
+    },
+    {
+      "text": "A household lightbulb wastes ninety percent of its energy making hot heat!",
+      "caps": "A household bulb wastes *NINETY PERCENT | of its energy making hot *HEAT!"
+    },
+    {
+      "text": "A firefly's light is one hundred percent cold light—zero energy wasted!",
+      "caps": "A firefly's light is *COLD LIGHT— | zero energy *WASTED at *ALL!"
+    },
+    {
+      "text": "They blink in rhythm like secret Morse code to talk to their beetle friends!",
+      "caps": "They blink in *RHYTHM | like secret Morse code to talk to their *FRIENDS!"
+    },
+    {
+      "text": "Explore nature's brilliant inventions—subscribe to BabyBeats Rhymo!",
+      "caps": "Explore nature's *BRILLIANT inventions— | *SUBSCRIBE to | *BABYBEATS *RHYMO!"
+    }
+  ]
+}

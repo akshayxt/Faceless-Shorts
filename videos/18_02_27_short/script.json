@@ -1,0 +1,52 @@
+{
+  "title": "The 100th Day of School: What Teamwork Can Build!",
+  "thumb_text": "100TH DAY TEAM!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Celebration time! The whole elementary school is cheering for the one hundredth day!",
+      "caps": "Celebration *TIME! | The whole school is cheering for the *ONE HUNDREDTH | *DAY!"
+    },
+    {
+      "text": "Teacher announces: Each table has five minutes to stack one hundred foam blocks!",
+      "caps": "Teacher announces: Stack *ONE HUNDRED | blocks before the recess bell *RINGS!"
+    },
+    {
+      "text": "At first, everyone scrambled and grabbed blocks, knocking each other's towers over!",
+      "caps": "At first, everyone *SCRAMBLED, | knocking each other's towers *OVER!"
+    },
+    {
+      "text": "Leo called a timeout: If we fight for blocks, nobody wins the trophy!",
+      "caps": "Leo called a *TIMEOUT: | If we fight for blocks, nobody *WINS!"
+    },
+    {
+      "text": "Mia, you hand the blocks! Sam, steady the wide base! I will place the spire!",
+      "caps": "Mia, hand the *BLOCKS! | Sam, steady the base! I'll place the *TOP!"
+    },
+    {
+      "text": "Block by block, ten, twenty, fifty, eighty—rising taller than their teacher!",
+      "caps": "Block by block, twenty, *FIFTY, | eighty—rising taller than their *TEACHER!"
+    },
+    {
+      "text": "Ninety-nine, ONE HUNDRED! Just as the bell chimed, the golden star crown sat on top!",
+      "caps": "Ninety-nine, *ONE HUNDRED! | The golden star sat *RIGHT ON TOP!"
+    },
+    {
+      "text": "Teamwork divides the difficult task and multiplies the celebration ten times over!",
+      "caps": "Teamwork divides the *TASK | and multiplies the celebration *TEN TIMES | *OVER!"
+    },
+    {
+      "text": "Celebrate winning together—subscribe to BabyBeats Rhymo!",
+      "caps": "Celebrate winning *TOGETHER— | *SUBSCRIBE to | *BABYBEATS *RHYMO!"
+    }
+  ]
+}

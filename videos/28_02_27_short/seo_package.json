@@ -1,0 +1,114 @@
+{
+  "topic_id": "28_02_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Leo's Morning Routine Victory: Five Minutes Ahead of Time!",
+      "chars": 58,
+      "score": 62,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Leo's Morning Routine Victory: Five...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on morning, victory - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Leo's Morning Routine Victory: Five Minutes Ahead of Time!",
+  "selected_title_lint": {
+    "title": "Leo's Morning Routine Victory: Five Minutes Ahead of Time!",
+    "chars": 58,
+    "score": 62,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Leo's Morning Routine Victory: Five...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on morning, victory - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "58 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "MORNING VICTORY!",
+  "hook_lint": {
+    "hook": "Every morning, Leo was hunting for missing shoes, gulping toast, and racing frantically for the school bus! How did 3 small steps change his life?",
+    "properties": {
+      "SPECIFICITY": 68,
+      "ADDRESS": 26,
+      "STAKES": 36,
+      "CURIOSITY": 59,
+      "BREVITY": 93
+    },
+    "verdict": 44,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "morning routine habits for children cartoon",
+  "supporting_keywords": [
+    "punctuality school morning routine",
+    "no rushing getting ready kids",
+    "positive morning habits cartoon"
+  ],
+  "target_search_queries": [
+    "morning routine habits for children cartoon",
+    "punctuality school morning routine",
+    "no rushing getting ready kids",
+    "positive morning habits cartoon"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Leo's Morning Routine Victory: Five Minutes Ahead of Time! — Every morning, Leo was hunting for missing shoes, gulping toast, and racing frantically for the school bus! How did 3 small steps change his life?\nKids science answer for \"morning routine habits for children cartoon\" with fun 2D animation by BabyBeats Rhymo!\n\nPacking your backpack and picking clothes the night before eliminates frantic morning panic, starting your school day calm and victorious.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "morning routine habits for children cartoon",
+    "punctuality school morning routine",
+    "no rushing getting ready kids",
+    "positive morning habits cartoon",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

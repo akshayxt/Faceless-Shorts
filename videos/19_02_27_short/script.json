@@ -1,0 +1,52 @@
+{
+  "title": "Why Do Rainbows Appear After Rain? The Sun's Magic Mirror!",
+  "thumb_text": "HOW RAINBOWS WORK?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "The dark rainstorm stops, the golden sun peeks out, and look high up in the blue sky!",
+      "caps": "The storm stops, the *SUN peeks out, | and look high up in the *BLUE | *SKY!"
+    },
+    {
+      "text": "A glowing ribbon of red, orange, yellow, green, blue, indigo, and violet!",
+      "caps": "A glowing ribbon of *RED, | orange, yellow, green, blue, indigo, and *VIOLET!"
+    },
+    {
+      "text": "Where did those brilliant colors come from? Sunlight looks completely white!",
+      "caps": "Where did those *COLORS come from? | Sunlight looks completely *WHITE!"
+    },
+    {
+      "text": "White light is actually a team of all seven colors traveling together!",
+      "caps": "White light is a *TEAM | of all seven colors traveling *TOGETHER!"
+    },
+    {
+      "text": "Millions of floating raindrops act like tiny glass prism mirrors!",
+      "caps": "Millions of floating *RAINDROPS | act like tiny glass prism *MIRRORS!"
+    },
+    {
+      "text": "When sunlight enters a raindrop, it slows down and bends—a trick called refraction!",
+      "caps": "When sunlight enters a raindrop, | it slows down and *BENDS!"
+    },
+    {
+      "text": "Red light bends the least, while violet light bends the most!",
+      "caps": "Red light bends the *LEAST, | while violet bends the *MOST!"
+    },
+    {
+      "text": "The colors separate and bounce back into your eyes as a majestic circular arch!",
+      "caps": "The colors separate and bounce | into your eyes as a majestic *ARCH!"
+    },
+    {
+      "text": "Discover nature's brilliant art—subscribe to BabyBeats Rhymo!",
+      "caps": "Discover nature's brilliant *ART— | *SUBSCRIBE to | *BABYBEATS *RHYMO!"
+    }
+  ]
+}

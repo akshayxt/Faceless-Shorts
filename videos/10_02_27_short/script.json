@@ -1,0 +1,52 @@
+{
+  "title": "The Kitten Who Was Afraid of the Dark: Nightlight Courage!",
+  "thumb_text": "AFRAID OF DARK?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Click! The bedroom lamp went out, and thick black shadows filled Whiskers' bedroom!",
+      "caps": "*CLICK! The lamp went out, | and thick black *SHADOWS | filled the *BEDROOM!"
+    },
+    {
+      "text": "In the corner stood a tall, spooky shape with giant waving tentacles!",
+      "caps": "In the corner stood a *TALL, | spooky shape with giant *WAVING | *ARMS!"
+    },
+    {
+      "text": "Whiskers pulled his fluffy blanket over his whiskers, shivering with fear!",
+      "caps": "Whiskers pulled his *BLANKET | over his ears, shivering with *TOTAL | *FEAR!"
+    },
+    {
+      "text": "Then his big brother whispered, Shadows can only copy what is already here!",
+      "caps": "Then his brother *WHISPERED, | Shadows can only copy what is *ALREADY | *HERE!"
+    },
+    {
+      "text": "Whiskers clicked his tiny yellow flashlight and beamed it straight at the monster!",
+      "caps": "Whiskers clicked his *FLASHLIGHT | and beamed it straight at the *SPOOKY | *MONSTER!"
+    },
+    {
+      "text": "Giggle! It wasn't a monster at all—just his yellow winter jacket and floppy hat!",
+      "caps": "*GIGGLE! It wasn't a monster— | just his winter jacket and *FLOPPY | *HAT!"
+    },
+    {
+      "text": "The dark doesn't create monsters; it just plays funny tricks with sleepy eyes!",
+      "caps": "The dark doesn't create *MONSTERS; | it just plays funny tricks with *SLEEPY | *EYES!"
+    },
+    {
+      "text": "Bravery is turning on your little light and seeing the truth for yourself!",
+      "caps": "Bravery is turning on your *LIGHT | and seeing the truth for *YOURSELF!"
+    },
+    {
+      "text": "Sleep peaceful and brave—subscribe to BabyBeats Rhymo!",
+      "caps": "Sleep peaceful and *BRAVE— | *SUBSCRIBE to | *BABYBEATS *RHYMO!"
+    }
+  ]
+}

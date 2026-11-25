@@ -1,0 +1,122 @@
+{
+  "topic_id": "09_02_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "Why Do We Get Goosebumps? The Animal Fur Secret!",
+      "chars": 48,
+      "score": 48,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"Why Do We Get Goosebumps? The Animal...\" - check the subject survives"
+        ],
+        [
+          "vague",
+          "secret - swap for a number, a name or a date"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on goosebumps - the thumbnail should say what the title does not"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "Why Do We Get Goosebumps? The Animal Fur Secret!",
+  "selected_title_lint": {
+    "title": "Why Do We Get Goosebumps? The Animal Fur Secret!",
+    "chars": 48,
+    "score": 48,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Why Do We Get Goosebumps? The Animal...\" - check the subject survives"
+      ],
+      [
+        "vague",
+        "secret - swap for a number, a name or a date"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on goosebumps - the thumbnail should say what the title does not"
+      ]
+    ],
+    "good": [
+      "48 characters, inside the 60-character desktop cut"
+    ]
+  },
+  "thumb_text": "WHY GOOSEBUMPS?!",
+  "hook_lint": {
+    "hook": "A cold gust of wind blows by, and suddenly your arms look like plucked chicken skin! What is your body doing?",
+    "properties": {
+      "SPECIFICITY": 35,
+      "ADDRESS": 66,
+      "STAKES": 22,
+      "CURIOSITY": 59,
+      "BREVITY": 100
+    },
+    "verdict": 43,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "why do we get goosebumps kids science cartoon",
+  "supporting_keywords": [
+    "goosebumps reflex explained children",
+    "human body mysteries cartoon",
+    "why hair stands up when cold"
+  ],
+  "target_search_queries": [
+    "why do we get goosebumps kids science cartoon",
+    "goosebumps reflex explained children",
+    "human body mysteries cartoon",
+    "why hair stands up when cold"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "Why Do We Get Goosebumps? The Animal Fur Secret! — A cold gust of wind blows by, and suddenly your arms look like plucked chicken skin! What is your body doing?\nKids science answer for \"why do we get goosebumps kids science cartoon\" with fun 2D animation by BabyBeats Rhymo!\n\nTiny muscles under each hair follicle tighten when you're cold or spooked, pulling hairs upright to trap warm air like a fluffy winter coat.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "why do we get goosebumps kids science cartoon",
+    "goosebumps reflex explained children",
+    "human body mysteries cartoon",
+    "why hair stands up when cold",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}

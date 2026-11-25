@@ -1,0 +1,52 @@
+{
+  "title": "The Bunny Who Never Shared His Crayons: The Colorful Masterpiece!",
+  "thumb_text": "SHARE THE CRAYONS!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Art class challenge! The teacher rolled out a giant paper mural across the floor!",
+      "caps": "Art class *CHALLENGE! | The teacher rolled out a giant *PAPER | mural across the *FLOOR!"
+    },
+    {
+      "text": "Benny the bunny sat guarding his luxury sixty-four crayon box with his paws!",
+      "caps": "Benny the bunny sat *GUARDING | his sixty-four crayon box with his *PAWS!"
+    },
+    {
+      "text": "May I borrow sky blue for my river? asked Penny. No, it's mine! Benny snapped!",
+      "caps": "May I borrow *SKY BLUE? | asked Penny. No, it's *MINE! | Benny *SNAPPED!"
+    },
+    {
+      "text": "Benny drew a big blue lake in his corner, but had no green for trees and no yellow for sun!",
+      "caps": "Benny drew a lake, but had *NO GREEN | for trees and no yellow for the *SUN!"
+    },
+    {
+      "text": "His picture was dull, while Penny and Leo traded pink, purple, and orange joyfully!",
+      "caps": "His picture was *DULL, | while his friends traded colors *JOYFULLY!"
+    },
+    {
+      "text": "Benny realized: One color alone can never paint a whole vibrant world!",
+      "caps": "Benny realized: One color *ALONE | can never paint a whole *VIBRANT | *WORLD!"
+    },
+    {
+      "text": "He slid his box to the center: Take whatever colors you need, everyone!",
+      "caps": "He slid his box to the *CENTER: | Take whatever colors you *NEED!"
+    },
+    {
+      "text": "Together they finished the most stunning rainbow forest the school had ever seen!",
+      "caps": "Together they finished the most *STUNNING | rainbow mural ever *SEEN!"
+    },
+    {
+      "text": "Share your gifts and shine bright—subscribe to BabyBeats Rhymo!",
+      "caps": "Share your *GIFTS | and shine bright—*SUBSCRIBE | to *BABYBEATS *RHYMO!"
+    }
+  ]
+}
