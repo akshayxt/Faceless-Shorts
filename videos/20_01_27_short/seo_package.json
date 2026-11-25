@@ -29,8 +29,38 @@
       ]
     },
     {
+      "title": "Making Friends Read Aloud!",
+      "chars": 26,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on friends - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
       "title": "Making Friends Preschool Story!",
       "chars": 31,
+      "score": 76,
+      "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ],
+        [
+          "duplicate",
+          "thumbnail repeats the title on friends - the thumbnail should say what the title does not"
+        ]
+      ]
+    },
+    {
+      "title": "Making Friends Read Aloud! #Shorts",
+      "chars": 34,
       "score": 76,
       "issues": [
         [
@@ -149,14 +179,15 @@
     "first day of school bravery cartoon kids",
     "first day of school getting bullied",
     "making friends preschool story",
-    "penguins don't wear sweaters read aloud"
+    "making friends read aloud"
   ],
   "realtime_seo": {
     "mode": "live_us_autocomplete_and_trends",
-    "fetched_at_ist": "2026-11-25T05:33:19.732035+05:30",
+    "fetched_at_ist": "2026-11-25T05:58:34.109399+05:30",
     "live_yt_suggest_queries": [
       "first day of school getting bullied",
       "making friends preschool story",
+      "making friends read aloud",
       "penguins don't wear sweaters read aloud",
       "baby penguin tries to make friends"
     ],
@@ -169,10 +200,11 @@
       "#sciencefacts"
     ]
   },
-  "description": "First Day of School Getting Bullied! — Penny hid behind her mommy's flipper on the first morning of snow school! How did one blue crayon help her make three best friends?\nKids science answer for \"first day of school bravery cartoon kids\" with fun 2D animation by BabyBeats Rhymo!\n\nEveryone feels butterflies on their first day. Walking up with a smile and saying 'Hi, want to build blocks?' turns strangers into buddies.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- first day of school getting bullied\n- making friends preschool story\n- penguins don't wear sweaters read aloud\n- baby penguin tries to make friends\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "description": "First Day of School Getting Bullied! — Penny hid behind her mommy's flipper on the first morning of snow school! How did one blue crayon help her make three best friends?\nKids science answer for \"first day of school bravery cartoon kids\" with fun 2D animation by BabyBeats Rhymo!\n\nEveryone feels butterflies on their first day. Walking up with a smile and saying 'Hi, want to build blocks?' turns strangers into buddies.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- first day of school getting bullied\n- making friends preschool story\n- making friends read aloud\n- penguins don't wear sweaters read aloud\n- baby penguin tries to make friends\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
     "first day of school getting bullied",
     "making friends preschool story",
+    "making friends read aloud",
     "penguins don't wear sweaters read aloud",
     "baby penguin tries to make friends",
     "first day of school bravery cartoon kids",
@@ -184,8 +216,7 @@
     "science for kids",
     "educational cartoons for kids",
     "fun facts for kids",
-    "youtube shorts",
-    "shorts"
+    "youtube shorts"
   ],
   "hashtags": [
     "#BabyBeatsRhymo",
