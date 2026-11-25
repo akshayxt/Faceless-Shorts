@@ -2567,7 +2567,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\20_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
+      "status": "SCHEDULED",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-01-20T15:30:00-05:00",
@@ -2587,7 +2587,10 @@
         "first day of school getting bullied",
         "making friends preschool story",
         "making friends read aloud"
-      ]
+      ],
+      "upload_method": "make_com_webhook",
+      "uploaded_at_ist": "2026-11-25 23:21:52 IST",
+      "make_response": "Accepted"
     },
     {
       "id": "21_01_27_short",
@@ -2600,7 +2603,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\21_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
+      "status": "SCHEDULED",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-01-21T15:30:00-05:00",
@@ -2620,7 +2623,10 @@
         "screen time balance",
         "screen time balance song",
         "screen time management"
-      ]
+      ],
+      "upload_method": "make_com_webhook",
+      "uploaded_at_ist": "2026-11-25 23:21:54 IST",
+      "make_response": "Accepted"
     },
     {
       "id": "22_01_27_short",
@@ -2633,7 +2639,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\22_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
+      "status": "SCHEDULED",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-01-22T15:30:00-05:00",
@@ -2653,7 +2659,10 @@
         "growth mindset resilience",
         "growth mindset social story",
         "growth mindset for kids"
-      ]
+      ],
+      "upload_method": "make_com_webhook",
+      "uploaded_at_ist": "2026-11-25 23:21:55 IST",
+      "make_response": "Accepted"
     },
     {
       "id": "23_01_27_short",
@@ -2666,7 +2675,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\23_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
+      "status": "SCHEDULED",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-01-23T15:30:00-05:00",
@@ -2686,7 +2695,10 @@
         "greedy hamster",
         "greedy squirrel",
         "greedy and the porridge pot"
-      ]
+      ],
+      "upload_method": "make_com_webhook",
+      "uploaded_at_ist": "2026-11-25 23:21:56 IST",
+      "make_response": "Accepted"
     },
     {
       "id": "24_01_27_short",
@@ -2699,7 +2711,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\24_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
+      "status": "SCHEDULED",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-01-24T15:30:00-05:00",
@@ -2719,7 +2731,10 @@
         "saying please and thank you social story",
         "science facts for kids",
         "interesting science facts for kids"
-      ]
+      ],
+      "upload_method": "make_com_webhook",
+      "uploaded_at_ist": "2026-11-25 23:21:57 IST",
+      "make_response": "Accepted"
     },
     {
       "id": "25_01_27_short",
