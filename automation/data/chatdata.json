@@ -1,7 +1,7 @@
 {
   "title": "Master Chat Data Logs",
-  "updated_at_ist": "2026-11-25 20:38:22 IST",
-  "total_messages": 975,
+  "updated_at_ist": "2026-11-25 20:40:29 IST",
+  "total_messages": 978,
   "recent_messages": [
     {
       "msg_id": 12,
@@ -9752,6 +9752,36 @@
       "sender_name": "𝘈𝘯𝘷𝘪 💗💞",
       "text": "Arey yaar tu to alag hi scene bana raha hai! Aur bata kya naya chal raha hai? 😂",
       "date_ist": "2026-11-25 20:38:22 IST"
+    },
+    {
+      "msg_id": 30870,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 7118065044,
+      "sender_username": "AkshayGangwar",
+      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
+      "text": "/leavevc",
+      "date_ist": "2026-11-25 20:40:23 IST"
+    },
+    {
+      "msg_id": 30871,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 6689650296,
+      "sender_username": null,
+      "sender_name": "Anvi",
+      "text": "👋 Left the Voice Chat. Phir milte hain!",
+      "date_ist": "2026-11-25 20:40:24 IST"
+    },
+    {
+      "msg_id": 30872,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 9096714928,
+      "sender_username": "AnviSingh143",
+      "sender_name": "𝘈𝘯𝘷𝘪 💗💞",
+      "text": "Nazar lag jayegi babu, itni jaldi photo nahi dikhaungi! Pehle thodi taareef karo! 🙈✨",
+      "date_ist": "2026-11-25 20:40:29 IST"
     }
   ]
 }
