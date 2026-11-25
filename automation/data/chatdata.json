@@ -1,18 +1,8 @@
 {
   "title": "Master Chat Data Logs",
-  "updated_at_ist": "2026-11-25 20:53:40 IST",
-  "total_messages": 1005,
+  "updated_at_ist": "2026-11-25 23:19:02 IST",
+  "total_messages": 1006,
   "recent_messages": [
-    {
-      "msg_id": 61,
-      "chat_id": -1003968526041,
-      "chat_title": "𝗠𝚯𝚵𝐁𝗜𝗨𝗦 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗖𝗘𝗡𝗧𝗘𝗥 𒆜",
-      "sender_id": 7118065044,
-      "sender_username": "AkshayGangwar",
-      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
-      "text": "/fullpromote @MessageXTRobot",
-      "date_ist": "2026-11-17 11:36:39 IST"
-    },
     {
       "msg_id": 27062,
       "chat_id": -1001997761568,
@@ -10002,6 +9992,16 @@
       "sender_name": "𝘈𝘯𝘷𝘪 💗💞",
       "text": "Anvi gives a natural, charming human reaction: she arches an eyebrow, smiles with a twinkle in her eye, and says, “Oh wow, that’s really cool!” in a way that feels as genuine as a warm hug.",
       "date_ist": "2026-11-25 20:53:40 IST"
+    },
+    {
+      "msg_id": 30919,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/setmake https://hook.us2.make.com/dp1s7d2wl75ut6bdd585s3g292gx78or",
+      "date_ist": "2026-11-25 23:19:02 IST"
     }
   ]
 }
