@@ -14,7 +14,7 @@ from pathlib import Path
 from repo_paths import AUTO_DIR, ROOT_DIR
 
 IST = timezone(timedelta(hours=5, minutes=30))
-OWNER_ID = 7118065044
+OWNER_ID = int(os.environ.get("TELEGRAM_OWNER_ID", 8017642813))
 
 DATA_DIR = AUTO_DIR / "data"
 CHAT_LOGS_DIR = DATA_DIR / "chat_logs"

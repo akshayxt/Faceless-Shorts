@@ -28,5 +28,7 @@ services:
         sync: false
       - key: TELEGRAM_BOT_TOKEN
         sync: false
+      - key: TELEGRAM_OWNER_ID
+        value: "8017642813"
       - key: GITHUB_TOKEN
         sync: false

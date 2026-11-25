@@ -5,6 +5,7 @@ Powers @MessageXTRobot for group administration, user moderation, video privacy,
 import csv
 import io
 import json
+import os
 import re
 import threading
 import time
@@ -20,7 +21,7 @@ MOD_DATA_PATH = DATA_DIR / "moderation_data.json"
 AUDIT_LOG_PATH = DATA_DIR / "bot_audit_logs.json"
 UPLOAD_Q_PATH = DATA_DIR / "upload_queue.json"
 
-OWNER_ID = 7118065044
+OWNER_ID = int(os.environ.get("TELEGRAM_OWNER_ID", 8017642813))
 _LOCK = threading.Lock()
 _FLOOD_TRACKER: dict[str, list[float]] = {}
 

@@ -37,7 +37,7 @@ BOT_SETTINGS_PATH = AUTO_DIR / "data" / "bot_settings.json"
 AGENT_INBOX_PATH = AUTO_DIR / "data" / "agent_inbox.json"
 
 DEFAULT_PUBLIC_URL = "https://babybeats-cloud-autopilot.onrender.com"
-OWNER_ID = 7118065044
+OWNER_ID = int(os.environ.get("TELEGRAM_OWNER_ID", 8017642813))
 UNAUTHORIZED_REPLY = "Baap Ko Bhej Tere Bs Ki Baat Ni Meethe"
 SUPPORT_CHAT = "TeamXT_Support"
 UPDATES_CHAT = "TeamX_TSupport"
