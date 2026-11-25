@@ -1,6 +1,6 @@
 {
-  "last_updated_ist": "2026-11-25 17:03:47 IST",
-  "total_archived": 63,
+  "last_updated_ist": "2026-11-25 20:05:40 IST",
+  "total_archived": 68,
   "videos": [
     {
       "id": "day01_short",
@@ -631,6 +631,56 @@
       "publish_date": "2027-01-12T20:30:00Z",
       "format": "short",
       "archived_at_ist": "2026-11-25 17:03:47 IST"
+    },
+    {
+      "id": "13_01_27_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\13_01_27_short\\renders\\13_01_27_short.mp4",
+      "title": "The Night Leo Met Bedroom Shadows: Night Bravery!",
+      "youtube_video_id": "WpiA48NTPgw",
+      "uploaded_date": "2026-11-25T20:05:12.739631+05:30",
+      "publish_date": "2027-01-13T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-25 20:05:12 IST"
+    },
+    {
+      "id": "14_01_27_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\14_01_27_short\\renders\\14_01_27_short.mp4",
+      "title": "The Grumpy Badger Who Found a Smile: Joy Is Contagious!",
+      "youtube_video_id": "Vrla6jceAeg",
+      "uploaded_date": "2026-11-25T20:05:19.653222+05:30",
+      "publish_date": "2027-01-14T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-25 20:05:19 IST"
+    },
+    {
+      "id": "15_01_27_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\15_01_27_short\\renders\\15_01_27_short.mp4",
+      "title": "Barnaby Beaver Who Refused to Sleep: Why Bodies Need Rest!",
+      "youtube_video_id": "N-34_Sbxxno",
+      "uploaded_date": "2026-11-25T20:05:25.537033+05:30",
+      "publish_date": "2027-01-15T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-25 20:05:25 IST"
+    },
+    {
+      "id": "16_01_27_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\16_01_27_short\\renders\\16_01_27_short.mp4",
+      "title": "The Little Hedgehog's Prickly Hug: You Are Special!",
+      "youtube_video_id": "0CtlpgUQqMg",
+      "uploaded_date": "2026-11-25T20:05:34.264218+05:30",
+      "publish_date": "2027-01-16T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-25 20:05:34 IST"
+    },
+    {
+      "id": "17_01_27_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\17_01_27_short\\renders\\17_01_27_short.mp4",
+      "title": "Taking Turns and Sharing!",
+      "youtube_video_id": "wH_6PN3KCj8",
+      "uploaded_date": "2026-11-25T20:05:40.562844+05:30",
+      "publish_date": "2027-01-17T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-25 20:05:40 IST"
     }
   ]
 }

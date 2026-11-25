@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-25 17:33:35 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-25 20:05:43 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -17,8 +17,8 @@
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `14` days / **`357.1` subs/day** |
-| Videos Rendered & Verified | **`110`** (`63` uploaded/scheduled, `47` remaining) |
-| Real-Time US SEO Sync | `2026-11-25T17:33:27.817088+05:30` |
+| Videos Rendered & Verified | **`110`** (`68` uploaded/scheduled, `42` remaining) |
+| Real-Time US SEO Sync | `2026-11-25T20:05:02.481413+05:30` |
 | Topic Backlog Remaining | `1` pending out of `82` scored |
 
 ## 2. Production & Upload Queue Status
@@ -88,11 +88,11 @@
 | `10_01_27_short` | short | The Angry Little Dragon: How Deep Breaths Cool the Fire! | 62/100 | 2027-01-10 15:30:00 EST | 1080x1920, 42.56s | `SCHEDULED` | [10_01_27_short.mp4](videos/10_01_27_short/renders/10_01_27_short.mp4) |
 | `11_01_27_short` | short | Sammy the Squirrel's Lost Acorn: Why Listening Matters! | 80/100 | 2027-01-11 15:30:00 EST | 1080x1920, 45.03s | `SCHEDULED` | [11_01_27_short.mp4](videos/11_01_27_short/renders/11_01_27_short.mp4) |
 | `12_01_27_short` | short | Tiny Ant to the Elephant! | 76/100 | 2027-01-12 15:30:00 EST | 1080x1920, 44.77s | `SCHEDULED` | [12_01_27_short.mp4](videos/12_01_27_short/renders/12_01_27_short.mp4) |
-| `13_01_27_short` | short | The Night Leo Met Bedroom Shadows: Night Bravery! | 80/100 | 2027-01-13 15:30:00 EST | 1080x1920, 44.27s | `READY_FOR_UPLOAD` | [13_01_27_short.mp4](videos/13_01_27_short/renders/13_01_27_short.mp4) |
-| `14_01_27_short` | short | The Grumpy Badger Who Found a Smile: Joy Is Contagious! | 62/100 | 2027-01-14 15:30:00 EST | 1080x1920, 43.15s | `READY_FOR_UPLOAD` | [14_01_27_short.mp4](videos/14_01_27_short/renders/14_01_27_short.mp4) |
-| `15_01_27_short` | short | Barnaby Beaver Who Refused to Sleep: Why Bodies Need Rest! | 62/100 | 2027-01-15 15:30:00 EST | 1080x1920, 45.63s | `READY_FOR_UPLOAD` | [15_01_27_short.mp4](videos/15_01_27_short/renders/15_01_27_short.mp4) |
-| `16_01_27_short` | short | The Little Hedgehog's Prickly Hug: You Are Special! | 62/100 | 2027-01-16 15:30:00 EST | 1080x1920, 44.45s | `READY_FOR_UPLOAD` | [16_01_27_short.mp4](videos/16_01_27_short/renders/16_01_27_short.mp4) |
-| `17_01_27_short` | short | Taking Turns and Sharing! | 94/100 | 2027-01-17 15:30:00 EST | 1080x1920, 45.6s | `READY_FOR_UPLOAD` | [17_01_27_short.mp4](videos/17_01_27_short/renders/17_01_27_short.mp4) |
+| `13_01_27_short` | short | The Night Leo Met Bedroom Shadows: Night Bravery! | 80/100 | 2027-01-13 15:30:00 EST | 1080x1920, 44.27s | `SCHEDULED` | [13_01_27_short.mp4](videos/13_01_27_short/renders/13_01_27_short.mp4) |
+| `14_01_27_short` | short | The Grumpy Badger Who Found a Smile: Joy Is Contagious! | 62/100 | 2027-01-14 15:30:00 EST | 1080x1920, 43.15s | `SCHEDULED` | [14_01_27_short.mp4](videos/14_01_27_short/renders/14_01_27_short.mp4) |
+| `15_01_27_short` | short | Barnaby Beaver Who Refused to Sleep: Why Bodies Need Rest! | 62/100 | 2027-01-15 15:30:00 EST | 1080x1920, 45.63s | `SCHEDULED` | [15_01_27_short.mp4](videos/15_01_27_short/renders/15_01_27_short.mp4) |
+| `16_01_27_short` | short | The Little Hedgehog's Prickly Hug: You Are Special! | 62/100 | 2027-01-16 15:30:00 EST | 1080x1920, 44.45s | `SCHEDULED` | [16_01_27_short.mp4](videos/16_01_27_short/renders/16_01_27_short.mp4) |
+| `17_01_27_short` | short | Taking Turns and Sharing! | 94/100 | 2027-01-17 15:30:00 EST | 1080x1920, 45.6s | `SCHEDULED` | [17_01_27_short.mp4](videos/17_01_27_short/renders/17_01_27_short.mp4) |
 | `18_01_27_short` | short | The Boastful Rooster: Why True Champions Are Humble! | 80/100 | 2027-01-18 15:30:00 EST | 1080x1920, 44.02s | `READY_FOR_UPLOAD` | [18_01_27_short.mp4](videos/18_01_27_short/renders/18_01_27_short.mp4) |
 | `19_01_27_short` | short | Keeping Promises to Yourself! | 94/100 | 2027-01-19 15:30:00 EST | 1080x1920, 48.87s | `READY_FOR_UPLOAD` | [19_01_27_short.mp4](videos/19_01_27_short/renders/19_01_27_short.mp4) |
 | `20_01_27_short` | short | First Day of School Getting Bullied! | 94/100 | 2027-01-20 15:30:00 EST | 1080x1920, 45.73s | `READY_FOR_UPLOAD` | [20_01_27_short.mp4](videos/20_01_27_short/renders/20_01_27_short.mp4) |

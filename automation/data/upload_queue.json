@@ -2315,9 +2315,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\13_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "WpiA48NTPgw",
+      "youtube_url": "https://www.youtube.com/watch?v=WpiA48NTPgw",
       "scheduled_publish_est": "2027-01-13T15:30:00-05:00",
       "publish_at": "2027-01-13T20:30:00Z",
       "video_specs": {
@@ -2328,14 +2328,17 @@
       },
       "updated_at_ist": "2026-11-20T17:21:22.182089+05:30",
       "seo_txt_path": "videos/13_01_27_short/renders/13_01_27_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-25T16:07:07.453531+05:30",
+      "seo_updated_at_ist": "2026-11-25T20:04:52.423945+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "afraid of the dark bedtime story kids",
         "overcoming fear story",
         "bedroom shadows cartoon children",
         "overcoming bedtime fear story"
-      ]
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-25T20:05:12.739631+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "14_01_27_short",
@@ -2348,9 +2351,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\14_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "Vrla6jceAeg",
+      "youtube_url": "https://www.youtube.com/watch?v=Vrla6jceAeg",
       "scheduled_publish_est": "2027-01-14T15:30:00-05:00",
       "publish_at": "2027-01-14T20:30:00Z",
       "video_specs": {
@@ -2361,14 +2364,17 @@
       },
       "updated_at_ist": "2026-11-20T17:24:13.698891+05:30",
       "seo_txt_path": "videos/14_01_27_short/renders/14_01_27_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-25T16:07:07.866958+05:30",
+      "seo_updated_at_ist": "2026-11-25T20:04:52.905020+05:30",
       "realtime_seo_score": 62,
       "realtime_seo_queries": [
         "spreading kindness cartoon for kids",
         "spreading kindness",
         "spreading kindness to strangers",
         "spreading kindness video"
-      ]
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-25T20:05:19.653222+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "15_01_27_short",
@@ -2381,9 +2387,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\15_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "N-34_Sbxxno",
+      "youtube_url": "https://www.youtube.com/watch?v=N-34_Sbxxno",
       "scheduled_publish_est": "2027-01-15T15:30:00-05:00",
       "publish_at": "2027-01-15T20:30:00Z",
       "video_specs": {
@@ -2394,14 +2400,17 @@
       },
       "updated_at_ist": "2026-11-20T17:26:38.511955+05:30",
       "seo_txt_path": "videos/15_01_27_short/renders/15_01_27_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-25T16:07:08.340414+05:30",
+      "seo_updated_at_ist": "2026-11-25T20:04:53.393148+05:30",
       "realtime_seo_score": 62,
       "realtime_seo_queries": [
         "importance of sleep story for kids",
         "importance of sleep podcast",
         "bedtime stories good habits",
         "bedtime stories moral lesson"
-      ]
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-25T20:05:25.537033+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "16_01_27_short",
@@ -2414,9 +2423,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\16_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "0CtlpgUQqMg",
+      "youtube_url": "https://www.youtube.com/watch?v=0CtlpgUQqMg",
       "scheduled_publish_est": "2027-01-16T15:30:00-05:00",
       "publish_at": "2027-01-16T20:30:00Z",
       "video_specs": {
@@ -2427,29 +2436,32 @@
       },
       "updated_at_ist": "2026-11-20T17:28:46.329795+05:30",
       "seo_txt_path": "videos/16_01_27_short/renders/16_01_27_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-25T16:07:08.868229+05:30",
+      "seo_updated_at_ist": "2026-11-25T20:04:53.957025+05:30",
       "realtime_seo_score": 62,
       "realtime_seo_queries": [
         "self-esteem and uniqueness story kids",
-        "self esteem and self awareness",
-        "self esteem and self efficacy",
-        "self esteem and self image"
-      ]
+        "hedgehog quills",
+        "hedgehog spike",
+        "hedgehog quills hurt"
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-25T20:05:34.264218+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "17_01_27_short",
       "topic_id": "17_01_27",
       "format": "short",
       "scheduled_slot_est": "15:30 EST",
-      "title": "Taking Turns Video!",
+      "title": "Taking Turns and Sharing!",
       "video_path": "G:\\Faceless-Shorts\\videos\\17_01_27_short\\renders\\17_01_27_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\17_01_27_short\\renders\\17_01_27_thumb.jpg",
       "seo_path": "G:\\Faceless-Shorts\\videos\\17_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "wH_6PN3KCj8",
+      "youtube_url": "https://www.youtube.com/watch?v=wH_6PN3KCj8",
       "scheduled_publish_est": "2027-01-17T15:30:00-05:00",
       "publish_at": "2027-01-17T20:30:00Z",
       "video_specs": {
@@ -2460,14 +2472,17 @@
       },
       "updated_at_ist": "2026-11-20T17:30:50.011200+05:30",
       "seo_txt_path": "videos/17_01_27_short/renders/17_01_27_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-25T16:07:09.243917+05:30",
+      "seo_updated_at_ist": "2026-11-25T20:04:54.677345+05:30",
       "realtime_seo_score": 94,
       "realtime_seo_queries": [
         "taking turns and sharing for kids",
         "taking turns and sharing",
         "taking turns and sharing social story",
         "taking turns and sharing song"
-      ]
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-25T20:05:40.562844+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "18_01_27_short",
@@ -3640,6 +3655,6 @@
       "realtime_seo_score": 85
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-25T17:33:27.817088+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-25T20:05:02.481413+05:30",
   "realtime_seo_us_trends_checked": 10
 }
