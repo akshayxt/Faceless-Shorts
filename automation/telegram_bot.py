@@ -402,7 +402,19 @@ def _progress_bar(done: int, total: int, width: int = 16) -> str:
     return f"[{'█' * filled}{'░' * max(0, width - filled)}] {pct}%"
 
 
-def _load_queue_snapshot() -> dict:
+_LAST_SNAP_PULL_SEC = 0.0
+
+
+def _load_queue_snapshot(force_pull: bool = False) -> dict:
+    global _LAST_SNAP_PULL_SEC
+    now = time.time()
+    if force_pull or (now - _LAST_SNAP_PULL_SEC > 30.0):
+        _LAST_SNAP_PULL_SEC = now
+        try:
+            from github_sync import pull_state_files
+            pull_state_files()
+        except Exception:
+            pass
     uq = _read_json(UPLOAD_Q, {"items": []})
     tq = _read_json(TOPIC_Q, {"topics": []})
     growth = _read_json(GROWTH_PATH, {})
@@ -1450,6 +1462,7 @@ def handle_webhook_update(
             _edit_message_smart(msg, chat_id, msg_id, text, kb)
             tg_api("answerCallbackQuery", {"callback_query_id": cq_id})
         elif data == "cb:dash":
+            _load_queue_snapshot(force_pull=True)
             text, kb = build_dashboard_view(get_state())
             _edit_message_smart(msg, chat_id, msg_id, text, kb)
             tg_api("answerCallbackQuery", {"callback_query_id": cq_id, "text": "Dashboard refreshed"})

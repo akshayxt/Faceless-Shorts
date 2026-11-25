@@ -67,23 +67,64 @@ def _git_blob_sha(data: bytes) -> str:
 def pull_state_files() -> dict:
     """Pull latest state JSON files from GitHub main so stateless hosts never replay uploaded videos."""
     token, repo, branch = _gh_cfg()
-    if not token:
-        return {"pulled": [], "skipped": "missing GITHUB_TOKEN"}
-
     pulled: list[str] = []
     for rel in PULL_PATHS:
         try:
-            raw = _gh_request("GET", f"/repos/{repo}/contents/{rel}?ref={branch}", token, accept="application/vnd.github.raw+json")
+            raw = None
+            if token:
+                try:
+                    raw = _gh_request("GET", f"/repos/{repo}/contents/{rel}?ref={branch}", token, accept="application/vnd.github.raw+json")
+                except Exception:
+                    raw = None
+            if raw is None:
+                url = f"https://raw.githubusercontent.com/{repo}/{branch}/{rel}"
+                req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0", "Cache-Control": "no-cache"})
+                with urllib.request.urlopen(req, timeout=10) as resp:
+                    raw = resp.read()
             target = ROOT_DIR / rel
             target.parent.mkdir(parents=True, exist_ok=True)
             if not target.exists() or target.read_bytes() != raw:
                 target.write_bytes(raw)
                 pulled.append(rel)
         except urllib.error.HTTPError as exc:
-            print(f"GITHUB_PULL_WARN {rel}: HTTP {exc.code}", flush=True)
+            if exc.code != 404:
+                print(f"GITHUB_PULL_WARN {rel}: HTTP {exc.code}", flush=True)
         except Exception as exc:
             print(f"GITHUB_PULL_WARN {rel}: {exc}", flush=True)
     return {"pulled": pulled}
+
+
+def _merge_remote_upload_queue(repo: str, branch: str, token: str, uq_path: Path) -> None:
+    """Merge remote upload_queue.json into local file so no videos are ever accidentally removed."""
+    try:
+        raw_remote = None
+        if token:
+            try:
+                raw_remote = _gh_request("GET", f"/repos/{repo}/contents/automation/data/upload_queue.json?ref={branch}", token, accept="application/vnd.github.raw+json")
+            except Exception:
+                pass
+        if not raw_remote:
+            url = f"https://raw.githubusercontent.com/{repo}/{branch}/automation/data/upload_queue.json"
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0", "Cache-Control": "no-cache"})
+            with urllib.request.urlopen(req, timeout=10) as resp:
+                raw_remote = resp.read()
+        remote_data = json.loads(raw_remote.decode("utf-8"))
+        local_data = json.loads(uq_path.read_text(encoding="utf-8"))
+
+        merged = {x["id"]: x for x in remote_data.get("items", [])}
+        for it in local_data.get("items", []):
+            iid = it.get("id")
+            if iid in merged:
+                if it.get("status") in ("UPLOADED", "SCHEDULED", "UPLOADED_PRIVATE") or it.get("youtube_video_id"):
+                    merged[iid] = it
+            else:
+                merged[iid] = it
+
+        items_sorted = sorted(merged.values(), key=lambda x: x.get("scheduled_publish_est") or x.get("scheduled_time") or "")
+        local_data["items"] = items_sorted
+        uq_path.write_text(json.dumps(local_data, indent=2, ensure_ascii=False), encoding="utf-8")
+    except Exception as exc:
+        print(f"MERGE_REMOTE_UQ_WARN: {exc}", flush=True)
 
 
 def _candidate_sync_paths() -> list[Path]:
@@ -117,11 +158,19 @@ def _candidate_sync_paths() -> list[Path]:
     return unique
 
 
-def push_changed_files(commit_message: str = "chore(cloud-server): sync SEO, upload status & dashboards [skip render] [skip ci]") -> dict:
+def push_changed_files(
+    commit_message: str = "chore(cloud-server): sync SEO, upload status & dashboards [skip render] [skip ci]",
+    candidate_paths: list[Path] | None = None,
+) -> dict:
     """Create one atomic commit on GitHub for any modified state, SEO, or dashboard files."""
     token, repo, branch = _gh_cfg()
     if not token:
         return {"committed": False, "skipped": "missing GITHUB_TOKEN"}
+
+    uq_path = AUTO_DIR / "data" / "upload_queue.json"
+    effective_paths = candidate_paths if candidate_paths is not None else _candidate_sync_paths()
+    if uq_path in effective_paths and uq_path.exists():
+        _merge_remote_upload_queue(repo, branch, token, uq_path)
 
     tree_resp = _gh_request("GET", f"/repos/{repo}/git/trees/{branch}?recursive=1", token)
     remote_shas = {
@@ -131,7 +180,9 @@ def push_changed_files(commit_message: str = "chore(cloud-server): sync SEO, upl
     }
 
     changed: list[tuple[str, bytes]] = []
-    for path in _candidate_sync_paths():
+    for path in effective_paths:
+        if not (path.exists() and path.is_file()):
+            continue
         rel = to_repo_posix(path)
         raw = path.read_bytes()
         if remote_shas.get(rel) != _git_blob_sha(raw):

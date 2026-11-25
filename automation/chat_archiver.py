@@ -163,8 +163,16 @@ def sync_chat_data_to_github() -> dict:
     """Commit any updated chat logs to GitHub repository via github_sync."""
     global _HAS_NEW_DATA
     from github_sync import push_changed_files
+    from repo_paths import AUTO_DIR
     commit_msg = f"chore(chat-backup): sync group chat data ({_now_ist()}) [skip render] [skip ci]"
-    res = push_changed_files(commit_message=commit_msg)
+    chat_paths = [
+        AUTO_DIR / "data" / "chatdata.json",
+        AUTO_DIR / "data" / "chat_sync_settings.json",
+    ]
+    chat_logs_dir = AUTO_DIR / "data" / "chat_logs"
+    if chat_logs_dir.exists():
+        chat_paths.extend(sorted(chat_logs_dir.glob("*.json")))
+    res = push_changed_files(commit_message=commit_msg, candidate_paths=chat_paths)
     if res.get("committed"):
         _HAS_NEW_DATA = False
         with _LOCK:
