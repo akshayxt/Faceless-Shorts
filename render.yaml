@@ -30,5 +30,7 @@ services:
         sync: false
       - key: TELEGRAM_OWNER_ID
         value: "8017642813"
+      - key: MAKE_WEBHOOK_URL
+        value: "https://hook.us2.make.com/dp1s7d2wl75ut6bdd585s3g292gx78or"
       - key: GITHUB_TOKEN
         sync: false

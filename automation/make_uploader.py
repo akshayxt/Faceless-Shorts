@@ -24,14 +24,17 @@ def _now_ist() -> str:
     return datetime.now(IST).strftime("%Y-%m-%d %H:%M:%S IST")
 
 
+DEFAULT_MAKE_WEBHOOK_URL = "https://hook.us2.make.com/dp1s7d2wl75ut6bdd585s3g292gx78or"
+
+
 def load_make_config() -> dict:
     cfg: dict[str, Any] = {
         "enabled": True,
-        "webhook_url": os.environ.get("MAKE_WEBHOOK_URL", "").strip(),
+        "webhook_url": os.environ.get("MAKE_WEBHOOK_URL", "").strip() or DEFAULT_MAKE_WEBHOOK_URL,
         "api_key": os.environ.get("MAKE_API_KEY", "").strip(),
         "scenario_id": os.environ.get("MAKE_SCENARIO_ID", "").strip(),
         "last_trigger_ist": None,
-        "last_status": "READY_FOR_SETUP",
+        "last_status": "CONFIGURED",
     }
     if MAKE_CONFIG_PATH.exists():
         try:
@@ -41,8 +44,15 @@ def load_make_config() -> dict:
                     cfg[k] = v
         except Exception:
             pass
+    if not cfg.get("webhook_url"):
+        cfg["webhook_url"] = DEFAULT_MAKE_WEBHOOK_URL
+        cfg["enabled"] = True
+        cfg["last_status"] = "CONFIGURED"
     # Env var takes precedence if provided
     env_hook = os.environ.get("MAKE_WEBHOOK_URL", "").strip()
+    if env_hook:
+        cfg["webhook_url"] = env_hook
+    return cfg
     if env_hook:
         cfg["webhook_url"] = env_hook
     return cfg
