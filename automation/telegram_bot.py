@@ -763,6 +763,30 @@ def build_details_view(server_state: dict) -> tuple[str, dict]:
     return text, kb
 
 
+def build_links_view() -> tuple[str, dict]:
+    pub_url = public_base_url()
+    dash_url = f"{pub_url}/dashboard"
+    status_url = f"{pub_url}/status"
+    yt_url = "https://www.youtube.com/channel/UCR-Di4-tEAdUM7oPzlGn-vg"
+    gh_url = f"https://github.com/{os.environ.get('GITHUB_REPOSITORY', DEFAULT_REPO)}"
+    text = (
+        "🔗 <b>BabyBeats Autopilot — Web & Service Links</b>\n\n"
+        f"• 🌐 <b>Live Web Dashboard:</b>\n<a href=\"{dash_url}\">{dash_url}</a>\n\n"
+        f"• 🩺 <b>Cloud Health &amp; Telemetry API:</b>\n<a href=\"{status_url}\">{status_url}</a>\n\n"
+        f"• 🎬 <b>YouTube Channel:</b>\n<a href=\"{yt_url}\">BabyBeats Rhymo</a>\n\n"
+        f"• 📦 <b>GitHub Repository:</b>\n<a href=\"{gh_url}\">{gh_url}</a>\n\n"
+        "<i>Web Dashboard runs 24/7 with real-time refresh every 30s.</i>"
+    )
+    kb = {
+        "inline_keyboard": [
+            [{"text": "🚀 Open Web Dashboard", "url": dash_url}],
+            [{"text": "📊 Bot Dashboard", "callback_data": "cb:dash"}, {"text": "🩺 Health Status", "callback_data": "cb:status"}],
+            [{"text": "🔙 Master Panel", "callback_data": "cb:panel:main"}]
+        ]
+    }
+    return text, kb
+
+
 def build_ai_guide_view() -> tuple[str, dict]:
     text = (
         f"🤖 <b>Antigravity Telegram AI Command Mode</b>\n\n"

@@ -27,6 +27,8 @@ PULL_PATHS = (
     "automation/data/bot_audit_logs.json",
     "automation/data/chatdata.json",
     "automation/data/chat_sync_settings.json",
+    "automation/dashboard.html",
+    "automation/growth_dashboard.md",
 )
 
 
