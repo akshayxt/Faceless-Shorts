@@ -1,38 +1,8 @@
 {
   "title": "Master Chat Data Logs",
-  "updated_at_ist": "2026-11-25 23:21:56 IST",
-  "total_messages": 1012,
+  "updated_at_ist": "2026-11-25 23:53:42 IST",
+  "total_messages": 1015,
   "recent_messages": [
-    {
-      "msg_id": 27079,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 7118065044,
-      "sender_username": "AkshayGangwar",
-      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
-      "text": "jk56",
-      "date_ist": "2026-11-17 13:36:42 IST"
-    },
-    {
-      "msg_id": 27080,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 7118065044,
-      "sender_username": "AkshayGangwar",
-      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
-      "text": "hii",
-      "date_ist": "2026-11-17 13:36:49 IST"
-    },
-    {
-      "msg_id": 27094,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 7118065044,
-      "sender_username": "AkshayGangwar",
-      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
-      "text": "/call -supreme",
-      "date_ist": "2026-11-17 21:56:56 IST"
-    },
     {
       "msg_id": 27104,
       "chat_id": -1001997761568,
@@ -10002,6 +9972,36 @@
       "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
       "text": "/make@XTAutomationRobot",
       "date_ist": "2026-11-25 23:21:56 IST"
+    },
+    {
+      "msg_id": 30944,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": ".leavevc",
+      "date_ist": "2026-11-25 23:53:36 IST"
+    },
+    {
+      "msg_id": 30945,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 6689650296,
+      "sender_username": null,
+      "sender_name": "Anvi",
+      "text": "👋 Left the Voice Chat. Phir milte hain!",
+      "date_ist": "2026-11-25 23:53:38 IST"
+    },
+    {
+      "msg_id": 30946,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 9096714928,
+      "sender_username": "AnviSingh143",
+      "sender_name": "𝘈𝘯𝘷𝘪 💗💞",
+      "text": "Nazar lag jayegi babu, itni jaldi photo nahi dikhaungi! Pehle thodi taareef karo! 🙈✨",
+      "date_ist": "2026-11-25 23:53:42 IST"
     }
   ]
 }
