@@ -1,0 +1,52 @@
+{
+  "title": "The Boastful Rooster: Why True Champions Are Humble!",
+  "thumb_text": "I AM BEST?!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Reggie the red rooster strutted on the barnyard fence, puffing out his glossy chest!",
+      "caps": "Reggie the red rooster strutted on the barnyard *FENCE, | puffing out his glossy *CHEST!"
+    },
+    {
+      "text": "I have the loudest crow, the brightest feathers, and the highest jumps in town! he bragged!",
+      "caps": "I have the loudest crow, the brightest *FEATHERS, | and the highest jumps in town! he *BRAGGED!"
+    },
+    {
+      "text": "Whenever his friends made great paintings or built castles, Reggie criticized them!",
+      "caps": "Whenever his friends made great *PAINTINGS | or built castles, Reggie criticized *THEM!"
+    },
+    {
+      "text": "Nobody likes playing with someone who always insists they are better than everyone!",
+      "caps": "Nobody likes playing with someone who always insists *THEY | are better than *EVERYONE!"
+    },
+    {
+      "text": "At the county fair race, Reggie tripped over his own big spurs and landed in mud!",
+      "caps": "At the county fair race, Reggie tripped over his own big *SPURS | and landed in *MUD!"
+    },
+    {
+      "text": "Instead of laughing at him, his barnyard friends helped him up and cleaned his feathers!",
+      "caps": "Instead of laughing at him, his barnyard friends *HELPED | him up and cleaned his *FEATHERS!"
+    },
+    {
+      "text": "Reggie blushed and realized true greatness means lifting others up with cheer!",
+      "caps": "Reggie blushed and realized true *GREATNESS | means lifting others up with *CHEER!"
+    },
+    {
+      "text": "Be humble, cheer for your teammates, and let your kindness speak for itself!",
+      "caps": "Be humble, cheer for your *TEAMMATES, | and let your kindness speak for *ITSELF!"
+    },
+    {
+      "text": "Cheer for your friends and subscribe to BabyBeats Rhymo!",
+      "caps": "*CHEER for your friends | and *SUBSCRIBE to | *BABYBEATS | *RHYMO!"
+    }
+  ]
+}

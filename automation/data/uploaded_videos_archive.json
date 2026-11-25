@@ -1,6 +1,6 @@
 {
   "last_updated_ist": "2026-11-25 23:21:57 IST",
-  "total_archived": 75,
+  "total_archived": 68,
   "videos": [
     {
       "id": "day01_short",
@@ -681,76 +681,6 @@
       "publish_date": "2027-01-17T20:30:00Z",
       "format": "short",
       "archived_at_ist": "2026-11-25 23:21:55 IST"
-    },
-    {
-      "id": "18_01_27_short",
-      "file_name": "G:\\Faceless-Shorts\\videos\\18_01_27_short\\renders\\18_01_27_short.mp4",
-      "title": "The Boastful Rooster: Why True Champions Are Humble!",
-      "youtube_video_id": null,
-      "uploaded_date": "2026-11-25 23:19:32 IST",
-      "publish_date": "2027-01-18T20:30:00Z",
-      "format": "short",
-      "archived_at_ist": "2026-11-25 23:21:55 IST"
-    },
-    {
-      "id": "19_01_27_short",
-      "file_name": "G:\\Faceless-Shorts\\videos\\19_01_27_short\\renders\\19_01_27_short.mp4",
-      "title": "Keeping Promises to Yourself!",
-      "youtube_video_id": null,
-      "uploaded_date": "2026-11-25 23:21:43 IST",
-      "publish_date": "2027-01-19T20:30:00Z",
-      "format": "short",
-      "archived_at_ist": "2026-11-25 23:21:55 IST"
-    },
-    {
-      "id": "20_01_27_short",
-      "file_name": "G:\\Faceless-Shorts\\videos\\20_01_27_short\\renders\\20_01_27_short.mp4",
-      "title": "First Day of School Getting Bullied!",
-      "youtube_video_id": null,
-      "uploaded_date": "2026-11-25 23:21:52 IST",
-      "publish_date": "2027-01-20T20:30:00Z",
-      "format": "short",
-      "archived_at_ist": "2026-11-25 23:21:55 IST"
-    },
-    {
-      "id": "21_01_27_short",
-      "file_name": "G:\\Faceless-Shorts\\videos\\21_01_27_short\\renders\\21_01_27_short.mp4",
-      "title": "Felix Fox & The Glowing Tablet: Nature Is Fun!",
-      "youtube_video_id": null,
-      "uploaded_date": "2026-11-25 23:21:54 IST",
-      "publish_date": "2027-01-21T20:30:00Z",
-      "format": "short",
-      "archived_at_ist": "2026-11-25 23:21:55 IST"
-    },
-    {
-      "id": "22_01_27_short",
-      "file_name": "G:\\Faceless-Shorts\\videos\\22_01_27_short\\renders\\22_01_27_short.mp4",
-      "title": "Tommy Turtle Who Kept Falling: Practice Makes Perfect!",
-      "youtube_video_id": null,
-      "uploaded_date": "2026-11-25 23:21:55 IST",
-      "publish_date": "2027-01-22T20:30:00Z",
-      "format": "short",
-      "archived_at_ist": "2026-11-25 23:21:55 IST"
-    },
-    {
-      "id": "23_01_27_short",
-      "file_name": "G:\\Faceless-Shorts\\videos\\23_01_27_short\\renders\\23_01_27_short.mp4",
-      "title": "The Greedy Hamster's Stash: Giving Feels Better!",
-      "youtube_video_id": null,
-      "uploaded_date": "2026-11-25 23:21:56 IST",
-      "publish_date": "2027-01-23T20:30:00Z",
-      "format": "short",
-      "archived_at_ist": "2026-11-25 23:21:56 IST"
-    },
-    {
-      "id": "24_01_27_short",
-      "file_name": "G:\\Faceless-Shorts\\videos\\24_01_27_short\\renders\\24_01_27_short.mp4",
-      "title": "Charlie Cat Forgot to Say Please: The Courtesy Key!",
-      "youtube_video_id": null,
-      "uploaded_date": "2026-11-25 23:21:57 IST",
-      "publish_date": "2027-01-24T20:30:00Z",
-      "format": "short",
-      "archived_at_ist": "2026-11-25 23:21:57 IST"
     }
   ]
 }

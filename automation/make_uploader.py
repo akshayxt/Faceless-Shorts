@@ -211,11 +211,11 @@ def execute_make_upload(item_id: str | None = None, max_uploads: int = 1) -> dic
         # Save updated queue
         UPLOAD_Q_PATH.write_text(json.dumps(q_data, indent=2, ensure_ascii=False), encoding="utf-8")
         
-        # Clean local media and archive
+        # Retain media so Make.com's HTTP download can retrieve the binary .mp4
         for up in uploaded_items:
             try:
                 from auto_clean_archive import archive_single_item
-                archive_single_item(up["id"])
+                archive_single_item(up["id"], purge_media=False)
             except Exception:
                 pass
 

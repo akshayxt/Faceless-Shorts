@@ -3,92 +3,6 @@
   "format": "short",
   "title_options": [
     {
-      "title": "First Day of School Getting Bullied!",
-      "chars": 36,
-      "score": 94,
-      "issues": [
-        [
-          "no-number",
-          "no number, date or name - the most reliable single fix"
-        ]
-      ]
-    },
-    {
-      "title": "First Day of School Getting Bullied! #Shorts",
-      "chars": 44,
-      "score": 80,
-      "issues": [
-        [
-          "mobile",
-          "a mobile feed shows about \"First Day of School Getting Bullied!...\" - check the subject survives"
-        ],
-        [
-          "no-number",
-          "no number, date or name - the most reliable single fix"
-        ]
-      ]
-    },
-    {
-      "title": "Making Friends Read Aloud!",
-      "chars": 26,
-      "score": 76,
-      "issues": [
-        [
-          "no-number",
-          "no number, date or name - the most reliable single fix"
-        ],
-        [
-          "duplicate",
-          "thumbnail repeats the title on friends - the thumbnail should say what the title does not"
-        ]
-      ]
-    },
-    {
-      "title": "Making Friends Preschool Story!",
-      "chars": 31,
-      "score": 76,
-      "issues": [
-        [
-          "no-number",
-          "no number, date or name - the most reliable single fix"
-        ],
-        [
-          "duplicate",
-          "thumbnail repeats the title on friends - the thumbnail should say what the title does not"
-        ]
-      ]
-    },
-    {
-      "title": "Making Friends Read Aloud! #Shorts",
-      "chars": 34,
-      "score": 76,
-      "issues": [
-        [
-          "no-number",
-          "no number, date or name - the most reliable single fix"
-        ],
-        [
-          "duplicate",
-          "thumbnail repeats the title on friends - the thumbnail should say what the title does not"
-        ]
-      ]
-    },
-    {
-      "title": "Making Friends Preschool Story! #Shorts",
-      "chars": 39,
-      "score": 76,
-      "issues": [
-        [
-          "no-number",
-          "no number, date or name - the most reliable single fix"
-        ],
-        [
-          "duplicate",
-          "thumbnail repeats the title on friends - the thumbnail should say what the title does not"
-        ]
-      ]
-    },
-    {
       "title": "Penny Penguin's First Day at Preschool: Making Friends!",
       "chars": 55,
       "score": 62,
@@ -108,16 +22,27 @@
       ]
     }
   ],
-  "selected_title": "First Day of School Getting Bullied!",
+  "selected_title": "Penny Penguin's First Day at Preschool: Making Friends!",
   "selected_title_lint": {
-    "title": "First Day of School Getting Bullied!",
-    "chars": 36,
-    "score": 94,
+    "title": "Penny Penguin's First Day at Preschool: Making Friends!",
+    "chars": 55,
+    "score": 62,
     "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"Penny Penguin's First Day at Preschool:...\" - check the subject survives"
+      ],
       [
         "no-number",
         "no number, date or name - the most reliable single fix"
+      ],
+      [
+        "duplicate",
+        "thumbnail repeats the title on friends - the thumbnail should say what the title does not"
       ]
+    ],
+    "good": [
+      "55 characters, inside the 60-character desktop cut"
     ]
   },
   "thumb_text": "NEW FRIENDS!",
@@ -143,36 +68,19 @@
   ],
   "target_search_queries": [
     "first day of school bravery cartoon kids",
-    "first day of school getting bullied",
-    "making friends preschool story",
-    "making friends read aloud"
+    "making friends at preschool story",
+    "shy penguin first day cartoon",
+    "social confidence for toddlers"
   ],
   "realtime_seo": {
-    "mode": "live_us_autocomplete_and_trends",
-    "fetched_at_ist": "2026-11-25T22:10:35.704124+05:30",
-    "live_yt_suggest_queries": [
-      "first day of school getting bullied",
-      "making friends preschool story",
-      "making friends read aloud",
-      "penguins don't wear sweaters read aloud",
-      "sharing is caring read aloud"
-    ],
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
     "matched_safe_us_trends": [],
-    "observed_us_hashtags": [
-      "#shorts",
-      "#facts",
-      "#kids",
-      "#humanbodyfacts",
-      "#sciencefacts"
-    ]
+    "observed_us_hashtags": []
   },
-  "description": "First Day of School Getting Bullied! — Penny hid behind her mommy's flipper on the first morning of snow school! How did one blue crayon help her make three best friends?\nKids science answer for \"first day of school bravery cartoon kids\" with fun 2D animation by BabyBeats Rhymo!\n\nEveryone feels butterflies on their first day. Walking up with a smile and saying 'Hi, want to build blocks?' turns strangers into buddies.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- first day of school getting bullied\n- making friends preschool story\n- making friends read aloud\n- penguins don't wear sweaters read aloud\n- sharing is caring read aloud\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "description": "Penny Penguin's First Day at Preschool: Making Friends! — Penny hid behind her mommy's flipper on the first morning of snow school! How did one blue crayon help her make three best friends?\nKids science answer for \"first day of school bravery cartoon kids\" with fun 2D animation by BabyBeats Rhymo!\n\nEveryone feels butterflies on their first day. Walking up with a smile and saying 'Hi, want to build blocks?' turns strangers into buddies.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
   "tags": [
-    "first day of school getting bullied",
-    "making friends preschool story",
-    "making friends read aloud",
-    "penguins don't wear sweaters read aloud",
-    "sharing is caring read aloud",
     "first day of school bravery cartoon kids",
     "making friends at preschool story",
     "shy penguin first day cartoon",
@@ -182,15 +90,15 @@
     "science for kids",
     "educational cartoons for kids",
     "fun facts for kids",
-    "youtube shorts"
+    "youtube shorts",
+    "shorts"
   ],
   "hashtags": [
     "#BabyBeatsRhymo",
     "#KidsScience",
     "#ScienceForKids",
     "#EducationalCartoons",
-    "#Shorts",
-    "#facts"
+    "#Shorts"
   ],
   "chapters": [],
   "pinned_comment": "Did you know this before today? Drop your next curious science question below!",

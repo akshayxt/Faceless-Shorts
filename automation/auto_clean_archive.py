@@ -143,8 +143,8 @@ def archive_and_clean_all(remove_from_disk: bool = True, git_rm: bool = True) ->
     }
 
 
-def archive_single_item(item_id: str) -> None:
-    """Archive a single video item right after it is uploaded."""
+def archive_single_item(item_id: str, purge_media: bool = True) -> None:
+    """Archive a single video item metadata; optionally purge video media."""
     if not UPLOAD_Q_PATH.exists():
         return
     try:
@@ -180,19 +180,22 @@ def archive_single_item(item_id: str) -> None:
         archive["total_archived"] = len(archived_list)
         save_archive(archive)
 
-        # Delete project folder
-        vdir = ROOT_DIR / "videos" / item_id
-        rel_posix = f"videos/{item_id}"
-        subprocess.run(
-            ["git", "rm", "-r", "-f", "--ignore-unmatch", rel_posix],
-            cwd=str(ROOT_DIR),
-            capture_output=True,
-            text=True,
-            check=False
-        )
-        if vdir.exists():
-            shutil.rmtree(vdir, ignore_errors=True)
-        print(f"ARCHIVED_AND_PURGED: {item_id} (only metadata retained in {ARCHIVE_PATH.name})", flush=True)
+        if purge_media:
+            # Delete project folder
+            vdir = ROOT_DIR / "videos" / item_id
+            rel_posix = f"videos/{item_id}"
+            subprocess.run(
+                ["git", "rm", "-r", "-f", "--ignore-unmatch", rel_posix],
+                cwd=str(ROOT_DIR),
+                capture_output=True,
+                text=True,
+                check=False
+            )
+            if vdir.exists():
+                shutil.rmtree(vdir, ignore_errors=True)
+            print(f"ARCHIVED_AND_PURGED: {item_id} (only metadata retained in {ARCHIVE_PATH.name})", flush=True)
+        else:
+            print(f"ARCHIVED_METADATA_RETAINED: {item_id} (media preserved for Make.com download)", flush=True)
     except Exception as exc:
         print(f"ARCHIVE_SINGLE_WARN {item_id}: {exc}", flush=True)
 

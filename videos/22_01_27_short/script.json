@@ -1,0 +1,52 @@
+{
+  "title": "Tommy Turtle Who Kept Falling: Practice Makes Perfect!",
+  "thumb_text": "DON'T GIVE UP!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Tommy the turtle got a shiny pair of four-wheeled roller skates for his birthday!",
+      "caps": "Tommy the turtle got a shiny pair of four-wheeled *ROLLER | skates for his *BIRTHDAY!"
+    },
+    {
+      "text": "He pushed off the porch, wobbled sideways, and BONK! fell flat on his hard shell!",
+      "caps": "He pushed off the porch, wobbled sideways, and *BONK! | fell flat on his hard *SHELL!"
+    },
+    {
+      "text": "I'm clumsy, I have zero balance, I quit! Tommy grumbled, wiping away a tear!",
+      "caps": "I'm clumsy, I have zero balance, I *QUIT! | Tommy grumbled, wiping away a *TEAR!"
+    },
+    {
+      "text": "Wise Badger rolled over smoothly and said, Nobody is born an Olympic roller champion!",
+      "caps": "Wise Badger rolled over smoothly and said, Nobody is born an Olympic *ROLLER | *CHAMPION!"
+    },
+    {
+      "text": "Every time you stumble and fall, your brain muscles learn how to balance better next time!",
+      "caps": "Every time you stumble and fall, your brain muscles learn how to balance *BETTER | next *TIME!"
+    },
+    {
+      "text": "Tommy strapped on his helmet, tightened his knee pads, and tried taking two small glides!",
+      "caps": "Tommy strapped on his helmet, tightened his knee *PADS, | and tried taking two small *GLIDES!"
+    },
+    {
+      "text": "Gliding left, gliding right! By evening, he was coasting down the path with the wind in his face!",
+      "caps": "Gliding left, gliding right! By evening, he was coasting down the path with the *WIND | in his *FACE!"
+    },
+    {
+      "text": "Mistakes are not stopping signs—they are stepping stones toward becoming amazing!",
+      "caps": "Mistakes are not stopping signs—they are stepping stones toward *BECOMING | *AMAZING!"
+    },
+    {
+      "text": "Never give up and subscribe to BabyBeats Rhymo for daily encouragement!",
+      "caps": "*NEVER give up | and *SUBSCRIBE to | *BABYBEATS Rhymo | for daily *ENCOURAGEMENT!"
+    }
+  ]
+}

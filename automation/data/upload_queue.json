@@ -2495,7 +2495,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\18_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "SCHEDULED",
+      "status": "READY_FOR_UPLOAD",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-01-18T15:30:00-05:00",
@@ -2516,9 +2516,9 @@
         "humility as a christian",
         "rooster story in english"
       ],
-      "upload_method": "make_com_webhook",
-      "uploaded_at_ist": "2026-11-25 23:19:32 IST",
-      "make_response": "Accepted"
+      "upload_method": null,
+      "uploaded_at_ist": null,
+      "make_response": null
     },
     {
       "id": "19_01_27_short",
@@ -2531,7 +2531,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\19_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "SCHEDULED",
+      "status": "READY_FOR_UPLOAD",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-01-19T15:30:00-05:00",
@@ -2552,9 +2552,9 @@
         "library book care cartoon kids",
         "trustworthiness moral story children"
       ],
-      "upload_method": "make_com_webhook",
-      "uploaded_at_ist": "2026-11-25 23:21:43 IST",
-      "make_response": "Accepted"
+      "upload_method": null,
+      "uploaded_at_ist": null,
+      "make_response": null
     },
     {
       "id": "20_01_27_short",
@@ -2567,7 +2567,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\20_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "SCHEDULED",
+      "status": "READY_FOR_UPLOAD",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-01-20T15:30:00-05:00",
@@ -2588,9 +2588,9 @@
         "making friends preschool story",
         "making friends read aloud"
       ],
-      "upload_method": "make_com_webhook",
-      "uploaded_at_ist": "2026-11-25 23:21:52 IST",
-      "make_response": "Accepted"
+      "upload_method": null,
+      "uploaded_at_ist": null,
+      "make_response": null
     },
     {
       "id": "21_01_27_short",
@@ -2603,7 +2603,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\21_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "SCHEDULED",
+      "status": "READY_FOR_UPLOAD",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-01-21T15:30:00-05:00",
@@ -2624,9 +2624,9 @@
         "screen time balance song",
         "screen time management"
       ],
-      "upload_method": "make_com_webhook",
-      "uploaded_at_ist": "2026-11-25 23:21:54 IST",
-      "make_response": "Accepted"
+      "upload_method": null,
+      "uploaded_at_ist": null,
+      "make_response": null
     },
     {
       "id": "22_01_27_short",
@@ -2639,7 +2639,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\22_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "SCHEDULED",
+      "status": "READY_FOR_UPLOAD",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-01-22T15:30:00-05:00",
@@ -2660,9 +2660,9 @@
         "growth mindset social story",
         "growth mindset for kids"
       ],
-      "upload_method": "make_com_webhook",
-      "uploaded_at_ist": "2026-11-25 23:21:55 IST",
-      "make_response": "Accepted"
+      "upload_method": null,
+      "uploaded_at_ist": null,
+      "make_response": null
     },
     {
       "id": "23_01_27_short",
@@ -2675,7 +2675,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\23_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "SCHEDULED",
+      "status": "READY_FOR_UPLOAD",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-01-23T15:30:00-05:00",
@@ -2696,9 +2696,9 @@
         "greedy squirrel",
         "greedy and the porridge pot"
       ],
-      "upload_method": "make_com_webhook",
-      "uploaded_at_ist": "2026-11-25 23:21:56 IST",
-      "make_response": "Accepted"
+      "upload_method": null,
+      "uploaded_at_ist": null,
+      "make_response": null
     },
     {
       "id": "24_01_27_short",
@@ -2711,7 +2711,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\24_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "SCHEDULED",
+      "status": "READY_FOR_UPLOAD",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-01-24T15:30:00-05:00",
@@ -2732,9 +2732,9 @@
         "science facts for kids",
         "interesting science facts for kids"
       ],
-      "upload_method": "make_com_webhook",
-      "uploaded_at_ist": "2026-11-25 23:21:57 IST",
-      "make_response": "Accepted"
+      "upload_method": null,
+      "uploaded_at_ist": null,
+      "make_response": null
     },
     {
       "id": "25_01_27_short",

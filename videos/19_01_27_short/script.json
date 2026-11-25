@@ -1,0 +1,52 @@
+{
+  "title": "Leo & The Lost Library Book: Keeping Promises!",
+  "thumb_text": "PROMISE SECRET!",
+  "voice": "am_puck",
+  "speed": 1.05,
+  "music": "bed",
+  "lead": 0.35,
+  "gap": 0.25,
+  "outro": 0.85,
+  "sources": [
+    "https://kidshealth.org",
+    "https://www.zerotothree.org"
+  ],
+  "lines": [
+    {
+      "text": "Leo checked out a spectacular book about roaring dinosaurs from the library!",
+      "caps": "Leo checked out a spectacular book about roaring *DINOSAURS | from the *LIBRARY!"
+    },
+    {
+      "text": "I promise to keep it dry, clean, and return it on Friday! Leo told Librarian Owl.",
+      "caps": "I promise to keep it dry, clean, and return it on *FRIDAY! | Leo told Librarian *OWL!"
+    },
+    {
+      "text": "On Thursday afternoon, he tossed the book into the wet grass while chasing a soccer ball!",
+      "caps": "On Thursday afternoon, he tossed the book into the wet *GRASS | while chasing a soccer *BALL!"
+    },
+    {
+      "text": "Dark storm clouds rolled in, and raindrops began splashing onto the colorful pages!",
+      "caps": "Dark storm clouds rolled *IN, | and raindrops began splashing onto the colorful *PAGES!"
+    },
+    {
+      "text": "Leo remembered his promise, dove across the lawn, and shielded the book with his coat!",
+      "caps": "Leo remembered his promise, dove across the *LAWN, | and shielded the book with his *COAT!"
+    },
+    {
+      "text": "He dried the cover with a soft towel, placed it safely in his backpack, and returned it on time!",
+      "caps": "He dried the cover with a soft towel, placed it safely in his *BACKPACK, | and returned it on *TIME!"
+    },
+    {
+      "text": "Librarian Owl stamped his card with a gold star and said, You are someone we can trust!",
+      "caps": "Librarian Owl stamped his card with a gold *STAR | and said, You are someone we can *TRUST!"
+    },
+    {
+      "text": "Keeping your promises is like building an invisible bridge of trust that never breaks!",
+      "caps": "Keeping your promises is like building an invisible bridge of *TRUST | that never *BREAKS!"
+    },
+    {
+      "text": "Keep your word and subscribe to BabyBeats Rhymo for daily stories!",
+      "caps": "*KEEP your word | and *SUBSCRIBE to | *BABYBEATS Rhymo | for daily *STORIES!"
+    }
+  ]
+}
