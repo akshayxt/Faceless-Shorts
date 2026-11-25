@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-25 17:13:59 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-25 17:33:35 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -18,7 +18,7 @@
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `14` days / **`357.1` subs/day** |
 | Videos Rendered & Verified | **`110`** (`63` uploaded/scheduled, `47` remaining) |
-| Real-Time US SEO Sync | `2026-11-25T16:07:15.979125+05:30` |
+| Real-Time US SEO Sync | `2026-11-25T17:33:27.817088+05:30` |
 | Topic Backlog Remaining | `1` pending out of `82` scored |
 
 ## 2. Production & Upload Queue Status
@@ -92,7 +92,7 @@
 | `14_01_27_short` | short | The Grumpy Badger Who Found a Smile: Joy Is Contagious! | 62/100 | 2027-01-14 15:30:00 EST | 1080x1920, 43.15s | `READY_FOR_UPLOAD` | [14_01_27_short.mp4](videos/14_01_27_short/renders/14_01_27_short.mp4) |
 | `15_01_27_short` | short | Barnaby Beaver Who Refused to Sleep: Why Bodies Need Rest! | 62/100 | 2027-01-15 15:30:00 EST | 1080x1920, 45.63s | `READY_FOR_UPLOAD` | [15_01_27_short.mp4](videos/15_01_27_short/renders/15_01_27_short.mp4) |
 | `16_01_27_short` | short | The Little Hedgehog's Prickly Hug: You Are Special! | 62/100 | 2027-01-16 15:30:00 EST | 1080x1920, 44.45s | `READY_FOR_UPLOAD` | [16_01_27_short.mp4](videos/16_01_27_short/renders/16_01_27_short.mp4) |
-| `17_01_27_short` | short | Taking Turns Video! | 94/100 | 2027-01-17 15:30:00 EST | 1080x1920, 45.6s | `READY_FOR_UPLOAD` | [17_01_27_short.mp4](videos/17_01_27_short/renders/17_01_27_short.mp4) |
+| `17_01_27_short` | short | Taking Turns and Sharing! | 94/100 | 2027-01-17 15:30:00 EST | 1080x1920, 45.6s | `READY_FOR_UPLOAD` | [17_01_27_short.mp4](videos/17_01_27_short/renders/17_01_27_short.mp4) |
 | `18_01_27_short` | short | The Boastful Rooster: Why True Champions Are Humble! | 80/100 | 2027-01-18 15:30:00 EST | 1080x1920, 44.02s | `READY_FOR_UPLOAD` | [18_01_27_short.mp4](videos/18_01_27_short/renders/18_01_27_short.mp4) |
 | `19_01_27_short` | short | Keeping Promises to Yourself! | 94/100 | 2027-01-19 15:30:00 EST | 1080x1920, 48.87s | `READY_FOR_UPLOAD` | [19_01_27_short.mp4](videos/19_01_27_short/renders/19_01_27_short.mp4) |
 | `20_01_27_short` | short | First Day of School Getting Bullied! | 94/100 | 2027-01-20 15:30:00 EST | 1080x1920, 45.73s | `READY_FOR_UPLOAD` | [20_01_27_short.mp4](videos/20_01_27_short/renders/20_01_27_short.mp4) |
@@ -157,19 +157,5 @@
 
 ## 4. Automation Loop Heartbeat (Latest Entries)
 ```text
-[2026-11-12 11:09:51 IST] [DASHBOARD]   File "G:\Faceless-Shorts\automation\refresh_dashboard.py", line 25, in read_json
-[2026-11-12 11:09:51 IST] [DASHBOARD]     return json.loads(p.read_text(encoding="utf-8"))
-[2026-11-12 11:09:51 IST] [DASHBOARD]            ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-[2026-11-12 11:09:51 IST] [DASHBOARD]   File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\json\__init__.py", line 352, in loads
-[2026-11-12 11:09:51 IST] [DASHBOARD]     return _default_decoder.decode(s)
-[2026-11-12 11:09:51 IST] [DASHBOARD]            ~~~~~~~~~~~~~~~~~~~~~~~^^^
-[2026-11-12 11:09:51 IST] [DASHBOARD]   File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\json\decoder.py", line 345, in decode
-[2026-11-12 11:09:51 IST] [DASHBOARD]     obj, end = self.raw_decode(s, idx=_w(s, 0).end())
-[2026-11-12 11:09:51 IST] [DASHBOARD]                ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
-[2026-11-12 11:09:51 IST] [DASHBOARD]   File "C:\Users\Admin\AppData\Local\Programs\Python\Python314\Lib\json\decoder.py", line 361, in raw_decode
-[2026-11-12 11:09:51 IST] [DASHBOARD]     obj, end = self.scan_once(s, idx)
-[2026-11-12 11:09:51 IST] [DASHBOARD]                ~~~~~~~~~~~~~~^^^^^^^^
-[2026-11-12 11:09:51 IST] [DASHBOARD] json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 355 column 1 (char 15107)
-[2026-11-12 11:09:51 IST] [DASHBOARD] EXIT CODE=1: C:\Users\Admin\.faceless-shorts\venv\Scripts\python.exe G:\Faceless-Shorts\automation\refresh_dashboard.py
-[2026-11-12 11:10:52 IST] STOP_AUTOPILOT sentinel detected. Exiting cleanly.
+No log lines recorded yet.
 ```
