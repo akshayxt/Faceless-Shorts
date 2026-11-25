@@ -1,6 +1,6 @@
 {
-  "last_updated_ist": "2026-11-25 23:21:57 IST",
-  "total_archived": 68,
+  "last_updated_ist": "2026-11-25 23:58:30 IST",
+  "total_archived": 69,
   "videos": [
     {
       "id": "day01_short",
@@ -681,6 +681,18 @@
       "publish_date": "2027-01-17T20:30:00Z",
       "format": "short",
       "archived_at_ist": "2026-11-25 23:21:55 IST"
+    },
+    {
+      "id": "18_01_27_short",
+      "file_name": "18_01_27_short.mp4",
+      "title": "The Boastful Rooster: Why True Champions Are Humble!",
+      "youtube_video_id": "XoJmiCUvtlw",
+      "uploaded_date": "2026-11-25 23:58:30 IST",
+      "publish_date": "2027-01-18T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-25 23:58:30 IST",
+      "youtube_url": "https://youtu.be/XoJmiCUvtlw",
+      "upload_method": "make_com_webhook"
     }
   ]
 }
