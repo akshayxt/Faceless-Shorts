@@ -571,7 +571,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\day15_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "SCHEDULED",
+      "status": "UPLOADED",
       "youtube_video_id": "iW6GERhfrn8",
       "youtube_url": "https://www.youtube.com/watch?v=iW6GERhfrn8",
       "video_specs": {
@@ -2533,8 +2533,8 @@
       "made_for_kids": true,
       "category_id": "27",
       "status": "SCHEDULED",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "youtube_video_id": "M3VVeH9HlMA",
+      "youtube_url": "https://www.youtube.com/watch?v=M3VVeH9HlMA",
       "scheduled_publish_est": "2027-01-19T15:30:00-05:00",
       "publish_at": "2027-01-19T20:30:00Z",
       "video_specs": {
@@ -3677,6 +3677,6 @@
       "realtime_seo_score": 85
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-25T23:52:56.331504+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-26T05:33:23.505123+05:30",
   "realtime_seo_us_trends_checked": 10
 }

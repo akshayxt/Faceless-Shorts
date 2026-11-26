@@ -637,7 +637,7 @@
       ],
       "hook": "Everyone thinks chameleons only match leaves to hide—turns out they flash mood lights!",
       "visual_focus": "cartoon chameleon flashing bright yellow, angry red, and cool blue",
-      "status": "scheduled",
+      "status": "uploaded",
       "rendered_at_ist": "2026-11-11T11:35:08.107731+05:30",
       "video_path": "G:\\Faceless-Shorts\\videos\\day15_short\\renders\\day15_short.mp4",
       "thumb_path": "G:\\Faceless-Shorts\\videos\\day15_short\\renders\\day15_thumb.jpg",
@@ -2806,7 +2806,9 @@
       ],
       "hook": "Leo promised Ms. Maple he would protect the shiny dinosaur book! But where did he leave it when playtime started?",
       "visual_focus": "expressive cartoon mascot characters learning emotional skills and moral lessons",
-      "status": "ready_for_upload"
+      "status": "scheduled",
+      "youtube_video_id": "M3VVeH9HlMA",
+      "youtube_url": "https://www.youtube.com/watch?v=M3VVeH9HlMA"
     },
     {
       "id": "20_01_27",

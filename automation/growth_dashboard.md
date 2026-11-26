@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-26 00:09:26 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-26 05:33:35 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -18,7 +18,7 @@
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `13` days / **`384.6` subs/day** |
 | Videos Rendered & Verified | **`110`** (`70` uploaded/scheduled, `40` remaining) |
-| Real-Time US SEO Sync | `2026-11-25T23:52:56.331504+05:30` |
+| Real-Time US SEO Sync | `2026-11-26T05:33:23.505123+05:30` |
 | Topic Backlog Remaining | `1` pending out of `82` scored |
 
 ## 2. Production & Upload Queue Status
@@ -40,7 +40,7 @@
 | `day12_short` | short | What Happens If You Step on Jupiter? (No Floor!) | 62/100 | 2026-11-22 15:30:00 EST | 1080x1920, 32.02s | `UPLOADED` | [day12_short.mp4](videos/day12_short/renders/day12_short.mp4) |
 | `day13_short` | short | Why Fingers Prune in Water? | 80/100 | 2026-11-23 15:30:00 EST | 1080x1920, 36.03s | `UPLOADED` | [day13_short.mp4](videos/day13_short/renders/day13_short.mp4) |
 | `day14_short` | short | Does Sitting Close to the TV Permanently Hurt Eyes? | 66/100 | 2026-11-24 15:30:00 EST | 1080x1920, 36.97s | `UPLOADED` | [day14_short.mp4](videos/day14_short/renders/day14_short.mp4) |
-| `day15_short` | short | Why Chameleons Change Color? | 98/100 | 2026-11-25 15:30:00 EST | 1080x1920, 35.69s | `SCHEDULED` | [day15_short.mp4](videos/day15_short/renders/day15_short.mp4) |
+| `day15_short` | short | Why Chameleons Change Color? | 98/100 | 2026-11-25 15:30:00 EST | 1080x1920, 35.69s | `UPLOADED` | [day15_short.mp4](videos/day15_short/renders/day15_short.mp4) |
 | `day16_short` | short | Why You Hear ZERO Sound Inside Outer Space! | 66/100 | 2026-11-26 15:30:00 EST | 1080x1920, 31.86s | `SCHEDULED` | [day16_short.mp4](videos/day16_short/renders/day16_short.mp4) |
 | `day17_short` | short | Tablet 100% Charged vs Leo's Brain Battery at 5%! | 80/100 | 2026-11-27 15:30:00 EST | 1080x1920, 38.03s | `SCHEDULED` | [day17_short.mp4](videos/day17_short/renders/day17_short.mp4) |
 | `day18_short` | short | 60,000 Miles of Blood Pipes Hidden Inside 1 Kid! | 80/100 | 2026-11-28 15:30:00 EST | 1080x1920, 43.27s | `SCHEDULED` | [day18_short.mp4](videos/day18_short/renders/day18_short.mp4) |
@@ -95,7 +95,7 @@
 | `17_01_27_short` | short | Taking Turns and Sharing! | 94/100 | 2027-01-17 15:30:00 EST | 1080x1920, 45.6s | `SCHEDULED` | [17_01_27_short.mp4](videos/17_01_27_short/renders/17_01_27_short.mp4) |
 | `18_01_27_short` | short | The Boastful Rooster: Why True Champions Are Humble! | 80/100 | 2027-01-18 15:30:00 EST | 1080x1920, 44.02s | `SCHEDULED` | [18_01_27_short.mp4](videos/18_01_27_short/renders/18_01_27_short.mp4) |
 | `19_01_27_short` | short | Keeping Promises to Yourself! | 94/100 | 2027-01-19 15:30:00 EST | 1080x1920, 48.87s | `SCHEDULED` | [19_01_27_short.mp4](videos/19_01_27_short/renders/19_01_27_short.mp4) |
-| `20_01_27_short` | short | First Day of School Getting Bullied! | 94/100 | 2027-01-20 15:30:00 EST | 1080x1920, 45.73s | `READY_FOR_UPLOAD` | [20_01_27_short.mp4](videos/20_01_27_short/renders/20_01_27_short.mp4) |
+| `20_01_27_short` | short | First Day of School Shs! | 94/100 | 2027-01-20 15:30:00 EST | 1080x1920, 45.73s | `READY_FOR_UPLOAD` | [20_01_27_short.mp4](videos/20_01_27_short/renders/20_01_27_short.mp4) |
 | `21_01_27_short` | short | Felix Fox & The Glowing Tablet: Nature Is Fun! | 80/100 | 2027-01-21 15:30:00 EST | 1080x1920, 49.03s | `READY_FOR_UPLOAD` | [21_01_27_short.mp4](videos/21_01_27_short/renders/21_01_27_short.mp4) |
 | `22_01_27_short` | short | Tommy Turtle Who Kept Falling: Practice Makes Perfect! | 66/100 | 2027-01-22 15:30:00 EST | 1080x1920, 48.19s | `READY_FOR_UPLOAD` | [22_01_27_short.mp4](videos/22_01_27_short/renders/22_01_27_short.mp4) |
 | `23_01_27_short` | short | The Greedy Hamster's Stash: Giving Feels Better! | 80/100 | 2027-01-23 15:30:00 EST | 1080x1920, 47.4s | `READY_FOR_UPLOAD` | [23_01_27_short.mp4](videos/23_01_27_short/renders/23_01_27_short.mp4) |
