@@ -2748,9 +2748,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\25_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "_QLYZEhy4dY",
+      "youtube_url": "https://www.youtube.com/watch?v=_QLYZEhy4dY",
       "scheduled_publish_est": "2027-01-25T15:30:00-05:00",
       "publish_at": "2027-01-25T20:30:00Z",
       "video_specs": {
@@ -2761,14 +2761,17 @@
       },
       "updated_at_ist": "2026-11-20T17:49:57.554038+05:30",
       "seo_txt_path": "videos/25_01_27_short/renders/25_01_27_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-25T16:07:12.899111+05:30",
+      "seo_updated_at_ist": "2026-11-26T23:33:17.381147+05:30",
       "realtime_seo_score": 62,
       "realtime_seo_queries": [
         "safety awareness staying with parents kids",
         "staying safe in public",
         "staying safe from strangers",
         "fawn helps gruff"
-      ]
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-26T23:33:32.646303+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "26_01_27_short",
@@ -3677,6 +3680,6 @@
       "realtime_seo_score": 85
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-26T18:04:21.284912+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-26T23:33:20.995059+05:30",
   "realtime_seo_us_trends_checked": 10
 }

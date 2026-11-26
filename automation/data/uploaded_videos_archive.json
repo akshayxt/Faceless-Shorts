@@ -1,6 +1,6 @@
 {
-  "last_updated_ist": "2026-11-26 11:33:44 IST",
-  "total_archived": 75,
+  "last_updated_ist": "2026-11-26 23:33:32 IST",
+  "total_archived": 76,
   "videos": [
     {
       "id": "day01_short",
@@ -753,6 +753,16 @@
       "publish_date": "2027-01-24T20:30:00Z",
       "format": "short",
       "archived_at_ist": "2026-11-26 10:42:58 IST"
+    },
+    {
+      "id": "25_01_27_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\25_01_27_short\\renders\\25_01_27_short.mp4",
+      "title": "The Little Fawn Who Wandered: Always Stay in Sight!",
+      "youtube_video_id": "_QLYZEhy4dY",
+      "uploaded_date": "2026-11-26T23:33:32.646303+05:30",
+      "publish_date": "2027-01-25T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-26 23:33:32 IST"
     }
   ]
 }

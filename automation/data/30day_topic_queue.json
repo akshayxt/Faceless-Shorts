@@ -3006,7 +3006,9 @@
       ],
       "hook": "Daisy the fawn chased a sparkly blue butterfly away from the herd! What should you do if you look up and can't see mom?",
       "visual_focus": "expressive cartoon mascot characters learning emotional skills and moral lessons",
-      "status": "ready_for_upload"
+      "status": "scheduled",
+      "youtube_video_id": "_QLYZEhy4dY",
+      "youtube_url": "https://www.youtube.com/watch?v=_QLYZEhy4dY"
     },
     {
       "id": "26_01_27",
