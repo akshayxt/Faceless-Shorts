@@ -1,68 +1,8 @@
 {
   "title": "Master Chat Data Logs",
-  "updated_at_ist": "2026-11-26 19:42:09 IST",
-  "total_messages": 1025,
+  "updated_at_ist": "2026-11-26 19:46:59 IST",
+  "total_messages": 1031,
   "recent_messages": [
-    {
-      "msg_id": 27126,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 6753468481,
-      "sender_username": "Akshat_xt",
-      "sender_name": "Aᴋsʜᴀᴛ ࿐●",
-      "text": "𝐓𝐄𝐀𝐌冬𝗫𝗧 𝐒𝐔𝐏𝐏𝐎𝐑𝐓",
-      "date_ist": "2026-11-18 17:42:30 IST"
-    },
-    {
-      "msg_id": 27127,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 7118065044,
-      "sender_username": "AkshayGangwar",
-      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
-      "text": "https://t.me/+yY6B3vDVTvw5YTA9",
-      "date_ist": "2026-11-18 17:43:49 IST"
-    },
-    {
-      "msg_id": 27128,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 7118065044,
-      "sender_username": "AkshayGangwar",
-      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
-      "text": "/save main-xt",
-      "date_ist": "2026-11-18 17:43:56 IST"
-    },
-    {
-      "msg_id": 27130,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 6753468481,
-      "sender_username": "Akshat_xt",
-      "sender_name": "Aᴋsʜᴀᴛ ࿐●",
-      "text": "https://t.me/c/2001578721/1",
-      "date_ist": "2026-11-18 17:48:16 IST"
-    },
-    {
-      "msg_id": 27131,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 7118065044,
-      "sender_username": "AkshayGangwar",
-      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
-      "text": "This channel can’t be displayed because it violated Telegram's Terms of Service.",
-      "date_ist": "2026-11-18 17:49:49 IST"
-    },
-    {
-      "msg_id": 27133,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 8017642813,
-      "sender_username": "Raxx_xt",
-      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
-      "text": "https://t.me/TeamTSupport",
-      "date_ist": "2026-11-18 17:52:25 IST"
-    },
     {
       "msg_id": 27134,
       "chat_id": -1001997761568,
@@ -10002,6 +9942,66 @@
       "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
       "text": "/play chali aa",
       "date_ist": "2026-11-26 19:42:09 IST"
+    },
+    {
+      "msg_id": 30990,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/end",
+      "date_ist": "2026-11-26 19:44:24 IST"
+    },
+    {
+      "msg_id": 30992,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/play bholi si surat new version",
+      "date_ist": "2026-11-26 19:44:43 IST"
+    },
+    {
+      "msg_id": 30994,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/play khwab akhil",
+      "date_ist": "2026-11-26 19:46:18 IST"
+    },
+    {
+      "msg_id": 30996,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/play bijli bijli harrdy sandhu",
+      "date_ist": "2026-11-26 19:46:33 IST"
+    },
+    {
+      "msg_id": 30998,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/play horn blow",
+      "date_ist": "2026-11-26 19:46:49 IST"
+    },
+    {
+      "msg_id": 31000,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/play dheere dheere",
+      "date_ist": "2026-11-26 19:46:59 IST"
     }
   ]
 }
