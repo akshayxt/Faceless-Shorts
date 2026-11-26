@@ -1,98 +1,8 @@
 {
   "title": "Master Chat Data Logs",
-  "updated_at_ist": "2026-11-26 20:24:03 IST",
-  "total_messages": 1050,
+  "updated_at_ist": "2026-11-26 20:26:37 IST",
+  "total_messages": 1059,
   "recent_messages": [
-    {
-      "msg_id": 27173,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 7118065044,
-      "sender_username": "AkshayGangwar",
-      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
-      "text": "#!/bin/bash\nset -Eeuo pipefail\n\nprintf '%s\\n' '================================' 'Starting Railway SSH VPS' '================================'\n\n# This entrypoint must run as root so it can set the account password\n# and start the OpenSSH daemon.\nif [[ \"$(id -u)\" -ne 0 ]]; then\n    echo \"ERROR: start.sh must run as root. Remove any USER railway directive from the Dockerfile.\"\n    exit 1\nfi\n\n: \"${NGROK_TOKEN:?ERROR: NGROK_TOKEN is missing}\"\n: \"${SSH_PASSWORD:?ERROR: SSH_PASSWORD is missing}\"\n\n# Set the SSH password for the railway account.\nprintf 'railway:%s\\n' \"$SSH_PASSWORD\" | chpasswd\n\n# Optional SSH public-key authentication.\nif [[ -n \"${SSH_PUBLIC_KEY:-}\" ]]; then\n    install -d -o railway -g railway -m 0700 /home/railway/.ssh\n    printf '%s\\n' \"$SSH_PUBLIC_KEY\" > /home/railway/.ssh/authorized_keys\n    chown railway:railway /home/railway/.ssh/authorized_keys\n    chmod 0600 /home/railway/.ssh/authorized_keys\n    echo \"SSH public key authentication enabled.\"\nfi\n\n# Confirm sudo access is configured for the SSH user.\nif ! visudo -c >/dev/null; then\n    echo \"ERROR: sudoers configuration is invalid.\"\n    exit 1\nfi\n\nssh-keygen -A\n/usr/sbin/sshd -t\n\nngrok config add-authtoken \"$NGROK_TOKEN\"\n/usr/sbin/sshd\n\nprintf '%s\\n' \\\n    '================================' \\\n    'SSH server started successfully' \\\n    'Username: railway' \\\n    'Password authentication enabled' \\\n    '================================'\n\nexec ngrok tcp 22 --log=stdout",
-      "date_ist": "2026-11-18 20:33:05 IST"
-    },
-    {
-      "msg_id": 27174,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 7118065044,
-      "sender_username": "AkshayGangwar",
-      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
-      "text": "/save start-sh",
-      "date_ist": "2026-11-18 20:33:18 IST"
-    },
-    {
-      "msg_id": 27176,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 7118065044,
-      "sender_username": "AkshayGangwar",
-      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
-      "text": "#api",
-      "date_ist": "2026-11-18 20:43:54 IST"
-    },
-    {
-      "msg_id": 27179,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 8017642813,
-      "sender_username": "Raxx_xt",
-      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
-      "text": "⚡ Assistant 1 Started",
-      "date_ist": "2026-11-18 20:47:28 IST"
-    },
-    {
-      "msg_id": 27180,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 6753468481,
-      "sender_username": "Akshat_xt",
-      "sender_name": "Aᴋsʜᴀᴛ ࿐●",
-      "text": "/play safar",
-      "date_ist": "2026-11-18 20:47:50 IST"
-    },
-    {
-      "msg_id": 27182,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 6753468481,
-      "sender_username": "Akshat_xt",
-      "sender_name": "Aᴋsʜᴀᴛ ࿐●",
-      "text": "/id",
-      "date_ist": "2026-11-18 20:48:18 IST"
-    },
-    {
-      "msg_id": 27184,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 6753468481,
-      "sender_username": "Akshat_xt",
-      "sender_name": "Aᴋsʜᴀᴛ ࿐●",
-      "text": "/info",
-      "date_ist": "2026-11-18 20:48:32 IST"
-    },
-    {
-      "msg_id": 27190,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 6753468481,
-      "sender_username": "Akshat_xt",
-      "sender_name": "Aᴋsʜᴀᴛ ࿐●",
-      "text": "#api",
-      "date_ist": "2026-11-18 21:10:26 IST"
-    },
-    {
-      "msg_id": 27192,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 8017642813,
-      "sender_username": "Raxx_xt",
-      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
-      "text": "'nsr",
-      "date_ist": "2026-11-18 21:21:58 IST"
-    },
     {
       "msg_id": 27193,
       "chat_id": -1001997761568,
@@ -10002,6 +9912,96 @@
       "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
       "text": "/skip",
       "date_ist": "2026-11-26 20:24:03 IST"
+    },
+    {
+      "msg_id": 31057,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 7118065044,
+      "sender_username": "AkshayGangwar",
+      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
+      "text": "/restart",
+      "date_ist": "2026-11-26 20:24:40 IST"
+    },
+    {
+      "msg_id": 31059,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 7118065044,
+      "sender_username": "AkshayGangwar",
+      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
+      "text": "chup",
+      "date_ist": "2026-11-26 20:24:46 IST"
+    },
+    {
+      "msg_id": 31060,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/restart",
+      "date_ist": "2026-11-26 20:24:54 IST"
+    },
+    {
+      "msg_id": 31063,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 9096714928,
+      "sender_username": "AnviSingh143",
+      "sender_name": "𝘈𝘯𝘷𝘪 💗💞",
+      "text": "Assistant Started",
+      "date_ist": "2026-11-26 20:25:01 IST"
+    },
+    {
+      "msg_id": 31065,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 7118065044,
+      "sender_username": "AkshayGangwar",
+      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
+      "text": "/play ya Khoob Lagti Ho - Indian Hindi Hip Hop",
+      "date_ist": "2026-11-26 20:25:43 IST"
+    },
+    {
+      "msg_id": 31067,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/restart",
+      "date_ist": "2026-11-26 20:26:06 IST"
+    },
+    {
+      "msg_id": 31071,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 9096714928,
+      "sender_username": "AnviSingh143",
+      "sender_name": "𝘈𝘯𝘷𝘪 💗💞",
+      "text": "Assistant Started",
+      "date_ist": "2026-11-26 20:26:13 IST"
+    },
+    {
+      "msg_id": 31072,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/play ya Khoob Lagti Ho - Indian Hindi",
+      "date_ist": "2026-11-26 20:26:15 IST"
+    },
+    {
+      "msg_id": 31074,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/end",
+      "date_ist": "2026-11-26 20:26:37 IST"
     }
   ]
 }
