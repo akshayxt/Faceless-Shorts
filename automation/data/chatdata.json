@@ -1,88 +1,8 @@
 {
   "title": "Master Chat Data Logs",
-  "updated_at_ist": "2026-11-26 20:06:33 IST",
-  "total_messages": 1038,
+  "updated_at_ist": "2026-11-26 20:12:43 IST",
+  "total_messages": 1046,
   "recent_messages": [
-    {
-      "msg_id": 27147,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 6753468481,
-      "sender_username": "Akshat_xt",
-      "sender_name": "Aᴋsʜᴀᴛ ࿐●",
-      "text": "@huasa18001Bot",
-      "date_ist": "2026-11-18 18:34:21 IST"
-    },
-    {
-      "msg_id": 27150,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 8017642813,
-      "sender_username": "Raxx_xt",
-      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
-      "text": "⚡ Assistant 1 Started",
-      "date_ist": "2026-11-18 19:22:00 IST"
-    },
-    {
-      "msg_id": 27151,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 6753468481,
-      "sender_username": "Akshat_xt",
-      "sender_name": "Aᴋsʜᴀᴛ ࿐●",
-      "text": "/play tere te",
-      "date_ist": "2026-11-18 19:22:10 IST"
-    },
-    {
-      "msg_id": 27157,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 6753468481,
-      "sender_username": "Akshat_xt",
-      "sender_name": "Aᴋsʜᴀᴛ ࿐●",
-      "text": "/ping",
-      "date_ist": "2026-11-18 20:04:23 IST"
-    },
-    {
-      "msg_id": 27158,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 6753468481,
-      "sender_username": "Akshat_xt",
-      "sender_name": "Aᴋsʜᴀᴛ ࿐●",
-      "text": "fuckkkkkkkkkkkkkkkkkkkkkkkkk",
-      "date_ist": "2026-11-18 20:10:04 IST"
-    },
-    {
-      "msg_id": 27160,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 6753468481,
-      "sender_username": "Akshat_xt",
-      "sender_name": "Aᴋsʜᴀᴛ ࿐●",
-      "text": "/wft",
-      "date_ist": "2026-11-18 20:10:20 IST"
-    },
-    {
-      "msg_id": 27162,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 8017642813,
-      "sender_username": "Raxx_xt",
-      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
-      "text": "⚡ Assistant 1 Started",
-      "date_ist": "2026-11-18 20:12:47 IST"
-    },
-    {
-      "msg_id": 27164,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 8017642813,
-      "sender_username": "Raxx_xt",
-      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
-      "text": "⚡ Assistant 1 Started",
-      "date_ist": "2026-11-18 20:27:42 IST"
-    },
     {
       "msg_id": 27165,
       "chat_id": -1001997761568,
@@ -10002,6 +9922,86 @@
       "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
       "text": "/play saudebazi",
       "date_ist": "2026-11-26 20:06:33 IST"
+    },
+    {
+      "msg_id": 31022,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/end",
+      "date_ist": "2026-11-26 20:09:40 IST"
+    },
+    {
+      "msg_id": 31024,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/play saudebazi",
+      "date_ist": "2026-11-26 20:10:00 IST"
+    },
+    {
+      "msg_id": 31026,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/auth",
+      "date_ist": "2026-11-26 20:11:20 IST"
+    },
+    {
+      "msg_id": 31028,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/end",
+      "date_ist": "2026-11-26 20:11:36 IST"
+    },
+    {
+      "msg_id": 31030,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/play tere liye",
+      "date_ist": "2026-11-26 20:11:48 IST"
+    },
+    {
+      "msg_id": 31032,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/play  chali aa sanampuri p",
+      "date_ist": "2026-11-26 20:12:09 IST"
+    },
+    {
+      "msg_id": 31034,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/skip",
+      "date_ist": "2026-11-26 20:12:13 IST"
+    },
+    {
+      "msg_id": 31037,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 8017642813,
+      "sender_username": "Raxx_xt",
+      "sender_name": "ᶦᶰᵈ᭄ 𝙰𝚔𝚜𝚑𝚊𝚢 ×͜× メ࿐",
+      "text": "/play chali aa sanampuri",
+      "date_ist": "2026-11-26 20:12:43 IST"
     }
   ]
 }
