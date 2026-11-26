@@ -1,38 +1,8 @@
 {
   "title": "Master Chat Data Logs",
-  "updated_at_ist": "2026-11-26 20:15:13 IST",
-  "total_messages": 1047,
+  "updated_at_ist": "2026-11-26 20:24:03 IST",
+  "total_messages": 1050,
   "recent_messages": [
-    {
-      "msg_id": 27167,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 7118065044,
-      "sender_username": "AkshayGangwar",
-      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
-      "text": "/play tere liye",
-      "date_ist": "2026-11-18 20:30:02 IST"
-    },
-    {
-      "msg_id": 27169,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 7118065044,
-      "sender_username": "AkshayGangwar",
-      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
-      "text": "    && chmod 0700 /home/railway/.ssh \\\n    && rm -rf /var/lib/apt/lists/*\n\n# Install the latest Go release (>= 1.26) for linux/amd64, and verify the\n# downloaded archive against the checksum published on go.dev.\nARG GO_VERSION=1.27.4\nARG GO_SHA256=7226736c2339719cda28fbf3a54d71aa63bcefe376e98cef00034268dab24840\nRUN curl -fsSL \"https://go.dev/dl/go${GO_VERSION}.linux-amd64.tar.gz\" -o /tmp/go.tar.gz \\\n    && echo \"${GO_SHA256}  /tmp/go.tar.gz\" | sha256sum -c - \\\n    && rm -rf /usr/local/go \\\n    && tar -C /usr/local -xzf /tmp/go.tar.gz \\\n    && rm -f /tmp/go.tar.gz\n\n# Install yt-dlp's official Linux-compatible zipapp release. python3 is\n# installed above because this release uses Python on Linux.\nRUN curl -fL \"https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp\" \\\n    -o /usr/local/bin/yt-dlp \\\n    && chmod 0755 /usr/local/bin/yt-dlp\n\n# Install Deno system-wide so it is available to the railway SSH user too.\nRUN curl -fsSL https://deno.land/install.sh -o /tmp/deno-install.sh \\\n    && sh /tmp/deno-install.sh \\\n    && rm -f /tmp/deno-install.sh \\\n    && test -x /usr/local/bin/deno\n\n# Install ngrok (same v3 Linux amd64 package used by the original project).\nRUN curl -fsSL \\\n    https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.zip \\\n    -o /tmp/ngrok.zip \\\n    && unzip /tmp/ngrok.zip -d /usr/local/bin \\\n    && chmod 0755 /usr/local/bin/ngrok \\\n    && rm -f /tmp/ngrok.zip\n\n# Configure SSH while retaining the original project's railway login.\nRUN printf '%s\\n' \\\n    'Port 22' \\\n    'PermitRootLogin no' \\\n    'PasswordAuthentication yes' \\\n    'KbdInteractiveAuthentication no' \\\n    'PubkeyAuthentication yes' \\\n    'UsePAM yes' \\\n    'AllowUsers railway' \\\n    'AuthorizedKeysFile .ssh/authorized_keys' \\\n    > /etc/ssh/sshd_config\n\nCOPY start.sh /start.sh\nRUN sed -i 's/\\r$//' /start.sh && chmod 0755 /start.sh\n\nEXPOSE 22\n\n# Do not add USER railway here: start.sh needs root to initialize sshd.\nCMD [\"/bin/bash\", \"/start.sh\"]",
-      "date_ist": "2026-11-18 20:32:22 IST"
-    },
-    {
-      "msg_id": 27171,
-      "chat_id": -1001997761568,
-      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
-      "sender_id": 7118065044,
-      "sender_username": "AkshayGangwar",
-      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
-      "text": "/save vps-docker",
-      "date_ist": "2026-11-18 20:32:38 IST"
-    },
     {
       "msg_id": 27173,
       "chat_id": -1001997761568,
@@ -10002,6 +9972,36 @@
       "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
       "text": "/playlist",
       "date_ist": "2026-11-26 20:15:13 IST"
+    },
+    {
+      "msg_id": 31047,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 7118065044,
+      "sender_username": "AkshayGangwar",
+      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
+      "text": "/addplaylist https://youtube.com/playlist?list=PLuk5gFYIBjC8XydW7O0sKofzW13ibt0AA&si=sTe5X3w0YhcCelFo",
+      "date_ist": "2026-11-26 20:22:25 IST"
+    },
+    {
+      "msg_id": 31049,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 7118065044,
+      "sender_username": "AkshayGangwar",
+      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
+      "text": "/playlist@AnyaXTRobot",
+      "date_ist": "2026-11-26 20:22:32 IST"
+    },
+    {
+      "msg_id": 31052,
+      "chat_id": -1001997761568,
+      "chat_title": "𝐓𝐄𝐀𝐌冬𝗫𝗧",
+      "sender_id": 7118065044,
+      "sender_username": "AkshayGangwar",
+      "sender_name": "ᶦᶰᵈ᭄ Raxx XT ×͜× メ࿐",
+      "text": "/skip",
+      "date_ist": "2026-11-26 20:24:03 IST"
     }
   ]
 }
