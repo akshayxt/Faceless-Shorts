@@ -2590,7 +2590,7 @@
         "making friends read aloud"
       ],
       "upload_method": "make_com_webhook",
-      "uploaded_at_ist": "2026-11-26 10:42:34 IST",
+      "uploaded_at_ist": "2026-11-26 10:42:43 IST",
       "make_response": "Accepted"
     },
     {
@@ -2604,7 +2604,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\21_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
+      "status": "SCHEDULED",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-01-21T15:30:00-05:00",
@@ -2625,9 +2625,9 @@
         "screen time balance song",
         "screen time management"
       ],
-      "upload_method": null,
-      "uploaded_at_ist": null,
-      "make_response": null
+      "upload_method": "make_com_webhook",
+      "uploaded_at_ist": "2026-11-26 10:42:45 IST",
+      "make_response": "Accepted"
     },
     {
       "id": "22_01_27_short",
