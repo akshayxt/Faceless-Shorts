@@ -2784,9 +2784,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\26_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "_mZLeIfhUIc",
+      "youtube_url": "https://www.youtube.com/watch?v=_mZLeIfhUIc",
       "scheduled_publish_est": "2027-01-26T15:30:00-05:00",
       "publish_at": "2027-01-26T20:30:00Z",
       "video_specs": {
@@ -2797,14 +2797,15 @@
       },
       "updated_at_ist": "2026-11-20T17:52:13.901150+05:30",
       "seo_txt_path": "videos/26_01_27_short/renders/26_01_27_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-25T16:07:13.319988+05:30",
+      "seo_updated_at_ist": "2026-11-27T00:04:48.700302+05:30",
       "realtime_seo_score": 62,
       "realtime_seo_queries": [
         "inside voices manners for toddlers",
         "inside voice social story",
         "inside voices preschool",
-        "science facts for kids"
-      ]
+        "foul mouthed parrots"
+      ],
+      "upload_method": "zapier_mcp"
     },
     {
       "id": "27_01_27_short",
@@ -2817,9 +2818,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\27_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "gGDpf5EAsVI",
+      "youtube_url": "https://www.youtube.com/watch?v=gGDpf5EAsVI",
       "scheduled_publish_est": "2027-01-27T15:30:00-05:00",
       "publish_at": "2027-01-27T20:30:00Z",
       "video_specs": {
@@ -2830,14 +2831,17 @@
       },
       "updated_at_ist": "2026-11-20T17:54:53.597480+05:30",
       "seo_txt_path": "videos/27_01_27_short/renders/27_01_27_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-25T16:07:13.793861+05:30",
+      "seo_updated_at_ist": "2026-11-27T00:04:49.070317+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "learning from mistakes cartoon for kids",
         "learning from mistakes",
         "learning from mistakes for students",
-        "learning from mistakes chanel cahaya musik"
-      ]
+        "learning from mistakes song"
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-27T00:05:02.113054+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "28_01_27_short",
@@ -2850,9 +2854,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\28_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "HjyiYagLw1s",
+      "youtube_url": "https://www.youtube.com/watch?v=HjyiYagLw1s",
       "scheduled_publish_est": "2027-01-28T15:30:00-05:00",
       "publish_at": "2027-01-28T20:30:00Z",
       "video_specs": {
@@ -2863,14 +2867,17 @@
       },
       "updated_at_ist": "2026-11-20T17:57:19.927836+05:30",
       "seo_txt_path": "videos/28_01_27_short/renders/28_01_27_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-25T16:07:14.173030+05:30",
+      "seo_updated_at_ist": "2026-11-27T00:04:49.436053+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "active listening manners for children",
         "science facts for kids",
         "interesting science facts for kids",
         "science fun facts for kids"
-      ]
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-27T00:05:10.675430+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "29_01_27_short",
@@ -2883,9 +2890,9 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\29_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "4JOFL_Vclt4",
+      "youtube_url": "https://www.youtube.com/watch?v=4JOFL_Vclt4",
       "scheduled_publish_est": "2027-01-29T15:30:00-05:00",
       "publish_at": "2027-01-29T20:30:00Z",
       "video_specs": {
@@ -2896,14 +2903,17 @@
       },
       "updated_at_ist": "2026-11-20T18:00:17.999502+05:30",
       "seo_txt_path": "videos/29_01_27_short/renders/29_01_27_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-25T16:07:14.572122+05:30",
+      "seo_updated_at_ist": "2026-11-27T00:04:49.773698+05:30",
       "realtime_seo_score": 94,
       "realtime_seo_queries": [
         "empathy and comforting friends for kids",
         "empathy and compassion video",
         "empathy and kindness",
         "empathy and friendship"
-      ]
+      ],
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-27T00:05:18.316758+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "30_01_27_short",
@@ -3680,6 +3690,6 @@
       "realtime_seo_score": 85
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-26T23:33:20.995059+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-27T00:04:51.083480+05:30",
   "realtime_seo_us_trends_checked": 10
 }

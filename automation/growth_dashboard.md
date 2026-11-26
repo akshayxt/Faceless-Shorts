@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-26 23:33:39 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-27 00:05:20 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -16,9 +16,9 @@
 | Campaign Target (`2026-11-09` -> `2026-12-09`) | **+5,000 net new subscribers** |
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
-| Remaining Days / Required Daily Rate | `13` days / **`384.6` subs/day** |
-| Videos Rendered & Verified | **`110`** (`76` uploaded/scheduled, `34` remaining) |
-| Real-Time US SEO Sync | `2026-11-26T23:33:20.995059+05:30` |
+| Remaining Days / Required Daily Rate | `12` days / **`416.7` subs/day** |
+| Videos Rendered & Verified | **`110`** (`80` uploaded/scheduled, `30` remaining) |
+| Real-Time US SEO Sync | `2026-11-27T00:04:51.083480+05:30` |
 | Topic Backlog Remaining | `1` pending out of `82` scored |
 
 ## 2. Production & Upload Queue Status
@@ -101,10 +101,10 @@
 | `23_01_27_short` | short | The Greedy Hamster's Stash: Giving Feels Better! | 80/100 | 2027-01-23 15:30:00 EST | 1080x1920, 47.4s | `SCHEDULED` | [23_01_27_short.mp4](videos/23_01_27_short/renders/23_01_27_short.mp4) |
 | `24_01_27_short` | short | Charlie Cat Forgot to Say Please: The Courtesy Key! | 62/100 | 2027-01-24 15:30:00 EST | 1080x1920, 44.73s | `SCHEDULED` | [24_01_27_short.mp4](videos/24_01_27_short/renders/24_01_27_short.mp4) |
 | `25_01_27_short` | short | The Little Fawn Who Wandered: Always Stay in Sight! | 62/100 | 2027-01-25 15:30:00 EST | 1080x1920, 47.23s | `SCHEDULED` | [25_01_27_short.mp4](videos/25_01_27_short/renders/25_01_27_short.mp4) |
-| `26_01_27_short` | short | The Loud Little Parrot: Learning Your Inside Voice! | 62/100 | 2027-01-26 15:30:00 EST | 1080x1920, 47.3s | `READY_FOR_UPLOAD` | [26_01_27_short.mp4](videos/26_01_27_short/renders/26_01_27_short.mp4) |
-| `27_01_27_short` | short | Leo's Collapsing Wooden Castle: Mistakes Help Us Grow! | 80/100 | 2027-01-27 15:30:00 EST | 1080x1920, 48.9s | `READY_FOR_UPLOAD` | [27_01_27_short.mp4](videos/27_01_27_short/renders/27_01_27_short.mp4) |
-| `28_01_27_short` | short | The Interrupting Owl: How Good Listeners Win Hearts! | 80/100 | 2027-01-28 15:30:00 EST | 1080x1920, 49.59s | `READY_FOR_UPLOAD` | [28_01_27_short.mp4](videos/28_01_27_short/renders/28_01_27_short.mp4) |
-| `29_01_27_short` | short | How to Help Sad Friend! | 94/100 | 2027-01-29 15:30:00 EST | 1080x1920, 46.49s | `READY_FOR_UPLOAD` | [29_01_27_short.mp4](videos/29_01_27_short/renders/29_01_27_short.mp4) |
+| `26_01_27_short` | short | The Loud Little Parrot: Learning Your Inside Voice! | 62/100 | 2027-01-26 15:30:00 EST | 1080x1920, 47.3s | `SCHEDULED` | [26_01_27_short.mp4](videos/26_01_27_short/renders/26_01_27_short.mp4) |
+| `27_01_27_short` | short | Leo's Collapsing Wooden Castle: Mistakes Help Us Grow! | 80/100 | 2027-01-27 15:30:00 EST | 1080x1920, 48.9s | `SCHEDULED` | [27_01_27_short.mp4](videos/27_01_27_short/renders/27_01_27_short.mp4) |
+| `28_01_27_short` | short | The Interrupting Owl: How Good Listeners Win Hearts! | 80/100 | 2027-01-28 15:30:00 EST | 1080x1920, 49.59s | `SCHEDULED` | [28_01_27_short.mp4](videos/28_01_27_short/renders/28_01_27_short.mp4) |
+| `29_01_27_short` | short | How to Help Sad Friend! | 94/100 | 2027-01-29 15:30:00 EST | 1080x1920, 46.49s | `SCHEDULED` | [29_01_27_short.mp4](videos/29_01_27_short/renders/29_01_27_short.mp4) |
 | `30_01_27_short` | short | The Little Bear Who Brushed Like a Champion: Clean Teeth! | 80/100 | 2027-01-30 15:30:00 EST | 1080x1920, 48.57s | `READY_FOR_UPLOAD` | [30_01_27_short.mp4](videos/30_01_27_short/renders/30_01_27_short.mp4) |
 | `31_01_27_short` | short | Leo's Cozy Bedtime Routine: Sweet Dreams Every Night! | 62/100 | 2027-01-31 15:30:00 EST | 1080x1920, 48.95s | `READY_FOR_UPLOAD` | [31_01_27_short.mp4](videos/31_01_27_short/renders/31_01_27_short.mp4) |
 | `01_02_27_short` | short | What If You Never Took A Bath? The 7-Day Cartoon Experiment! | 80/100 | 2027-02-01 15:30:00 EST | 1080x1920, 38.27s | `READY_FOR_UPLOAD` | [01_02_27_short.mp4](videos/01_02_27_short/renders/01_02_27_short.mp4) |
