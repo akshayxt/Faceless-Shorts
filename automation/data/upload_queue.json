@@ -2569,8 +2569,8 @@
       "made_for_kids": true,
       "category_id": "27",
       "status": "SCHEDULED",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "youtube_video_id": "pSIJMPjr6rU",
+      "youtube_url": "https://www.youtube.com/watch?v=pSIJMPjr6rU",
       "scheduled_publish_est": "2027-01-20T15:30:00-05:00",
       "publish_at": "2027-01-20T20:30:00Z",
       "video_specs": {
@@ -2605,8 +2605,8 @@
       "made_for_kids": true,
       "category_id": "27",
       "status": "SCHEDULED",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "youtube_video_id": "2u2g_ik34Bs",
+      "youtube_url": "https://www.youtube.com/watch?v=2u2g_ik34Bs",
       "scheduled_publish_est": "2027-01-21T15:30:00-05:00",
       "publish_at": "2027-01-21T20:30:00Z",
       "video_specs": {
@@ -2641,8 +2641,8 @@
       "made_for_kids": true,
       "category_id": "27",
       "status": "SCHEDULED",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "youtube_video_id": "bmyieTmoy_Q",
+      "youtube_url": "https://www.youtube.com/watch?v=bmyieTmoy_Q",
       "scheduled_publish_est": "2027-01-22T15:30:00-05:00",
       "publish_at": "2027-01-22T20:30:00Z",
       "video_specs": {
@@ -3677,6 +3677,6 @@
       "realtime_seo_score": 85
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-26T06:03:08.723767+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-26T11:33:22.280465+05:30",
   "realtime_seo_us_trends_checked": 10
 }

@@ -3,8 +3,8 @@
   "format": "short",
   "title_options": [
     {
-      "title": "How to Help Sad Friend!",
-      "chars": 23,
+      "title": "How to Help a Sad Friend!",
+      "chars": 25,
       "score": 94,
       "issues": [
         [
@@ -14,10 +14,40 @@
       ]
     },
     {
-      "title": "How to Help Sad Friend! #Shorts",
-      "chars": 31,
+      "title": "How to Help a Sad Friend! #Shorts",
+      "chars": 33,
       "score": 94,
       "issues": [
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "How to Comfort Your Friend When They're Sad!",
+      "chars": 44,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"How to Comfort Your Friend When They're...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    },
+    {
+      "title": "How to Comfort Your Friend When They're Sad! #Shorts",
+      "chars": 52,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"How to Comfort Your Friend When They're...\" - check the subject survives"
+        ],
         [
           "no-number",
           "no number, date or name - the most reliable single fix"
@@ -44,10 +74,10 @@
       ]
     }
   ],
-  "selected_title": "How to Help Sad Friend!",
+  "selected_title": "How to Help a Sad Friend!",
   "selected_title_lint": {
-    "title": "How to Help Sad Friend!",
-    "chars": 23,
+    "title": "How to Help a Sad Friend!",
+    "chars": 25,
     "score": 94,
     "issues": [
       [
@@ -79,22 +109,22 @@
   ],
   "target_search_queries": [
     "empathy and comforting friends for kids",
-    "empathy and kindness",
     "empathy and compassion video",
-    "empathy and kindness video"
+    "empathy and kindness",
+    "empathy and friendship"
   ],
   "realtime_seo": {
     "mode": "live_us_autocomplete_and_trends",
-    "fetched_at_ist": "2026-11-26T06:03:02.779342+05:30",
+    "fetched_at_ist": "2026-11-26T11:33:18.367216+05:30",
     "live_yt_suggest_queries": [
-      "empathy and kindness",
       "empathy and compassion video",
-      "empathy and kindness video",
+      "empathy and kindness",
       "empathy and friendship",
+      "empathy and kindness video",
       "puppy stuck crying",
       "puppy lost his mother",
-      "how to help sad friend",
-      "science facts for kids"
+      "how to help a sad friend",
+      "how to comfort your friend when they're sad"
     ],
     "matched_safe_us_trends": [],
     "observed_us_hashtags": [
@@ -105,12 +135,12 @@
       "#sciencefacts"
     ]
   },
-  "description": "How to Help Sad Friend! — Buster dropped his shiny red ball in the deep mud and whined sadly! What did Leo do to make Buster's tail wag again?\nKids science answer for \"empathy and comforting friends for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nWhen someone drops their ice cream or feels sad, sitting beside them and offering a gentle hug releases calming hormones that heal their heart.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- empathy and kindness\n- empathy and compassion video\n- empathy and kindness video\n- empathy and friendship\n- puppy stuck crying\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "description": "How to Help a Sad Friend! — Buster dropped his shiny red ball in the deep mud and whined sadly! What did Leo do to make Buster's tail wag again?\nKids science answer for \"empathy and comforting friends for kids\" with fun 2D animation by BabyBeats Rhymo!\n\nWhen someone drops their ice cream or feels sad, sitting beside them and offering a gentle hug releases calming hormones that heal their heart.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- empathy and compassion video\n- empathy and kindness\n- empathy and friendship\n- empathy and kindness video\n- puppy stuck crying\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
   "tags": [
-    "empathy and kindness",
     "empathy and compassion video",
-    "empathy and kindness video",
+    "empathy and kindness",
     "empathy and friendship",
+    "empathy and kindness video",
     "puppy stuck crying",
     "puppy lost his mother",
     "empathy and comforting friends for kids",
