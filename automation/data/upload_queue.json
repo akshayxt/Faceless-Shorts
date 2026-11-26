@@ -2640,7 +2640,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\22_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
+      "status": "SCHEDULED",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-01-22T15:30:00-05:00",
@@ -2661,9 +2661,9 @@
         "growth mindset social story",
         "growth mindset for kids"
       ],
-      "upload_method": null,
-      "uploaded_at_ist": null,
-      "make_response": null
+      "upload_method": "make_com_webhook",
+      "uploaded_at_ist": "2026-11-26 10:42:51 IST",
+      "make_response": "Accepted"
     },
     {
       "id": "23_01_27_short",
@@ -2676,7 +2676,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\23_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
+      "status": "SCHEDULED",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-01-23T15:30:00-05:00",
@@ -2697,9 +2697,9 @@
         "greedy squirrel",
         "greedy and the porridge pot"
       ],
-      "upload_method": null,
-      "uploaded_at_ist": null,
-      "make_response": null
+      "upload_method": "make_com_webhook",
+      "uploaded_at_ist": "2026-11-26 10:42:54 IST",
+      "make_response": "Accepted"
     },
     {
       "id": "24_01_27_short",
@@ -2712,7 +2712,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\24_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
+      "status": "SCHEDULED",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-01-24T15:30:00-05:00",
@@ -2733,9 +2733,9 @@
         "science facts for kids",
         "interesting science facts for kids"
       ],
-      "upload_method": null,
-      "uploaded_at_ist": null,
-      "make_response": null
+      "upload_method": "make_com_webhook",
+      "uploaded_at_ist": "2026-11-26 10:42:58 IST",
+      "make_response": "Accepted"
     },
     {
       "id": "25_01_27_short",

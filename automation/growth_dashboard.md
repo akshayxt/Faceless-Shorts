@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-26 10:42:45 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-26 10:42:58 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -17,7 +17,7 @@
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `13` days / **`384.6` subs/day** |
-| Videos Rendered & Verified | **`110`** (`72` uploaded/scheduled, `38` remaining) |
+| Videos Rendered & Verified | **`110`** (`75` uploaded/scheduled, `35` remaining) |
 | Real-Time US SEO Sync | `2026-11-26T06:03:08.723767+05:30` |
 | Topic Backlog Remaining | `1` pending out of `82` scored |
 
@@ -97,9 +97,9 @@
 | `19_01_27_short` | short | Keeping Promises to Yourself! | 94/100 | 2027-01-19 15:30:00 EST | 1080x1920, 48.87s | `SCHEDULED` | [19_01_27_short.mp4](videos/19_01_27_short/renders/19_01_27_short.mp4) |
 | `20_01_27_short` | short | First Day of School Getting Bullied! | 94/100 | 2027-01-20 15:30:00 EST | 1080x1920, 45.73s | `SCHEDULED` | [20_01_27_short.mp4](videos/20_01_27_short/renders/20_01_27_short.mp4) |
 | `21_01_27_short` | short | Felix Fox & The Glowing Tablet: Nature Is Fun! | 80/100 | 2027-01-21 15:30:00 EST | 1080x1920, 49.03s | `SCHEDULED` | [21_01_27_short.mp4](videos/21_01_27_short/renders/21_01_27_short.mp4) |
-| `22_01_27_short` | short | Tommy Turtle Who Kept Falling: Practice Makes Perfect! | 66/100 | 2027-01-22 15:30:00 EST | 1080x1920, 48.19s | `READY_FOR_UPLOAD` | [22_01_27_short.mp4](videos/22_01_27_short/renders/22_01_27_short.mp4) |
-| `23_01_27_short` | short | The Greedy Hamster's Stash: Giving Feels Better! | 80/100 | 2027-01-23 15:30:00 EST | 1080x1920, 47.4s | `READY_FOR_UPLOAD` | [23_01_27_short.mp4](videos/23_01_27_short/renders/23_01_27_short.mp4) |
-| `24_01_27_short` | short | Charlie Cat Forgot to Say Please: The Courtesy Key! | 62/100 | 2027-01-24 15:30:00 EST | 1080x1920, 44.73s | `READY_FOR_UPLOAD` | [24_01_27_short.mp4](videos/24_01_27_short/renders/24_01_27_short.mp4) |
+| `22_01_27_short` | short | Tommy Turtle Who Kept Falling: Practice Makes Perfect! | 66/100 | 2027-01-22 15:30:00 EST | 1080x1920, 48.19s | `SCHEDULED` | [22_01_27_short.mp4](videos/22_01_27_short/renders/22_01_27_short.mp4) |
+| `23_01_27_short` | short | The Greedy Hamster's Stash: Giving Feels Better! | 80/100 | 2027-01-23 15:30:00 EST | 1080x1920, 47.4s | `SCHEDULED` | [23_01_27_short.mp4](videos/23_01_27_short/renders/23_01_27_short.mp4) |
+| `24_01_27_short` | short | Charlie Cat Forgot to Say Please: The Courtesy Key! | 62/100 | 2027-01-24 15:30:00 EST | 1080x1920, 44.73s | `SCHEDULED` | [24_01_27_short.mp4](videos/24_01_27_short/renders/24_01_27_short.mp4) |
 | `25_01_27_short` | short | The Little Fawn Who Wandered: Always Stay in Sight! | 62/100 | 2027-01-25 15:30:00 EST | 1080x1920, 47.23s | `READY_FOR_UPLOAD` | [25_01_27_short.mp4](videos/25_01_27_short/renders/25_01_27_short.mp4) |
 | `26_01_27_short` | short | The Loud Little Parrot: Learning Your Inside Voice! | 62/100 | 2027-01-26 15:30:00 EST | 1080x1920, 47.3s | `READY_FOR_UPLOAD` | [26_01_27_short.mp4](videos/26_01_27_short/renders/26_01_27_short.mp4) |
 | `27_01_27_short` | short | Leo's Collapsing Wooden Castle: Mistakes Help Us Grow! | 80/100 | 2027-01-27 15:30:00 EST | 1080x1920, 48.9s | `READY_FOR_UPLOAD` | [27_01_27_short.mp4](videos/27_01_27_short/renders/27_01_27_short.mp4) |
