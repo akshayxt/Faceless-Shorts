@@ -1,6 +1,6 @@
 {
-  "last_updated_ist": "2026-11-27 22:49:23 IST",
-  "total_archived": 89,
+  "last_updated_ist": "2026-11-27 23:33:52 IST",
+  "total_archived": 94,
   "videos": [
     {
       "id": "day01_short",
@@ -893,6 +893,56 @@
       "publish_date": "2027-02-07T20:30:00Z",
       "format": "short",
       "archived_at_ist": "2026-11-27 22:49:23 IST"
+    },
+    {
+      "id": "08_02_27_short",
+      "file_name": "videos\\08_02_27_short\\renders\\08_02_27_short.mp4",
+      "title": "Leo Learns Table Manners: The No-Slurp Adventure!",
+      "youtube_video_id": "aZx8A7Y73Uw",
+      "uploaded_date": "2026-11-27T23:33:30.008314+05:30",
+      "publish_date": "2027-02-08T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-27 23:33:30 IST"
+    },
+    {
+      "id": "09_02_27_short",
+      "file_name": "videos\\09_02_27_short\\renders\\09_02_27_short.mp4",
+      "title": "Why Do We Get Goosebumps? The Animal Fur Secret!",
+      "youtube_video_id": "Yq_VzAzecjw",
+      "uploaded_date": "2026-11-27T23:33:35.812451+05:30",
+      "publish_date": "2027-02-09T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-27 23:33:35 IST"
+    },
+    {
+      "id": "10_02_27_short",
+      "file_name": "videos\\10_02_27_short\\renders\\10_02_27_short.mp4",
+      "title": "The Kitten Who Was Afraid of the Dark: Nightlight Courage!",
+      "youtube_video_id": "RVkEmB844lc",
+      "uploaded_date": "2026-11-27T23:33:42.393000+05:30",
+      "publish_date": "2027-02-10T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-27 23:33:42 IST"
+    },
+    {
+      "id": "11_02_27_short",
+      "file_name": "videos\\11_02_27_short\\renders\\11_02_27_short.mp4",
+      "title": "Why Does Ice Float? Water's Superpower Mystery!",
+      "youtube_video_id": "4ftcpBvMdTg",
+      "uploaded_date": "2026-11-27T23:33:47.547482+05:30",
+      "publish_date": "2027-02-11T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-27 23:33:47 IST"
+    },
+    {
+      "id": "12_02_27_short",
+      "file_name": "videos\\12_02_27_short\\renders\\12_02_27_short.mp4",
+      "title": "The Boy Who Blamed His Little Sister: Owning Your Mistakes!",
+      "youtube_video_id": "wSojf0i0pNM",
+      "uploaded_date": "2026-11-27T23:33:52.595108+05:30",
+      "publish_date": "2027-02-12T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-27 23:33:52 IST"
     }
   ]
 }

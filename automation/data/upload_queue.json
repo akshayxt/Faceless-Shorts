@@ -3202,9 +3202,9 @@
       "seo_path": "videos\\08_02_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "aZx8A7Y73Uw",
+      "youtube_url": "https://www.youtube.com/watch?v=aZx8A7Y73Uw",
       "scheduled_publish_est": "2027-02-08T15:30:00-05:00",
       "publish_at": "2027-02-08T20:30:00Z",
       "video_specs": {
@@ -3214,7 +3214,10 @@
         "height": 1920
       },
       "updated_at_ist": "2026-11-25T17:10:00+05:30",
-      "realtime_seo_score": 85
+      "realtime_seo_score": 85,
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-27T23:33:30.008314+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "09_02_27_short",
@@ -3227,9 +3230,9 @@
       "seo_path": "videos\\09_02_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "Yq_VzAzecjw",
+      "youtube_url": "https://www.youtube.com/watch?v=Yq_VzAzecjw",
       "scheduled_publish_est": "2027-02-09T15:30:00-05:00",
       "publish_at": "2027-02-09T20:30:00Z",
       "video_specs": {
@@ -3239,7 +3242,10 @@
         "height": 1920
       },
       "updated_at_ist": "2026-11-25T17:10:00+05:30",
-      "realtime_seo_score": 85
+      "realtime_seo_score": 85,
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-27T23:33:35.812451+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "10_02_27_short",
@@ -3252,9 +3258,9 @@
       "seo_path": "videos\\10_02_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "RVkEmB844lc",
+      "youtube_url": "https://www.youtube.com/watch?v=RVkEmB844lc",
       "scheduled_publish_est": "2027-02-10T15:30:00-05:00",
       "publish_at": "2027-02-10T20:30:00Z",
       "video_specs": {
@@ -3264,7 +3270,10 @@
         "height": 1920
       },
       "updated_at_ist": "2026-11-25T17:10:00+05:30",
-      "realtime_seo_score": 85
+      "realtime_seo_score": 85,
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-27T23:33:42.393000+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "11_02_27_short",
@@ -3277,9 +3286,9 @@
       "seo_path": "videos\\11_02_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "4ftcpBvMdTg",
+      "youtube_url": "https://www.youtube.com/watch?v=4ftcpBvMdTg",
       "scheduled_publish_est": "2027-02-11T15:30:00-05:00",
       "publish_at": "2027-02-11T20:30:00Z",
       "video_specs": {
@@ -3289,7 +3298,10 @@
         "height": 1920
       },
       "updated_at_ist": "2026-11-25T17:10:00+05:30",
-      "realtime_seo_score": 85
+      "realtime_seo_score": 85,
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-27T23:33:47.547482+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "12_02_27_short",
@@ -3302,9 +3314,9 @@
       "seo_path": "videos\\12_02_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
-      "youtube_video_id": null,
-      "youtube_url": null,
+      "status": "SCHEDULED",
+      "youtube_video_id": "wSojf0i0pNM",
+      "youtube_url": "https://www.youtube.com/watch?v=wSojf0i0pNM",
       "scheduled_publish_est": "2027-02-12T15:30:00-05:00",
       "publish_at": "2027-02-12T20:30:00Z",
       "video_specs": {
@@ -3314,7 +3326,10 @@
         "height": 1920
       },
       "updated_at_ist": "2026-11-25T17:10:00+05:30",
-      "realtime_seo_score": 85
+      "realtime_seo_score": 85,
+      "upload_method": "zapier_mcp_cloud",
+      "uploaded_at_ist": "2026-11-27T23:33:52.595108+05:30",
+      "upload_note": "Uploaded via GitHub Actions cloud_autopilot + GitHub CDN"
     },
     {
       "id": "13_02_27_short",
@@ -3717,6 +3732,6 @@
       "realtime_seo_score": 85
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-27T18:06:27.869416+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-27T23:33:20.324818+05:30",
   "realtime_seo_us_trends_checked": 10
 }

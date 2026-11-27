@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-27 22:49:23 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-27 23:33:54 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -17,8 +17,8 @@
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `12` days / **`416.7` subs/day** |
-| Videos Rendered & Verified | **`110`** (`89` uploaded/scheduled, `21` remaining) |
-| Real-Time US SEO Sync | `2026-11-27T18:06:27.869416+05:30` |
+| Videos Rendered & Verified | **`110`** (`94` uploaded/scheduled, `16` remaining) |
+| Real-Time US SEO Sync | `2026-11-27T23:33:20.324818+05:30` |
 | Topic Backlog Remaining | `1` pending out of `82` scored |
 
 ## 2. Production & Upload Queue Status
@@ -114,11 +114,11 @@
 | `05_02_27_short` | short | Why Do Cuts Heal? Your Body's Tiny Super Bandage! | 85/100 | 2027-02-05 15:30:00 EST | 1080x1920, 38.0s | `SCHEDULED` | [05_02_27_short.mp4](videos/05_02_27_short/renders/05_02_27_short.mp4) |
 | `06_02_27_short` | short | The Selfish Squirrel Who Hid All The Acorns: True Friendship | 85/100 | 2027-02-06 15:30:00 EST | 1080x1920, 38.0s | `SCHEDULED` | [06_02_27_short.mp4](videos/06_02_27_short/renders/06_02_27_short.mp4) |
 | `07_02_27_short` | short | Why Do Onions Make Us Cry? The Sneaky Tear Gas Trick! | 85/100 | 2027-02-07 15:30:00 EST | 1080x1920, 38.0s | `SCHEDULED` | [07_02_27_short.mp4](videos/07_02_27_short/renders/07_02_27_short.mp4) |
-| `08_02_27_short` | short | Leo Learns Table Manners: The No-Slurp Adventure! | 85/100 | 2027-02-08 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [08_02_27_short.mp4](videos/08_02_27_short/renders/08_02_27_short.mp4) |
-| `09_02_27_short` | short | Why Do We Get Goosebumps? The Animal Fur Secret! | 85/100 | 2027-02-09 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [09_02_27_short.mp4](videos/09_02_27_short/renders/09_02_27_short.mp4) |
-| `10_02_27_short` | short | The Kitten Who Was Afraid of the Dark: Nightlight Courage! | 85/100 | 2027-02-10 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [10_02_27_short.mp4](videos/10_02_27_short/renders/10_02_27_short.mp4) |
-| `11_02_27_short` | short | Why Does Ice Float? Water's Superpower Mystery! | 85/100 | 2027-02-11 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [11_02_27_short.mp4](videos/11_02_27_short/renders/11_02_27_short.mp4) |
-| `12_02_27_short` | short | The Boy Who Blamed His Little Sister: Owning Your Mistakes! | 85/100 | 2027-02-12 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [12_02_27_short.mp4](videos/12_02_27_short/renders/12_02_27_short.mp4) |
+| `08_02_27_short` | short | Leo Learns Table Manners: The No-Slurp Adventure! | 85/100 | 2027-02-08 15:30:00 EST | 1080x1920, 38.0s | `SCHEDULED` | [08_02_27_short.mp4](videos/08_02_27_short/renders/08_02_27_short.mp4) |
+| `09_02_27_short` | short | Why Do We Get Goosebumps? The Animal Fur Secret! | 85/100 | 2027-02-09 15:30:00 EST | 1080x1920, 38.0s | `SCHEDULED` | [09_02_27_short.mp4](videos/09_02_27_short/renders/09_02_27_short.mp4) |
+| `10_02_27_short` | short | The Kitten Who Was Afraid of the Dark: Nightlight Courage! | 85/100 | 2027-02-10 15:30:00 EST | 1080x1920, 38.0s | `SCHEDULED` | [10_02_27_short.mp4](videos/10_02_27_short/renders/10_02_27_short.mp4) |
+| `11_02_27_short` | short | Why Does Ice Float? Water's Superpower Mystery! | 85/100 | 2027-02-11 15:30:00 EST | 1080x1920, 38.0s | `SCHEDULED` | [11_02_27_short.mp4](videos/11_02_27_short/renders/11_02_27_short.mp4) |
+| `12_02_27_short` | short | The Boy Who Blamed His Little Sister: Owning Your Mistakes! | 85/100 | 2027-02-12 15:30:00 EST | 1080x1920, 38.0s | `SCHEDULED` | [12_02_27_short.mp4](videos/12_02_27_short/renders/12_02_27_short.mp4) |
 | `13_02_27_short` | short | Why Do Fireflies Glow In The Dark? Nature's Flashlight! | 85/100 | 2027-02-13 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [13_02_27_short.mp4](videos/13_02_27_short/renders/13_02_27_short.mp4) |
 | `14_02_27_short` | short | Valentine Kindness: Making a Homemade Card for Everyone! | 85/100 | 2027-02-14 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [14_02_27_short.mp4](videos/14_02_27_short/renders/14_02_27_short.mp4) |
 | `15_02_27_short` | short | Why Do We Shiver When We're Cold? The Muscle Engine! | 85/100 | 2027-02-15 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [15_02_27_short.mp4](videos/15_02_27_short/renders/15_02_27_short.mp4) |
