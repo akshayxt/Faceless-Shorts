@@ -3118,7 +3118,7 @@
       "seo_path": "videos\\05_02_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
+      "status": "SCHEDULED",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-02-05T15:30:00-05:00",
@@ -3130,7 +3130,10 @@
         "height": 1920
       },
       "updated_at_ist": "2026-11-25T17:10:00+05:30",
-      "realtime_seo_score": 85
+      "realtime_seo_score": 85,
+      "upload_method": "make_com_webhook",
+      "uploaded_at_ist": "2026-11-27 21:01:52 IST",
+      "make_response": "Accepted"
     },
     {
       "id": "06_02_27_short",
@@ -3143,7 +3146,7 @@
       "seo_path": "videos\\06_02_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
+      "status": "SCHEDULED",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-02-06T15:30:00-05:00",
@@ -3155,7 +3158,10 @@
         "height": 1920
       },
       "updated_at_ist": "2026-11-25T17:10:00+05:30",
-      "realtime_seo_score": 85
+      "realtime_seo_score": 85,
+      "upload_method": "make_com_webhook",
+      "uploaded_at_ist": "2026-11-27 21:01:56 IST",
+      "make_response": "Accepted"
     },
     {
       "id": "07_02_27_short",
