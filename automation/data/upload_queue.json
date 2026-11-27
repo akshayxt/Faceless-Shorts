@@ -2962,7 +2962,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\31_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
+      "status": "SCHEDULED",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-01-31T15:30:00-05:00",
@@ -2982,7 +2982,10 @@
         "gratitude sleep story",
         "gratitude meditation bedtime",
         "science facts for kids"
-      ]
+      ],
+      "upload_method": "make_com_webhook",
+      "uploaded_at_ist": "2026-11-27 21:01:30 IST",
+      "make_response": "Accepted"
     },
     {
       "id": "01_02_27_short",

@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-27 18:06:34 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-27 21:01:30 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -17,7 +17,7 @@
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `12` days / **`416.7` subs/day** |
-| Videos Rendered & Verified | **`110`** (`81` uploaded/scheduled, `29` remaining) |
+| Videos Rendered & Verified | **`110`** (`82` uploaded/scheduled, `28` remaining) |
 | Real-Time US SEO Sync | `2026-11-27T18:06:27.869416+05:30` |
 | Topic Backlog Remaining | `1` pending out of `82` scored |
 
@@ -106,7 +106,7 @@
 | `28_01_27_short` | short | The Interrupting Owl: How Good Listeners Win Hearts! | 80/100 | 2027-01-28 15:30:00 EST | 1080x1920, 49.59s | `SCHEDULED` | [28_01_27_short.mp4](videos/28_01_27_short/renders/28_01_27_short.mp4) |
 | `29_01_27_short` | short | How to Help Sad Friend! | 94/100 | 2027-01-29 15:30:00 EST | 1080x1920, 46.49s | `SCHEDULED` | [29_01_27_short.mp4](videos/29_01_27_short/renders/29_01_27_short.mp4) |
 | `30_01_27_short` | short | The Little Bear Who Brushed Like a Champion: Clean Teeth! | 80/100 | 2027-01-30 15:30:00 EST | 1080x1920, 48.57s | `SCHEDULED` | [30_01_27_short.mp4](videos/30_01_27_short/renders/30_01_27_short.mp4) |
-| `31_01_27_short` | short | Leo's Cozy Bedtime Routine: Sweet Dreams Every Night! | 62/100 | 2027-01-31 15:30:00 EST | 1080x1920, 48.95s | `READY_FOR_UPLOAD` | [31_01_27_short.mp4](videos/31_01_27_short/renders/31_01_27_short.mp4) |
+| `31_01_27_short` | short | Leo's Cozy Bedtime Routine: Sweet Dreams Every Night! | 62/100 | 2027-01-31 15:30:00 EST | 1080x1920, 48.95s | `SCHEDULED` | [31_01_27_short.mp4](videos/31_01_27_short/renders/31_01_27_short.mp4) |
 | `01_02_27_short` | short | What If You Never Took A Bath? The 7-Day Cartoon Experiment! | 80/100 | 2027-02-01 15:30:00 EST | 1080x1920, 38.27s | `READY_FOR_UPLOAD` | [01_02_27_short.mp4](videos/01_02_27_short/renders/01_02_27_short.mp4) |
 | `02_02_27_short` | short | The Boy Who Lost His Temper: Cooling Down the Volcano! | 85/100 | 2027-02-02 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [02_02_27_short.mp4](videos/02_02_27_short/renders/02_02_27_short.mp4) |
 | `03_02_27_short` | short | Why Do We Yawn? The Brain-Cooling Mystery! | 85/100 | 2027-02-03 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [03_02_27_short.mp4](videos/03_02_27_short/renders/03_02_27_short.mp4) |
