@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-27 21:01:30 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-27 21:01:45 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -17,7 +17,7 @@
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `12` days / **`416.7` subs/day** |
-| Videos Rendered & Verified | **`110`** (`82` uploaded/scheduled, `28` remaining) |
+| Videos Rendered & Verified | **`110`** (`86` uploaded/scheduled, `24` remaining) |
 | Real-Time US SEO Sync | `2026-11-27T18:06:27.869416+05:30` |
 | Topic Backlog Remaining | `1` pending out of `82` scored |
 
@@ -107,10 +107,10 @@
 | `29_01_27_short` | short | How to Help Sad Friend! | 94/100 | 2027-01-29 15:30:00 EST | 1080x1920, 46.49s | `SCHEDULED` | [29_01_27_short.mp4](videos/29_01_27_short/renders/29_01_27_short.mp4) |
 | `30_01_27_short` | short | The Little Bear Who Brushed Like a Champion: Clean Teeth! | 80/100 | 2027-01-30 15:30:00 EST | 1080x1920, 48.57s | `SCHEDULED` | [30_01_27_short.mp4](videos/30_01_27_short/renders/30_01_27_short.mp4) |
 | `31_01_27_short` | short | Leo's Cozy Bedtime Routine: Sweet Dreams Every Night! | 62/100 | 2027-01-31 15:30:00 EST | 1080x1920, 48.95s | `SCHEDULED` | [31_01_27_short.mp4](videos/31_01_27_short/renders/31_01_27_short.mp4) |
-| `01_02_27_short` | short | What If You Never Took A Bath? The 7-Day Cartoon Experiment! | 80/100 | 2027-02-01 15:30:00 EST | 1080x1920, 38.27s | `READY_FOR_UPLOAD` | [01_02_27_short.mp4](videos/01_02_27_short/renders/01_02_27_short.mp4) |
-| `02_02_27_short` | short | The Boy Who Lost His Temper: Cooling Down the Volcano! | 85/100 | 2027-02-02 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [02_02_27_short.mp4](videos/02_02_27_short/renders/02_02_27_short.mp4) |
-| `03_02_27_short` | short | Why Do We Yawn? The Brain-Cooling Mystery! | 85/100 | 2027-02-03 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [03_02_27_short.mp4](videos/03_02_27_short/renders/03_02_27_short.mp4) |
-| `04_02_27_short` | short | Pip the Mouse Who Kept His Word: A Promise is Golden! | 85/100 | 2027-02-04 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [04_02_27_short.mp4](videos/04_02_27_short/renders/04_02_27_short.mp4) |
+| `01_02_27_short` | short | What If You Never Took A Bath? The 7-Day Cartoon Experiment! | 80/100 | 2027-02-01 15:30:00 EST | 1080x1920, 38.27s | `SCHEDULED` | [01_02_27_short.mp4](videos/01_02_27_short/renders/01_02_27_short.mp4) |
+| `02_02_27_short` | short | The Boy Who Lost His Temper: Cooling Down the Volcano! | 85/100 | 2027-02-02 15:30:00 EST | 1080x1920, 38.0s | `SCHEDULED` | [02_02_27_short.mp4](videos/02_02_27_short/renders/02_02_27_short.mp4) |
+| `03_02_27_short` | short | Why Do We Yawn? The Brain-Cooling Mystery! | 85/100 | 2027-02-03 15:30:00 EST | 1080x1920, 38.0s | `SCHEDULED` | [03_02_27_short.mp4](videos/03_02_27_short/renders/03_02_27_short.mp4) |
+| `04_02_27_short` | short | Pip the Mouse Who Kept His Word: A Promise is Golden! | 85/100 | 2027-02-04 15:30:00 EST | 1080x1920, 38.0s | `SCHEDULED` | [04_02_27_short.mp4](videos/04_02_27_short/renders/04_02_27_short.mp4) |
 | `05_02_27_short` | short | Why Do Cuts Heal? Your Body's Tiny Super Bandage! | 85/100 | 2027-02-05 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [05_02_27_short.mp4](videos/05_02_27_short/renders/05_02_27_short.mp4) |
 | `06_02_27_short` | short | The Selfish Squirrel Who Hid All The Acorns: True Friendship | 85/100 | 2027-02-06 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [06_02_27_short.mp4](videos/06_02_27_short/renders/06_02_27_short.mp4) |
 | `07_02_27_short` | short | Why Do Onions Make Us Cry? The Sneaky Tear Gas Trick! | 85/100 | 2027-02-07 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [07_02_27_short.mp4](videos/07_02_27_short/renders/07_02_27_short.mp4) |
