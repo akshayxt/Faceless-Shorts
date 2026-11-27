@@ -1,6 +1,6 @@
 {
-  "last_updated_ist": "2026-11-27 05:33:25 IST",
-  "total_archived": 80,
+  "last_updated_ist": "2026-11-27 08:56:15 IST",
+  "total_archived": 81,
   "videos": [
     {
       "id": "day01_short",
@@ -803,6 +803,16 @@
       "publish_date": "2027-01-29T20:30:00Z",
       "format": "short",
       "archived_at_ist": "2026-11-27 00:05:18 IST"
+    },
+    {
+      "id": "30_01_27_short",
+      "file_name": "G:\\Faceless-Shorts\\videos\\30_01_27_short\\renders\\30_01_27_short.mp4",
+      "title": "The Little Bear Who Brushed Like a Champion: Clean Teeth!",
+      "youtube_video_id": null,
+      "uploaded_date": "2026-11-27 08:56:15 IST",
+      "publish_date": "2027-01-30T20:30:00Z",
+      "format": "short",
+      "archived_at_ist": "2026-11-27 08:56:15 IST"
     }
   ]
 }

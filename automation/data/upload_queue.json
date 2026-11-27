@@ -2926,7 +2926,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\30_01_27_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "READY_FOR_UPLOAD",
+      "status": "SCHEDULED",
       "youtube_video_id": null,
       "youtube_url": null,
       "scheduled_publish_est": "2027-01-30T15:30:00-05:00",
@@ -2939,14 +2939,17 @@
       },
       "updated_at_ist": "2026-11-20T18:02:54.323068+05:30",
       "seo_txt_path": "videos/30_01_27_short/renders/30_01_27_short_seo.txt",
-      "seo_updated_at_ist": "2026-11-25T16:07:15.089001+05:30",
+      "seo_updated_at_ist": "2026-11-27T08:56:09.079239+05:30",
       "realtime_seo_score": 80,
       "realtime_seo_queries": [
         "brushing teeth cartoon routine toddlers",
         "sugar bugs on teeth for kids",
         "sugar bugs on teeth video",
         "sugar bugs on teeth"
-      ]
+      ],
+      "upload_method": "make_com_webhook",
+      "uploaded_at_ist": "2026-11-27 08:56:15 IST",
+      "make_response": "Accepted"
     },
     {
       "id": "31_01_27_short",
@@ -3690,6 +3693,6 @@
       "realtime_seo_score": 85
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-27T06:05:37.756028+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-27T08:56:10.096722+05:30",
   "realtime_seo_us_trends_checked": 10
 }
