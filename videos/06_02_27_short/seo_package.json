@@ -1,0 +1,103 @@
+{
+  "topic_id": "06_02_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "The Selfish Squirrel Who Hid All The Acorns: True Friendship",
+      "chars": 60,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"The Selfish Squirrel Who Hid All The...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "The Selfish Squirrel Who Hid All The Acorns: True Friendship",
+  "selected_title_lint": {
+    "title": "The Selfish Squirrel Who Hid All The Acorns: True Friendship",
+    "chars": 60,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"The Selfish Squirrel Who Hid All The...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ]
+    ]
+  },
+  "thumb_text": "ACORN HOARDER?!",
+  "hook_lint": {
+    "hook": "Sammy the squirrel had 500 acorns hidden in a hollow oak, but wouldn't share even one! Why was he still so sad?",
+    "properties": {
+      "SPECIFICITY": 57,
+      "ADDRESS": 26,
+      "STAKES": 36,
+      "CURIOSITY": 76,
+      "BREVITY": 100
+    },
+    "verdict": 46,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "sharing is caring animal fable cartoon",
+  "supporting_keywords": [
+    "greedy squirrel learns to share",
+    "kindergarten sharing moral story",
+    "friendship lesson for kids"
+  ],
+  "target_search_queries": [
+    "sharing is caring animal fable cartoon",
+    "greedy squirrel learns to share",
+    "kindergarten sharing moral story",
+    "friendship lesson for kids"
+  ],
+  "realtime_seo": {
+    "mode": "local_curated",
+    "fetched_at_ist": null,
+    "live_yt_suggest_queries": [],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": []
+  },
+  "description": "The Selfish Squirrel Who Hid All The Acorns: True Friendship — Sammy the squirrel had 500 acorns hidden in a hollow oak, but wouldn't share even one! Why was he still so sad?\nKids science answer for \"sharing is caring animal fable cartoon\" with fun 2D animation by BabyBeats Rhymo!\n\nHoarding things all for yourself leaves you lonely; sharing food and toys turns simple moments into joyous celebrations.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts",
+  "tags": [
+    "sharing is caring animal fable cartoon",
+    "greedy squirrel learns to share",
+    "kindergarten sharing moral story",
+    "friendship lesson for kids",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}
