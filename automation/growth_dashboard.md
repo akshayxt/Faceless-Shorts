@@ -1,7 +1,7 @@
 # YouTube 5,000 Subscriber Autopilot Dashboard — BabyBeats Rhymo
 
 > [!NOTE]
-> Live workspace dashboard updated automatically at `2026-11-28 12:07:35 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
+> Live workspace dashboard updated automatically at `2026-11-28 16:03:28 IST` by [`refresh_dashboard.py`](file:///G:/Faceless-Shorts/automation/refresh_dashboard.py).
 > Channel counts remain at baseline until live YouTube OAuth / Zapier MCP telemetry pulls post-upload data (never fabricated).
 
 ## 1. Channel Identity & Campaign Telemetry
@@ -17,7 +17,7 @@
 | Starting / Current Subscribers | `0` / `0` *(pending live analytics pull)* |
 | Net Gained / Remaining | `0` / `5000` |
 | Remaining Days / Required Daily Rate | `11` days / **`454.5` subs/day** |
-| Videos Rendered & Verified | **`110`** (`94` uploaded/scheduled, `16` remaining) |
+| Videos Rendered & Verified | **`110`** (`95` uploaded/scheduled, `15` remaining) |
 | Real-Time US SEO Sync | `2026-11-28T12:07:29.671362+05:30` |
 | Topic Backlog Remaining | `1` pending out of `82` scored |
 
@@ -119,7 +119,7 @@
 | `10_02_27_short` | short | The Kitten Who Was Afraid of the Dark: Nightlight Courage! | 85/100 | 2027-02-10 15:30:00 EST | 1080x1920, 38.0s | `SCHEDULED` | [10_02_27_short.mp4](videos/10_02_27_short/renders/10_02_27_short.mp4) |
 | `11_02_27_short` | short | Why Does Ice Float? Water's Superpower Mystery! | 85/100 | 2027-02-11 15:30:00 EST | 1080x1920, 38.0s | `SCHEDULED` | [11_02_27_short.mp4](videos/11_02_27_short/renders/11_02_27_short.mp4) |
 | `12_02_27_short` | short | The Boy Who Blamed His Little Sister: Owning Your Mistakes! | 85/100 | 2027-02-12 15:30:00 EST | 1080x1920, 38.0s | `SCHEDULED` | [12_02_27_short.mp4](videos/12_02_27_short/renders/12_02_27_short.mp4) |
-| `13_02_27_short` | short | Why Do Fireflies Glow In The Dark? Nature's Flashlight! | 85/100 | 2027-02-13 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [13_02_27_short.mp4](videos/13_02_27_short/renders/13_02_27_short.mp4) |
+| `13_02_27_short` | short | Why Do Fireflies Glow In The Dark? Nature's Flashlight! | 85/100 | 2027-02-13 15:30:00 EST | 1080x1920, 38.0s | `SCHEDULED` | [13_02_27_short.mp4](videos/13_02_27_short/renders/13_02_27_short.mp4) |
 | `14_02_27_short` | short | Valentine Kindness: Making a Homemade Card for Everyone! | 85/100 | 2027-02-14 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [14_02_27_short.mp4](videos/14_02_27_short/renders/14_02_27_short.mp4) |
 | `15_02_27_short` | short | Why Do We Shiver When We're Cold? The Muscle Engine! | 85/100 | 2027-02-15 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [15_02_27_short.mp4](videos/15_02_27_short/renders/15_02_27_short.mp4) |
 | `16_02_27_short` | short | The Bear Who Wouldn't Say Please: The Key That Opens Every D | 85/100 | 2027-02-16 15:30:00 EST | 1080x1920, 38.0s | `READY_FOR_UPLOAD` | [16_02_27_short.mp4](videos/16_02_27_short/renders/16_02_27_short.mp4) |
