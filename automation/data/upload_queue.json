@@ -645,7 +645,7 @@
       "seo_path": "G:\\Faceless-Shorts\\videos\\day17_short\\seo_package.json",
       "made_for_kids": true,
       "category_id": "27",
-      "status": "SCHEDULED",
+      "status": "UPLOADED",
       "youtube_video_id": "BGwEK893hWQ",
       "youtube_url": "https://www.youtube.com/watch?v=BGwEK893hWQ",
       "video_specs": {
@@ -3732,6 +3732,6 @@
       "realtime_seo_score": 85
     }
   ],
-  "realtime_seo_last_sync_ist": "2026-11-28T00:06:55.304468+05:30",
+  "realtime_seo_last_sync_ist": "2026-11-28T05:33:16.698996+05:30",
   "realtime_seo_us_trends_checked": 10
 }

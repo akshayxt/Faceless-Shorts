@@ -1,0 +1,121 @@
+{
+  "topic_id": "30_01_27",
+  "format": "short",
+  "title_options": [
+    {
+      "title": "The Little Bear Who Brushed Like a Champion: Clean Teeth!",
+      "chars": 57,
+      "score": 80,
+      "issues": [
+        [
+          "mobile",
+          "a mobile feed shows about \"The Little Bear Who Brushed Like a...\" - check the subject survives"
+        ],
+        [
+          "no-number",
+          "no number, date or name - the most reliable single fix"
+        ]
+      ]
+    }
+  ],
+  "selected_title": "The Little Bear Who Brushed Like a Champion: Clean Teeth!",
+  "selected_title_lint": {
+    "title": "The Little Bear Who Brushed Like a Champion: Clean Teeth!",
+    "chars": 57,
+    "score": 80,
+    "issues": [
+      [
+        "mobile",
+        "a mobile feed shows about \"The Little Bear Who Brushed Like a...\" - check the subject survives"
+      ],
+      [
+        "no-number",
+        "no number, date or name - the most reliable single fix"
+      ]
+    ],
+    "good": [
+      "57 characters, inside the 60-character desktop cut",
+      "thumbnail and title carry different words"
+    ]
+  },
+  "thumb_text": "BRUSH HERO!",
+  "hook_lint": {
+    "hook": "Barnaby the bear raced to bed without brushing his teeth! Who came knocking at midnight with tiny pickaxes?",
+    "properties": {
+      "SPECIFICITY": 40,
+      "ADDRESS": 26,
+      "STAKES": 22,
+      "CURIOSITY": 42,
+      "BREVITY": 100
+    },
+    "verdict": 36,
+    "band": "WEAK",
+    "formula": "The Question",
+    "matched": 1
+  },
+  "primary_keyword": "brushing teeth cartoon routine toddlers",
+  "supporting_keywords": [
+    "sugar bugs teeth brushing story",
+    "dental hygiene cartoon for kids",
+    "healthy teeth morning bedtime habit"
+  ],
+  "target_search_queries": [
+    "brushing teeth cartoon routine toddlers",
+    "sugar bugs on teeth for kids",
+    "sugar bugs on teeth video",
+    "sugar bugs on teeth"
+  ],
+  "realtime_seo": {
+    "mode": "live_us_autocomplete_and_trends",
+    "fetched_at_ist": "2026-11-27T08:56:08.597382+05:30",
+    "live_yt_suggest_queries": [
+      "sugar bugs on teeth for kids",
+      "sugar bugs on teeth video",
+      "sugar bugs on teeth"
+    ],
+    "matched_safe_us_trends": [],
+    "observed_us_hashtags": [
+      "#shorts",
+      "#facts",
+      "#kids",
+      "#humanbodyfacts",
+      "#sciencefacts"
+    ]
+  },
+  "description": "The Little Bear Who Brushed Like a Champion: Clean Teeth! — Barnaby the bear raced to bed without brushing his teeth! Who came knocking at midnight with tiny pickaxes?\nKids science answer for \"brushing teeth cartoon routine toddlers\" with fun 2D animation by BabyBeats Rhymo!\n\nBrushing for two full minutes morning and night washes away plaque monsters and keeps your smile sparkling white and cavity-free.\n\nBabyBeats Rhymo creates kid-safe 2D science cartoons and funny educational stories every day for curious US kids and families!\n\nPopular Kids Science Searches (US):\n- sugar bugs on teeth for kids\n- sugar bugs on teeth video\n- sugar bugs on teeth\n\nSources & Fact Check:\n- https://kidshealth.org\n- https://www.zerotothree.org\n\n#BabyBeatsRhymo #KidsScience #ScienceForKids #EducationalCartoons #Shorts #facts",
+  "tags": [
+    "sugar bugs on teeth for kids",
+    "sugar bugs on teeth video",
+    "sugar bugs on teeth",
+    "brushing teeth cartoon routine toddlers",
+    "sugar bugs teeth brushing story",
+    "dental hygiene cartoon for kids",
+    "healthy teeth morning bedtime habit",
+    "BabyBeats Rhymo",
+    "kids science cartoon",
+    "science for kids",
+    "educational cartoons for kids",
+    "fun facts for kids",
+    "youtube shorts",
+    "shorts"
+  ],
+  "hashtags": [
+    "#BabyBeatsRhymo",
+    "#KidsScience",
+    "#ScienceForKids",
+    "#EducationalCartoons",
+    "#Shorts",
+    "#facts"
+  ],
+  "chapters": [],
+  "pinned_comment": "Did you know this before today? Drop your next curious science question below!",
+  "playlist_recommendation": "Funny Kids Myths & Animal Superpowers",
+  "youtube_settings": {
+    "category_id": "27",
+    "default_language": "en",
+    "default_audio_language": "en-US",
+    "made_for_kids": true,
+    "privacy_status": "public",
+    "contains_synthetic_media": false
+  }
+}
